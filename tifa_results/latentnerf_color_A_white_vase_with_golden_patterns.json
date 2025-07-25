@@ -1,0 +1,778 @@
+{
+    "method": "latentnerf",
+    "aspect": "color",
+    "prompt_name": "A_white_vase_with_golden_patterns",
+    "individual_scores": {
+        "rgb_0.png": 0.75,
+        "rgb_10.png": 0.75,
+        "rgb_20.png": 0.75,
+        "rgb_30.png": 0.75,
+        "rgb_40.png": 0.75,
+        "rgb_50.png": 0.75,
+        "rgb_60.png": 1,
+        "rgb_70.png": 1,
+        "rgb_80.png": 0.75,
+        "rgb_90.png": 0.75,
+        "rgb_100.png": 0.75,
+        "rgb_110.png": 0.5
+    },
+    "average_tifa_score": 0.7708333333333334,
+    "question_logs": [
+        {
+            "image": "rgb_0.png",
+            "ques_ans": {
+                "Is this a vase?": {
+                    "caption": "A white vase with golden patterns",
+                    "element": "vase",
+                    "question": "Is this a vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the vase white?": {
+                    "caption": "A white vase with golden patterns",
+                    "element": "white",
+                    "question": "Is the vase white?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What is the primary color of the vase?": {
+                    "caption": "A white vase with golden patterns",
+                    "element": "white",
+                    "question": "What is the primary color of the vase?",
+                    "choices": [
+                        "white",
+                        "blue",
+                        "red",
+                        "black"
+                    ],
+                    "answer": "white",
+                    "element_type": "color",
+                    "free_form_vqa": "white",
+                    "multiple_choice_vqa": "white",
+                    "scores": 1
+                },
+                "Does the vase have golden patterns?": {
+                    "caption": "A white vase with golden patterns",
+                    "element": "golden patterns",
+                    "question": "Does the vase have golden patterns?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_10.png",
+            "ques_ans": {
+                "Is this a vase?": {
+                    "caption": "A white vase with golden patterns",
+                    "element": "vase",
+                    "question": "Is this a vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the vase white?": {
+                    "caption": "A white vase with golden patterns",
+                    "element": "white",
+                    "question": "Is the vase white?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What is the primary color of the vase?": {
+                    "caption": "A white vase with golden patterns",
+                    "element": "white",
+                    "question": "What is the primary color of the vase?",
+                    "choices": [
+                        "white",
+                        "blue",
+                        "red",
+                        "black"
+                    ],
+                    "answer": "white",
+                    "element_type": "color",
+                    "free_form_vqa": "white",
+                    "multiple_choice_vqa": "white",
+                    "scores": 1
+                },
+                "Does the vase have golden patterns?": {
+                    "caption": "A white vase with golden patterns",
+                    "element": "golden patterns",
+                    "question": "Does the vase have golden patterns?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_20.png",
+            "ques_ans": {
+                "Is this a vase?": {
+                    "caption": "A white vase with golden patterns",
+                    "element": "vase",
+                    "question": "Is this a vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the vase white?": {
+                    "caption": "A white vase with golden patterns",
+                    "element": "white",
+                    "question": "Is the vase white?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What is the primary color of the vase?": {
+                    "caption": "A white vase with golden patterns",
+                    "element": "white",
+                    "question": "What is the primary color of the vase?",
+                    "choices": [
+                        "white",
+                        "blue",
+                        "red",
+                        "black"
+                    ],
+                    "answer": "white",
+                    "element_type": "color",
+                    "free_form_vqa": "white",
+                    "multiple_choice_vqa": "white",
+                    "scores": 1
+                },
+                "Does the vase have golden patterns?": {
+                    "caption": "A white vase with golden patterns",
+                    "element": "golden patterns",
+                    "question": "Does the vase have golden patterns?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_30.png",
+            "ques_ans": {
+                "Is this a vase?": {
+                    "caption": "A white vase with golden patterns",
+                    "element": "vase",
+                    "question": "Is this a vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the vase white?": {
+                    "caption": "A white vase with golden patterns",
+                    "element": "white",
+                    "question": "Is the vase white?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What is the primary color of the vase?": {
+                    "caption": "A white vase with golden patterns",
+                    "element": "white",
+                    "question": "What is the primary color of the vase?",
+                    "choices": [
+                        "white",
+                        "blue",
+                        "red",
+                        "black"
+                    ],
+                    "answer": "white",
+                    "element_type": "color",
+                    "free_form_vqa": "white",
+                    "multiple_choice_vqa": "white",
+                    "scores": 1
+                },
+                "Does the vase have golden patterns?": {
+                    "caption": "A white vase with golden patterns",
+                    "element": "golden patterns",
+                    "question": "Does the vase have golden patterns?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_40.png",
+            "ques_ans": {
+                "Is this a vase?": {
+                    "caption": "A white vase with golden patterns",
+                    "element": "vase",
+                    "question": "Is this a vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the vase white?": {
+                    "caption": "A white vase with golden patterns",
+                    "element": "white",
+                    "question": "Is the vase white?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What is the primary color of the vase?": {
+                    "caption": "A white vase with golden patterns",
+                    "element": "white",
+                    "question": "What is the primary color of the vase?",
+                    "choices": [
+                        "white",
+                        "blue",
+                        "red",
+                        "black"
+                    ],
+                    "answer": "white",
+                    "element_type": "color",
+                    "free_form_vqa": "white",
+                    "multiple_choice_vqa": "white",
+                    "scores": 1
+                },
+                "Does the vase have golden patterns?": {
+                    "caption": "A white vase with golden patterns",
+                    "element": "golden patterns",
+                    "question": "Does the vase have golden patterns?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_50.png",
+            "ques_ans": {
+                "Is this a vase?": {
+                    "caption": "A white vase with golden patterns",
+                    "element": "vase",
+                    "question": "Is this a vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the vase white?": {
+                    "caption": "A white vase with golden patterns",
+                    "element": "white",
+                    "question": "Is the vase white?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What is the primary color of the vase?": {
+                    "caption": "A white vase with golden patterns",
+                    "element": "white",
+                    "question": "What is the primary color of the vase?",
+                    "choices": [
+                        "white",
+                        "blue",
+                        "red",
+                        "black"
+                    ],
+                    "answer": "white",
+                    "element_type": "color",
+                    "free_form_vqa": "white",
+                    "multiple_choice_vqa": "white",
+                    "scores": 1
+                },
+                "Does the vase have golden patterns?": {
+                    "caption": "A white vase with golden patterns",
+                    "element": "golden patterns",
+                    "question": "Does the vase have golden patterns?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_60.png",
+            "ques_ans": {
+                "Is this a vase?": {
+                    "caption": "A white vase with golden patterns",
+                    "element": "vase",
+                    "question": "Is this a vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the vase white?": {
+                    "caption": "A white vase with golden patterns",
+                    "element": "white",
+                    "question": "Is the vase white?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What is the primary color of the vase?": {
+                    "caption": "A white vase with golden patterns",
+                    "element": "white",
+                    "question": "What is the primary color of the vase?",
+                    "choices": [
+                        "white",
+                        "blue",
+                        "red",
+                        "black"
+                    ],
+                    "answer": "white",
+                    "element_type": "color",
+                    "free_form_vqa": "white",
+                    "multiple_choice_vqa": "white",
+                    "scores": 1
+                },
+                "Does the vase have golden patterns?": {
+                    "caption": "A white vase with golden patterns",
+                    "element": "golden patterns",
+                    "question": "Does the vase have golden patterns?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_70.png",
+            "ques_ans": {
+                "Is this a vase?": {
+                    "caption": "A white vase with golden patterns",
+                    "element": "vase",
+                    "question": "Is this a vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the vase white?": {
+                    "caption": "A white vase with golden patterns",
+                    "element": "white",
+                    "question": "Is the vase white?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What is the primary color of the vase?": {
+                    "caption": "A white vase with golden patterns",
+                    "element": "white",
+                    "question": "What is the primary color of the vase?",
+                    "choices": [
+                        "white",
+                        "blue",
+                        "red",
+                        "black"
+                    ],
+                    "answer": "white",
+                    "element_type": "color",
+                    "free_form_vqa": "white",
+                    "multiple_choice_vqa": "white",
+                    "scores": 1
+                },
+                "Does the vase have golden patterns?": {
+                    "caption": "A white vase with golden patterns",
+                    "element": "golden patterns",
+                    "question": "Does the vase have golden patterns?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_80.png",
+            "ques_ans": {
+                "Is this a vase?": {
+                    "caption": "A white vase with golden patterns",
+                    "element": "vase",
+                    "question": "Is this a vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the vase white?": {
+                    "caption": "A white vase with golden patterns",
+                    "element": "white",
+                    "question": "Is the vase white?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What is the primary color of the vase?": {
+                    "caption": "A white vase with golden patterns",
+                    "element": "white",
+                    "question": "What is the primary color of the vase?",
+                    "choices": [
+                        "white",
+                        "blue",
+                        "red",
+                        "black"
+                    ],
+                    "answer": "white",
+                    "element_type": "color",
+                    "free_form_vqa": "white",
+                    "multiple_choice_vqa": "white",
+                    "scores": 1
+                },
+                "Does the vase have golden patterns?": {
+                    "caption": "A white vase with golden patterns",
+                    "element": "golden patterns",
+                    "question": "Does the vase have golden patterns?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_90.png",
+            "ques_ans": {
+                "Is this a vase?": {
+                    "caption": "A white vase with golden patterns",
+                    "element": "vase",
+                    "question": "Is this a vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the vase white?": {
+                    "caption": "A white vase with golden patterns",
+                    "element": "white",
+                    "question": "Is the vase white?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What is the primary color of the vase?": {
+                    "caption": "A white vase with golden patterns",
+                    "element": "white",
+                    "question": "What is the primary color of the vase?",
+                    "choices": [
+                        "white",
+                        "blue",
+                        "red",
+                        "black"
+                    ],
+                    "answer": "white",
+                    "element_type": "color",
+                    "free_form_vqa": "white",
+                    "multiple_choice_vqa": "white",
+                    "scores": 1
+                },
+                "Does the vase have golden patterns?": {
+                    "caption": "A white vase with golden patterns",
+                    "element": "golden patterns",
+                    "question": "Does the vase have golden patterns?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_100.png",
+            "ques_ans": {
+                "Is this a vase?": {
+                    "caption": "A white vase with golden patterns",
+                    "element": "vase",
+                    "question": "Is this a vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the vase white?": {
+                    "caption": "A white vase with golden patterns",
+                    "element": "white",
+                    "question": "Is the vase white?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What is the primary color of the vase?": {
+                    "caption": "A white vase with golden patterns",
+                    "element": "white",
+                    "question": "What is the primary color of the vase?",
+                    "choices": [
+                        "white",
+                        "blue",
+                        "red",
+                        "black"
+                    ],
+                    "answer": "white",
+                    "element_type": "color",
+                    "free_form_vqa": "white",
+                    "multiple_choice_vqa": "white",
+                    "scores": 1
+                },
+                "Does the vase have golden patterns?": {
+                    "caption": "A white vase with golden patterns",
+                    "element": "golden patterns",
+                    "question": "Does the vase have golden patterns?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_110.png",
+            "ques_ans": {
+                "Is this a vase?": {
+                    "caption": "A white vase with golden patterns",
+                    "element": "vase",
+                    "question": "Is this a vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the vase white?": {
+                    "caption": "A white vase with golden patterns",
+                    "element": "white",
+                    "question": "Is the vase white?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What is the primary color of the vase?": {
+                    "caption": "A white vase with golden patterns",
+                    "element": "white",
+                    "question": "What is the primary color of the vase?",
+                    "choices": [
+                        "white",
+                        "blue",
+                        "red",
+                        "black"
+                    ],
+                    "answer": "white",
+                    "element_type": "color",
+                    "free_form_vqa": "yellow",
+                    "multiple_choice_vqa": "red",
+                    "scores": 0
+                },
+                "Does the vase have golden patterns?": {
+                    "caption": "A white vase with golden patterns",
+                    "element": "golden patterns",
+                    "question": "Does the vase have golden patterns?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        }
+    ]
+}

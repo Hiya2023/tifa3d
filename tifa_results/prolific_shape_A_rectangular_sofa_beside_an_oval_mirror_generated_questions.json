@@ -1,0 +1,122 @@
+[
+    {
+        "caption": "A rectangular sofa beside an oval mirror",
+        "element": "sofa",
+        "question": "Is there a sofa?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "A rectangular sofa beside an oval mirror",
+        "element": "sofa",
+        "question": "What piece of furniture is shown?",
+        "choices": [
+            "sofa",
+            "chair",
+            "table",
+            "bed"
+        ],
+        "answer": "sofa",
+        "element_type": "object"
+    },
+    {
+        "caption": "A rectangular sofa beside an oval mirror",
+        "element": "mirror",
+        "question": "Is there a mirror?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "A rectangular sofa beside an oval mirror",
+        "element": "mirror",
+        "question": "What decorative item is present?",
+        "choices": [
+            "mirror",
+            "painting",
+            "sculpture",
+            "vase"
+        ],
+        "answer": "mirror",
+        "element_type": "object"
+    },
+    {
+        "caption": "A rectangular sofa beside an oval mirror",
+        "element": "rectangular",
+        "question": "Is the sofa rectangular?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "shape"
+    },
+    {
+        "caption": "A rectangular sofa beside an oval mirror",
+        "element": "rectangular",
+        "question": "What is the shape of the sofa?",
+        "choices": [
+            "rectangular",
+            "round",
+            "square",
+            "triangular"
+        ],
+        "answer": "rectangular",
+        "element_type": "shape"
+    },
+    {
+        "caption": "A rectangular sofa beside an oval mirror",
+        "element": "oval",
+        "question": "Is the mirror oval?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "shape"
+    },
+    {
+        "caption": "A rectangular sofa beside an oval mirror",
+        "element": "oval",
+        "question": "What is the shape of the mirror?",
+        "choices": [
+            "oval",
+            "circular",
+            "square",
+            "rectangular"
+        ],
+        "answer": "oval",
+        "element_type": "shape"
+    },
+    {
+        "caption": "A rectangular sofa beside an oval mirror",
+        "element": "beside",
+        "question": "Is the sofa beside the mirror?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "spatial"
+    },
+    {
+        "caption": "A rectangular sofa beside an oval mirror",
+        "element": "beside",
+        "question": "What is the spatial relation between the sofa and the mirror?",
+        "choices": [
+            "beside",
+            "above",
+            "behind",
+            "under"
+        ],
+        "answer": "beside",
+        "element_type": "spatial"
+    }
+]

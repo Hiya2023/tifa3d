@@ -1,0 +1,1690 @@
+{
+    "method": "dreamfusion",
+    "aspect": "color",
+    "prompt_name": "A_blue_chair_facing_a_black_desk",
+    "individual_scores": {
+        "rgb_0.png": 0.4444444444444444,
+        "rgb_10.png": 0.5555555555555556,
+        "rgb_20.png": 0.4444444444444444,
+        "rgb_30.png": 0.4444444444444444,
+        "rgb_40.png": 0.5555555555555556,
+        "rgb_50.png": 0.4444444444444444,
+        "rgb_60.png": 0.4444444444444444,
+        "rgb_70.png": 0.5555555555555556,
+        "rgb_80.png": 0.5555555555555556,
+        "rgb_90.png": 0.4444444444444444,
+        "rgb_100.png": 0.5555555555555556,
+        "rgb_110.png": 0.4444444444444444
+    },
+    "average_tifa_score": 0.49074074074074076,
+    "question_logs": [
+        {
+            "image": "rgb_0.png",
+            "ques_ans": {
+                "Is there a chair?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "chair",
+                    "question": "Is there a chair?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a desk?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "desk",
+                    "question": "Is there a desk?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What piece of furniture is present?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "desk",
+                    "question": "What piece of furniture is present?",
+                    "choices": [
+                        "desk",
+                        "cabinet",
+                        "shelf",
+                        "dresser"
+                    ],
+                    "answer": "desk",
+                    "element_type": "object",
+                    "free_form_vqa": "chair",
+                    "multiple_choice_vqa": "desk",
+                    "scores": 1
+                },
+                "Is the chair blue?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "blue",
+                    "question": "Is the chair blue?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the chair?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "blue",
+                    "question": "What color is the chair?",
+                    "choices": [
+                        "blue",
+                        "red",
+                        "green",
+                        "yellow"
+                    ],
+                    "answer": "blue",
+                    "element_type": "color",
+                    "free_form_vqa": "blue",
+                    "multiple_choice_vqa": "blue",
+                    "scores": 1
+                },
+                "Is the desk black?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "black",
+                    "question": "Is the desk black?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the desk?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "black",
+                    "question": "What color is the desk?",
+                    "choices": [
+                        "black",
+                        "white",
+                        "brown",
+                        "gray"
+                    ],
+                    "answer": "black",
+                    "element_type": "color",
+                    "free_form_vqa": "white",
+                    "multiple_choice_vqa": "white",
+                    "scores": 0
+                },
+                "Is the chair facing the desk?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "facing",
+                    "question": "Is the chair facing the desk?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "activity",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What is the chair's position relative to the desk?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "facing",
+                    "question": "What is the chair's position relative to the desk?",
+                    "choices": [
+                        "facing",
+                        "beside",
+                        "behind",
+                        "under"
+                    ],
+                    "answer": "facing",
+                    "element_type": "activity",
+                    "free_form_vqa": "above desk",
+                    "multiple_choice_vqa": "beside",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_10.png",
+            "ques_ans": {
+                "Is there a chair?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "chair",
+                    "question": "Is there a chair?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a desk?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "desk",
+                    "question": "Is there a desk?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What piece of furniture is present?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "desk",
+                    "question": "What piece of furniture is present?",
+                    "choices": [
+                        "desk",
+                        "cabinet",
+                        "shelf",
+                        "dresser"
+                    ],
+                    "answer": "desk",
+                    "element_type": "object",
+                    "free_form_vqa": "chair",
+                    "multiple_choice_vqa": "desk",
+                    "scores": 1
+                },
+                "Is the chair blue?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "blue",
+                    "question": "Is the chair blue?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the chair?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "blue",
+                    "question": "What color is the chair?",
+                    "choices": [
+                        "blue",
+                        "red",
+                        "green",
+                        "yellow"
+                    ],
+                    "answer": "blue",
+                    "element_type": "color",
+                    "free_form_vqa": "blue",
+                    "multiple_choice_vqa": "blue",
+                    "scores": 1
+                },
+                "Is the desk black?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "black",
+                    "question": "Is the desk black?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the desk?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "black",
+                    "question": "What color is the desk?",
+                    "choices": [
+                        "black",
+                        "white",
+                        "brown",
+                        "gray"
+                    ],
+                    "answer": "black",
+                    "element_type": "color",
+                    "free_form_vqa": "white",
+                    "multiple_choice_vqa": "white",
+                    "scores": 0
+                },
+                "Is the chair facing the desk?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "facing",
+                    "question": "Is the chair facing the desk?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "activity",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What is the chair's position relative to the desk?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "facing",
+                    "question": "What is the chair's position relative to the desk?",
+                    "choices": [
+                        "facing",
+                        "beside",
+                        "behind",
+                        "under"
+                    ],
+                    "answer": "facing",
+                    "element_type": "activity",
+                    "free_form_vqa": "to right",
+                    "multiple_choice_vqa": "behind",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_20.png",
+            "ques_ans": {
+                "Is there a chair?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "chair",
+                    "question": "Is there a chair?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a desk?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "desk",
+                    "question": "Is there a desk?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What piece of furniture is present?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "desk",
+                    "question": "What piece of furniture is present?",
+                    "choices": [
+                        "desk",
+                        "cabinet",
+                        "shelf",
+                        "dresser"
+                    ],
+                    "answer": "desk",
+                    "element_type": "object",
+                    "free_form_vqa": "chair",
+                    "multiple_choice_vqa": "desk",
+                    "scores": 1
+                },
+                "Is the chair blue?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "blue",
+                    "question": "Is the chair blue?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the chair?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "blue",
+                    "question": "What color is the chair?",
+                    "choices": [
+                        "blue",
+                        "red",
+                        "green",
+                        "yellow"
+                    ],
+                    "answer": "blue",
+                    "element_type": "color",
+                    "free_form_vqa": "blue",
+                    "multiple_choice_vqa": "blue",
+                    "scores": 1
+                },
+                "Is the desk black?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "black",
+                    "question": "Is the desk black?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the desk?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "black",
+                    "question": "What color is the desk?",
+                    "choices": [
+                        "black",
+                        "white",
+                        "brown",
+                        "gray"
+                    ],
+                    "answer": "black",
+                    "element_type": "color",
+                    "free_form_vqa": "white",
+                    "multiple_choice_vqa": "white",
+                    "scores": 0
+                },
+                "Is the chair facing the desk?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "facing",
+                    "question": "Is the chair facing the desk?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "activity",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What is the chair's position relative to the desk?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "facing",
+                    "question": "What is the chair's position relative to the desk?",
+                    "choices": [
+                        "facing",
+                        "beside",
+                        "behind",
+                        "under"
+                    ],
+                    "answer": "facing",
+                    "element_type": "activity",
+                    "free_form_vqa": "to right",
+                    "multiple_choice_vqa": "behind",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_30.png",
+            "ques_ans": {
+                "Is there a chair?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "chair",
+                    "question": "Is there a chair?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a desk?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "desk",
+                    "question": "Is there a desk?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What piece of furniture is present?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "desk",
+                    "question": "What piece of furniture is present?",
+                    "choices": [
+                        "desk",
+                        "cabinet",
+                        "shelf",
+                        "dresser"
+                    ],
+                    "answer": "desk",
+                    "element_type": "object",
+                    "free_form_vqa": "chair",
+                    "multiple_choice_vqa": "desk",
+                    "scores": 1
+                },
+                "Is the chair blue?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "blue",
+                    "question": "Is the chair blue?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the chair?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "blue",
+                    "question": "What color is the chair?",
+                    "choices": [
+                        "blue",
+                        "red",
+                        "green",
+                        "yellow"
+                    ],
+                    "answer": "blue",
+                    "element_type": "color",
+                    "free_form_vqa": "blue",
+                    "multiple_choice_vqa": "blue",
+                    "scores": 1
+                },
+                "Is the desk black?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "black",
+                    "question": "Is the desk black?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the desk?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "black",
+                    "question": "What color is the desk?",
+                    "choices": [
+                        "black",
+                        "white",
+                        "brown",
+                        "gray"
+                    ],
+                    "answer": "black",
+                    "element_type": "color",
+                    "free_form_vqa": "white",
+                    "multiple_choice_vqa": "white",
+                    "scores": 0
+                },
+                "Is the chair facing the desk?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "facing",
+                    "question": "Is the chair facing the desk?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "activity",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What is the chair's position relative to the desk?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "facing",
+                    "question": "What is the chair's position relative to the desk?",
+                    "choices": [
+                        "facing",
+                        "beside",
+                        "behind",
+                        "under"
+                    ],
+                    "answer": "facing",
+                    "element_type": "activity",
+                    "free_form_vqa": "to right",
+                    "multiple_choice_vqa": "behind",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_40.png",
+            "ques_ans": {
+                "Is there a chair?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "chair",
+                    "question": "Is there a chair?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a desk?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "desk",
+                    "question": "Is there a desk?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What piece of furniture is present?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "desk",
+                    "question": "What piece of furniture is present?",
+                    "choices": [
+                        "desk",
+                        "cabinet",
+                        "shelf",
+                        "dresser"
+                    ],
+                    "answer": "desk",
+                    "element_type": "object",
+                    "free_form_vqa": "chair",
+                    "multiple_choice_vqa": "desk",
+                    "scores": 1
+                },
+                "Is the chair blue?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "blue",
+                    "question": "Is the chair blue?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the chair?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "blue",
+                    "question": "What color is the chair?",
+                    "choices": [
+                        "blue",
+                        "red",
+                        "green",
+                        "yellow"
+                    ],
+                    "answer": "blue",
+                    "element_type": "color",
+                    "free_form_vqa": "blue",
+                    "multiple_choice_vqa": "blue",
+                    "scores": 1
+                },
+                "Is the desk black?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "black",
+                    "question": "Is the desk black?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the desk?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "black",
+                    "question": "What color is the desk?",
+                    "choices": [
+                        "black",
+                        "white",
+                        "brown",
+                        "gray"
+                    ],
+                    "answer": "black",
+                    "element_type": "color",
+                    "free_form_vqa": "white",
+                    "multiple_choice_vqa": "white",
+                    "scores": 0
+                },
+                "Is the chair facing the desk?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "facing",
+                    "question": "Is the chair facing the desk?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "activity",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What is the chair's position relative to the desk?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "facing",
+                    "question": "What is the chair's position relative to the desk?",
+                    "choices": [
+                        "facing",
+                        "beside",
+                        "behind",
+                        "under"
+                    ],
+                    "answer": "facing",
+                    "element_type": "activity",
+                    "free_form_vqa": "at angle",
+                    "multiple_choice_vqa": "facing",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_50.png",
+            "ques_ans": {
+                "Is there a chair?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "chair",
+                    "question": "Is there a chair?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a desk?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "desk",
+                    "question": "Is there a desk?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What piece of furniture is present?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "desk",
+                    "question": "What piece of furniture is present?",
+                    "choices": [
+                        "desk",
+                        "cabinet",
+                        "shelf",
+                        "dresser"
+                    ],
+                    "answer": "desk",
+                    "element_type": "object",
+                    "free_form_vqa": "chair",
+                    "multiple_choice_vqa": "desk",
+                    "scores": 1
+                },
+                "Is the chair blue?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "blue",
+                    "question": "Is the chair blue?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the chair?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "blue",
+                    "question": "What color is the chair?",
+                    "choices": [
+                        "blue",
+                        "red",
+                        "green",
+                        "yellow"
+                    ],
+                    "answer": "blue",
+                    "element_type": "color",
+                    "free_form_vqa": "blue",
+                    "multiple_choice_vqa": "blue",
+                    "scores": 1
+                },
+                "Is the desk black?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "black",
+                    "question": "Is the desk black?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the desk?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "black",
+                    "question": "What color is the desk?",
+                    "choices": [
+                        "black",
+                        "white",
+                        "brown",
+                        "gray"
+                    ],
+                    "answer": "black",
+                    "element_type": "color",
+                    "free_form_vqa": "white",
+                    "multiple_choice_vqa": "white",
+                    "scores": 0
+                },
+                "Is the chair facing the desk?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "facing",
+                    "question": "Is the chair facing the desk?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "activity",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What is the chair's position relative to the desk?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "facing",
+                    "question": "What is the chair's position relative to the desk?",
+                    "choices": [
+                        "facing",
+                        "beside",
+                        "behind",
+                        "under"
+                    ],
+                    "answer": "facing",
+                    "element_type": "activity",
+                    "free_form_vqa": "above desk",
+                    "multiple_choice_vqa": "beside",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_60.png",
+            "ques_ans": {
+                "Is there a chair?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "chair",
+                    "question": "Is there a chair?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a desk?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "desk",
+                    "question": "Is there a desk?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What piece of furniture is present?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "desk",
+                    "question": "What piece of furniture is present?",
+                    "choices": [
+                        "desk",
+                        "cabinet",
+                        "shelf",
+                        "dresser"
+                    ],
+                    "answer": "desk",
+                    "element_type": "object",
+                    "free_form_vqa": "chair",
+                    "multiple_choice_vqa": "desk",
+                    "scores": 1
+                },
+                "Is the chair blue?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "blue",
+                    "question": "Is the chair blue?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the chair?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "blue",
+                    "question": "What color is the chair?",
+                    "choices": [
+                        "blue",
+                        "red",
+                        "green",
+                        "yellow"
+                    ],
+                    "answer": "blue",
+                    "element_type": "color",
+                    "free_form_vqa": "blue",
+                    "multiple_choice_vqa": "blue",
+                    "scores": 1
+                },
+                "Is the desk black?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "black",
+                    "question": "Is the desk black?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the desk?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "black",
+                    "question": "What color is the desk?",
+                    "choices": [
+                        "black",
+                        "white",
+                        "brown",
+                        "gray"
+                    ],
+                    "answer": "black",
+                    "element_type": "color",
+                    "free_form_vqa": "white",
+                    "multiple_choice_vqa": "white",
+                    "scores": 0
+                },
+                "Is the chair facing the desk?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "facing",
+                    "question": "Is the chair facing the desk?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "activity",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What is the chair's position relative to the desk?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "facing",
+                    "question": "What is the chair's position relative to the desk?",
+                    "choices": [
+                        "facing",
+                        "beside",
+                        "behind",
+                        "under"
+                    ],
+                    "answer": "facing",
+                    "element_type": "activity",
+                    "free_form_vqa": "above desk",
+                    "multiple_choice_vqa": "beside",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_70.png",
+            "ques_ans": {
+                "Is there a chair?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "chair",
+                    "question": "Is there a chair?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a desk?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "desk",
+                    "question": "Is there a desk?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What piece of furniture is present?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "desk",
+                    "question": "What piece of furniture is present?",
+                    "choices": [
+                        "desk",
+                        "cabinet",
+                        "shelf",
+                        "dresser"
+                    ],
+                    "answer": "desk",
+                    "element_type": "object",
+                    "free_form_vqa": "chair",
+                    "multiple_choice_vqa": "desk",
+                    "scores": 1
+                },
+                "Is the chair blue?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "blue",
+                    "question": "Is the chair blue?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the chair?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "blue",
+                    "question": "What color is the chair?",
+                    "choices": [
+                        "blue",
+                        "red",
+                        "green",
+                        "yellow"
+                    ],
+                    "answer": "blue",
+                    "element_type": "color",
+                    "free_form_vqa": "blue",
+                    "multiple_choice_vqa": "blue",
+                    "scores": 1
+                },
+                "Is the desk black?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "black",
+                    "question": "Is the desk black?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the desk?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "black",
+                    "question": "What color is the desk?",
+                    "choices": [
+                        "black",
+                        "white",
+                        "brown",
+                        "gray"
+                    ],
+                    "answer": "black",
+                    "element_type": "color",
+                    "free_form_vqa": "white",
+                    "multiple_choice_vqa": "white",
+                    "scores": 0
+                },
+                "Is the chair facing the desk?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "facing",
+                    "question": "Is the chair facing the desk?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "activity",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What is the chair's position relative to the desk?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "facing",
+                    "question": "What is the chair's position relative to the desk?",
+                    "choices": [
+                        "facing",
+                        "beside",
+                        "behind",
+                        "under"
+                    ],
+                    "answer": "facing",
+                    "element_type": "activity",
+                    "free_form_vqa": "at angle",
+                    "multiple_choice_vqa": "facing",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_80.png",
+            "ques_ans": {
+                "Is there a chair?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "chair",
+                    "question": "Is there a chair?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a desk?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "desk",
+                    "question": "Is there a desk?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What piece of furniture is present?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "desk",
+                    "question": "What piece of furniture is present?",
+                    "choices": [
+                        "desk",
+                        "cabinet",
+                        "shelf",
+                        "dresser"
+                    ],
+                    "answer": "desk",
+                    "element_type": "object",
+                    "free_form_vqa": "chair",
+                    "multiple_choice_vqa": "desk",
+                    "scores": 1
+                },
+                "Is the chair blue?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "blue",
+                    "question": "Is the chair blue?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the chair?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "blue",
+                    "question": "What color is the chair?",
+                    "choices": [
+                        "blue",
+                        "red",
+                        "green",
+                        "yellow"
+                    ],
+                    "answer": "blue",
+                    "element_type": "color",
+                    "free_form_vqa": "blue",
+                    "multiple_choice_vqa": "blue",
+                    "scores": 1
+                },
+                "Is the desk black?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "black",
+                    "question": "Is the desk black?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the desk?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "black",
+                    "question": "What color is the desk?",
+                    "choices": [
+                        "black",
+                        "white",
+                        "brown",
+                        "gray"
+                    ],
+                    "answer": "black",
+                    "element_type": "color",
+                    "free_form_vqa": "white",
+                    "multiple_choice_vqa": "white",
+                    "scores": 0
+                },
+                "Is the chair facing the desk?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "facing",
+                    "question": "Is the chair facing the desk?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "activity",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What is the chair's position relative to the desk?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "facing",
+                    "question": "What is the chair's position relative to the desk?",
+                    "choices": [
+                        "facing",
+                        "beside",
+                        "behind",
+                        "under"
+                    ],
+                    "answer": "facing",
+                    "element_type": "activity",
+                    "free_form_vqa": "to right",
+                    "multiple_choice_vqa": "behind",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_90.png",
+            "ques_ans": {
+                "Is there a chair?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "chair",
+                    "question": "Is there a chair?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a desk?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "desk",
+                    "question": "Is there a desk?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What piece of furniture is present?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "desk",
+                    "question": "What piece of furniture is present?",
+                    "choices": [
+                        "desk",
+                        "cabinet",
+                        "shelf",
+                        "dresser"
+                    ],
+                    "answer": "desk",
+                    "element_type": "object",
+                    "free_form_vqa": "chair",
+                    "multiple_choice_vqa": "desk",
+                    "scores": 1
+                },
+                "Is the chair blue?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "blue",
+                    "question": "Is the chair blue?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the chair?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "blue",
+                    "question": "What color is the chair?",
+                    "choices": [
+                        "blue",
+                        "red",
+                        "green",
+                        "yellow"
+                    ],
+                    "answer": "blue",
+                    "element_type": "color",
+                    "free_form_vqa": "blue",
+                    "multiple_choice_vqa": "blue",
+                    "scores": 1
+                },
+                "Is the desk black?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "black",
+                    "question": "Is the desk black?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the desk?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "black",
+                    "question": "What color is the desk?",
+                    "choices": [
+                        "black",
+                        "white",
+                        "brown",
+                        "gray"
+                    ],
+                    "answer": "black",
+                    "element_type": "color",
+                    "free_form_vqa": "white",
+                    "multiple_choice_vqa": "white",
+                    "scores": 0
+                },
+                "Is the chair facing the desk?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "facing",
+                    "question": "Is the chair facing the desk?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "activity",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What is the chair's position relative to the desk?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "facing",
+                    "question": "What is the chair's position relative to the desk?",
+                    "choices": [
+                        "facing",
+                        "beside",
+                        "behind",
+                        "under"
+                    ],
+                    "answer": "facing",
+                    "element_type": "activity",
+                    "free_form_vqa": "above desk",
+                    "multiple_choice_vqa": "beside",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_100.png",
+            "ques_ans": {
+                "Is there a chair?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "chair",
+                    "question": "Is there a chair?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a desk?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "desk",
+                    "question": "Is there a desk?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What piece of furniture is present?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "desk",
+                    "question": "What piece of furniture is present?",
+                    "choices": [
+                        "desk",
+                        "cabinet",
+                        "shelf",
+                        "dresser"
+                    ],
+                    "answer": "desk",
+                    "element_type": "object",
+                    "free_form_vqa": "chair",
+                    "multiple_choice_vqa": "desk",
+                    "scores": 1
+                },
+                "Is the chair blue?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "blue",
+                    "question": "Is the chair blue?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the chair?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "blue",
+                    "question": "What color is the chair?",
+                    "choices": [
+                        "blue",
+                        "red",
+                        "green",
+                        "yellow"
+                    ],
+                    "answer": "blue",
+                    "element_type": "color",
+                    "free_form_vqa": "blue",
+                    "multiple_choice_vqa": "blue",
+                    "scores": 1
+                },
+                "Is the desk black?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "black",
+                    "question": "Is the desk black?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the desk?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "black",
+                    "question": "What color is the desk?",
+                    "choices": [
+                        "black",
+                        "white",
+                        "brown",
+                        "gray"
+                    ],
+                    "answer": "black",
+                    "element_type": "color",
+                    "free_form_vqa": "white",
+                    "multiple_choice_vqa": "white",
+                    "scores": 0
+                },
+                "Is the chair facing the desk?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "facing",
+                    "question": "Is the chair facing the desk?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "activity",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What is the chair's position relative to the desk?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "facing",
+                    "question": "What is the chair's position relative to the desk?",
+                    "choices": [
+                        "facing",
+                        "beside",
+                        "behind",
+                        "under"
+                    ],
+                    "answer": "facing",
+                    "element_type": "activity",
+                    "free_form_vqa": "to right",
+                    "multiple_choice_vqa": "behind",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_110.png",
+            "ques_ans": {
+                "Is there a chair?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "chair",
+                    "question": "Is there a chair?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a desk?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "desk",
+                    "question": "Is there a desk?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What piece of furniture is present?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "desk",
+                    "question": "What piece of furniture is present?",
+                    "choices": [
+                        "desk",
+                        "cabinet",
+                        "shelf",
+                        "dresser"
+                    ],
+                    "answer": "desk",
+                    "element_type": "object",
+                    "free_form_vqa": "chair",
+                    "multiple_choice_vqa": "desk",
+                    "scores": 1
+                },
+                "Is the chair blue?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "blue",
+                    "question": "Is the chair blue?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the chair?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "blue",
+                    "question": "What color is the chair?",
+                    "choices": [
+                        "blue",
+                        "red",
+                        "green",
+                        "yellow"
+                    ],
+                    "answer": "blue",
+                    "element_type": "color",
+                    "free_form_vqa": "blue",
+                    "multiple_choice_vqa": "blue",
+                    "scores": 1
+                },
+                "Is the desk black?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "black",
+                    "question": "Is the desk black?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the desk?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "black",
+                    "question": "What color is the desk?",
+                    "choices": [
+                        "black",
+                        "white",
+                        "brown",
+                        "gray"
+                    ],
+                    "answer": "black",
+                    "element_type": "color",
+                    "free_form_vqa": "white",
+                    "multiple_choice_vqa": "white",
+                    "scores": 0
+                },
+                "Is the chair facing the desk?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "facing",
+                    "question": "Is the chair facing the desk?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "activity",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What is the chair's position relative to the desk?": {
+                    "caption": "A blue chair facing a black desk",
+                    "element": "facing",
+                    "question": "What is the chair's position relative to the desk?",
+                    "choices": [
+                        "facing",
+                        "beside",
+                        "behind",
+                        "under"
+                    ],
+                    "answer": "facing",
+                    "element_type": "activity",
+                    "free_form_vqa": "above desk",
+                    "multiple_choice_vqa": "beside",
+                    "scores": 0
+                }
+            }
+        }
+    ]
+}

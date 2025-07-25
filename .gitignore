@@ -1,3 +1,13 @@
 
 tifa/.DS_Store
 .DS_Store
+
+# Python
+*.egg-info/
+
+# Virtual environments (for windows and popos)
+tifa_venv*
+
+#python artifacts
+__pycache__/
+*.py[cod]

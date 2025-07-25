@@ -1,0 +1,586 @@
+{
+    "method": "mvdream",
+    "aspect": "style",
+    "prompt_name": "An_elegant_French_evening_gown",
+    "individual_scores": {
+        "rgb_0.png": 0,
+        "rgb_10.png": 0.3333333333333333,
+        "rgb_20.png": 0.6666666666666666,
+        "rgb_30.png": 0.6666666666666666,
+        "rgb_40.png": 0.6666666666666666,
+        "rgb_50.png": 0,
+        "rgb_60.png": 0.3333333333333333,
+        "rgb_70.png": 0,
+        "rgb_80.png": 0.3333333333333333,
+        "rgb_90.png": 0.3333333333333333,
+        "rgb_100.png": 0,
+        "rgb_110.png": 0.3333333333333333
+    },
+    "average_tifa_score": 0.3055555555555555,
+    "question_logs": [
+        {
+            "image": "rgb_0.png",
+            "ques_ans": {
+                "Is this an evening gown?": {
+                    "caption": "An elegant French evening gown",
+                    "element": "gown",
+                    "question": "Is this an evening gown?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the gown elegant?": {
+                    "caption": "An elegant French evening gown",
+                    "element": "elegant",
+                    "question": "Is the gown elegant?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the gown French?": {
+                    "caption": "An elegant French evening gown",
+                    "element": "French",
+                    "question": "Is the gown French?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_10.png",
+            "ques_ans": {
+                "Is this an evening gown?": {
+                    "caption": "An elegant French evening gown",
+                    "element": "gown",
+                    "question": "Is this an evening gown?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the gown elegant?": {
+                    "caption": "An elegant French evening gown",
+                    "element": "elegant",
+                    "question": "Is the gown elegant?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the gown French?": {
+                    "caption": "An elegant French evening gown",
+                    "element": "French",
+                    "question": "Is the gown French?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_20.png",
+            "ques_ans": {
+                "Is this an evening gown?": {
+                    "caption": "An elegant French evening gown",
+                    "element": "gown",
+                    "question": "Is this an evening gown?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the gown elegant?": {
+                    "caption": "An elegant French evening gown",
+                    "element": "elegant",
+                    "question": "Is the gown elegant?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the gown French?": {
+                    "caption": "An elegant French evening gown",
+                    "element": "French",
+                    "question": "Is the gown French?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_30.png",
+            "ques_ans": {
+                "Is this an evening gown?": {
+                    "caption": "An elegant French evening gown",
+                    "element": "gown",
+                    "question": "Is this an evening gown?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the gown elegant?": {
+                    "caption": "An elegant French evening gown",
+                    "element": "elegant",
+                    "question": "Is the gown elegant?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the gown French?": {
+                    "caption": "An elegant French evening gown",
+                    "element": "French",
+                    "question": "Is the gown French?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_40.png",
+            "ques_ans": {
+                "Is this an evening gown?": {
+                    "caption": "An elegant French evening gown",
+                    "element": "gown",
+                    "question": "Is this an evening gown?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the gown elegant?": {
+                    "caption": "An elegant French evening gown",
+                    "element": "elegant",
+                    "question": "Is the gown elegant?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the gown French?": {
+                    "caption": "An elegant French evening gown",
+                    "element": "French",
+                    "question": "Is the gown French?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_50.png",
+            "ques_ans": {
+                "Is this an evening gown?": {
+                    "caption": "An elegant French evening gown",
+                    "element": "gown",
+                    "question": "Is this an evening gown?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the gown elegant?": {
+                    "caption": "An elegant French evening gown",
+                    "element": "elegant",
+                    "question": "Is the gown elegant?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the gown French?": {
+                    "caption": "An elegant French evening gown",
+                    "element": "French",
+                    "question": "Is the gown French?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_60.png",
+            "ques_ans": {
+                "Is this an evening gown?": {
+                    "caption": "An elegant French evening gown",
+                    "element": "gown",
+                    "question": "Is this an evening gown?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the gown elegant?": {
+                    "caption": "An elegant French evening gown",
+                    "element": "elegant",
+                    "question": "Is the gown elegant?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the gown French?": {
+                    "caption": "An elegant French evening gown",
+                    "element": "French",
+                    "question": "Is the gown French?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_70.png",
+            "ques_ans": {
+                "Is this an evening gown?": {
+                    "caption": "An elegant French evening gown",
+                    "element": "gown",
+                    "question": "Is this an evening gown?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the gown elegant?": {
+                    "caption": "An elegant French evening gown",
+                    "element": "elegant",
+                    "question": "Is the gown elegant?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the gown French?": {
+                    "caption": "An elegant French evening gown",
+                    "element": "French",
+                    "question": "Is the gown French?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_80.png",
+            "ques_ans": {
+                "Is this an evening gown?": {
+                    "caption": "An elegant French evening gown",
+                    "element": "gown",
+                    "question": "Is this an evening gown?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the gown elegant?": {
+                    "caption": "An elegant French evening gown",
+                    "element": "elegant",
+                    "question": "Is the gown elegant?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the gown French?": {
+                    "caption": "An elegant French evening gown",
+                    "element": "French",
+                    "question": "Is the gown French?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_90.png",
+            "ques_ans": {
+                "Is this an evening gown?": {
+                    "caption": "An elegant French evening gown",
+                    "element": "gown",
+                    "question": "Is this an evening gown?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the gown elegant?": {
+                    "caption": "An elegant French evening gown",
+                    "element": "elegant",
+                    "question": "Is the gown elegant?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the gown French?": {
+                    "caption": "An elegant French evening gown",
+                    "element": "French",
+                    "question": "Is the gown French?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_100.png",
+            "ques_ans": {
+                "Is this an evening gown?": {
+                    "caption": "An elegant French evening gown",
+                    "element": "gown",
+                    "question": "Is this an evening gown?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the gown elegant?": {
+                    "caption": "An elegant French evening gown",
+                    "element": "elegant",
+                    "question": "Is the gown elegant?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the gown French?": {
+                    "caption": "An elegant French evening gown",
+                    "element": "French",
+                    "question": "Is the gown French?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_110.png",
+            "ques_ans": {
+                "Is this an evening gown?": {
+                    "caption": "An elegant French evening gown",
+                    "element": "gown",
+                    "question": "Is this an evening gown?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the gown elegant?": {
+                    "caption": "An elegant French evening gown",
+                    "element": "elegant",
+                    "question": "Is the gown elegant?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the gown French?": {
+                    "caption": "An elegant French evening gown",
+                    "element": "French",
+                    "question": "Is the gown French?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        }
+    ]
+}

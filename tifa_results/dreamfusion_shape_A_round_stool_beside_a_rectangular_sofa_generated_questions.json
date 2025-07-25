@@ -1,0 +1,122 @@
+[
+    {
+        "caption": "A round stool beside a rectangular sofa",
+        "element": "stool",
+        "question": "Is there a stool?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "A round stool beside a rectangular sofa",
+        "element": "stool",
+        "question": "What type of furniture is shown?",
+        "choices": [
+            "stool",
+            "chair",
+            "table",
+            "bench"
+        ],
+        "answer": "stool",
+        "element_type": "object"
+    },
+    {
+        "caption": "A round stool beside a rectangular sofa",
+        "element": "sofa",
+        "question": "Is there a sofa?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "A round stool beside a rectangular sofa",
+        "element": "sofa",
+        "question": "What piece of furniture is present?",
+        "choices": [
+            "sofa",
+            "bed",
+            "armchair",
+            "ottoman"
+        ],
+        "answer": "sofa",
+        "element_type": "object"
+    },
+    {
+        "caption": "A round stool beside a rectangular sofa",
+        "element": "round",
+        "question": "Is the stool round?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "shape"
+    },
+    {
+        "caption": "A round stool beside a rectangular sofa",
+        "element": "round",
+        "question": "What shape is the stool?",
+        "choices": [
+            "round",
+            "square",
+            "triangular",
+            "oval"
+        ],
+        "answer": "round",
+        "element_type": "shape"
+    },
+    {
+        "caption": "A round stool beside a rectangular sofa",
+        "element": "rectangular",
+        "question": "Is the sofa rectangular?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "shape"
+    },
+    {
+        "caption": "A round stool beside a rectangular sofa",
+        "element": "rectangular",
+        "question": "What shape is the sofa?",
+        "choices": [
+            "rectangular",
+            "circular",
+            "oval",
+            "square"
+        ],
+        "answer": "rectangular",
+        "element_type": "shape"
+    },
+    {
+        "caption": "A round stool beside a rectangular sofa",
+        "element": "beside",
+        "question": "Is the stool beside the sofa?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "spatial"
+    },
+    {
+        "caption": "A round stool beside a rectangular sofa",
+        "element": "beside",
+        "question": "What is the spatial relation between the stool and the sofa?",
+        "choices": [
+            "beside",
+            "above",
+            "behind",
+            "under"
+        ],
+        "answer": "beside",
+        "element_type": "spatial"
+    }
+]

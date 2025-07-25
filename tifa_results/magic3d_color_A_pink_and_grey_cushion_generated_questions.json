@@ -1,0 +1,50 @@
+[
+    {
+        "caption": "A pink and grey cushion",
+        "element": "cushion",
+        "question": "Is this a cushion?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "A pink and grey cushion",
+        "element": "cushion",
+        "question": "What type of item is shown?",
+        "choices": [
+            "cushion",
+            "blanket",
+            "pillow",
+            "rug"
+        ],
+        "answer": "cushion",
+        "element_type": "object"
+    },
+    {
+        "caption": "A pink and grey cushion",
+        "element": "pink and grey",
+        "question": "Does the cushion have pink and grey colors?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "color"
+    },
+    {
+        "caption": "A pink and grey cushion",
+        "element": "pink and grey",
+        "question": "What colors are on the cushion?",
+        "choices": [
+            "pink and grey",
+            "blue and white",
+            "red and black",
+            "green and yellow"
+        ],
+        "answer": "pink and grey",
+        "element_type": "color"
+    }
+]

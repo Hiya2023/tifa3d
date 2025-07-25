@@ -1,0 +1,74 @@
+[
+    {
+        "caption": "A purple chair with white legs",
+        "element": "chair",
+        "question": "Is this a chair?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "A purple chair with white legs",
+        "element": "chair",
+        "question": "What type of furniture is shown?",
+        "choices": [
+            "chair",
+            "table",
+            "sofa",
+            "bed"
+        ],
+        "answer": "chair",
+        "element_type": "object"
+    },
+    {
+        "caption": "A purple chair with white legs",
+        "element": "purple",
+        "question": "Is the chair purple?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "color"
+    },
+    {
+        "caption": "A purple chair with white legs",
+        "element": "purple",
+        "question": "What color is the chair?",
+        "choices": [
+            "purple",
+            "red",
+            "blue",
+            "green"
+        ],
+        "answer": "purple",
+        "element_type": "color"
+    },
+    {
+        "caption": "A purple chair with white legs",
+        "element": "white legs",
+        "question": "Are the legs of the chair white?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "color"
+    },
+    {
+        "caption": "A purple chair with white legs",
+        "element": "white legs",
+        "question": "What color are the chair's legs?",
+        "choices": [
+            "white",
+            "black",
+            "brown",
+            "gray"
+        ],
+        "answer": "white",
+        "element_type": "color"
+    }
+]

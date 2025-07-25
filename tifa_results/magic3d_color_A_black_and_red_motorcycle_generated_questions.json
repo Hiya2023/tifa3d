@@ -1,0 +1,50 @@
+[
+    {
+        "caption": "A black and red motorcycle",
+        "element": "motorcycle",
+        "question": "Is this a motorcycle?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "A black and red motorcycle",
+        "element": "motorcycle",
+        "question": "What type of vehicle is shown?",
+        "choices": [
+            "motorcycle",
+            "car",
+            "bicycle",
+            "truck"
+        ],
+        "answer": "motorcycle",
+        "element_type": "object"
+    },
+    {
+        "caption": "A black and red motorcycle",
+        "element": "black and red",
+        "question": "Does the motorcycle have black and red colors?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "color"
+    },
+    {
+        "caption": "A black and red motorcycle",
+        "element": "black and red",
+        "question": "What colors are on the motorcycle?",
+        "choices": [
+            "black and red",
+            "blue and white",
+            "green and yellow",
+            "purple and orange"
+        ],
+        "answer": "black and red",
+        "element_type": "color"
+    }
+]

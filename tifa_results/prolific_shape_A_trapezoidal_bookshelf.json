@@ -1,0 +1,418 @@
+{
+    "method": "prolific",
+    "aspect": "shape",
+    "prompt_name": "A_trapezoidal_bookshelf",
+    "individual_scores": {
+        "rgb_0.png": 1,
+        "rgb_10.png": 1,
+        "rgb_20.png": 1,
+        "rgb_30.png": 1,
+        "rgb_40.png": 1,
+        "rgb_50.png": 1,
+        "rgb_60.png": 1,
+        "rgb_70.png": 1,
+        "rgb_80.png": 1,
+        "rgb_90.png": 1,
+        "rgb_100.png": 1,
+        "rgb_110.png": 1
+    },
+    "average_tifa_score": 1,
+    "question_logs": [
+        {
+            "image": "rgb_0.png",
+            "ques_ans": {
+                "Is this a bookshelf?": {
+                    "caption": "A trapezoidal bookshelf",
+                    "element": "bookshelf",
+                    "question": "Is this a bookshelf?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the bookshelf trapezoidal?": {
+                    "caption": "A trapezoidal bookshelf",
+                    "element": "trapezoidal",
+                    "question": "Is the bookshelf trapezoidal?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_10.png",
+            "ques_ans": {
+                "Is this a bookshelf?": {
+                    "caption": "A trapezoidal bookshelf",
+                    "element": "bookshelf",
+                    "question": "Is this a bookshelf?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the bookshelf trapezoidal?": {
+                    "caption": "A trapezoidal bookshelf",
+                    "element": "trapezoidal",
+                    "question": "Is the bookshelf trapezoidal?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_20.png",
+            "ques_ans": {
+                "Is this a bookshelf?": {
+                    "caption": "A trapezoidal bookshelf",
+                    "element": "bookshelf",
+                    "question": "Is this a bookshelf?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the bookshelf trapezoidal?": {
+                    "caption": "A trapezoidal bookshelf",
+                    "element": "trapezoidal",
+                    "question": "Is the bookshelf trapezoidal?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_30.png",
+            "ques_ans": {
+                "Is this a bookshelf?": {
+                    "caption": "A trapezoidal bookshelf",
+                    "element": "bookshelf",
+                    "question": "Is this a bookshelf?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the bookshelf trapezoidal?": {
+                    "caption": "A trapezoidal bookshelf",
+                    "element": "trapezoidal",
+                    "question": "Is the bookshelf trapezoidal?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_40.png",
+            "ques_ans": {
+                "Is this a bookshelf?": {
+                    "caption": "A trapezoidal bookshelf",
+                    "element": "bookshelf",
+                    "question": "Is this a bookshelf?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the bookshelf trapezoidal?": {
+                    "caption": "A trapezoidal bookshelf",
+                    "element": "trapezoidal",
+                    "question": "Is the bookshelf trapezoidal?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_50.png",
+            "ques_ans": {
+                "Is this a bookshelf?": {
+                    "caption": "A trapezoidal bookshelf",
+                    "element": "bookshelf",
+                    "question": "Is this a bookshelf?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the bookshelf trapezoidal?": {
+                    "caption": "A trapezoidal bookshelf",
+                    "element": "trapezoidal",
+                    "question": "Is the bookshelf trapezoidal?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_60.png",
+            "ques_ans": {
+                "Is this a bookshelf?": {
+                    "caption": "A trapezoidal bookshelf",
+                    "element": "bookshelf",
+                    "question": "Is this a bookshelf?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the bookshelf trapezoidal?": {
+                    "caption": "A trapezoidal bookshelf",
+                    "element": "trapezoidal",
+                    "question": "Is the bookshelf trapezoidal?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_70.png",
+            "ques_ans": {
+                "Is this a bookshelf?": {
+                    "caption": "A trapezoidal bookshelf",
+                    "element": "bookshelf",
+                    "question": "Is this a bookshelf?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the bookshelf trapezoidal?": {
+                    "caption": "A trapezoidal bookshelf",
+                    "element": "trapezoidal",
+                    "question": "Is the bookshelf trapezoidal?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_80.png",
+            "ques_ans": {
+                "Is this a bookshelf?": {
+                    "caption": "A trapezoidal bookshelf",
+                    "element": "bookshelf",
+                    "question": "Is this a bookshelf?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the bookshelf trapezoidal?": {
+                    "caption": "A trapezoidal bookshelf",
+                    "element": "trapezoidal",
+                    "question": "Is the bookshelf trapezoidal?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_90.png",
+            "ques_ans": {
+                "Is this a bookshelf?": {
+                    "caption": "A trapezoidal bookshelf",
+                    "element": "bookshelf",
+                    "question": "Is this a bookshelf?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the bookshelf trapezoidal?": {
+                    "caption": "A trapezoidal bookshelf",
+                    "element": "trapezoidal",
+                    "question": "Is the bookshelf trapezoidal?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_100.png",
+            "ques_ans": {
+                "Is this a bookshelf?": {
+                    "caption": "A trapezoidal bookshelf",
+                    "element": "bookshelf",
+                    "question": "Is this a bookshelf?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the bookshelf trapezoidal?": {
+                    "caption": "A trapezoidal bookshelf",
+                    "element": "trapezoidal",
+                    "question": "Is the bookshelf trapezoidal?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_110.png",
+            "ques_ans": {
+                "Is this a bookshelf?": {
+                    "caption": "A trapezoidal bookshelf",
+                    "element": "bookshelf",
+                    "question": "Is this a bookshelf?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the bookshelf trapezoidal?": {
+                    "caption": "A trapezoidal bookshelf",
+                    "element": "trapezoidal",
+                    "question": "Is the bookshelf trapezoidal?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        }
+    ]
+}

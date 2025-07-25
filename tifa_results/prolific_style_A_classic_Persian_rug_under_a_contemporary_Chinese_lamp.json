@@ -1,0 +1,1450 @@
+{
+    "method": "prolific",
+    "aspect": "style",
+    "prompt_name": "A_classic_Persian_rug_under_a_contemporary_Chinese_lamp",
+    "individual_scores": {
+        "rgb_0.png": 0.625,
+        "rgb_10.png": 0.625,
+        "rgb_20.png": 0.5,
+        "rgb_30.png": 0.625,
+        "rgb_40.png": 0.625,
+        "rgb_50.png": 0.75,
+        "rgb_60.png": 0.75,
+        "rgb_70.png": 0.875,
+        "rgb_80.png": 0.625,
+        "rgb_90.png": 0.625,
+        "rgb_100.png": 0.625,
+        "rgb_110.png": 0.625
+    },
+    "average_tifa_score": 0.65625,
+    "question_logs": [
+        {
+            "image": "rgb_0.png",
+            "ques_ans": {
+                "Is there a rug?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "rug",
+                    "question": "Is there a rug?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is there a lamp?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "lamp",
+                    "question": "Is there a lamp?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the rug classic?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "classic",
+                    "question": "Is the rug classic?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the rug Persian?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "Persian",
+                    "question": "Is the rug Persian?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the lamp contemporary?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "contemporary",
+                    "question": "Is the lamp contemporary?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "How would you describe the lamp\u2019s style?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "contemporary",
+                    "question": "How would you describe the lamp\u2019s style?",
+                    "choices": [
+                        "contemporary",
+                        "vintage",
+                        "rustic",
+                        "traditional"
+                    ],
+                    "answer": "contemporary",
+                    "element_type": "attribute",
+                    "free_form_vqa": "old fashioned",
+                    "multiple_choice_vqa": "traditional",
+                    "scores": 0
+                },
+                "Is the lamp Chinese?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "Chinese",
+                    "question": "Is the lamp Chinese?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the rug under the lamp?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "under",
+                    "question": "Is the rug under the lamp?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_10.png",
+            "ques_ans": {
+                "Is there a rug?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "rug",
+                    "question": "Is there a rug?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is there a lamp?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "lamp",
+                    "question": "Is there a lamp?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the rug classic?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "classic",
+                    "question": "Is the rug classic?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the rug Persian?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "Persian",
+                    "question": "Is the rug Persian?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the lamp contemporary?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "contemporary",
+                    "question": "Is the lamp contemporary?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "How would you describe the lamp\u2019s style?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "contemporary",
+                    "question": "How would you describe the lamp\u2019s style?",
+                    "choices": [
+                        "contemporary",
+                        "vintage",
+                        "rustic",
+                        "traditional"
+                    ],
+                    "answer": "contemporary",
+                    "element_type": "attribute",
+                    "free_form_vqa": "old fashioned",
+                    "multiple_choice_vqa": "traditional",
+                    "scores": 0
+                },
+                "Is the lamp Chinese?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "Chinese",
+                    "question": "Is the lamp Chinese?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the rug under the lamp?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "under",
+                    "question": "Is the rug under the lamp?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_20.png",
+            "ques_ans": {
+                "Is there a rug?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "rug",
+                    "question": "Is there a rug?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is there a lamp?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "lamp",
+                    "question": "Is there a lamp?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the rug classic?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "classic",
+                    "question": "Is the rug classic?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the rug Persian?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "Persian",
+                    "question": "Is the rug Persian?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the lamp contemporary?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "contemporary",
+                    "question": "Is the lamp contemporary?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "How would you describe the lamp\u2019s style?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "contemporary",
+                    "question": "How would you describe the lamp\u2019s style?",
+                    "choices": [
+                        "contemporary",
+                        "vintage",
+                        "rustic",
+                        "traditional"
+                    ],
+                    "answer": "contemporary",
+                    "element_type": "attribute",
+                    "free_form_vqa": "old fashioned",
+                    "multiple_choice_vqa": "traditional",
+                    "scores": 0
+                },
+                "Is the lamp Chinese?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "Chinese",
+                    "question": "Is the lamp Chinese?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the rug under the lamp?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "under",
+                    "question": "Is the rug under the lamp?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_30.png",
+            "ques_ans": {
+                "Is there a rug?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "rug",
+                    "question": "Is there a rug?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is there a lamp?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "lamp",
+                    "question": "Is there a lamp?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the rug classic?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "classic",
+                    "question": "Is the rug classic?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the rug Persian?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "Persian",
+                    "question": "Is the rug Persian?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the lamp contemporary?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "contemporary",
+                    "question": "Is the lamp contemporary?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "How would you describe the lamp\u2019s style?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "contemporary",
+                    "question": "How would you describe the lamp\u2019s style?",
+                    "choices": [
+                        "contemporary",
+                        "vintage",
+                        "rustic",
+                        "traditional"
+                    ],
+                    "answer": "contemporary",
+                    "element_type": "attribute",
+                    "free_form_vqa": "old fashioned",
+                    "multiple_choice_vqa": "traditional",
+                    "scores": 0
+                },
+                "Is the lamp Chinese?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "Chinese",
+                    "question": "Is the lamp Chinese?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the rug under the lamp?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "under",
+                    "question": "Is the rug under the lamp?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_40.png",
+            "ques_ans": {
+                "Is there a rug?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "rug",
+                    "question": "Is there a rug?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is there a lamp?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "lamp",
+                    "question": "Is there a lamp?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the rug classic?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "classic",
+                    "question": "Is the rug classic?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the rug Persian?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "Persian",
+                    "question": "Is the rug Persian?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the lamp contemporary?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "contemporary",
+                    "question": "Is the lamp contemporary?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "How would you describe the lamp\u2019s style?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "contemporary",
+                    "question": "How would you describe the lamp\u2019s style?",
+                    "choices": [
+                        "contemporary",
+                        "vintage",
+                        "rustic",
+                        "traditional"
+                    ],
+                    "answer": "contemporary",
+                    "element_type": "attribute",
+                    "free_form_vqa": "old fashioned",
+                    "multiple_choice_vqa": "traditional",
+                    "scores": 0
+                },
+                "Is the lamp Chinese?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "Chinese",
+                    "question": "Is the lamp Chinese?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the rug under the lamp?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "under",
+                    "question": "Is the rug under the lamp?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_50.png",
+            "ques_ans": {
+                "Is there a rug?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "rug",
+                    "question": "Is there a rug?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is there a lamp?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "lamp",
+                    "question": "Is there a lamp?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the rug classic?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "classic",
+                    "question": "Is the rug classic?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the rug Persian?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "Persian",
+                    "question": "Is the rug Persian?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the lamp contemporary?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "contemporary",
+                    "question": "Is the lamp contemporary?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "How would you describe the lamp\u2019s style?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "contemporary",
+                    "question": "How would you describe the lamp\u2019s style?",
+                    "choices": [
+                        "contemporary",
+                        "vintage",
+                        "rustic",
+                        "traditional"
+                    ],
+                    "answer": "contemporary",
+                    "element_type": "attribute",
+                    "free_form_vqa": "victorian",
+                    "multiple_choice_vqa": "contemporary",
+                    "scores": 1
+                },
+                "Is the lamp Chinese?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "Chinese",
+                    "question": "Is the lamp Chinese?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the rug under the lamp?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "under",
+                    "question": "Is the rug under the lamp?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_60.png",
+            "ques_ans": {
+                "Is there a rug?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "rug",
+                    "question": "Is there a rug?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is there a lamp?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "lamp",
+                    "question": "Is there a lamp?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the rug classic?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "classic",
+                    "question": "Is the rug classic?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the rug Persian?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "Persian",
+                    "question": "Is the rug Persian?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the lamp contemporary?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "contemporary",
+                    "question": "Is the lamp contemporary?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "How would you describe the lamp\u2019s style?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "contemporary",
+                    "question": "How would you describe the lamp\u2019s style?",
+                    "choices": [
+                        "contemporary",
+                        "vintage",
+                        "rustic",
+                        "traditional"
+                    ],
+                    "answer": "contemporary",
+                    "element_type": "attribute",
+                    "free_form_vqa": "victorian",
+                    "multiple_choice_vqa": "contemporary",
+                    "scores": 1
+                },
+                "Is the lamp Chinese?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "Chinese",
+                    "question": "Is the lamp Chinese?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the rug under the lamp?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "under",
+                    "question": "Is the rug under the lamp?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_70.png",
+            "ques_ans": {
+                "Is there a rug?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "rug",
+                    "question": "Is there a rug?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a lamp?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "lamp",
+                    "question": "Is there a lamp?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the rug classic?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "classic",
+                    "question": "Is the rug classic?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the rug Persian?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "Persian",
+                    "question": "Is the rug Persian?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the lamp contemporary?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "contemporary",
+                    "question": "Is the lamp contemporary?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "How would you describe the lamp\u2019s style?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "contemporary",
+                    "question": "How would you describe the lamp\u2019s style?",
+                    "choices": [
+                        "contemporary",
+                        "vintage",
+                        "rustic",
+                        "traditional"
+                    ],
+                    "answer": "contemporary",
+                    "element_type": "attribute",
+                    "free_form_vqa": "vintage",
+                    "multiple_choice_vqa": "vintage",
+                    "scores": 0
+                },
+                "Is the lamp Chinese?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "Chinese",
+                    "question": "Is the lamp Chinese?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the rug under the lamp?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "under",
+                    "question": "Is the rug under the lamp?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_80.png",
+            "ques_ans": {
+                "Is there a rug?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "rug",
+                    "question": "Is there a rug?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is there a lamp?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "lamp",
+                    "question": "Is there a lamp?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the rug classic?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "classic",
+                    "question": "Is the rug classic?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the rug Persian?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "Persian",
+                    "question": "Is the rug Persian?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the lamp contemporary?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "contemporary",
+                    "question": "Is the lamp contemporary?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "How would you describe the lamp\u2019s style?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "contemporary",
+                    "question": "How would you describe the lamp\u2019s style?",
+                    "choices": [
+                        "contemporary",
+                        "vintage",
+                        "rustic",
+                        "traditional"
+                    ],
+                    "answer": "contemporary",
+                    "element_type": "attribute",
+                    "free_form_vqa": "old fashioned",
+                    "multiple_choice_vqa": "traditional",
+                    "scores": 0
+                },
+                "Is the lamp Chinese?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "Chinese",
+                    "question": "Is the lamp Chinese?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the rug under the lamp?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "under",
+                    "question": "Is the rug under the lamp?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_90.png",
+            "ques_ans": {
+                "Is there a rug?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "rug",
+                    "question": "Is there a rug?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is there a lamp?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "lamp",
+                    "question": "Is there a lamp?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the rug classic?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "classic",
+                    "question": "Is the rug classic?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the rug Persian?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "Persian",
+                    "question": "Is the rug Persian?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the lamp contemporary?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "contemporary",
+                    "question": "Is the lamp contemporary?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "How would you describe the lamp\u2019s style?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "contemporary",
+                    "question": "How would you describe the lamp\u2019s style?",
+                    "choices": [
+                        "contemporary",
+                        "vintage",
+                        "rustic",
+                        "traditional"
+                    ],
+                    "answer": "contemporary",
+                    "element_type": "attribute",
+                    "free_form_vqa": "old fashioned",
+                    "multiple_choice_vqa": "traditional",
+                    "scores": 0
+                },
+                "Is the lamp Chinese?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "Chinese",
+                    "question": "Is the lamp Chinese?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the rug under the lamp?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "under",
+                    "question": "Is the rug under the lamp?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_100.png",
+            "ques_ans": {
+                "Is there a rug?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "rug",
+                    "question": "Is there a rug?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is there a lamp?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "lamp",
+                    "question": "Is there a lamp?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the rug classic?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "classic",
+                    "question": "Is the rug classic?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the rug Persian?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "Persian",
+                    "question": "Is the rug Persian?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the lamp contemporary?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "contemporary",
+                    "question": "Is the lamp contemporary?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "How would you describe the lamp\u2019s style?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "contemporary",
+                    "question": "How would you describe the lamp\u2019s style?",
+                    "choices": [
+                        "contemporary",
+                        "vintage",
+                        "rustic",
+                        "traditional"
+                    ],
+                    "answer": "contemporary",
+                    "element_type": "attribute",
+                    "free_form_vqa": "old fashioned",
+                    "multiple_choice_vqa": "traditional",
+                    "scores": 0
+                },
+                "Is the lamp Chinese?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "Chinese",
+                    "question": "Is the lamp Chinese?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the rug under the lamp?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "under",
+                    "question": "Is the rug under the lamp?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_110.png",
+            "ques_ans": {
+                "Is there a rug?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "rug",
+                    "question": "Is there a rug?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is there a lamp?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "lamp",
+                    "question": "Is there a lamp?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the rug classic?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "classic",
+                    "question": "Is the rug classic?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the rug Persian?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "Persian",
+                    "question": "Is the rug Persian?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the lamp contemporary?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "contemporary",
+                    "question": "Is the lamp contemporary?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "How would you describe the lamp\u2019s style?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "contemporary",
+                    "question": "How would you describe the lamp\u2019s style?",
+                    "choices": [
+                        "contemporary",
+                        "vintage",
+                        "rustic",
+                        "traditional"
+                    ],
+                    "answer": "contemporary",
+                    "element_type": "attribute",
+                    "free_form_vqa": "old fashioned",
+                    "multiple_choice_vqa": "traditional",
+                    "scores": 0
+                },
+                "Is the lamp Chinese?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "Chinese",
+                    "question": "Is the lamp Chinese?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the rug under the lamp?": {
+                    "caption": "A classic Persian rug under a contemporary Chinese lamp",
+                    "element": "under",
+                    "question": "Is the rug under the lamp?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        }
+    ]
+}

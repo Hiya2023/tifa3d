@@ -1,0 +1,610 @@
+{
+    "method": "magic3d",
+    "aspect": "color",
+    "prompt_name": "A_yellow_sofa",
+    "individual_scores": {
+        "rgb_0.png": 0.6666666666666666,
+        "rgb_10.png": 0.6666666666666666,
+        "rgb_20.png": 0.3333333333333333,
+        "rgb_30.png": 0.6666666666666666,
+        "rgb_40.png": 0.6666666666666666,
+        "rgb_50.png": 0.3333333333333333,
+        "rgb_60.png": 0.6666666666666666,
+        "rgb_70.png": 0.6666666666666666,
+        "rgb_80.png": 0.3333333333333333,
+        "rgb_90.png": 0.6666666666666666,
+        "rgb_100.png": 0.6666666666666666,
+        "rgb_110.png": 0.3333333333333333
+    },
+    "average_tifa_score": 0.5555555555555556,
+    "question_logs": [
+        {
+            "image": "rgb_0.png",
+            "ques_ans": {
+                "Is this a sofa?": {
+                    "caption": "A yellow sofa",
+                    "element": "sofa",
+                    "question": "Is this a sofa?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the sofa yellow?": {
+                    "caption": "A yellow sofa",
+                    "element": "yellow",
+                    "question": "Is the sofa yellow?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the sofa?": {
+                    "caption": "A yellow sofa",
+                    "element": "yellow",
+                    "question": "What color is the sofa?",
+                    "choices": [
+                        "yellow",
+                        "blue",
+                        "red",
+                        "green"
+                    ],
+                    "answer": "yellow",
+                    "element_type": "color",
+                    "free_form_vqa": "green",
+                    "multiple_choice_vqa": "green",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_10.png",
+            "ques_ans": {
+                "Is this a sofa?": {
+                    "caption": "A yellow sofa",
+                    "element": "sofa",
+                    "question": "Is this a sofa?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the sofa yellow?": {
+                    "caption": "A yellow sofa",
+                    "element": "yellow",
+                    "question": "Is the sofa yellow?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the sofa?": {
+                    "caption": "A yellow sofa",
+                    "element": "yellow",
+                    "question": "What color is the sofa?",
+                    "choices": [
+                        "yellow",
+                        "blue",
+                        "red",
+                        "green"
+                    ],
+                    "answer": "yellow",
+                    "element_type": "color",
+                    "free_form_vqa": "green",
+                    "multiple_choice_vqa": "green",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_20.png",
+            "ques_ans": {
+                "Is this a sofa?": {
+                    "caption": "A yellow sofa",
+                    "element": "sofa",
+                    "question": "Is this a sofa?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the sofa yellow?": {
+                    "caption": "A yellow sofa",
+                    "element": "yellow",
+                    "question": "Is the sofa yellow?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the sofa?": {
+                    "caption": "A yellow sofa",
+                    "element": "yellow",
+                    "question": "What color is the sofa?",
+                    "choices": [
+                        "yellow",
+                        "blue",
+                        "red",
+                        "green"
+                    ],
+                    "answer": "yellow",
+                    "element_type": "color",
+                    "free_form_vqa": "green",
+                    "multiple_choice_vqa": "green",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_30.png",
+            "ques_ans": {
+                "Is this a sofa?": {
+                    "caption": "A yellow sofa",
+                    "element": "sofa",
+                    "question": "Is this a sofa?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the sofa yellow?": {
+                    "caption": "A yellow sofa",
+                    "element": "yellow",
+                    "question": "Is the sofa yellow?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the sofa?": {
+                    "caption": "A yellow sofa",
+                    "element": "yellow",
+                    "question": "What color is the sofa?",
+                    "choices": [
+                        "yellow",
+                        "blue",
+                        "red",
+                        "green"
+                    ],
+                    "answer": "yellow",
+                    "element_type": "color",
+                    "free_form_vqa": "green",
+                    "multiple_choice_vqa": "green",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_40.png",
+            "ques_ans": {
+                "Is this a sofa?": {
+                    "caption": "A yellow sofa",
+                    "element": "sofa",
+                    "question": "Is this a sofa?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the sofa yellow?": {
+                    "caption": "A yellow sofa",
+                    "element": "yellow",
+                    "question": "Is the sofa yellow?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the sofa?": {
+                    "caption": "A yellow sofa",
+                    "element": "yellow",
+                    "question": "What color is the sofa?",
+                    "choices": [
+                        "yellow",
+                        "blue",
+                        "red",
+                        "green"
+                    ],
+                    "answer": "yellow",
+                    "element_type": "color",
+                    "free_form_vqa": "green",
+                    "multiple_choice_vqa": "green",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_50.png",
+            "ques_ans": {
+                "Is this a sofa?": {
+                    "caption": "A yellow sofa",
+                    "element": "sofa",
+                    "question": "Is this a sofa?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the sofa yellow?": {
+                    "caption": "A yellow sofa",
+                    "element": "yellow",
+                    "question": "Is the sofa yellow?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the sofa?": {
+                    "caption": "A yellow sofa",
+                    "element": "yellow",
+                    "question": "What color is the sofa?",
+                    "choices": [
+                        "yellow",
+                        "blue",
+                        "red",
+                        "green"
+                    ],
+                    "answer": "yellow",
+                    "element_type": "color",
+                    "free_form_vqa": "green",
+                    "multiple_choice_vqa": "green",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_60.png",
+            "ques_ans": {
+                "Is this a sofa?": {
+                    "caption": "A yellow sofa",
+                    "element": "sofa",
+                    "question": "Is this a sofa?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the sofa yellow?": {
+                    "caption": "A yellow sofa",
+                    "element": "yellow",
+                    "question": "Is the sofa yellow?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the sofa?": {
+                    "caption": "A yellow sofa",
+                    "element": "yellow",
+                    "question": "What color is the sofa?",
+                    "choices": [
+                        "yellow",
+                        "blue",
+                        "red",
+                        "green"
+                    ],
+                    "answer": "yellow",
+                    "element_type": "color",
+                    "free_form_vqa": "green",
+                    "multiple_choice_vqa": "green",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_70.png",
+            "ques_ans": {
+                "Is this a sofa?": {
+                    "caption": "A yellow sofa",
+                    "element": "sofa",
+                    "question": "Is this a sofa?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the sofa yellow?": {
+                    "caption": "A yellow sofa",
+                    "element": "yellow",
+                    "question": "Is the sofa yellow?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the sofa?": {
+                    "caption": "A yellow sofa",
+                    "element": "yellow",
+                    "question": "What color is the sofa?",
+                    "choices": [
+                        "yellow",
+                        "blue",
+                        "red",
+                        "green"
+                    ],
+                    "answer": "yellow",
+                    "element_type": "color",
+                    "free_form_vqa": "green",
+                    "multiple_choice_vqa": "green",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_80.png",
+            "ques_ans": {
+                "Is this a sofa?": {
+                    "caption": "A yellow sofa",
+                    "element": "sofa",
+                    "question": "Is this a sofa?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the sofa yellow?": {
+                    "caption": "A yellow sofa",
+                    "element": "yellow",
+                    "question": "Is the sofa yellow?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the sofa?": {
+                    "caption": "A yellow sofa",
+                    "element": "yellow",
+                    "question": "What color is the sofa?",
+                    "choices": [
+                        "yellow",
+                        "blue",
+                        "red",
+                        "green"
+                    ],
+                    "answer": "yellow",
+                    "element_type": "color",
+                    "free_form_vqa": "green",
+                    "multiple_choice_vqa": "green",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_90.png",
+            "ques_ans": {
+                "Is this a sofa?": {
+                    "caption": "A yellow sofa",
+                    "element": "sofa",
+                    "question": "Is this a sofa?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the sofa yellow?": {
+                    "caption": "A yellow sofa",
+                    "element": "yellow",
+                    "question": "Is the sofa yellow?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the sofa?": {
+                    "caption": "A yellow sofa",
+                    "element": "yellow",
+                    "question": "What color is the sofa?",
+                    "choices": [
+                        "yellow",
+                        "blue",
+                        "red",
+                        "green"
+                    ],
+                    "answer": "yellow",
+                    "element_type": "color",
+                    "free_form_vqa": "green",
+                    "multiple_choice_vqa": "green",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_100.png",
+            "ques_ans": {
+                "Is this a sofa?": {
+                    "caption": "A yellow sofa",
+                    "element": "sofa",
+                    "question": "Is this a sofa?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the sofa yellow?": {
+                    "caption": "A yellow sofa",
+                    "element": "yellow",
+                    "question": "Is the sofa yellow?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the sofa?": {
+                    "caption": "A yellow sofa",
+                    "element": "yellow",
+                    "question": "What color is the sofa?",
+                    "choices": [
+                        "yellow",
+                        "blue",
+                        "red",
+                        "green"
+                    ],
+                    "answer": "yellow",
+                    "element_type": "color",
+                    "free_form_vqa": "green",
+                    "multiple_choice_vqa": "green",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_110.png",
+            "ques_ans": {
+                "Is this a sofa?": {
+                    "caption": "A yellow sofa",
+                    "element": "sofa",
+                    "question": "Is this a sofa?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the sofa yellow?": {
+                    "caption": "A yellow sofa",
+                    "element": "yellow",
+                    "question": "Is the sofa yellow?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the sofa?": {
+                    "caption": "A yellow sofa",
+                    "element": "yellow",
+                    "question": "What color is the sofa?",
+                    "choices": [
+                        "yellow",
+                        "blue",
+                        "red",
+                        "green"
+                    ],
+                    "answer": "yellow",
+                    "element_type": "color",
+                    "free_form_vqa": "green",
+                    "multiple_choice_vqa": "green",
+                    "scores": 0
+                }
+            }
+        }
+    ]
+}

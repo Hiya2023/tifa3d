@@ -1,0 +1,50 @@
+[
+    {
+        "caption": "A cubic ottoman",
+        "element": "ottoman",
+        "question": "Is this an ottoman?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "A cubic ottoman",
+        "element": "ottoman",
+        "question": "What type of furniture is shown?",
+        "choices": [
+            "ottoman",
+            "chair",
+            "table",
+            "sofa"
+        ],
+        "answer": "ottoman",
+        "element_type": "object"
+    },
+    {
+        "caption": "A cubic ottoman",
+        "element": "cubic",
+        "question": "Is the ottoman cubic?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "shape"
+    },
+    {
+        "caption": "A cubic ottoman",
+        "element": "cubic",
+        "question": "What is the shape of the ottoman?",
+        "choices": [
+            "cubic",
+            "spherical",
+            "cylindrical",
+            "rectangular"
+        ],
+        "answer": "cubic",
+        "element_type": "shape"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "caption": "A circular rug",
+        "element": "rug",
+        "question": "Is this a rug?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "A circular rug",
+        "element": "rug",
+        "question": "What type of item is shown?",
+        "choices": [
+            "rug",
+            "blanket",
+            "curtain",
+            "towel"
+        ],
+        "answer": "rug",
+        "element_type": "object"
+    },
+    {
+        "caption": "A circular rug",
+        "element": "circular",
+        "question": "Is the rug circular?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "shape"
+    },
+    {
+        "caption": "A circular rug",
+        "element": "circular",
+        "question": "What shape is the rug?",
+        "choices": [
+            "circular",
+            "square",
+            "rectangular",
+            "oval"
+        ],
+        "answer": "circular",
+        "element_type": "shape"
+    }
+]

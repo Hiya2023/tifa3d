@@ -1,0 +1,74 @@
+[
+    {
+        "caption": "A turquoise desk with brass handle",
+        "element": "desk",
+        "question": "Is this a desk?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "A turquoise desk with brass handle",
+        "element": "desk",
+        "question": "What type of furniture is shown?",
+        "choices": [
+            "desk",
+            "table",
+            "chair",
+            "cabinet"
+        ],
+        "answer": "desk",
+        "element_type": "object"
+    },
+    {
+        "caption": "A turquoise desk with brass handle",
+        "element": "turquoise",
+        "question": "Is the desk turquoise?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "color"
+    },
+    {
+        "caption": "A turquoise desk with brass handle",
+        "element": "turquoise",
+        "question": "What color is the desk?",
+        "choices": [
+            "turquoise",
+            "red",
+            "black",
+            "white"
+        ],
+        "answer": "turquoise",
+        "element_type": "color"
+    },
+    {
+        "caption": "A turquoise desk with brass handle",
+        "element": "brass handle",
+        "question": "Does the desk have a brass handle?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "attribute"
+    },
+    {
+        "caption": "A turquoise desk with brass handle",
+        "element": "brass handle",
+        "question": "What material is the handle made of?",
+        "choices": [
+            "brass",
+            "silver",
+            "plastic",
+            "wood"
+        ],
+        "answer": "brass",
+        "element_type": "attribute"
+    }
+]

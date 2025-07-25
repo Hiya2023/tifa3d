@@ -1,0 +1,74 @@
+[
+    {
+        "caption": "An elegant French evening gown",
+        "element": "gown",
+        "question": "Is this an evening gown?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "An elegant French evening gown",
+        "element": "gown",
+        "question": "What type of clothing is shown?",
+        "choices": [
+            "gown",
+            "dress",
+            "suit",
+            "skirt"
+        ],
+        "answer": "gown",
+        "element_type": "object"
+    },
+    {
+        "caption": "An elegant French evening gown",
+        "element": "elegant",
+        "question": "Is the gown elegant?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "attribute"
+    },
+    {
+        "caption": "An elegant French evening gown",
+        "element": "elegant",
+        "question": "How would you describe the style of the gown?",
+        "choices": [
+            "elegant",
+            "casual",
+            "sporty",
+            "rugged"
+        ],
+        "answer": "elegant",
+        "element_type": "attribute"
+    },
+    {
+        "caption": "An elegant French evening gown",
+        "element": "French",
+        "question": "Is the gown French?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "attribute"
+    },
+    {
+        "caption": "An elegant French evening gown",
+        "element": "French",
+        "question": "What is the cultural style of the gown?",
+        "choices": [
+            "French",
+            "Italian",
+            "American",
+            "Indian"
+        ],
+        "answer": "French",
+        "element_type": "attribute"
+    }
+]

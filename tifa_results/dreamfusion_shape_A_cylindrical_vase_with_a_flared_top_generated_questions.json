@@ -1,0 +1,74 @@
+[
+    {
+        "caption": "A cylindrical vase with a flared top",
+        "element": "vase",
+        "question": "Is this a vase?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "A cylindrical vase with a flared top",
+        "element": "vase",
+        "question": "What type of item is shown?",
+        "choices": [
+            "vase",
+            "teapot",
+            "jar",
+            "bottle"
+        ],
+        "answer": "vase",
+        "element_type": "object"
+    },
+    {
+        "caption": "A cylindrical vase with a flared top",
+        "element": "cylindrical",
+        "question": "Is the vase cylindrical?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "shape"
+    },
+    {
+        "caption": "A cylindrical vase with a flared top",
+        "element": "cylindrical",
+        "question": "What is the shape of the vase?",
+        "choices": [
+            "cylindrical",
+            "square",
+            "spherical",
+            "triangular"
+        ],
+        "answer": "cylindrical",
+        "element_type": "shape"
+    },
+    {
+        "caption": "A cylindrical vase with a flared top",
+        "element": "flared top",
+        "question": "Does the vase have a flared top?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "shape"
+    },
+    {
+        "caption": "A cylindrical vase with a flared top",
+        "element": "flared top",
+        "question": "What is the shape of the vase's top?",
+        "choices": [
+            "flared",
+            "flat",
+            "pointed",
+            "rounded"
+        ],
+        "answer": "flared",
+        "element_type": "shape"
+    }
+]

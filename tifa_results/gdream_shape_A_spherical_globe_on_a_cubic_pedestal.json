@@ -1,0 +1,946 @@
+{
+    "method": "gdream",
+    "aspect": "shape",
+    "prompt_name": "A_spherical_globe_on_a_cubic_pedestal",
+    "individual_scores": {
+        "rgb_0.png": 0.6,
+        "rgb_10.png": 0.6,
+        "rgb_20.png": 0.6,
+        "rgb_30.png": 0.6,
+        "rgb_40.png": 0.6,
+        "rgb_50.png": 0.6,
+        "rgb_60.png": 0.6,
+        "rgb_70.png": 0.6,
+        "rgb_80.png": 0.6,
+        "rgb_90.png": 0.6,
+        "rgb_100.png": 0.6,
+        "rgb_110.png": 0.6
+    },
+    "average_tifa_score": 0.6,
+    "question_logs": [
+        {
+            "image": "rgb_0.png",
+            "ques_ans": {
+                "Is there a globe?": {
+                    "caption": "A spherical globe on a cubic pedestal",
+                    "element": "globe",
+                    "question": "Is there a globe?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a pedestal?": {
+                    "caption": "A spherical globe on a cubic pedestal",
+                    "element": "pedestal",
+                    "question": "Is there a pedestal?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the globe spherical?": {
+                    "caption": "A spherical globe on a cubic pedestal",
+                    "element": "spherical",
+                    "question": "Is the globe spherical?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the globe?": {
+                    "caption": "A spherical globe on a cubic pedestal",
+                    "element": "spherical",
+                    "question": "What shape is the globe?",
+                    "choices": [
+                        "spherical",
+                        "cylindrical",
+                        "rectangular",
+                        "triangular"
+                    ],
+                    "answer": "spherical",
+                    "element_type": "shape",
+                    "free_form_vqa": "round",
+                    "multiple_choice_vqa": "rectangular",
+                    "scores": 0
+                },
+                "Is the pedestal cubic?": {
+                    "caption": "A spherical globe on a cubic pedestal",
+                    "element": "cubic",
+                    "question": "Is the pedestal cubic?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_10.png",
+            "ques_ans": {
+                "Is there a globe?": {
+                    "caption": "A spherical globe on a cubic pedestal",
+                    "element": "globe",
+                    "question": "Is there a globe?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a pedestal?": {
+                    "caption": "A spherical globe on a cubic pedestal",
+                    "element": "pedestal",
+                    "question": "Is there a pedestal?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the globe spherical?": {
+                    "caption": "A spherical globe on a cubic pedestal",
+                    "element": "spherical",
+                    "question": "Is the globe spherical?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the globe?": {
+                    "caption": "A spherical globe on a cubic pedestal",
+                    "element": "spherical",
+                    "question": "What shape is the globe?",
+                    "choices": [
+                        "spherical",
+                        "cylindrical",
+                        "rectangular",
+                        "triangular"
+                    ],
+                    "answer": "spherical",
+                    "element_type": "shape",
+                    "free_form_vqa": "round",
+                    "multiple_choice_vqa": "rectangular",
+                    "scores": 0
+                },
+                "Is the pedestal cubic?": {
+                    "caption": "A spherical globe on a cubic pedestal",
+                    "element": "cubic",
+                    "question": "Is the pedestal cubic?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_20.png",
+            "ques_ans": {
+                "Is there a globe?": {
+                    "caption": "A spherical globe on a cubic pedestal",
+                    "element": "globe",
+                    "question": "Is there a globe?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a pedestal?": {
+                    "caption": "A spherical globe on a cubic pedestal",
+                    "element": "pedestal",
+                    "question": "Is there a pedestal?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the globe spherical?": {
+                    "caption": "A spherical globe on a cubic pedestal",
+                    "element": "spherical",
+                    "question": "Is the globe spherical?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the globe?": {
+                    "caption": "A spherical globe on a cubic pedestal",
+                    "element": "spherical",
+                    "question": "What shape is the globe?",
+                    "choices": [
+                        "spherical",
+                        "cylindrical",
+                        "rectangular",
+                        "triangular"
+                    ],
+                    "answer": "spherical",
+                    "element_type": "shape",
+                    "free_form_vqa": "round",
+                    "multiple_choice_vqa": "rectangular",
+                    "scores": 0
+                },
+                "Is the pedestal cubic?": {
+                    "caption": "A spherical globe on a cubic pedestal",
+                    "element": "cubic",
+                    "question": "Is the pedestal cubic?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_30.png",
+            "ques_ans": {
+                "Is there a globe?": {
+                    "caption": "A spherical globe on a cubic pedestal",
+                    "element": "globe",
+                    "question": "Is there a globe?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a pedestal?": {
+                    "caption": "A spherical globe on a cubic pedestal",
+                    "element": "pedestal",
+                    "question": "Is there a pedestal?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the globe spherical?": {
+                    "caption": "A spherical globe on a cubic pedestal",
+                    "element": "spherical",
+                    "question": "Is the globe spherical?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the globe?": {
+                    "caption": "A spherical globe on a cubic pedestal",
+                    "element": "spherical",
+                    "question": "What shape is the globe?",
+                    "choices": [
+                        "spherical",
+                        "cylindrical",
+                        "rectangular",
+                        "triangular"
+                    ],
+                    "answer": "spherical",
+                    "element_type": "shape",
+                    "free_form_vqa": "round",
+                    "multiple_choice_vqa": "rectangular",
+                    "scores": 0
+                },
+                "Is the pedestal cubic?": {
+                    "caption": "A spherical globe on a cubic pedestal",
+                    "element": "cubic",
+                    "question": "Is the pedestal cubic?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_40.png",
+            "ques_ans": {
+                "Is there a globe?": {
+                    "caption": "A spherical globe on a cubic pedestal",
+                    "element": "globe",
+                    "question": "Is there a globe?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a pedestal?": {
+                    "caption": "A spherical globe on a cubic pedestal",
+                    "element": "pedestal",
+                    "question": "Is there a pedestal?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the globe spherical?": {
+                    "caption": "A spherical globe on a cubic pedestal",
+                    "element": "spherical",
+                    "question": "Is the globe spherical?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the globe?": {
+                    "caption": "A spherical globe on a cubic pedestal",
+                    "element": "spherical",
+                    "question": "What shape is the globe?",
+                    "choices": [
+                        "spherical",
+                        "cylindrical",
+                        "rectangular",
+                        "triangular"
+                    ],
+                    "answer": "spherical",
+                    "element_type": "shape",
+                    "free_form_vqa": "round",
+                    "multiple_choice_vqa": "rectangular",
+                    "scores": 0
+                },
+                "Is the pedestal cubic?": {
+                    "caption": "A spherical globe on a cubic pedestal",
+                    "element": "cubic",
+                    "question": "Is the pedestal cubic?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_50.png",
+            "ques_ans": {
+                "Is there a globe?": {
+                    "caption": "A spherical globe on a cubic pedestal",
+                    "element": "globe",
+                    "question": "Is there a globe?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a pedestal?": {
+                    "caption": "A spherical globe on a cubic pedestal",
+                    "element": "pedestal",
+                    "question": "Is there a pedestal?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the globe spherical?": {
+                    "caption": "A spherical globe on a cubic pedestal",
+                    "element": "spherical",
+                    "question": "Is the globe spherical?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the globe?": {
+                    "caption": "A spherical globe on a cubic pedestal",
+                    "element": "spherical",
+                    "question": "What shape is the globe?",
+                    "choices": [
+                        "spherical",
+                        "cylindrical",
+                        "rectangular",
+                        "triangular"
+                    ],
+                    "answer": "spherical",
+                    "element_type": "shape",
+                    "free_form_vqa": "round",
+                    "multiple_choice_vqa": "rectangular",
+                    "scores": 0
+                },
+                "Is the pedestal cubic?": {
+                    "caption": "A spherical globe on a cubic pedestal",
+                    "element": "cubic",
+                    "question": "Is the pedestal cubic?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_60.png",
+            "ques_ans": {
+                "Is there a globe?": {
+                    "caption": "A spherical globe on a cubic pedestal",
+                    "element": "globe",
+                    "question": "Is there a globe?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a pedestal?": {
+                    "caption": "A spherical globe on a cubic pedestal",
+                    "element": "pedestal",
+                    "question": "Is there a pedestal?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the globe spherical?": {
+                    "caption": "A spherical globe on a cubic pedestal",
+                    "element": "spherical",
+                    "question": "Is the globe spherical?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the globe?": {
+                    "caption": "A spherical globe on a cubic pedestal",
+                    "element": "spherical",
+                    "question": "What shape is the globe?",
+                    "choices": [
+                        "spherical",
+                        "cylindrical",
+                        "rectangular",
+                        "triangular"
+                    ],
+                    "answer": "spherical",
+                    "element_type": "shape",
+                    "free_form_vqa": "round",
+                    "multiple_choice_vqa": "rectangular",
+                    "scores": 0
+                },
+                "Is the pedestal cubic?": {
+                    "caption": "A spherical globe on a cubic pedestal",
+                    "element": "cubic",
+                    "question": "Is the pedestal cubic?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_70.png",
+            "ques_ans": {
+                "Is there a globe?": {
+                    "caption": "A spherical globe on a cubic pedestal",
+                    "element": "globe",
+                    "question": "Is there a globe?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a pedestal?": {
+                    "caption": "A spherical globe on a cubic pedestal",
+                    "element": "pedestal",
+                    "question": "Is there a pedestal?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the globe spherical?": {
+                    "caption": "A spherical globe on a cubic pedestal",
+                    "element": "spherical",
+                    "question": "Is the globe spherical?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the globe?": {
+                    "caption": "A spherical globe on a cubic pedestal",
+                    "element": "spherical",
+                    "question": "What shape is the globe?",
+                    "choices": [
+                        "spherical",
+                        "cylindrical",
+                        "rectangular",
+                        "triangular"
+                    ],
+                    "answer": "spherical",
+                    "element_type": "shape",
+                    "free_form_vqa": "round",
+                    "multiple_choice_vqa": "rectangular",
+                    "scores": 0
+                },
+                "Is the pedestal cubic?": {
+                    "caption": "A spherical globe on a cubic pedestal",
+                    "element": "cubic",
+                    "question": "Is the pedestal cubic?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_80.png",
+            "ques_ans": {
+                "Is there a globe?": {
+                    "caption": "A spherical globe on a cubic pedestal",
+                    "element": "globe",
+                    "question": "Is there a globe?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a pedestal?": {
+                    "caption": "A spherical globe on a cubic pedestal",
+                    "element": "pedestal",
+                    "question": "Is there a pedestal?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the globe spherical?": {
+                    "caption": "A spherical globe on a cubic pedestal",
+                    "element": "spherical",
+                    "question": "Is the globe spherical?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the globe?": {
+                    "caption": "A spherical globe on a cubic pedestal",
+                    "element": "spherical",
+                    "question": "What shape is the globe?",
+                    "choices": [
+                        "spherical",
+                        "cylindrical",
+                        "rectangular",
+                        "triangular"
+                    ],
+                    "answer": "spherical",
+                    "element_type": "shape",
+                    "free_form_vqa": "round",
+                    "multiple_choice_vqa": "rectangular",
+                    "scores": 0
+                },
+                "Is the pedestal cubic?": {
+                    "caption": "A spherical globe on a cubic pedestal",
+                    "element": "cubic",
+                    "question": "Is the pedestal cubic?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_90.png",
+            "ques_ans": {
+                "Is there a globe?": {
+                    "caption": "A spherical globe on a cubic pedestal",
+                    "element": "globe",
+                    "question": "Is there a globe?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a pedestal?": {
+                    "caption": "A spherical globe on a cubic pedestal",
+                    "element": "pedestal",
+                    "question": "Is there a pedestal?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the globe spherical?": {
+                    "caption": "A spherical globe on a cubic pedestal",
+                    "element": "spherical",
+                    "question": "Is the globe spherical?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the globe?": {
+                    "caption": "A spherical globe on a cubic pedestal",
+                    "element": "spherical",
+                    "question": "What shape is the globe?",
+                    "choices": [
+                        "spherical",
+                        "cylindrical",
+                        "rectangular",
+                        "triangular"
+                    ],
+                    "answer": "spherical",
+                    "element_type": "shape",
+                    "free_form_vqa": "round",
+                    "multiple_choice_vqa": "rectangular",
+                    "scores": 0
+                },
+                "Is the pedestal cubic?": {
+                    "caption": "A spherical globe on a cubic pedestal",
+                    "element": "cubic",
+                    "question": "Is the pedestal cubic?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_100.png",
+            "ques_ans": {
+                "Is there a globe?": {
+                    "caption": "A spherical globe on a cubic pedestal",
+                    "element": "globe",
+                    "question": "Is there a globe?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a pedestal?": {
+                    "caption": "A spherical globe on a cubic pedestal",
+                    "element": "pedestal",
+                    "question": "Is there a pedestal?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the globe spherical?": {
+                    "caption": "A spherical globe on a cubic pedestal",
+                    "element": "spherical",
+                    "question": "Is the globe spherical?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the globe?": {
+                    "caption": "A spherical globe on a cubic pedestal",
+                    "element": "spherical",
+                    "question": "What shape is the globe?",
+                    "choices": [
+                        "spherical",
+                        "cylindrical",
+                        "rectangular",
+                        "triangular"
+                    ],
+                    "answer": "spherical",
+                    "element_type": "shape",
+                    "free_form_vqa": "round",
+                    "multiple_choice_vqa": "rectangular",
+                    "scores": 0
+                },
+                "Is the pedestal cubic?": {
+                    "caption": "A spherical globe on a cubic pedestal",
+                    "element": "cubic",
+                    "question": "Is the pedestal cubic?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_110.png",
+            "ques_ans": {
+                "Is there a globe?": {
+                    "caption": "A spherical globe on a cubic pedestal",
+                    "element": "globe",
+                    "question": "Is there a globe?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a pedestal?": {
+                    "caption": "A spherical globe on a cubic pedestal",
+                    "element": "pedestal",
+                    "question": "Is there a pedestal?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the globe spherical?": {
+                    "caption": "A spherical globe on a cubic pedestal",
+                    "element": "spherical",
+                    "question": "Is the globe spherical?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the globe?": {
+                    "caption": "A spherical globe on a cubic pedestal",
+                    "element": "spherical",
+                    "question": "What shape is the globe?",
+                    "choices": [
+                        "spherical",
+                        "cylindrical",
+                        "rectangular",
+                        "triangular"
+                    ],
+                    "answer": "spherical",
+                    "element_type": "shape",
+                    "free_form_vqa": "round",
+                    "multiple_choice_vqa": "rectangular",
+                    "scores": 0
+                },
+                "Is the pedestal cubic?": {
+                    "caption": "A spherical globe on a cubic pedestal",
+                    "element": "cubic",
+                    "question": "Is the pedestal cubic?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        }
+    ]
+}

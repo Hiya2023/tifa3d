@@ -1,0 +1,1306 @@
+{
+    "method": "mvdream",
+    "aspect": "shape",
+    "prompt_name": "A_round_stool_beside_a_rectangular_sofa",
+    "individual_scores": {
+        "rgb_0.png": 0.8571428571428571,
+        "rgb_10.png": 0.8571428571428571,
+        "rgb_20.png": 0.8571428571428571,
+        "rgb_30.png": 0.8571428571428571,
+        "rgb_40.png": 0.8571428571428571,
+        "rgb_50.png": 0.7142857142857143,
+        "rgb_60.png": 0.5714285714285714,
+        "rgb_70.png": 1,
+        "rgb_80.png": 0.8571428571428571,
+        "rgb_90.png": 0.8571428571428571,
+        "rgb_100.png": 0.8571428571428571,
+        "rgb_110.png": 0.8571428571428571
+    },
+    "average_tifa_score": 0.8333333333333333,
+    "question_logs": [
+        {
+            "image": "rgb_0.png",
+            "ques_ans": {
+                "Is there a stool?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "stool",
+                    "question": "Is there a stool?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a sofa?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "sofa",
+                    "question": "Is there a sofa?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the stool round?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "round",
+                    "question": "Is the stool round?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the stool?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "round",
+                    "question": "What shape is the stool?",
+                    "choices": [
+                        "round",
+                        "square",
+                        "triangular",
+                        "oval"
+                    ],
+                    "answer": "round",
+                    "element_type": "shape",
+                    "free_form_vqa": "round",
+                    "multiple_choice_vqa": "round",
+                    "scores": 1
+                },
+                "Is the sofa rectangular?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "rectangular",
+                    "question": "Is the sofa rectangular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What shape is the sofa?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "rectangular",
+                    "question": "What shape is the sofa?",
+                    "choices": [
+                        "rectangular",
+                        "circular",
+                        "square",
+                        "oval"
+                    ],
+                    "answer": "rectangular",
+                    "element_type": "shape",
+                    "free_form_vqa": "l shaped",
+                    "multiple_choice_vqa": "rectangular",
+                    "scores": 1
+                },
+                "Is the stool beside the sofa?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "beside",
+                    "question": "Is the stool beside the sofa?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_10.png",
+            "ques_ans": {
+                "Is there a stool?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "stool",
+                    "question": "Is there a stool?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a sofa?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "sofa",
+                    "question": "Is there a sofa?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the stool round?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "round",
+                    "question": "Is the stool round?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the stool?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "round",
+                    "question": "What shape is the stool?",
+                    "choices": [
+                        "round",
+                        "square",
+                        "triangular",
+                        "oval"
+                    ],
+                    "answer": "round",
+                    "element_type": "shape",
+                    "free_form_vqa": "round",
+                    "multiple_choice_vqa": "round",
+                    "scores": 1
+                },
+                "Is the sofa rectangular?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "rectangular",
+                    "question": "Is the sofa rectangular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What shape is the sofa?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "rectangular",
+                    "question": "What shape is the sofa?",
+                    "choices": [
+                        "rectangular",
+                        "circular",
+                        "square",
+                        "oval"
+                    ],
+                    "answer": "rectangular",
+                    "element_type": "shape",
+                    "free_form_vqa": "l shaped",
+                    "multiple_choice_vqa": "rectangular",
+                    "scores": 1
+                },
+                "Is the stool beside the sofa?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "beside",
+                    "question": "Is the stool beside the sofa?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_20.png",
+            "ques_ans": {
+                "Is there a stool?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "stool",
+                    "question": "Is there a stool?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a sofa?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "sofa",
+                    "question": "Is there a sofa?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the stool round?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "round",
+                    "question": "Is the stool round?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the stool?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "round",
+                    "question": "What shape is the stool?",
+                    "choices": [
+                        "round",
+                        "square",
+                        "triangular",
+                        "oval"
+                    ],
+                    "answer": "round",
+                    "element_type": "shape",
+                    "free_form_vqa": "round",
+                    "multiple_choice_vqa": "round",
+                    "scores": 1
+                },
+                "Is the sofa rectangular?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "rectangular",
+                    "question": "Is the sofa rectangular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What shape is the sofa?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "rectangular",
+                    "question": "What shape is the sofa?",
+                    "choices": [
+                        "rectangular",
+                        "circular",
+                        "square",
+                        "oval"
+                    ],
+                    "answer": "rectangular",
+                    "element_type": "shape",
+                    "free_form_vqa": "l shaped",
+                    "multiple_choice_vqa": "rectangular",
+                    "scores": 1
+                },
+                "Is the stool beside the sofa?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "beside",
+                    "question": "Is the stool beside the sofa?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_30.png",
+            "ques_ans": {
+                "Is there a stool?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "stool",
+                    "question": "Is there a stool?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a sofa?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "sofa",
+                    "question": "Is there a sofa?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the stool round?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "round",
+                    "question": "Is the stool round?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the stool?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "round",
+                    "question": "What shape is the stool?",
+                    "choices": [
+                        "round",
+                        "square",
+                        "triangular",
+                        "oval"
+                    ],
+                    "answer": "round",
+                    "element_type": "shape",
+                    "free_form_vqa": "round",
+                    "multiple_choice_vqa": "round",
+                    "scores": 1
+                },
+                "Is the sofa rectangular?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "rectangular",
+                    "question": "Is the sofa rectangular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What shape is the sofa?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "rectangular",
+                    "question": "What shape is the sofa?",
+                    "choices": [
+                        "rectangular",
+                        "circular",
+                        "square",
+                        "oval"
+                    ],
+                    "answer": "rectangular",
+                    "element_type": "shape",
+                    "free_form_vqa": "l shaped",
+                    "multiple_choice_vqa": "rectangular",
+                    "scores": 1
+                },
+                "Is the stool beside the sofa?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "beside",
+                    "question": "Is the stool beside the sofa?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_40.png",
+            "ques_ans": {
+                "Is there a stool?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "stool",
+                    "question": "Is there a stool?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a sofa?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "sofa",
+                    "question": "Is there a sofa?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the stool round?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "round",
+                    "question": "Is the stool round?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the stool?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "round",
+                    "question": "What shape is the stool?",
+                    "choices": [
+                        "round",
+                        "square",
+                        "triangular",
+                        "oval"
+                    ],
+                    "answer": "round",
+                    "element_type": "shape",
+                    "free_form_vqa": "round",
+                    "multiple_choice_vqa": "round",
+                    "scores": 1
+                },
+                "Is the sofa rectangular?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "rectangular",
+                    "question": "Is the sofa rectangular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What shape is the sofa?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "rectangular",
+                    "question": "What shape is the sofa?",
+                    "choices": [
+                        "rectangular",
+                        "circular",
+                        "square",
+                        "oval"
+                    ],
+                    "answer": "rectangular",
+                    "element_type": "shape",
+                    "free_form_vqa": "l shaped",
+                    "multiple_choice_vqa": "rectangular",
+                    "scores": 1
+                },
+                "Is the stool beside the sofa?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "beside",
+                    "question": "Is the stool beside the sofa?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_50.png",
+            "ques_ans": {
+                "Is there a stool?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "stool",
+                    "question": "Is there a stool?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is there a sofa?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "sofa",
+                    "question": "Is there a sofa?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the stool round?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "round",
+                    "question": "Is the stool round?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the stool?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "round",
+                    "question": "What shape is the stool?",
+                    "choices": [
+                        "round",
+                        "square",
+                        "triangular",
+                        "oval"
+                    ],
+                    "answer": "round",
+                    "element_type": "shape",
+                    "free_form_vqa": "circle",
+                    "multiple_choice_vqa": "round",
+                    "scores": 1
+                },
+                "Is the sofa rectangular?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "rectangular",
+                    "question": "Is the sofa rectangular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What shape is the sofa?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "rectangular",
+                    "question": "What shape is the sofa?",
+                    "choices": [
+                        "rectangular",
+                        "circular",
+                        "square",
+                        "oval"
+                    ],
+                    "answer": "rectangular",
+                    "element_type": "shape",
+                    "free_form_vqa": "l shaped",
+                    "multiple_choice_vqa": "rectangular",
+                    "scores": 1
+                },
+                "Is the stool beside the sofa?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "beside",
+                    "question": "Is the stool beside the sofa?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_60.png",
+            "ques_ans": {
+                "Is there a stool?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "stool",
+                    "question": "Is there a stool?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is there a sofa?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "sofa",
+                    "question": "Is there a sofa?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the stool round?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "round",
+                    "question": "Is the stool round?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What shape is the stool?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "round",
+                    "question": "What shape is the stool?",
+                    "choices": [
+                        "round",
+                        "square",
+                        "triangular",
+                        "oval"
+                    ],
+                    "answer": "round",
+                    "element_type": "shape",
+                    "free_form_vqa": "square",
+                    "multiple_choice_vqa": "square",
+                    "scores": 0
+                },
+                "Is the sofa rectangular?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "rectangular",
+                    "question": "Is the sofa rectangular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the sofa?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "rectangular",
+                    "question": "What shape is the sofa?",
+                    "choices": [
+                        "rectangular",
+                        "circular",
+                        "square",
+                        "oval"
+                    ],
+                    "answer": "rectangular",
+                    "element_type": "shape",
+                    "free_form_vqa": "l shaped",
+                    "multiple_choice_vqa": "rectangular",
+                    "scores": 1
+                },
+                "Is the stool beside the sofa?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "beside",
+                    "question": "Is the stool beside the sofa?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_70.png",
+            "ques_ans": {
+                "Is there a stool?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "stool",
+                    "question": "Is there a stool?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a sofa?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "sofa",
+                    "question": "Is there a sofa?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the stool round?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "round",
+                    "question": "Is the stool round?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the stool?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "round",
+                    "question": "What shape is the stool?",
+                    "choices": [
+                        "round",
+                        "square",
+                        "triangular",
+                        "oval"
+                    ],
+                    "answer": "round",
+                    "element_type": "shape",
+                    "free_form_vqa": "round",
+                    "multiple_choice_vqa": "round",
+                    "scores": 1
+                },
+                "Is the sofa rectangular?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "rectangular",
+                    "question": "Is the sofa rectangular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the sofa?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "rectangular",
+                    "question": "What shape is the sofa?",
+                    "choices": [
+                        "rectangular",
+                        "circular",
+                        "square",
+                        "oval"
+                    ],
+                    "answer": "rectangular",
+                    "element_type": "shape",
+                    "free_form_vqa": "l shaped",
+                    "multiple_choice_vqa": "rectangular",
+                    "scores": 1
+                },
+                "Is the stool beside the sofa?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "beside",
+                    "question": "Is the stool beside the sofa?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_80.png",
+            "ques_ans": {
+                "Is there a stool?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "stool",
+                    "question": "Is there a stool?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a sofa?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "sofa",
+                    "question": "Is there a sofa?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the stool round?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "round",
+                    "question": "Is the stool round?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the stool?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "round",
+                    "question": "What shape is the stool?",
+                    "choices": [
+                        "round",
+                        "square",
+                        "triangular",
+                        "oval"
+                    ],
+                    "answer": "round",
+                    "element_type": "shape",
+                    "free_form_vqa": "round",
+                    "multiple_choice_vqa": "round",
+                    "scores": 1
+                },
+                "Is the sofa rectangular?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "rectangular",
+                    "question": "Is the sofa rectangular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What shape is the sofa?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "rectangular",
+                    "question": "What shape is the sofa?",
+                    "choices": [
+                        "rectangular",
+                        "circular",
+                        "square",
+                        "oval"
+                    ],
+                    "answer": "rectangular",
+                    "element_type": "shape",
+                    "free_form_vqa": "rectangle",
+                    "multiple_choice_vqa": "rectangular",
+                    "scores": 1
+                },
+                "Is the stool beside the sofa?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "beside",
+                    "question": "Is the stool beside the sofa?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_90.png",
+            "ques_ans": {
+                "Is there a stool?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "stool",
+                    "question": "Is there a stool?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a sofa?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "sofa",
+                    "question": "Is there a sofa?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the stool round?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "round",
+                    "question": "Is the stool round?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the stool?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "round",
+                    "question": "What shape is the stool?",
+                    "choices": [
+                        "round",
+                        "square",
+                        "triangular",
+                        "oval"
+                    ],
+                    "answer": "round",
+                    "element_type": "shape",
+                    "free_form_vqa": "round",
+                    "multiple_choice_vqa": "round",
+                    "scores": 1
+                },
+                "Is the sofa rectangular?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "rectangular",
+                    "question": "Is the sofa rectangular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What shape is the sofa?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "rectangular",
+                    "question": "What shape is the sofa?",
+                    "choices": [
+                        "rectangular",
+                        "circular",
+                        "square",
+                        "oval"
+                    ],
+                    "answer": "rectangular",
+                    "element_type": "shape",
+                    "free_form_vqa": "l shaped",
+                    "multiple_choice_vqa": "rectangular",
+                    "scores": 1
+                },
+                "Is the stool beside the sofa?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "beside",
+                    "question": "Is the stool beside the sofa?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_100.png",
+            "ques_ans": {
+                "Is there a stool?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "stool",
+                    "question": "Is there a stool?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a sofa?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "sofa",
+                    "question": "Is there a sofa?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the stool round?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "round",
+                    "question": "Is the stool round?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the stool?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "round",
+                    "question": "What shape is the stool?",
+                    "choices": [
+                        "round",
+                        "square",
+                        "triangular",
+                        "oval"
+                    ],
+                    "answer": "round",
+                    "element_type": "shape",
+                    "free_form_vqa": "round",
+                    "multiple_choice_vqa": "round",
+                    "scores": 1
+                },
+                "Is the sofa rectangular?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "rectangular",
+                    "question": "Is the sofa rectangular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What shape is the sofa?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "rectangular",
+                    "question": "What shape is the sofa?",
+                    "choices": [
+                        "rectangular",
+                        "circular",
+                        "square",
+                        "oval"
+                    ],
+                    "answer": "rectangular",
+                    "element_type": "shape",
+                    "free_form_vqa": "l shaped",
+                    "multiple_choice_vqa": "rectangular",
+                    "scores": 1
+                },
+                "Is the stool beside the sofa?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "beside",
+                    "question": "Is the stool beside the sofa?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_110.png",
+            "ques_ans": {
+                "Is there a stool?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "stool",
+                    "question": "Is there a stool?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a sofa?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "sofa",
+                    "question": "Is there a sofa?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the stool round?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "round",
+                    "question": "Is the stool round?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the stool?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "round",
+                    "question": "What shape is the stool?",
+                    "choices": [
+                        "round",
+                        "square",
+                        "triangular",
+                        "oval"
+                    ],
+                    "answer": "round",
+                    "element_type": "shape",
+                    "free_form_vqa": "round",
+                    "multiple_choice_vqa": "round",
+                    "scores": 1
+                },
+                "Is the sofa rectangular?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "rectangular",
+                    "question": "Is the sofa rectangular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What shape is the sofa?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "rectangular",
+                    "question": "What shape is the sofa?",
+                    "choices": [
+                        "rectangular",
+                        "circular",
+                        "square",
+                        "oval"
+                    ],
+                    "answer": "rectangular",
+                    "element_type": "shape",
+                    "free_form_vqa": "l shaped",
+                    "multiple_choice_vqa": "rectangular",
+                    "scores": 1
+                },
+                "Is the stool beside the sofa?": {
+                    "caption": "A round stool beside a rectangular sofa",
+                    "element": "beside",
+                    "question": "Is the stool beside the sofa?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        }
+    ]
+}

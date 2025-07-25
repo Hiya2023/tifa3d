@@ -1,0 +1,170 @@
+[
+    {
+        "caption": "A contemporary Chinese teapot on a traditional Persian table",
+        "element": "teapot",
+        "question": "Is there a teapot?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "A contemporary Chinese teapot on a traditional Persian table",
+        "element": "teapot",
+        "question": "What type of object is shown?",
+        "choices": [
+            "teapot",
+            "vase",
+            "cup",
+            "kettle"
+        ],
+        "answer": "teapot",
+        "element_type": "object"
+    },
+    {
+        "caption": "A contemporary Chinese teapot on a traditional Persian table",
+        "element": "table",
+        "question": "Is there a table?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "A contemporary Chinese teapot on a traditional Persian table",
+        "element": "table",
+        "question": "What piece of furniture is shown?",
+        "choices": [
+            "table",
+            "chair",
+            "sofa",
+            "bed"
+        ],
+        "answer": "table",
+        "element_type": "object"
+    },
+    {
+        "caption": "A contemporary Chinese teapot on a traditional Persian table",
+        "element": "contemporary",
+        "question": "Is the teapot contemporary?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "attribute"
+    },
+    {
+        "caption": "A contemporary Chinese teapot on a traditional Persian table",
+        "element": "contemporary",
+        "question": "How would you describe the teapot\u2019s style?",
+        "choices": [
+            "contemporary",
+            "vintage",
+            "rustic",
+            "classic"
+        ],
+        "answer": "contemporary",
+        "element_type": "attribute"
+    },
+    {
+        "caption": "A contemporary Chinese teapot on a traditional Persian table",
+        "element": "Chinese",
+        "question": "Is the teapot Chinese?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "attribute"
+    },
+    {
+        "caption": "A contemporary Chinese teapot on a traditional Persian table",
+        "element": "Chinese",
+        "question": "What is the cultural style of the teapot?",
+        "choices": [
+            "Chinese",
+            "Japanese",
+            "Indian",
+            "Italian"
+        ],
+        "answer": "Chinese",
+        "element_type": "attribute"
+    },
+    {
+        "caption": "A contemporary Chinese teapot on a traditional Persian table",
+        "element": "traditional",
+        "question": "Is the table traditional?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "attribute"
+    },
+    {
+        "caption": "A contemporary Chinese teapot on a traditional Persian table",
+        "element": "traditional",
+        "question": "How would you describe the table\u2019s style?",
+        "choices": [
+            "traditional",
+            "modern",
+            "minimalist",
+            "futuristic"
+        ],
+        "answer": "traditional",
+        "element_type": "attribute"
+    },
+    {
+        "caption": "A contemporary Chinese teapot on a traditional Persian table",
+        "element": "Persian",
+        "question": "Is the table Persian?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "attribute"
+    },
+    {
+        "caption": "A contemporary Chinese teapot on a traditional Persian table",
+        "element": "Persian",
+        "question": "What is the cultural style of the table?",
+        "choices": [
+            "Persian",
+            "Chinese",
+            "Indian",
+            "Greek"
+        ],
+        "answer": "Persian",
+        "element_type": "attribute"
+    },
+    {
+        "caption": "A contemporary Chinese teapot on a traditional Persian table",
+        "element": "on",
+        "question": "Is the teapot on the table?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "spatial"
+    },
+    {
+        "caption": "A contemporary Chinese teapot on a traditional Persian table",
+        "element": "on",
+        "question": "What is the spatial relation between the teapot and the table?",
+        "choices": [
+            "on",
+            "under",
+            "beside",
+            "behind"
+        ],
+        "answer": "on",
+        "element_type": "spatial"
+    }
+]

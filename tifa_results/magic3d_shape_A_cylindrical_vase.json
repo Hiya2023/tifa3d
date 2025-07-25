@@ -1,0 +1,610 @@
+{
+    "method": "magic3d",
+    "aspect": "shape",
+    "prompt_name": "A_cylindrical_vase",
+    "individual_scores": {
+        "rgb_0.png": 0.6666666666666666,
+        "rgb_10.png": 0.6666666666666666,
+        "rgb_20.png": 0.6666666666666666,
+        "rgb_30.png": 0.6666666666666666,
+        "rgb_40.png": 0.6666666666666666,
+        "rgb_50.png": 0.6666666666666666,
+        "rgb_60.png": 0.6666666666666666,
+        "rgb_70.png": 0.6666666666666666,
+        "rgb_80.png": 0.6666666666666666,
+        "rgb_90.png": 0.6666666666666666,
+        "rgb_100.png": 0.6666666666666666,
+        "rgb_110.png": 0.6666666666666666
+    },
+    "average_tifa_score": 0.6666666666666666,
+    "question_logs": [
+        {
+            "image": "rgb_0.png",
+            "ques_ans": {
+                "Is this a vase?": {
+                    "caption": "A cylindrical vase",
+                    "element": "vase",
+                    "question": "Is this a vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the vase cylindrical?": {
+                    "caption": "A cylindrical vase",
+                    "element": "cylindrical",
+                    "question": "Is the vase cylindrical?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the vase?": {
+                    "caption": "A cylindrical vase",
+                    "element": "cylindrical",
+                    "question": "What shape is the vase?",
+                    "choices": [
+                        "cylindrical",
+                        "spherical",
+                        "square",
+                        "triangular"
+                    ],
+                    "answer": "cylindrical",
+                    "element_type": "shape",
+                    "free_form_vqa": "round",
+                    "multiple_choice_vqa": "square",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_10.png",
+            "ques_ans": {
+                "Is this a vase?": {
+                    "caption": "A cylindrical vase",
+                    "element": "vase",
+                    "question": "Is this a vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the vase cylindrical?": {
+                    "caption": "A cylindrical vase",
+                    "element": "cylindrical",
+                    "question": "Is the vase cylindrical?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the vase?": {
+                    "caption": "A cylindrical vase",
+                    "element": "cylindrical",
+                    "question": "What shape is the vase?",
+                    "choices": [
+                        "cylindrical",
+                        "spherical",
+                        "square",
+                        "triangular"
+                    ],
+                    "answer": "cylindrical",
+                    "element_type": "shape",
+                    "free_form_vqa": "round",
+                    "multiple_choice_vqa": "square",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_20.png",
+            "ques_ans": {
+                "Is this a vase?": {
+                    "caption": "A cylindrical vase",
+                    "element": "vase",
+                    "question": "Is this a vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the vase cylindrical?": {
+                    "caption": "A cylindrical vase",
+                    "element": "cylindrical",
+                    "question": "Is the vase cylindrical?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the vase?": {
+                    "caption": "A cylindrical vase",
+                    "element": "cylindrical",
+                    "question": "What shape is the vase?",
+                    "choices": [
+                        "cylindrical",
+                        "spherical",
+                        "square",
+                        "triangular"
+                    ],
+                    "answer": "cylindrical",
+                    "element_type": "shape",
+                    "free_form_vqa": "round",
+                    "multiple_choice_vqa": "square",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_30.png",
+            "ques_ans": {
+                "Is this a vase?": {
+                    "caption": "A cylindrical vase",
+                    "element": "vase",
+                    "question": "Is this a vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the vase cylindrical?": {
+                    "caption": "A cylindrical vase",
+                    "element": "cylindrical",
+                    "question": "Is the vase cylindrical?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the vase?": {
+                    "caption": "A cylindrical vase",
+                    "element": "cylindrical",
+                    "question": "What shape is the vase?",
+                    "choices": [
+                        "cylindrical",
+                        "spherical",
+                        "square",
+                        "triangular"
+                    ],
+                    "answer": "cylindrical",
+                    "element_type": "shape",
+                    "free_form_vqa": "round",
+                    "multiple_choice_vqa": "square",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_40.png",
+            "ques_ans": {
+                "Is this a vase?": {
+                    "caption": "A cylindrical vase",
+                    "element": "vase",
+                    "question": "Is this a vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the vase cylindrical?": {
+                    "caption": "A cylindrical vase",
+                    "element": "cylindrical",
+                    "question": "Is the vase cylindrical?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the vase?": {
+                    "caption": "A cylindrical vase",
+                    "element": "cylindrical",
+                    "question": "What shape is the vase?",
+                    "choices": [
+                        "cylindrical",
+                        "spherical",
+                        "square",
+                        "triangular"
+                    ],
+                    "answer": "cylindrical",
+                    "element_type": "shape",
+                    "free_form_vqa": "round",
+                    "multiple_choice_vqa": "square",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_50.png",
+            "ques_ans": {
+                "Is this a vase?": {
+                    "caption": "A cylindrical vase",
+                    "element": "vase",
+                    "question": "Is this a vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the vase cylindrical?": {
+                    "caption": "A cylindrical vase",
+                    "element": "cylindrical",
+                    "question": "Is the vase cylindrical?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the vase?": {
+                    "caption": "A cylindrical vase",
+                    "element": "cylindrical",
+                    "question": "What shape is the vase?",
+                    "choices": [
+                        "cylindrical",
+                        "spherical",
+                        "square",
+                        "triangular"
+                    ],
+                    "answer": "cylindrical",
+                    "element_type": "shape",
+                    "free_form_vqa": "round",
+                    "multiple_choice_vqa": "square",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_60.png",
+            "ques_ans": {
+                "Is this a vase?": {
+                    "caption": "A cylindrical vase",
+                    "element": "vase",
+                    "question": "Is this a vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the vase cylindrical?": {
+                    "caption": "A cylindrical vase",
+                    "element": "cylindrical",
+                    "question": "Is the vase cylindrical?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the vase?": {
+                    "caption": "A cylindrical vase",
+                    "element": "cylindrical",
+                    "question": "What shape is the vase?",
+                    "choices": [
+                        "cylindrical",
+                        "spherical",
+                        "square",
+                        "triangular"
+                    ],
+                    "answer": "cylindrical",
+                    "element_type": "shape",
+                    "free_form_vqa": "round",
+                    "multiple_choice_vqa": "square",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_70.png",
+            "ques_ans": {
+                "Is this a vase?": {
+                    "caption": "A cylindrical vase",
+                    "element": "vase",
+                    "question": "Is this a vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the vase cylindrical?": {
+                    "caption": "A cylindrical vase",
+                    "element": "cylindrical",
+                    "question": "Is the vase cylindrical?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the vase?": {
+                    "caption": "A cylindrical vase",
+                    "element": "cylindrical",
+                    "question": "What shape is the vase?",
+                    "choices": [
+                        "cylindrical",
+                        "spherical",
+                        "square",
+                        "triangular"
+                    ],
+                    "answer": "cylindrical",
+                    "element_type": "shape",
+                    "free_form_vqa": "round",
+                    "multiple_choice_vqa": "square",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_80.png",
+            "ques_ans": {
+                "Is this a vase?": {
+                    "caption": "A cylindrical vase",
+                    "element": "vase",
+                    "question": "Is this a vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the vase cylindrical?": {
+                    "caption": "A cylindrical vase",
+                    "element": "cylindrical",
+                    "question": "Is the vase cylindrical?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the vase?": {
+                    "caption": "A cylindrical vase",
+                    "element": "cylindrical",
+                    "question": "What shape is the vase?",
+                    "choices": [
+                        "cylindrical",
+                        "spherical",
+                        "square",
+                        "triangular"
+                    ],
+                    "answer": "cylindrical",
+                    "element_type": "shape",
+                    "free_form_vqa": "round",
+                    "multiple_choice_vqa": "square",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_90.png",
+            "ques_ans": {
+                "Is this a vase?": {
+                    "caption": "A cylindrical vase",
+                    "element": "vase",
+                    "question": "Is this a vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the vase cylindrical?": {
+                    "caption": "A cylindrical vase",
+                    "element": "cylindrical",
+                    "question": "Is the vase cylindrical?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the vase?": {
+                    "caption": "A cylindrical vase",
+                    "element": "cylindrical",
+                    "question": "What shape is the vase?",
+                    "choices": [
+                        "cylindrical",
+                        "spherical",
+                        "square",
+                        "triangular"
+                    ],
+                    "answer": "cylindrical",
+                    "element_type": "shape",
+                    "free_form_vqa": "round",
+                    "multiple_choice_vqa": "square",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_100.png",
+            "ques_ans": {
+                "Is this a vase?": {
+                    "caption": "A cylindrical vase",
+                    "element": "vase",
+                    "question": "Is this a vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the vase cylindrical?": {
+                    "caption": "A cylindrical vase",
+                    "element": "cylindrical",
+                    "question": "Is the vase cylindrical?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the vase?": {
+                    "caption": "A cylindrical vase",
+                    "element": "cylindrical",
+                    "question": "What shape is the vase?",
+                    "choices": [
+                        "cylindrical",
+                        "spherical",
+                        "square",
+                        "triangular"
+                    ],
+                    "answer": "cylindrical",
+                    "element_type": "shape",
+                    "free_form_vqa": "round",
+                    "multiple_choice_vqa": "square",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_110.png",
+            "ques_ans": {
+                "Is this a vase?": {
+                    "caption": "A cylindrical vase",
+                    "element": "vase",
+                    "question": "Is this a vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the vase cylindrical?": {
+                    "caption": "A cylindrical vase",
+                    "element": "cylindrical",
+                    "question": "Is the vase cylindrical?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the vase?": {
+                    "caption": "A cylindrical vase",
+                    "element": "cylindrical",
+                    "question": "What shape is the vase?",
+                    "choices": [
+                        "cylindrical",
+                        "spherical",
+                        "square",
+                        "triangular"
+                    ],
+                    "answer": "cylindrical",
+                    "element_type": "shape",
+                    "free_form_vqa": "round",
+                    "multiple_choice_vqa": "square",
+                    "scores": 0
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+[
+    {
+        "caption": "A modern Scandinavian chair",
+        "element": "chair",
+        "question": "Is this a chair?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "A modern Scandinavian chair",
+        "element": "chair",
+        "question": "What type of furniture is shown?",
+        "choices": [
+            "chair",
+            "table",
+            "sofa",
+            "bed"
+        ],
+        "answer": "chair",
+        "element_type": "object"
+    },
+    {
+        "caption": "A modern Scandinavian chair",
+        "element": "modern",
+        "question": "Is the chair modern?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "attribute"
+    },
+    {
+        "caption": "A modern Scandinavian chair",
+        "element": "modern",
+        "question": "How would you describe the chair\u2019s style?",
+        "choices": [
+            "modern",
+            "rustic",
+            "vintage",
+            "traditional"
+        ],
+        "answer": "modern",
+        "element_type": "attribute"
+    },
+    {
+        "caption": "A modern Scandinavian chair",
+        "element": "Scandinavian",
+        "question": "Is the chair Scandinavian?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "attribute"
+    },
+    {
+        "caption": "A modern Scandinavian chair",
+        "element": "Scandinavian",
+        "question": "What is the cultural style of the chair?",
+        "choices": [
+            "Scandinavian",
+            "Italian",
+            "Japanese",
+            "American"
+        ],
+        "answer": "Scandinavian",
+        "element_type": "attribute"
+    }
+]

@@ -1,0 +1,946 @@
+{
+    "method": "latentnerf",
+    "aspect": "style",
+    "prompt_name": "A_vintage_French_teapot_with_intricate_designs",
+    "individual_scores": {
+        "rgb_0.png": 0.8,
+        "rgb_10.png": 0.8,
+        "rgb_20.png": 0.8,
+        "rgb_30.png": 0.8,
+        "rgb_40.png": 0.8,
+        "rgb_50.png": 0.8,
+        "rgb_60.png": 0.8,
+        "rgb_70.png": 0.8,
+        "rgb_80.png": 0.8,
+        "rgb_90.png": 0.8,
+        "rgb_100.png": 0.8,
+        "rgb_110.png": 0.8
+    },
+    "average_tifa_score": 0.8,
+    "question_logs": [
+        {
+            "image": "rgb_0.png",
+            "ques_ans": {
+                "Is this a teapot?": {
+                    "caption": "A vintage French teapot with intricate designs",
+                    "element": "teapot",
+                    "question": "Is this a teapot?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot vintage?": {
+                    "caption": "A vintage French teapot with intricate designs",
+                    "element": "vintage",
+                    "question": "Is the teapot vintage?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot French?": {
+                    "caption": "A vintage French teapot with intricate designs",
+                    "element": "French",
+                    "question": "Is the teapot French?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Does the teapot have intricate designs?": {
+                    "caption": "A vintage French teapot with intricate designs",
+                    "element": "intricate designs",
+                    "question": "Does the teapot have intricate designs?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What kind of designs does the teapot have?": {
+                    "caption": "A vintage French teapot with intricate designs",
+                    "element": "intricate designs",
+                    "question": "What kind of designs does the teapot have?",
+                    "choices": [
+                        "intricate",
+                        "simple",
+                        "geometric",
+                        "plain"
+                    ],
+                    "answer": "intricate",
+                    "element_type": "attribute",
+                    "free_form_vqa": "floral",
+                    "multiple_choice_vqa": "intricate",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_10.png",
+            "ques_ans": {
+                "Is this a teapot?": {
+                    "caption": "A vintage French teapot with intricate designs",
+                    "element": "teapot",
+                    "question": "Is this a teapot?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot vintage?": {
+                    "caption": "A vintage French teapot with intricate designs",
+                    "element": "vintage",
+                    "question": "Is the teapot vintage?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot French?": {
+                    "caption": "A vintage French teapot with intricate designs",
+                    "element": "French",
+                    "question": "Is the teapot French?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Does the teapot have intricate designs?": {
+                    "caption": "A vintage French teapot with intricate designs",
+                    "element": "intricate designs",
+                    "question": "Does the teapot have intricate designs?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What kind of designs does the teapot have?": {
+                    "caption": "A vintage French teapot with intricate designs",
+                    "element": "intricate designs",
+                    "question": "What kind of designs does the teapot have?",
+                    "choices": [
+                        "intricate",
+                        "simple",
+                        "geometric",
+                        "plain"
+                    ],
+                    "answer": "intricate",
+                    "element_type": "attribute",
+                    "free_form_vqa": "floral",
+                    "multiple_choice_vqa": "intricate",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_20.png",
+            "ques_ans": {
+                "Is this a teapot?": {
+                    "caption": "A vintage French teapot with intricate designs",
+                    "element": "teapot",
+                    "question": "Is this a teapot?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot vintage?": {
+                    "caption": "A vintage French teapot with intricate designs",
+                    "element": "vintage",
+                    "question": "Is the teapot vintage?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot French?": {
+                    "caption": "A vintage French teapot with intricate designs",
+                    "element": "French",
+                    "question": "Is the teapot French?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Does the teapot have intricate designs?": {
+                    "caption": "A vintage French teapot with intricate designs",
+                    "element": "intricate designs",
+                    "question": "Does the teapot have intricate designs?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What kind of designs does the teapot have?": {
+                    "caption": "A vintage French teapot with intricate designs",
+                    "element": "intricate designs",
+                    "question": "What kind of designs does the teapot have?",
+                    "choices": [
+                        "intricate",
+                        "simple",
+                        "geometric",
+                        "plain"
+                    ],
+                    "answer": "intricate",
+                    "element_type": "attribute",
+                    "free_form_vqa": "floral",
+                    "multiple_choice_vqa": "intricate",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_30.png",
+            "ques_ans": {
+                "Is this a teapot?": {
+                    "caption": "A vintage French teapot with intricate designs",
+                    "element": "teapot",
+                    "question": "Is this a teapot?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot vintage?": {
+                    "caption": "A vintage French teapot with intricate designs",
+                    "element": "vintage",
+                    "question": "Is the teapot vintage?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot French?": {
+                    "caption": "A vintage French teapot with intricate designs",
+                    "element": "French",
+                    "question": "Is the teapot French?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Does the teapot have intricate designs?": {
+                    "caption": "A vintage French teapot with intricate designs",
+                    "element": "intricate designs",
+                    "question": "Does the teapot have intricate designs?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What kind of designs does the teapot have?": {
+                    "caption": "A vintage French teapot with intricate designs",
+                    "element": "intricate designs",
+                    "question": "What kind of designs does the teapot have?",
+                    "choices": [
+                        "intricate",
+                        "simple",
+                        "geometric",
+                        "plain"
+                    ],
+                    "answer": "intricate",
+                    "element_type": "attribute",
+                    "free_form_vqa": "floral",
+                    "multiple_choice_vqa": "intricate",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_40.png",
+            "ques_ans": {
+                "Is this a teapot?": {
+                    "caption": "A vintage French teapot with intricate designs",
+                    "element": "teapot",
+                    "question": "Is this a teapot?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot vintage?": {
+                    "caption": "A vintage French teapot with intricate designs",
+                    "element": "vintage",
+                    "question": "Is the teapot vintage?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot French?": {
+                    "caption": "A vintage French teapot with intricate designs",
+                    "element": "French",
+                    "question": "Is the teapot French?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Does the teapot have intricate designs?": {
+                    "caption": "A vintage French teapot with intricate designs",
+                    "element": "intricate designs",
+                    "question": "Does the teapot have intricate designs?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What kind of designs does the teapot have?": {
+                    "caption": "A vintage French teapot with intricate designs",
+                    "element": "intricate designs",
+                    "question": "What kind of designs does the teapot have?",
+                    "choices": [
+                        "intricate",
+                        "simple",
+                        "geometric",
+                        "plain"
+                    ],
+                    "answer": "intricate",
+                    "element_type": "attribute",
+                    "free_form_vqa": "floral",
+                    "multiple_choice_vqa": "intricate",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_50.png",
+            "ques_ans": {
+                "Is this a teapot?": {
+                    "caption": "A vintage French teapot with intricate designs",
+                    "element": "teapot",
+                    "question": "Is this a teapot?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot vintage?": {
+                    "caption": "A vintage French teapot with intricate designs",
+                    "element": "vintage",
+                    "question": "Is the teapot vintage?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot French?": {
+                    "caption": "A vintage French teapot with intricate designs",
+                    "element": "French",
+                    "question": "Is the teapot French?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Does the teapot have intricate designs?": {
+                    "caption": "A vintage French teapot with intricate designs",
+                    "element": "intricate designs",
+                    "question": "Does the teapot have intricate designs?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What kind of designs does the teapot have?": {
+                    "caption": "A vintage French teapot with intricate designs",
+                    "element": "intricate designs",
+                    "question": "What kind of designs does the teapot have?",
+                    "choices": [
+                        "intricate",
+                        "simple",
+                        "geometric",
+                        "plain"
+                    ],
+                    "answer": "intricate",
+                    "element_type": "attribute",
+                    "free_form_vqa": "floral",
+                    "multiple_choice_vqa": "intricate",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_60.png",
+            "ques_ans": {
+                "Is this a teapot?": {
+                    "caption": "A vintage French teapot with intricate designs",
+                    "element": "teapot",
+                    "question": "Is this a teapot?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot vintage?": {
+                    "caption": "A vintage French teapot with intricate designs",
+                    "element": "vintage",
+                    "question": "Is the teapot vintage?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot French?": {
+                    "caption": "A vintage French teapot with intricate designs",
+                    "element": "French",
+                    "question": "Is the teapot French?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Does the teapot have intricate designs?": {
+                    "caption": "A vintage French teapot with intricate designs",
+                    "element": "intricate designs",
+                    "question": "Does the teapot have intricate designs?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What kind of designs does the teapot have?": {
+                    "caption": "A vintage French teapot with intricate designs",
+                    "element": "intricate designs",
+                    "question": "What kind of designs does the teapot have?",
+                    "choices": [
+                        "intricate",
+                        "simple",
+                        "geometric",
+                        "plain"
+                    ],
+                    "answer": "intricate",
+                    "element_type": "attribute",
+                    "free_form_vqa": "floral",
+                    "multiple_choice_vqa": "intricate",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_70.png",
+            "ques_ans": {
+                "Is this a teapot?": {
+                    "caption": "A vintage French teapot with intricate designs",
+                    "element": "teapot",
+                    "question": "Is this a teapot?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot vintage?": {
+                    "caption": "A vintage French teapot with intricate designs",
+                    "element": "vintage",
+                    "question": "Is the teapot vintage?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot French?": {
+                    "caption": "A vintage French teapot with intricate designs",
+                    "element": "French",
+                    "question": "Is the teapot French?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Does the teapot have intricate designs?": {
+                    "caption": "A vintage French teapot with intricate designs",
+                    "element": "intricate designs",
+                    "question": "Does the teapot have intricate designs?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What kind of designs does the teapot have?": {
+                    "caption": "A vintage French teapot with intricate designs",
+                    "element": "intricate designs",
+                    "question": "What kind of designs does the teapot have?",
+                    "choices": [
+                        "intricate",
+                        "simple",
+                        "geometric",
+                        "plain"
+                    ],
+                    "answer": "intricate",
+                    "element_type": "attribute",
+                    "free_form_vqa": "floral",
+                    "multiple_choice_vqa": "intricate",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_80.png",
+            "ques_ans": {
+                "Is this a teapot?": {
+                    "caption": "A vintage French teapot with intricate designs",
+                    "element": "teapot",
+                    "question": "Is this a teapot?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot vintage?": {
+                    "caption": "A vintage French teapot with intricate designs",
+                    "element": "vintage",
+                    "question": "Is the teapot vintage?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot French?": {
+                    "caption": "A vintage French teapot with intricate designs",
+                    "element": "French",
+                    "question": "Is the teapot French?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Does the teapot have intricate designs?": {
+                    "caption": "A vintage French teapot with intricate designs",
+                    "element": "intricate designs",
+                    "question": "Does the teapot have intricate designs?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What kind of designs does the teapot have?": {
+                    "caption": "A vintage French teapot with intricate designs",
+                    "element": "intricate designs",
+                    "question": "What kind of designs does the teapot have?",
+                    "choices": [
+                        "intricate",
+                        "simple",
+                        "geometric",
+                        "plain"
+                    ],
+                    "answer": "intricate",
+                    "element_type": "attribute",
+                    "free_form_vqa": "floral",
+                    "multiple_choice_vqa": "intricate",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_90.png",
+            "ques_ans": {
+                "Is this a teapot?": {
+                    "caption": "A vintage French teapot with intricate designs",
+                    "element": "teapot",
+                    "question": "Is this a teapot?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot vintage?": {
+                    "caption": "A vintage French teapot with intricate designs",
+                    "element": "vintage",
+                    "question": "Is the teapot vintage?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot French?": {
+                    "caption": "A vintage French teapot with intricate designs",
+                    "element": "French",
+                    "question": "Is the teapot French?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Does the teapot have intricate designs?": {
+                    "caption": "A vintage French teapot with intricate designs",
+                    "element": "intricate designs",
+                    "question": "Does the teapot have intricate designs?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What kind of designs does the teapot have?": {
+                    "caption": "A vintage French teapot with intricate designs",
+                    "element": "intricate designs",
+                    "question": "What kind of designs does the teapot have?",
+                    "choices": [
+                        "intricate",
+                        "simple",
+                        "geometric",
+                        "plain"
+                    ],
+                    "answer": "intricate",
+                    "element_type": "attribute",
+                    "free_form_vqa": "floral",
+                    "multiple_choice_vqa": "intricate",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_100.png",
+            "ques_ans": {
+                "Is this a teapot?": {
+                    "caption": "A vintage French teapot with intricate designs",
+                    "element": "teapot",
+                    "question": "Is this a teapot?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot vintage?": {
+                    "caption": "A vintage French teapot with intricate designs",
+                    "element": "vintage",
+                    "question": "Is the teapot vintage?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot French?": {
+                    "caption": "A vintage French teapot with intricate designs",
+                    "element": "French",
+                    "question": "Is the teapot French?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Does the teapot have intricate designs?": {
+                    "caption": "A vintage French teapot with intricate designs",
+                    "element": "intricate designs",
+                    "question": "Does the teapot have intricate designs?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What kind of designs does the teapot have?": {
+                    "caption": "A vintage French teapot with intricate designs",
+                    "element": "intricate designs",
+                    "question": "What kind of designs does the teapot have?",
+                    "choices": [
+                        "intricate",
+                        "simple",
+                        "geometric",
+                        "plain"
+                    ],
+                    "answer": "intricate",
+                    "element_type": "attribute",
+                    "free_form_vqa": "floral",
+                    "multiple_choice_vqa": "intricate",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_110.png",
+            "ques_ans": {
+                "Is this a teapot?": {
+                    "caption": "A vintage French teapot with intricate designs",
+                    "element": "teapot",
+                    "question": "Is this a teapot?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot vintage?": {
+                    "caption": "A vintage French teapot with intricate designs",
+                    "element": "vintage",
+                    "question": "Is the teapot vintage?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot French?": {
+                    "caption": "A vintage French teapot with intricate designs",
+                    "element": "French",
+                    "question": "Is the teapot French?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Does the teapot have intricate designs?": {
+                    "caption": "A vintage French teapot with intricate designs",
+                    "element": "intricate designs",
+                    "question": "Does the teapot have intricate designs?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What kind of designs does the teapot have?": {
+                    "caption": "A vintage French teapot with intricate designs",
+                    "element": "intricate designs",
+                    "question": "What kind of designs does the teapot have?",
+                    "choices": [
+                        "intricate",
+                        "simple",
+                        "geometric",
+                        "plain"
+                    ],
+                    "answer": "intricate",
+                    "element_type": "attribute",
+                    "free_form_vqa": "floral",
+                    "multiple_choice_vqa": "intricate",
+                    "scores": 1
+                }
+            }
+        }
+    ]
+}

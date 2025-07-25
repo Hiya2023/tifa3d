@@ -1,0 +1,98 @@
+[
+    {
+        "caption": "A classic African mask with modern abstract art influences",
+        "element": "mask",
+        "question": "Is this a mask?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "A classic African mask with modern abstract art influences",
+        "element": "mask",
+        "question": "What type of item is shown?",
+        "choices": [
+            "mask",
+            "sculpture",
+            "painting",
+            "vase"
+        ],
+        "answer": "mask",
+        "element_type": "object"
+    },
+    {
+        "caption": "A classic African mask with modern abstract art influences",
+        "element": "classic",
+        "question": "Is the mask classic?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "attribute"
+    },
+    {
+        "caption": "A classic African mask with modern abstract art influences",
+        "element": "classic",
+        "question": "How would you describe the style of the mask?",
+        "choices": [
+            "classic",
+            "modern",
+            "futuristic",
+            "minimalistic"
+        ],
+        "answer": "classic",
+        "element_type": "attribute"
+    },
+    {
+        "caption": "A classic African mask with modern abstract art influences",
+        "element": "African",
+        "question": "Is the mask African?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "attribute"
+    },
+    {
+        "caption": "A classic African mask with modern abstract art influences",
+        "element": "African",
+        "question": "What is the cultural style of the mask?",
+        "choices": [
+            "African",
+            "Japanese",
+            "Italian",
+            "Greek"
+        ],
+        "answer": "African",
+        "element_type": "attribute"
+    },
+    {
+        "caption": "A classic African mask with modern abstract art influences",
+        "element": "modern abstract art influences",
+        "question": "Does the mask have modern abstract art influences?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "attribute"
+    },
+    {
+        "caption": "A classic African mask with modern abstract art influences",
+        "element": "modern abstract art influences",
+        "question": "What kind of influences does the mask have?",
+        "choices": [
+            "modern abstract art",
+            "traditional",
+            "baroque",
+            "victorian"
+        ],
+        "answer": "modern abstract art",
+        "element_type": "attribute"
+    }
+]

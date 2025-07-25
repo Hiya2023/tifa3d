@@ -1,0 +1,610 @@
+{
+    "method": "prolific",
+    "aspect": "color",
+    "prompt_name": "A_blue_chair",
+    "individual_scores": {
+        "rgb_0.png": 0.6666666666666666,
+        "rgb_10.png": 0.6666666666666666,
+        "rgb_20.png": 0.6666666666666666,
+        "rgb_30.png": 0.6666666666666666,
+        "rgb_40.png": 0.6666666666666666,
+        "rgb_50.png": 0.6666666666666666,
+        "rgb_60.png": 1,
+        "rgb_70.png": 0.6666666666666666,
+        "rgb_80.png": 1,
+        "rgb_90.png": 1,
+        "rgb_100.png": 1,
+        "rgb_110.png": 0.6666666666666666
+    },
+    "average_tifa_score": 0.7777777777777778,
+    "question_logs": [
+        {
+            "image": "rgb_0.png",
+            "ques_ans": {
+                "Is this a chair?": {
+                    "caption": "A blue chair",
+                    "element": "chair",
+                    "question": "Is this a chair?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the chair blue?": {
+                    "caption": "A blue chair",
+                    "element": "blue",
+                    "question": "Is the chair blue?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the chair?": {
+                    "caption": "A blue chair",
+                    "element": "blue",
+                    "question": "What color is the chair?",
+                    "choices": [
+                        "blue",
+                        "red",
+                        "green",
+                        "yellow"
+                    ],
+                    "answer": "blue",
+                    "element_type": "color",
+                    "free_form_vqa": "white",
+                    "multiple_choice_vqa": "yellow",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_10.png",
+            "ques_ans": {
+                "Is this a chair?": {
+                    "caption": "A blue chair",
+                    "element": "chair",
+                    "question": "Is this a chair?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the chair blue?": {
+                    "caption": "A blue chair",
+                    "element": "blue",
+                    "question": "Is the chair blue?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the chair?": {
+                    "caption": "A blue chair",
+                    "element": "blue",
+                    "question": "What color is the chair?",
+                    "choices": [
+                        "blue",
+                        "red",
+                        "green",
+                        "yellow"
+                    ],
+                    "answer": "blue",
+                    "element_type": "color",
+                    "free_form_vqa": "multicolored",
+                    "multiple_choice_vqa": "yellow",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_20.png",
+            "ques_ans": {
+                "Is this a chair?": {
+                    "caption": "A blue chair",
+                    "element": "chair",
+                    "question": "Is this a chair?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the chair blue?": {
+                    "caption": "A blue chair",
+                    "element": "blue",
+                    "question": "Is the chair blue?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the chair?": {
+                    "caption": "A blue chair",
+                    "element": "blue",
+                    "question": "What color is the chair?",
+                    "choices": [
+                        "blue",
+                        "red",
+                        "green",
+                        "yellow"
+                    ],
+                    "answer": "blue",
+                    "element_type": "color",
+                    "free_form_vqa": "floral",
+                    "multiple_choice_vqa": "green",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_30.png",
+            "ques_ans": {
+                "Is this a chair?": {
+                    "caption": "A blue chair",
+                    "element": "chair",
+                    "question": "Is this a chair?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the chair blue?": {
+                    "caption": "A blue chair",
+                    "element": "blue",
+                    "question": "Is the chair blue?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the chair?": {
+                    "caption": "A blue chair",
+                    "element": "blue",
+                    "question": "What color is the chair?",
+                    "choices": [
+                        "blue",
+                        "red",
+                        "green",
+                        "yellow"
+                    ],
+                    "answer": "blue",
+                    "element_type": "color",
+                    "free_form_vqa": "floral",
+                    "multiple_choice_vqa": "green",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_40.png",
+            "ques_ans": {
+                "Is this a chair?": {
+                    "caption": "A blue chair",
+                    "element": "chair",
+                    "question": "Is this a chair?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the chair blue?": {
+                    "caption": "A blue chair",
+                    "element": "blue",
+                    "question": "Is the chair blue?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the chair?": {
+                    "caption": "A blue chair",
+                    "element": "blue",
+                    "question": "What color is the chair?",
+                    "choices": [
+                        "blue",
+                        "red",
+                        "green",
+                        "yellow"
+                    ],
+                    "answer": "blue",
+                    "element_type": "color",
+                    "free_form_vqa": "multicolored",
+                    "multiple_choice_vqa": "yellow",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_50.png",
+            "ques_ans": {
+                "Is this a chair?": {
+                    "caption": "A blue chair",
+                    "element": "chair",
+                    "question": "Is this a chair?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the chair blue?": {
+                    "caption": "A blue chair",
+                    "element": "blue",
+                    "question": "Is the chair blue?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the chair?": {
+                    "caption": "A blue chair",
+                    "element": "blue",
+                    "question": "What color is the chair?",
+                    "choices": [
+                        "blue",
+                        "red",
+                        "green",
+                        "yellow"
+                    ],
+                    "answer": "blue",
+                    "element_type": "color",
+                    "free_form_vqa": "floral",
+                    "multiple_choice_vqa": "green",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_60.png",
+            "ques_ans": {
+                "Is this a chair?": {
+                    "caption": "A blue chair",
+                    "element": "chair",
+                    "question": "Is this a chair?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the chair blue?": {
+                    "caption": "A blue chair",
+                    "element": "blue",
+                    "question": "Is the chair blue?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the chair?": {
+                    "caption": "A blue chair",
+                    "element": "blue",
+                    "question": "What color is the chair?",
+                    "choices": [
+                        "blue",
+                        "red",
+                        "green",
+                        "yellow"
+                    ],
+                    "answer": "blue",
+                    "element_type": "color",
+                    "free_form_vqa": "blue",
+                    "multiple_choice_vqa": "blue",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_70.png",
+            "ques_ans": {
+                "Is this a chair?": {
+                    "caption": "A blue chair",
+                    "element": "chair",
+                    "question": "Is this a chair?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the chair blue?": {
+                    "caption": "A blue chair",
+                    "element": "blue",
+                    "question": "Is the chair blue?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the chair?": {
+                    "caption": "A blue chair",
+                    "element": "blue",
+                    "question": "What color is the chair?",
+                    "choices": [
+                        "blue",
+                        "red",
+                        "green",
+                        "yellow"
+                    ],
+                    "answer": "blue",
+                    "element_type": "color",
+                    "free_form_vqa": "floral",
+                    "multiple_choice_vqa": "green",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_80.png",
+            "ques_ans": {
+                "Is this a chair?": {
+                    "caption": "A blue chair",
+                    "element": "chair",
+                    "question": "Is this a chair?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the chair blue?": {
+                    "caption": "A blue chair",
+                    "element": "blue",
+                    "question": "Is the chair blue?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the chair?": {
+                    "caption": "A blue chair",
+                    "element": "blue",
+                    "question": "What color is the chair?",
+                    "choices": [
+                        "blue",
+                        "red",
+                        "green",
+                        "yellow"
+                    ],
+                    "answer": "blue",
+                    "element_type": "color",
+                    "free_form_vqa": "blue",
+                    "multiple_choice_vqa": "blue",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_90.png",
+            "ques_ans": {
+                "Is this a chair?": {
+                    "caption": "A blue chair",
+                    "element": "chair",
+                    "question": "Is this a chair?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the chair blue?": {
+                    "caption": "A blue chair",
+                    "element": "blue",
+                    "question": "Is the chair blue?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the chair?": {
+                    "caption": "A blue chair",
+                    "element": "blue",
+                    "question": "What color is the chair?",
+                    "choices": [
+                        "blue",
+                        "red",
+                        "green",
+                        "yellow"
+                    ],
+                    "answer": "blue",
+                    "element_type": "color",
+                    "free_form_vqa": "blue",
+                    "multiple_choice_vqa": "blue",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_100.png",
+            "ques_ans": {
+                "Is this a chair?": {
+                    "caption": "A blue chair",
+                    "element": "chair",
+                    "question": "Is this a chair?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the chair blue?": {
+                    "caption": "A blue chair",
+                    "element": "blue",
+                    "question": "Is the chair blue?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the chair?": {
+                    "caption": "A blue chair",
+                    "element": "blue",
+                    "question": "What color is the chair?",
+                    "choices": [
+                        "blue",
+                        "red",
+                        "green",
+                        "yellow"
+                    ],
+                    "answer": "blue",
+                    "element_type": "color",
+                    "free_form_vqa": "blue",
+                    "multiple_choice_vqa": "blue",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_110.png",
+            "ques_ans": {
+                "Is this a chair?": {
+                    "caption": "A blue chair",
+                    "element": "chair",
+                    "question": "Is this a chair?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the chair blue?": {
+                    "caption": "A blue chair",
+                    "element": "blue",
+                    "question": "Is the chair blue?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the chair?": {
+                    "caption": "A blue chair",
+                    "element": "blue",
+                    "question": "What color is the chair?",
+                    "choices": [
+                        "blue",
+                        "red",
+                        "green",
+                        "yellow"
+                    ],
+                    "answer": "blue",
+                    "element_type": "color",
+                    "free_form_vqa": "floral",
+                    "multiple_choice_vqa": "green",
+                    "scores": 0
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+[
+    {
+        "caption": "An oval dining table",
+        "element": "dining table",
+        "question": "Is this a dining table?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "An oval dining table",
+        "element": "dining table",
+        "question": "What type of furniture is shown?",
+        "choices": [
+            "dining table",
+            "coffee table",
+            "desk",
+            "bed"
+        ],
+        "answer": "dining table",
+        "element_type": "object"
+    },
+    {
+        "caption": "An oval dining table",
+        "element": "oval",
+        "question": "Is the table oval?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "shape"
+    },
+    {
+        "caption": "An oval dining table",
+        "element": "oval",
+        "question": "What is the shape of the table?",
+        "choices": [
+            "oval",
+            "round",
+            "square",
+            "rectangular"
+        ],
+        "answer": "oval",
+        "element_type": "shape"
+    }
+]

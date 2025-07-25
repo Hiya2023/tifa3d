@@ -1,0 +1,50 @@
+[
+    {
+        "caption": "A brown dresser",
+        "element": "dresser",
+        "question": "Is this a dresser?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "A brown dresser",
+        "element": "dresser",
+        "question": "What type of furniture is shown?",
+        "choices": [
+            "dresser",
+            "table",
+            "chair",
+            "bed"
+        ],
+        "answer": "dresser",
+        "element_type": "object"
+    },
+    {
+        "caption": "A brown dresser",
+        "element": "brown",
+        "question": "Is the dresser brown?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "color"
+    },
+    {
+        "caption": "A brown dresser",
+        "element": "brown",
+        "question": "What color is the dresser?",
+        "choices": [
+            "brown",
+            "black",
+            "white",
+            "gray"
+        ],
+        "answer": "brown",
+        "element_type": "color"
+    }
+]

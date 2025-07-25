@@ -1,0 +1,1690 @@
+{
+    "method": "gdream",
+    "aspect": "color",
+    "prompt_name": "A_green_plant_beside_a_white_window",
+    "individual_scores": {
+        "rgb_0.png": 0.7777777777777778,
+        "rgb_10.png": 0.7777777777777778,
+        "rgb_20.png": 0.8888888888888888,
+        "rgb_30.png": 0.2222222222222222,
+        "rgb_40.png": 0.7777777777777778,
+        "rgb_50.png": 0.8888888888888888,
+        "rgb_60.png": 0.8888888888888888,
+        "rgb_70.png": 0.8888888888888888,
+        "rgb_80.png": 1,
+        "rgb_90.png": 0.5555555555555556,
+        "rgb_100.png": 0.8888888888888888,
+        "rgb_110.png": 0.8888888888888888
+    },
+    "average_tifa_score": 0.787037037037037,
+    "question_logs": [
+        {
+            "image": "rgb_0.png",
+            "ques_ans": {
+                "Is there a plant?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "plant",
+                    "question": "Is there a plant?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of object is shown?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "plant",
+                    "question": "What type of object is shown?",
+                    "choices": [
+                        "plant",
+                        "chair",
+                        "table",
+                        "lamp"
+                    ],
+                    "answer": "plant",
+                    "element_type": "object",
+                    "free_form_vqa": "window frame",
+                    "multiple_choice_vqa": "lamp",
+                    "scores": 0
+                },
+                "Is there a window?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "window",
+                    "question": "Is there a window?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What architectural feature is present?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "window",
+                    "question": "What architectural feature is present?",
+                    "choices": [
+                        "window",
+                        "door",
+                        "wall",
+                        "ceiling"
+                    ],
+                    "answer": "window",
+                    "element_type": "object",
+                    "free_form_vqa": "window",
+                    "multiple_choice_vqa": "window",
+                    "scores": 1
+                },
+                "Is the plant green?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "green",
+                    "question": "Is the plant green?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the plant?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "green",
+                    "question": "What color is the plant?",
+                    "choices": [
+                        "green",
+                        "red",
+                        "blue",
+                        "yellow"
+                    ],
+                    "answer": "green",
+                    "element_type": "color",
+                    "free_form_vqa": "green",
+                    "multiple_choice_vqa": "green",
+                    "scores": 1
+                },
+                "Is the window white?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "white",
+                    "question": "Is the window white?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the window?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "white",
+                    "question": "What color is the window?",
+                    "choices": [
+                        "white",
+                        "black",
+                        "brown",
+                        "gray"
+                    ],
+                    "answer": "white",
+                    "element_type": "color",
+                    "free_form_vqa": "white",
+                    "multiple_choice_vqa": "white",
+                    "scores": 1
+                },
+                "Is the plant beside the window?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "beside",
+                    "question": "Is the plant beside the window?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_10.png",
+            "ques_ans": {
+                "Is there a plant?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "plant",
+                    "question": "Is there a plant?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of object is shown?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "plant",
+                    "question": "What type of object is shown?",
+                    "choices": [
+                        "plant",
+                        "chair",
+                        "table",
+                        "lamp"
+                    ],
+                    "answer": "plant",
+                    "element_type": "object",
+                    "free_form_vqa": "window frame",
+                    "multiple_choice_vqa": "lamp",
+                    "scores": 0
+                },
+                "Is there a window?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "window",
+                    "question": "Is there a window?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What architectural feature is present?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "window",
+                    "question": "What architectural feature is present?",
+                    "choices": [
+                        "window",
+                        "door",
+                        "wall",
+                        "ceiling"
+                    ],
+                    "answer": "window",
+                    "element_type": "object",
+                    "free_form_vqa": "window",
+                    "multiple_choice_vqa": "window",
+                    "scores": 1
+                },
+                "Is the plant green?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "green",
+                    "question": "Is the plant green?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the plant?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "green",
+                    "question": "What color is the plant?",
+                    "choices": [
+                        "green",
+                        "red",
+                        "blue",
+                        "yellow"
+                    ],
+                    "answer": "green",
+                    "element_type": "color",
+                    "free_form_vqa": "green",
+                    "multiple_choice_vqa": "green",
+                    "scores": 1
+                },
+                "Is the window white?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "white",
+                    "question": "Is the window white?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the window?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "white",
+                    "question": "What color is the window?",
+                    "choices": [
+                        "white",
+                        "black",
+                        "brown",
+                        "gray"
+                    ],
+                    "answer": "white",
+                    "element_type": "color",
+                    "free_form_vqa": "white",
+                    "multiple_choice_vqa": "white",
+                    "scores": 1
+                },
+                "Is the plant beside the window?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "beside",
+                    "question": "Is the plant beside the window?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_20.png",
+            "ques_ans": {
+                "Is there a plant?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "plant",
+                    "question": "Is there a plant?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of object is shown?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "plant",
+                    "question": "What type of object is shown?",
+                    "choices": [
+                        "plant",
+                        "chair",
+                        "table",
+                        "lamp"
+                    ],
+                    "answer": "plant",
+                    "element_type": "object",
+                    "free_form_vqa": "plant",
+                    "multiple_choice_vqa": "plant",
+                    "scores": 1
+                },
+                "Is there a window?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "window",
+                    "question": "Is there a window?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What architectural feature is present?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "window",
+                    "question": "What architectural feature is present?",
+                    "choices": [
+                        "window",
+                        "door",
+                        "wall",
+                        "ceiling"
+                    ],
+                    "answer": "window",
+                    "element_type": "object",
+                    "free_form_vqa": "window frame",
+                    "multiple_choice_vqa": "window",
+                    "scores": 1
+                },
+                "Is the plant green?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "green",
+                    "question": "Is the plant green?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the plant?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "green",
+                    "question": "What color is the plant?",
+                    "choices": [
+                        "green",
+                        "red",
+                        "blue",
+                        "yellow"
+                    ],
+                    "answer": "green",
+                    "element_type": "color",
+                    "free_form_vqa": "green",
+                    "multiple_choice_vqa": "green",
+                    "scores": 1
+                },
+                "Is the window white?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "white",
+                    "question": "Is the window white?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the window?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "white",
+                    "question": "What color is the window?",
+                    "choices": [
+                        "white",
+                        "black",
+                        "brown",
+                        "gray"
+                    ],
+                    "answer": "white",
+                    "element_type": "color",
+                    "free_form_vqa": "white",
+                    "multiple_choice_vqa": "white",
+                    "scores": 1
+                },
+                "Is the plant beside the window?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "beside",
+                    "question": "Is the plant beside the window?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_30.png",
+            "ques_ans": {
+                "Is there a plant?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "plant",
+                    "question": "Is there a plant?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What type of object is shown?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "plant",
+                    "question": "What type of object is shown?",
+                    "choices": [
+                        "plant",
+                        "chair",
+                        "table",
+                        "lamp"
+                    ],
+                    "answer": "plant",
+                    "element_type": "object",
+                    "free_form_vqa": "scissors",
+                    "multiple_choice_vqa": "lamp",
+                    "scores": 0
+                },
+                "Is there a window?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "window",
+                    "question": "Is there a window?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What architectural feature is present?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "window",
+                    "question": "What architectural feature is present?",
+                    "choices": [
+                        "window",
+                        "door",
+                        "wall",
+                        "ceiling"
+                    ],
+                    "answer": "window",
+                    "element_type": "object",
+                    "free_form_vqa": "column",
+                    "multiple_choice_vqa": "wall",
+                    "scores": 0
+                },
+                "Is the plant green?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "green",
+                    "question": "Is the plant green?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the plant?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "green",
+                    "question": "What color is the plant?",
+                    "choices": [
+                        "green",
+                        "red",
+                        "blue",
+                        "yellow"
+                    ],
+                    "answer": "green",
+                    "element_type": "color",
+                    "free_form_vqa": "green",
+                    "multiple_choice_vqa": "green",
+                    "scores": 1
+                },
+                "Is the window white?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "white",
+                    "question": "Is the window white?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the window?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "white",
+                    "question": "What color is the window?",
+                    "choices": [
+                        "white",
+                        "black",
+                        "brown",
+                        "gray"
+                    ],
+                    "answer": "white",
+                    "element_type": "color",
+                    "free_form_vqa": "white",
+                    "multiple_choice_vqa": "white",
+                    "scores": 1
+                },
+                "Is the plant beside the window?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "beside",
+                    "question": "Is the plant beside the window?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_40.png",
+            "ques_ans": {
+                "Is there a plant?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "plant",
+                    "question": "Is there a plant?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of object is shown?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "plant",
+                    "question": "What type of object is shown?",
+                    "choices": [
+                        "plant",
+                        "chair",
+                        "table",
+                        "lamp"
+                    ],
+                    "answer": "plant",
+                    "element_type": "object",
+                    "free_form_vqa": "window frame",
+                    "multiple_choice_vqa": "lamp",
+                    "scores": 0
+                },
+                "Is there a window?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "window",
+                    "question": "Is there a window?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What architectural feature is present?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "window",
+                    "question": "What architectural feature is present?",
+                    "choices": [
+                        "window",
+                        "door",
+                        "wall",
+                        "ceiling"
+                    ],
+                    "answer": "window",
+                    "element_type": "object",
+                    "free_form_vqa": "window frame",
+                    "multiple_choice_vqa": "window",
+                    "scores": 1
+                },
+                "Is the plant green?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "green",
+                    "question": "Is the plant green?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the plant?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "green",
+                    "question": "What color is the plant?",
+                    "choices": [
+                        "green",
+                        "red",
+                        "blue",
+                        "yellow"
+                    ],
+                    "answer": "green",
+                    "element_type": "color",
+                    "free_form_vqa": "green",
+                    "multiple_choice_vqa": "green",
+                    "scores": 1
+                },
+                "Is the window white?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "white",
+                    "question": "Is the window white?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the window?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "white",
+                    "question": "What color is the window?",
+                    "choices": [
+                        "white",
+                        "black",
+                        "brown",
+                        "gray"
+                    ],
+                    "answer": "white",
+                    "element_type": "color",
+                    "free_form_vqa": "white",
+                    "multiple_choice_vqa": "white",
+                    "scores": 1
+                },
+                "Is the plant beside the window?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "beside",
+                    "question": "Is the plant beside the window?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_50.png",
+            "ques_ans": {
+                "Is there a plant?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "plant",
+                    "question": "Is there a plant?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of object is shown?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "plant",
+                    "question": "What type of object is shown?",
+                    "choices": [
+                        "plant",
+                        "chair",
+                        "table",
+                        "lamp"
+                    ],
+                    "answer": "plant",
+                    "element_type": "object",
+                    "free_form_vqa": "plant",
+                    "multiple_choice_vqa": "plant",
+                    "scores": 1
+                },
+                "Is there a window?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "window",
+                    "question": "Is there a window?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What architectural feature is present?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "window",
+                    "question": "What architectural feature is present?",
+                    "choices": [
+                        "window",
+                        "door",
+                        "wall",
+                        "ceiling"
+                    ],
+                    "answer": "window",
+                    "element_type": "object",
+                    "free_form_vqa": "window",
+                    "multiple_choice_vqa": "window",
+                    "scores": 1
+                },
+                "Is the plant green?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "green",
+                    "question": "Is the plant green?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the plant?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "green",
+                    "question": "What color is the plant?",
+                    "choices": [
+                        "green",
+                        "red",
+                        "blue",
+                        "yellow"
+                    ],
+                    "answer": "green",
+                    "element_type": "color",
+                    "free_form_vqa": "green",
+                    "multiple_choice_vqa": "green",
+                    "scores": 1
+                },
+                "Is the window white?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "white",
+                    "question": "Is the window white?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the window?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "white",
+                    "question": "What color is the window?",
+                    "choices": [
+                        "white",
+                        "black",
+                        "brown",
+                        "gray"
+                    ],
+                    "answer": "white",
+                    "element_type": "color",
+                    "free_form_vqa": "white",
+                    "multiple_choice_vqa": "white",
+                    "scores": 1
+                },
+                "Is the plant beside the window?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "beside",
+                    "question": "Is the plant beside the window?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_60.png",
+            "ques_ans": {
+                "Is there a plant?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "plant",
+                    "question": "Is there a plant?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of object is shown?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "plant",
+                    "question": "What type of object is shown?",
+                    "choices": [
+                        "plant",
+                        "chair",
+                        "table",
+                        "lamp"
+                    ],
+                    "answer": "plant",
+                    "element_type": "object",
+                    "free_form_vqa": "plant",
+                    "multiple_choice_vqa": "plant",
+                    "scores": 1
+                },
+                "Is there a window?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "window",
+                    "question": "Is there a window?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What architectural feature is present?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "window",
+                    "question": "What architectural feature is present?",
+                    "choices": [
+                        "window",
+                        "door",
+                        "wall",
+                        "ceiling"
+                    ],
+                    "answer": "window",
+                    "element_type": "object",
+                    "free_form_vqa": "window",
+                    "multiple_choice_vqa": "window",
+                    "scores": 1
+                },
+                "Is the plant green?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "green",
+                    "question": "Is the plant green?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the plant?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "green",
+                    "question": "What color is the plant?",
+                    "choices": [
+                        "green",
+                        "red",
+                        "blue",
+                        "yellow"
+                    ],
+                    "answer": "green",
+                    "element_type": "color",
+                    "free_form_vqa": "green",
+                    "multiple_choice_vqa": "green",
+                    "scores": 1
+                },
+                "Is the window white?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "white",
+                    "question": "Is the window white?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the window?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "white",
+                    "question": "What color is the window?",
+                    "choices": [
+                        "white",
+                        "black",
+                        "brown",
+                        "gray"
+                    ],
+                    "answer": "white",
+                    "element_type": "color",
+                    "free_form_vqa": "white",
+                    "multiple_choice_vqa": "white",
+                    "scores": 1
+                },
+                "Is the plant beside the window?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "beside",
+                    "question": "Is the plant beside the window?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_70.png",
+            "ques_ans": {
+                "Is there a plant?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "plant",
+                    "question": "Is there a plant?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of object is shown?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "plant",
+                    "question": "What type of object is shown?",
+                    "choices": [
+                        "plant",
+                        "chair",
+                        "table",
+                        "lamp"
+                    ],
+                    "answer": "plant",
+                    "element_type": "object",
+                    "free_form_vqa": "plant",
+                    "multiple_choice_vqa": "plant",
+                    "scores": 1
+                },
+                "Is there a window?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "window",
+                    "question": "Is there a window?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What architectural feature is present?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "window",
+                    "question": "What architectural feature is present?",
+                    "choices": [
+                        "window",
+                        "door",
+                        "wall",
+                        "ceiling"
+                    ],
+                    "answer": "window",
+                    "element_type": "object",
+                    "free_form_vqa": "window",
+                    "multiple_choice_vqa": "window",
+                    "scores": 1
+                },
+                "Is the plant green?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "green",
+                    "question": "Is the plant green?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the plant?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "green",
+                    "question": "What color is the plant?",
+                    "choices": [
+                        "green",
+                        "red",
+                        "blue",
+                        "yellow"
+                    ],
+                    "answer": "green",
+                    "element_type": "color",
+                    "free_form_vqa": "green",
+                    "multiple_choice_vqa": "green",
+                    "scores": 1
+                },
+                "Is the window white?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "white",
+                    "question": "Is the window white?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the window?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "white",
+                    "question": "What color is the window?",
+                    "choices": [
+                        "white",
+                        "black",
+                        "brown",
+                        "gray"
+                    ],
+                    "answer": "white",
+                    "element_type": "color",
+                    "free_form_vqa": "white",
+                    "multiple_choice_vqa": "white",
+                    "scores": 1
+                },
+                "Is the plant beside the window?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "beside",
+                    "question": "Is the plant beside the window?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_80.png",
+            "ques_ans": {
+                "Is there a plant?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "plant",
+                    "question": "Is there a plant?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of object is shown?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "plant",
+                    "question": "What type of object is shown?",
+                    "choices": [
+                        "plant",
+                        "chair",
+                        "table",
+                        "lamp"
+                    ],
+                    "answer": "plant",
+                    "element_type": "object",
+                    "free_form_vqa": "plant",
+                    "multiple_choice_vqa": "plant",
+                    "scores": 1
+                },
+                "Is there a window?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "window",
+                    "question": "Is there a window?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What architectural feature is present?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "window",
+                    "question": "What architectural feature is present?",
+                    "choices": [
+                        "window",
+                        "door",
+                        "wall",
+                        "ceiling"
+                    ],
+                    "answer": "window",
+                    "element_type": "object",
+                    "free_form_vqa": "window",
+                    "multiple_choice_vqa": "window",
+                    "scores": 1
+                },
+                "Is the plant green?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "green",
+                    "question": "Is the plant green?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the plant?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "green",
+                    "question": "What color is the plant?",
+                    "choices": [
+                        "green",
+                        "red",
+                        "blue",
+                        "yellow"
+                    ],
+                    "answer": "green",
+                    "element_type": "color",
+                    "free_form_vqa": "green",
+                    "multiple_choice_vqa": "green",
+                    "scores": 1
+                },
+                "Is the window white?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "white",
+                    "question": "Is the window white?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the window?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "white",
+                    "question": "What color is the window?",
+                    "choices": [
+                        "white",
+                        "black",
+                        "brown",
+                        "gray"
+                    ],
+                    "answer": "white",
+                    "element_type": "color",
+                    "free_form_vqa": "white",
+                    "multiple_choice_vqa": "white",
+                    "scores": 1
+                },
+                "Is the plant beside the window?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "beside",
+                    "question": "Is the plant beside the window?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_90.png",
+            "ques_ans": {
+                "Is there a plant?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "plant",
+                    "question": "Is there a plant?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of object is shown?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "plant",
+                    "question": "What type of object is shown?",
+                    "choices": [
+                        "plant",
+                        "chair",
+                        "table",
+                        "lamp"
+                    ],
+                    "answer": "plant",
+                    "element_type": "object",
+                    "free_form_vqa": "vase",
+                    "multiple_choice_vqa": "plant",
+                    "scores": 1
+                },
+                "Is there a window?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "window",
+                    "question": "Is there a window?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What architectural feature is present?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "window",
+                    "question": "What architectural feature is present?",
+                    "choices": [
+                        "window",
+                        "door",
+                        "wall",
+                        "ceiling"
+                    ],
+                    "answer": "window",
+                    "element_type": "object",
+                    "free_form_vqa": "column",
+                    "multiple_choice_vqa": "wall",
+                    "scores": 0
+                },
+                "Is the plant green?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "green",
+                    "question": "Is the plant green?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the plant?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "green",
+                    "question": "What color is the plant?",
+                    "choices": [
+                        "green",
+                        "red",
+                        "blue",
+                        "yellow"
+                    ],
+                    "answer": "green",
+                    "element_type": "color",
+                    "free_form_vqa": "green",
+                    "multiple_choice_vqa": "green",
+                    "scores": 1
+                },
+                "Is the window white?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "white",
+                    "question": "Is the window white?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the window?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "white",
+                    "question": "What color is the window?",
+                    "choices": [
+                        "white",
+                        "black",
+                        "brown",
+                        "gray"
+                    ],
+                    "answer": "white",
+                    "element_type": "color",
+                    "free_form_vqa": "white",
+                    "multiple_choice_vqa": "white",
+                    "scores": 1
+                },
+                "Is the plant beside the window?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "beside",
+                    "question": "Is the plant beside the window?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_100.png",
+            "ques_ans": {
+                "Is there a plant?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "plant",
+                    "question": "Is there a plant?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of object is shown?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "plant",
+                    "question": "What type of object is shown?",
+                    "choices": [
+                        "plant",
+                        "chair",
+                        "table",
+                        "lamp"
+                    ],
+                    "answer": "plant",
+                    "element_type": "object",
+                    "free_form_vqa": "plant",
+                    "multiple_choice_vqa": "plant",
+                    "scores": 1
+                },
+                "Is there a window?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "window",
+                    "question": "Is there a window?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What architectural feature is present?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "window",
+                    "question": "What architectural feature is present?",
+                    "choices": [
+                        "window",
+                        "door",
+                        "wall",
+                        "ceiling"
+                    ],
+                    "answer": "window",
+                    "element_type": "object",
+                    "free_form_vqa": "window",
+                    "multiple_choice_vqa": "window",
+                    "scores": 1
+                },
+                "Is the plant green?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "green",
+                    "question": "Is the plant green?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the plant?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "green",
+                    "question": "What color is the plant?",
+                    "choices": [
+                        "green",
+                        "red",
+                        "blue",
+                        "yellow"
+                    ],
+                    "answer": "green",
+                    "element_type": "color",
+                    "free_form_vqa": "green",
+                    "multiple_choice_vqa": "green",
+                    "scores": 1
+                },
+                "Is the window white?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "white",
+                    "question": "Is the window white?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the window?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "white",
+                    "question": "What color is the window?",
+                    "choices": [
+                        "white",
+                        "black",
+                        "brown",
+                        "gray"
+                    ],
+                    "answer": "white",
+                    "element_type": "color",
+                    "free_form_vqa": "white",
+                    "multiple_choice_vqa": "white",
+                    "scores": 1
+                },
+                "Is the plant beside the window?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "beside",
+                    "question": "Is the plant beside the window?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_110.png",
+            "ques_ans": {
+                "Is there a plant?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "plant",
+                    "question": "Is there a plant?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of object is shown?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "plant",
+                    "question": "What type of object is shown?",
+                    "choices": [
+                        "plant",
+                        "chair",
+                        "table",
+                        "lamp"
+                    ],
+                    "answer": "plant",
+                    "element_type": "object",
+                    "free_form_vqa": "plant",
+                    "multiple_choice_vqa": "plant",
+                    "scores": 1
+                },
+                "Is there a window?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "window",
+                    "question": "Is there a window?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What architectural feature is present?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "window",
+                    "question": "What architectural feature is present?",
+                    "choices": [
+                        "window",
+                        "door",
+                        "wall",
+                        "ceiling"
+                    ],
+                    "answer": "window",
+                    "element_type": "object",
+                    "free_form_vqa": "window",
+                    "multiple_choice_vqa": "window",
+                    "scores": 1
+                },
+                "Is the plant green?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "green",
+                    "question": "Is the plant green?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the plant?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "green",
+                    "question": "What color is the plant?",
+                    "choices": [
+                        "green",
+                        "red",
+                        "blue",
+                        "yellow"
+                    ],
+                    "answer": "green",
+                    "element_type": "color",
+                    "free_form_vqa": "green",
+                    "multiple_choice_vqa": "green",
+                    "scores": 1
+                },
+                "Is the window white?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "white",
+                    "question": "Is the window white?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the window?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "white",
+                    "question": "What color is the window?",
+                    "choices": [
+                        "white",
+                        "black",
+                        "brown",
+                        "gray"
+                    ],
+                    "answer": "white",
+                    "element_type": "color",
+                    "free_form_vqa": "white",
+                    "multiple_choice_vqa": "white",
+                    "scores": 1
+                },
+                "Is the plant beside the window?": {
+                    "caption": "A green plant beside a white window",
+                    "element": "beside",
+                    "question": "Is the plant beside the window?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+[
+    {
+        "caption": "A vintage Chinese vase",
+        "element": "vase",
+        "question": "Is this a vase?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "A vintage Chinese vase",
+        "element": "vase",
+        "question": "What type of item is shown?",
+        "choices": [
+            "vase",
+            "teapot",
+            "jar",
+            "bottle"
+        ],
+        "answer": "vase",
+        "element_type": "object"
+    },
+    {
+        "caption": "A vintage Chinese vase",
+        "element": "vintage",
+        "question": "Is the vase vintage?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "attribute"
+    },
+    {
+        "caption": "A vintage Chinese vase",
+        "element": "vintage",
+        "question": "How would you describe the style of the vase?",
+        "choices": [
+            "vintage",
+            "modern",
+            "futuristic",
+            "minimalistic"
+        ],
+        "answer": "vintage",
+        "element_type": "attribute"
+    },
+    {
+        "caption": "A vintage Chinese vase",
+        "element": "Chinese",
+        "question": "Is the vase Chinese?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "attribute"
+    },
+    {
+        "caption": "A vintage Chinese vase",
+        "element": "Chinese",
+        "question": "What is the cultural style of the vase?",
+        "choices": [
+            "Chinese",
+            "Japanese",
+            "Italian",
+            "African"
+        ],
+        "answer": "Chinese",
+        "element_type": "attribute"
+    }
+]

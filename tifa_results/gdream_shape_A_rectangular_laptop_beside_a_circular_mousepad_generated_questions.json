@@ -1,0 +1,122 @@
+[
+    {
+        "caption": "A rectangular laptop beside a circular mousepad",
+        "element": "laptop",
+        "question": "Is there a laptop?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "A rectangular laptop beside a circular mousepad",
+        "element": "laptop",
+        "question": "What type of device is shown?",
+        "choices": [
+            "laptop",
+            "tablet",
+            "smartphone",
+            "desktop"
+        ],
+        "answer": "laptop",
+        "element_type": "object"
+    },
+    {
+        "caption": "A rectangular laptop beside a circular mousepad",
+        "element": "mousepad",
+        "question": "Is there a mousepad?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "A rectangular laptop beside a circular mousepad",
+        "element": "mousepad",
+        "question": "What accessory is shown?",
+        "choices": [
+            "mousepad",
+            "keyboard",
+            "monitor",
+            "printer"
+        ],
+        "answer": "mousepad",
+        "element_type": "object"
+    },
+    {
+        "caption": "A rectangular laptop beside a circular mousepad",
+        "element": "rectangular",
+        "question": "Is the laptop rectangular?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "shape"
+    },
+    {
+        "caption": "A rectangular laptop beside a circular mousepad",
+        "element": "rectangular",
+        "question": "What shape is the laptop?",
+        "choices": [
+            "rectangular",
+            "circular",
+            "triangular",
+            "square"
+        ],
+        "answer": "rectangular",
+        "element_type": "shape"
+    },
+    {
+        "caption": "A rectangular laptop beside a circular mousepad",
+        "element": "circular",
+        "question": "Is the mousepad circular?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "shape"
+    },
+    {
+        "caption": "A rectangular laptop beside a circular mousepad",
+        "element": "circular",
+        "question": "What shape is the mousepad?",
+        "choices": [
+            "circular",
+            "square",
+            "rectangular",
+            "oval"
+        ],
+        "answer": "circular",
+        "element_type": "shape"
+    },
+    {
+        "caption": "A rectangular laptop beside a circular mousepad",
+        "element": "beside",
+        "question": "Is the laptop beside the mousepad?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "spatial"
+    },
+    {
+        "caption": "A rectangular laptop beside a circular mousepad",
+        "element": "beside",
+        "question": "What is the spatial relation between the laptop and the mousepad?",
+        "choices": [
+            "beside",
+            "on",
+            "under",
+            "behind"
+        ],
+        "answer": "beside",
+        "element_type": "spatial"
+    }
+]

@@ -1,0 +1,1642 @@
+{
+    "method": "prolific",
+    "aspect": "style",
+    "prompt_name": "A_contemporary_Chinese_teapot_on_a_traditional_Persian_table",
+    "individual_scores": {
+        "rgb_0.png": 0.8888888888888888,
+        "rgb_10.png": 1,
+        "rgb_20.png": 0.8888888888888888,
+        "rgb_30.png": 0.8888888888888888,
+        "rgb_40.png": 0.8888888888888888,
+        "rgb_50.png": 0.8888888888888888,
+        "rgb_60.png": 0.8888888888888888,
+        "rgb_70.png": 1,
+        "rgb_80.png": 1,
+        "rgb_90.png": 0.8888888888888888,
+        "rgb_100.png": 1,
+        "rgb_110.png": 0.8888888888888888
+    },
+    "average_tifa_score": 0.9259259259259259,
+    "question_logs": [
+        {
+            "image": "rgb_0.png",
+            "ques_ans": {
+                "Is there a teapot?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "teapot",
+                    "question": "Is there a teapot?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of object is shown?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "teapot",
+                    "question": "What type of object is shown?",
+                    "choices": [
+                        "teapot",
+                        "vase",
+                        "cup",
+                        "kettle"
+                    ],
+                    "answer": "teapot",
+                    "element_type": "object",
+                    "free_form_vqa": "teapot",
+                    "multiple_choice_vqa": "teapot",
+                    "scores": 1
+                },
+                "Is there a table?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "table",
+                    "question": "Is there a table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What piece of furniture is shown?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "table",
+                    "question": "What piece of furniture is shown?",
+                    "choices": [
+                        "table",
+                        "chair",
+                        "sofa",
+                        "bed"
+                    ],
+                    "answer": "table",
+                    "element_type": "object",
+                    "free_form_vqa": "table",
+                    "multiple_choice_vqa": "table",
+                    "scores": 1
+                },
+                "Is the teapot contemporary?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "contemporary",
+                    "question": "Is the teapot contemporary?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot Chinese?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "Chinese",
+                    "question": "Is the teapot Chinese?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the table traditional?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "traditional",
+                    "question": "Is the table traditional?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the table Persian?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "Persian",
+                    "question": "Is the table Persian?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot on the table?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "on",
+                    "question": "Is the teapot on the table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_10.png",
+            "ques_ans": {
+                "Is there a teapot?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "teapot",
+                    "question": "Is there a teapot?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of object is shown?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "teapot",
+                    "question": "What type of object is shown?",
+                    "choices": [
+                        "teapot",
+                        "vase",
+                        "cup",
+                        "kettle"
+                    ],
+                    "answer": "teapot",
+                    "element_type": "object",
+                    "free_form_vqa": "teapot",
+                    "multiple_choice_vqa": "teapot",
+                    "scores": 1
+                },
+                "Is there a table?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "table",
+                    "question": "Is there a table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What piece of furniture is shown?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "table",
+                    "question": "What piece of furniture is shown?",
+                    "choices": [
+                        "table",
+                        "chair",
+                        "sofa",
+                        "bed"
+                    ],
+                    "answer": "table",
+                    "element_type": "object",
+                    "free_form_vqa": "table",
+                    "multiple_choice_vqa": "table",
+                    "scores": 1
+                },
+                "Is the teapot contemporary?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "contemporary",
+                    "question": "Is the teapot contemporary?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot Chinese?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "Chinese",
+                    "question": "Is the teapot Chinese?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the table traditional?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "traditional",
+                    "question": "Is the table traditional?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the table Persian?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "Persian",
+                    "question": "Is the table Persian?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot on the table?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "on",
+                    "question": "Is the teapot on the table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_20.png",
+            "ques_ans": {
+                "Is there a teapot?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "teapot",
+                    "question": "Is there a teapot?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of object is shown?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "teapot",
+                    "question": "What type of object is shown?",
+                    "choices": [
+                        "teapot",
+                        "vase",
+                        "cup",
+                        "kettle"
+                    ],
+                    "answer": "teapot",
+                    "element_type": "object",
+                    "free_form_vqa": "teapot",
+                    "multiple_choice_vqa": "teapot",
+                    "scores": 1
+                },
+                "Is there a table?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "table",
+                    "question": "Is there a table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What piece of furniture is shown?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "table",
+                    "question": "What piece of furniture is shown?",
+                    "choices": [
+                        "table",
+                        "chair",
+                        "sofa",
+                        "bed"
+                    ],
+                    "answer": "table",
+                    "element_type": "object",
+                    "free_form_vqa": "table",
+                    "multiple_choice_vqa": "table",
+                    "scores": 1
+                },
+                "Is the teapot contemporary?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "contemporary",
+                    "question": "Is the teapot contemporary?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot Chinese?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "Chinese",
+                    "question": "Is the teapot Chinese?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the table traditional?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "traditional",
+                    "question": "Is the table traditional?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the table Persian?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "Persian",
+                    "question": "Is the table Persian?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot on the table?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "on",
+                    "question": "Is the teapot on the table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_30.png",
+            "ques_ans": {
+                "Is there a teapot?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "teapot",
+                    "question": "Is there a teapot?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of object is shown?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "teapot",
+                    "question": "What type of object is shown?",
+                    "choices": [
+                        "teapot",
+                        "vase",
+                        "cup",
+                        "kettle"
+                    ],
+                    "answer": "teapot",
+                    "element_type": "object",
+                    "free_form_vqa": "teapot",
+                    "multiple_choice_vqa": "teapot",
+                    "scores": 1
+                },
+                "Is there a table?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "table",
+                    "question": "Is there a table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What piece of furniture is shown?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "table",
+                    "question": "What piece of furniture is shown?",
+                    "choices": [
+                        "table",
+                        "chair",
+                        "sofa",
+                        "bed"
+                    ],
+                    "answer": "table",
+                    "element_type": "object",
+                    "free_form_vqa": "table",
+                    "multiple_choice_vqa": "table",
+                    "scores": 1
+                },
+                "Is the teapot contemporary?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "contemporary",
+                    "question": "Is the teapot contemporary?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot Chinese?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "Chinese",
+                    "question": "Is the teapot Chinese?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the table traditional?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "traditional",
+                    "question": "Is the table traditional?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the table Persian?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "Persian",
+                    "question": "Is the table Persian?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot on the table?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "on",
+                    "question": "Is the teapot on the table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_40.png",
+            "ques_ans": {
+                "Is there a teapot?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "teapot",
+                    "question": "Is there a teapot?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of object is shown?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "teapot",
+                    "question": "What type of object is shown?",
+                    "choices": [
+                        "teapot",
+                        "vase",
+                        "cup",
+                        "kettle"
+                    ],
+                    "answer": "teapot",
+                    "element_type": "object",
+                    "free_form_vqa": "teapot",
+                    "multiple_choice_vqa": "teapot",
+                    "scores": 1
+                },
+                "Is there a table?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "table",
+                    "question": "Is there a table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What piece of furniture is shown?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "table",
+                    "question": "What piece of furniture is shown?",
+                    "choices": [
+                        "table",
+                        "chair",
+                        "sofa",
+                        "bed"
+                    ],
+                    "answer": "table",
+                    "element_type": "object",
+                    "free_form_vqa": "table",
+                    "multiple_choice_vqa": "table",
+                    "scores": 1
+                },
+                "Is the teapot contemporary?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "contemporary",
+                    "question": "Is the teapot contemporary?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot Chinese?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "Chinese",
+                    "question": "Is the teapot Chinese?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the table traditional?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "traditional",
+                    "question": "Is the table traditional?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the table Persian?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "Persian",
+                    "question": "Is the table Persian?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot on the table?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "on",
+                    "question": "Is the teapot on the table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_50.png",
+            "ques_ans": {
+                "Is there a teapot?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "teapot",
+                    "question": "Is there a teapot?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of object is shown?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "teapot",
+                    "question": "What type of object is shown?",
+                    "choices": [
+                        "teapot",
+                        "vase",
+                        "cup",
+                        "kettle"
+                    ],
+                    "answer": "teapot",
+                    "element_type": "object",
+                    "free_form_vqa": "teapot",
+                    "multiple_choice_vqa": "teapot",
+                    "scores": 1
+                },
+                "Is there a table?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "table",
+                    "question": "Is there a table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What piece of furniture is shown?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "table",
+                    "question": "What piece of furniture is shown?",
+                    "choices": [
+                        "table",
+                        "chair",
+                        "sofa",
+                        "bed"
+                    ],
+                    "answer": "table",
+                    "element_type": "object",
+                    "free_form_vqa": "table",
+                    "multiple_choice_vqa": "table",
+                    "scores": 1
+                },
+                "Is the teapot contemporary?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "contemporary",
+                    "question": "Is the teapot contemporary?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot Chinese?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "Chinese",
+                    "question": "Is the teapot Chinese?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the table traditional?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "traditional",
+                    "question": "Is the table traditional?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the table Persian?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "Persian",
+                    "question": "Is the table Persian?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot on the table?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "on",
+                    "question": "Is the teapot on the table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_60.png",
+            "ques_ans": {
+                "Is there a teapot?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "teapot",
+                    "question": "Is there a teapot?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of object is shown?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "teapot",
+                    "question": "What type of object is shown?",
+                    "choices": [
+                        "teapot",
+                        "vase",
+                        "cup",
+                        "kettle"
+                    ],
+                    "answer": "teapot",
+                    "element_type": "object",
+                    "free_form_vqa": "teapot",
+                    "multiple_choice_vqa": "teapot",
+                    "scores": 1
+                },
+                "Is there a table?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "table",
+                    "question": "Is there a table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What piece of furniture is shown?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "table",
+                    "question": "What piece of furniture is shown?",
+                    "choices": [
+                        "table",
+                        "chair",
+                        "sofa",
+                        "bed"
+                    ],
+                    "answer": "table",
+                    "element_type": "object",
+                    "free_form_vqa": "table",
+                    "multiple_choice_vqa": "table",
+                    "scores": 1
+                },
+                "Is the teapot contemporary?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "contemporary",
+                    "question": "Is the teapot contemporary?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot Chinese?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "Chinese",
+                    "question": "Is the teapot Chinese?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the table traditional?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "traditional",
+                    "question": "Is the table traditional?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the table Persian?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "Persian",
+                    "question": "Is the table Persian?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot on the table?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "on",
+                    "question": "Is the teapot on the table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_70.png",
+            "ques_ans": {
+                "Is there a teapot?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "teapot",
+                    "question": "Is there a teapot?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of object is shown?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "teapot",
+                    "question": "What type of object is shown?",
+                    "choices": [
+                        "teapot",
+                        "vase",
+                        "cup",
+                        "kettle"
+                    ],
+                    "answer": "teapot",
+                    "element_type": "object",
+                    "free_form_vqa": "teapot",
+                    "multiple_choice_vqa": "teapot",
+                    "scores": 1
+                },
+                "Is there a table?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "table",
+                    "question": "Is there a table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What piece of furniture is shown?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "table",
+                    "question": "What piece of furniture is shown?",
+                    "choices": [
+                        "table",
+                        "chair",
+                        "sofa",
+                        "bed"
+                    ],
+                    "answer": "table",
+                    "element_type": "object",
+                    "free_form_vqa": "table",
+                    "multiple_choice_vqa": "table",
+                    "scores": 1
+                },
+                "Is the teapot contemporary?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "contemporary",
+                    "question": "Is the teapot contemporary?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot Chinese?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "Chinese",
+                    "question": "Is the teapot Chinese?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the table traditional?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "traditional",
+                    "question": "Is the table traditional?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the table Persian?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "Persian",
+                    "question": "Is the table Persian?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot on the table?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "on",
+                    "question": "Is the teapot on the table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_80.png",
+            "ques_ans": {
+                "Is there a teapot?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "teapot",
+                    "question": "Is there a teapot?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of object is shown?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "teapot",
+                    "question": "What type of object is shown?",
+                    "choices": [
+                        "teapot",
+                        "vase",
+                        "cup",
+                        "kettle"
+                    ],
+                    "answer": "teapot",
+                    "element_type": "object",
+                    "free_form_vqa": "teapot",
+                    "multiple_choice_vqa": "teapot",
+                    "scores": 1
+                },
+                "Is there a table?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "table",
+                    "question": "Is there a table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What piece of furniture is shown?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "table",
+                    "question": "What piece of furniture is shown?",
+                    "choices": [
+                        "table",
+                        "chair",
+                        "sofa",
+                        "bed"
+                    ],
+                    "answer": "table",
+                    "element_type": "object",
+                    "free_form_vqa": "table",
+                    "multiple_choice_vqa": "table",
+                    "scores": 1
+                },
+                "Is the teapot contemporary?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "contemporary",
+                    "question": "Is the teapot contemporary?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot Chinese?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "Chinese",
+                    "question": "Is the teapot Chinese?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the table traditional?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "traditional",
+                    "question": "Is the table traditional?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the table Persian?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "Persian",
+                    "question": "Is the table Persian?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot on the table?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "on",
+                    "question": "Is the teapot on the table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_90.png",
+            "ques_ans": {
+                "Is there a teapot?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "teapot",
+                    "question": "Is there a teapot?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of object is shown?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "teapot",
+                    "question": "What type of object is shown?",
+                    "choices": [
+                        "teapot",
+                        "vase",
+                        "cup",
+                        "kettle"
+                    ],
+                    "answer": "teapot",
+                    "element_type": "object",
+                    "free_form_vqa": "teapot",
+                    "multiple_choice_vqa": "teapot",
+                    "scores": 1
+                },
+                "Is there a table?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "table",
+                    "question": "Is there a table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What piece of furniture is shown?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "table",
+                    "question": "What piece of furniture is shown?",
+                    "choices": [
+                        "table",
+                        "chair",
+                        "sofa",
+                        "bed"
+                    ],
+                    "answer": "table",
+                    "element_type": "object",
+                    "free_form_vqa": "table",
+                    "multiple_choice_vqa": "table",
+                    "scores": 1
+                },
+                "Is the teapot contemporary?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "contemporary",
+                    "question": "Is the teapot contemporary?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot Chinese?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "Chinese",
+                    "question": "Is the teapot Chinese?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the table traditional?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "traditional",
+                    "question": "Is the table traditional?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the table Persian?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "Persian",
+                    "question": "Is the table Persian?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot on the table?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "on",
+                    "question": "Is the teapot on the table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_100.png",
+            "ques_ans": {
+                "Is there a teapot?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "teapot",
+                    "question": "Is there a teapot?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of object is shown?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "teapot",
+                    "question": "What type of object is shown?",
+                    "choices": [
+                        "teapot",
+                        "vase",
+                        "cup",
+                        "kettle"
+                    ],
+                    "answer": "teapot",
+                    "element_type": "object",
+                    "free_form_vqa": "teapot",
+                    "multiple_choice_vqa": "teapot",
+                    "scores": 1
+                },
+                "Is there a table?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "table",
+                    "question": "Is there a table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What piece of furniture is shown?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "table",
+                    "question": "What piece of furniture is shown?",
+                    "choices": [
+                        "table",
+                        "chair",
+                        "sofa",
+                        "bed"
+                    ],
+                    "answer": "table",
+                    "element_type": "object",
+                    "free_form_vqa": "table",
+                    "multiple_choice_vqa": "table",
+                    "scores": 1
+                },
+                "Is the teapot contemporary?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "contemporary",
+                    "question": "Is the teapot contemporary?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot Chinese?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "Chinese",
+                    "question": "Is the teapot Chinese?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the table traditional?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "traditional",
+                    "question": "Is the table traditional?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the table Persian?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "Persian",
+                    "question": "Is the table Persian?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot on the table?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "on",
+                    "question": "Is the teapot on the table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_110.png",
+            "ques_ans": {
+                "Is there a teapot?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "teapot",
+                    "question": "Is there a teapot?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of object is shown?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "teapot",
+                    "question": "What type of object is shown?",
+                    "choices": [
+                        "teapot",
+                        "vase",
+                        "cup",
+                        "kettle"
+                    ],
+                    "answer": "teapot",
+                    "element_type": "object",
+                    "free_form_vqa": "teapot",
+                    "multiple_choice_vqa": "teapot",
+                    "scores": 1
+                },
+                "Is there a table?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "table",
+                    "question": "Is there a table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What piece of furniture is shown?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "table",
+                    "question": "What piece of furniture is shown?",
+                    "choices": [
+                        "table",
+                        "chair",
+                        "sofa",
+                        "bed"
+                    ],
+                    "answer": "table",
+                    "element_type": "object",
+                    "free_form_vqa": "table",
+                    "multiple_choice_vqa": "table",
+                    "scores": 1
+                },
+                "Is the teapot contemporary?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "contemporary",
+                    "question": "Is the teapot contemporary?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot Chinese?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "Chinese",
+                    "question": "Is the teapot Chinese?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the table traditional?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "traditional",
+                    "question": "Is the table traditional?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the table Persian?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "Persian",
+                    "question": "Is the table Persian?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot on the table?": {
+                    "caption": "A contemporary Chinese teapot on a traditional Persian table",
+                    "element": "on",
+                    "question": "Is the teapot on the table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        }
+    ]
+}

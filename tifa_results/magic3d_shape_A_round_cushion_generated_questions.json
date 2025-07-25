@@ -1,0 +1,50 @@
+[
+    {
+        "caption": "A round cushion",
+        "element": "cushion",
+        "question": "Is this a cushion?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "A round cushion",
+        "element": "cushion",
+        "question": "What type of item is shown?",
+        "choices": [
+            "cushion",
+            "pillow",
+            "blanket",
+            "rug"
+        ],
+        "answer": "cushion",
+        "element_type": "object"
+    },
+    {
+        "caption": "A round cushion",
+        "element": "round",
+        "question": "Is the cushion round?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "shape"
+    },
+    {
+        "caption": "A round cushion",
+        "element": "round",
+        "question": "What shape is the cushion?",
+        "choices": [
+            "round",
+            "square",
+            "rectangular",
+            "oval"
+        ],
+        "answer": "round",
+        "element_type": "shape"
+    }
+]

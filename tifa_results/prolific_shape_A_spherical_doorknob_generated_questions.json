@@ -1,0 +1,50 @@
+[
+    {
+        "caption": "A spherical doorknob",
+        "element": "doorknob",
+        "question": "Is this a doorknob?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "A spherical doorknob",
+        "element": "doorknob",
+        "question": "What type of object is shown?",
+        "choices": [
+            "doorknob",
+            "handle",
+            "lock",
+            "key"
+        ],
+        "answer": "doorknob",
+        "element_type": "object"
+    },
+    {
+        "caption": "A spherical doorknob",
+        "element": "spherical",
+        "question": "Is the doorknob spherical?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "shape"
+    },
+    {
+        "caption": "A spherical doorknob",
+        "element": "spherical",
+        "question": "What shape is the doorknob?",
+        "choices": [
+            "spherical",
+            "square",
+            "cylindrical",
+            "triangular"
+        ],
+        "answer": "spherical",
+        "element_type": "shape"
+    }
+]

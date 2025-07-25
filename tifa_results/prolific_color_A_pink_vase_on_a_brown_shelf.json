@@ -1,0 +1,1690 @@
+{
+    "method": "prolific",
+    "aspect": "color",
+    "prompt_name": "A_pink_vase_on_a_brown_shelf",
+    "individual_scores": {
+        "rgb_0.png": 0.7777777777777778,
+        "rgb_10.png": 0.4444444444444444,
+        "rgb_20.png": 0.5555555555555556,
+        "rgb_30.png": 0.4444444444444444,
+        "rgb_40.png": 0.5555555555555556,
+        "rgb_50.png": 0.4444444444444444,
+        "rgb_60.png": 0.6666666666666666,
+        "rgb_70.png": 0.6666666666666666,
+        "rgb_80.png": 0.6666666666666666,
+        "rgb_90.png": 0.6666666666666666,
+        "rgb_100.png": 0.5555555555555556,
+        "rgb_110.png": 0.7777777777777778
+    },
+    "average_tifa_score": 0.6018518518518519,
+    "question_logs": [
+        {
+            "image": "rgb_0.png",
+            "ques_ans": {
+                "Is there a vase?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "vase",
+                    "question": "Is there a vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of object is shown?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "vase",
+                    "question": "What type of object is shown?",
+                    "choices": [
+                        "vase",
+                        "bowl",
+                        "cup",
+                        "plate"
+                    ],
+                    "answer": "vase",
+                    "element_type": "object",
+                    "free_form_vqa": "vase",
+                    "multiple_choice_vqa": "vase",
+                    "scores": 1
+                },
+                "Is there a shelf?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "shelf",
+                    "question": "Is there a shelf?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What piece of furniture is present?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "shelf",
+                    "question": "What piece of furniture is present?",
+                    "choices": [
+                        "shelf",
+                        "table",
+                        "chair",
+                        "cabinet"
+                    ],
+                    "answer": "shelf",
+                    "element_type": "object",
+                    "free_form_vqa": "vase",
+                    "multiple_choice_vqa": "chair",
+                    "scores": 0
+                },
+                "Is the vase pink?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "pink",
+                    "question": "Is the vase pink?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the vase?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "pink",
+                    "question": "What color is the vase?",
+                    "choices": [
+                        "pink",
+                        "blue",
+                        "green",
+                        "yellow"
+                    ],
+                    "answer": "pink",
+                    "element_type": "color",
+                    "free_form_vqa": "pink",
+                    "multiple_choice_vqa": "pink",
+                    "scores": 1
+                },
+                "Is the shelf brown?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "brown",
+                    "question": "Is the shelf brown?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the shelf?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "brown",
+                    "question": "What color is the shelf?",
+                    "choices": [
+                        "brown",
+                        "black",
+                        "white",
+                        "red"
+                    ],
+                    "answer": "brown",
+                    "element_type": "color",
+                    "free_form_vqa": "brown",
+                    "multiple_choice_vqa": "brown",
+                    "scores": 1
+                },
+                "Is the vase on the shelf?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "on",
+                    "question": "Is the vase on the shelf?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_10.png",
+            "ques_ans": {
+                "Is there a vase?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "vase",
+                    "question": "Is there a vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of object is shown?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "vase",
+                    "question": "What type of object is shown?",
+                    "choices": [
+                        "vase",
+                        "bowl",
+                        "cup",
+                        "plate"
+                    ],
+                    "answer": "vase",
+                    "element_type": "object",
+                    "free_form_vqa": "vase",
+                    "multiple_choice_vqa": "vase",
+                    "scores": 1
+                },
+                "Is there a shelf?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "shelf",
+                    "question": "Is there a shelf?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What piece of furniture is present?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "shelf",
+                    "question": "What piece of furniture is present?",
+                    "choices": [
+                        "shelf",
+                        "table",
+                        "chair",
+                        "cabinet"
+                    ],
+                    "answer": "shelf",
+                    "element_type": "object",
+                    "free_form_vqa": "vase",
+                    "multiple_choice_vqa": "chair",
+                    "scores": 0
+                },
+                "Is the vase pink?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "pink",
+                    "question": "Is the vase pink?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the vase?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "pink",
+                    "question": "What color is the vase?",
+                    "choices": [
+                        "pink",
+                        "blue",
+                        "green",
+                        "yellow"
+                    ],
+                    "answer": "pink",
+                    "element_type": "color",
+                    "free_form_vqa": "pink",
+                    "multiple_choice_vqa": "pink",
+                    "scores": 1
+                },
+                "Is the shelf brown?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "brown",
+                    "question": "Is the shelf brown?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the shelf?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "brown",
+                    "question": "What color is the shelf?",
+                    "choices": [
+                        "brown",
+                        "black",
+                        "white",
+                        "red"
+                    ],
+                    "answer": "brown",
+                    "element_type": "color",
+                    "free_form_vqa": "white",
+                    "multiple_choice_vqa": "white",
+                    "scores": 0
+                },
+                "Is the vase on the shelf?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "on",
+                    "question": "Is the vase on the shelf?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_20.png",
+            "ques_ans": {
+                "Is there a vase?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "vase",
+                    "question": "Is there a vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of object is shown?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "vase",
+                    "question": "What type of object is shown?",
+                    "choices": [
+                        "vase",
+                        "bowl",
+                        "cup",
+                        "plate"
+                    ],
+                    "answer": "vase",
+                    "element_type": "object",
+                    "free_form_vqa": "vase",
+                    "multiple_choice_vqa": "vase",
+                    "scores": 1
+                },
+                "Is there a shelf?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "shelf",
+                    "question": "Is there a shelf?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What piece of furniture is present?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "shelf",
+                    "question": "What piece of furniture is present?",
+                    "choices": [
+                        "shelf",
+                        "table",
+                        "chair",
+                        "cabinet"
+                    ],
+                    "answer": "shelf",
+                    "element_type": "object",
+                    "free_form_vqa": "vase",
+                    "multiple_choice_vqa": "chair",
+                    "scores": 0
+                },
+                "Is the vase pink?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "pink",
+                    "question": "Is the vase pink?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the vase?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "pink",
+                    "question": "What color is the vase?",
+                    "choices": [
+                        "pink",
+                        "blue",
+                        "green",
+                        "yellow"
+                    ],
+                    "answer": "pink",
+                    "element_type": "color",
+                    "free_form_vqa": "pink",
+                    "multiple_choice_vqa": "pink",
+                    "scores": 1
+                },
+                "Is the shelf brown?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "brown",
+                    "question": "Is the shelf brown?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the shelf?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "brown",
+                    "question": "What color is the shelf?",
+                    "choices": [
+                        "brown",
+                        "black",
+                        "white",
+                        "red"
+                    ],
+                    "answer": "brown",
+                    "element_type": "color",
+                    "free_form_vqa": "white",
+                    "multiple_choice_vqa": "white",
+                    "scores": 0
+                },
+                "Is the vase on the shelf?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "on",
+                    "question": "Is the vase on the shelf?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_30.png",
+            "ques_ans": {
+                "Is there a vase?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "vase",
+                    "question": "Is there a vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of object is shown?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "vase",
+                    "question": "What type of object is shown?",
+                    "choices": [
+                        "vase",
+                        "bowl",
+                        "cup",
+                        "plate"
+                    ],
+                    "answer": "vase",
+                    "element_type": "object",
+                    "free_form_vqa": "vase",
+                    "multiple_choice_vqa": "vase",
+                    "scores": 1
+                },
+                "Is there a shelf?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "shelf",
+                    "question": "Is there a shelf?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What piece of furniture is present?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "shelf",
+                    "question": "What piece of furniture is present?",
+                    "choices": [
+                        "shelf",
+                        "table",
+                        "chair",
+                        "cabinet"
+                    ],
+                    "answer": "shelf",
+                    "element_type": "object",
+                    "free_form_vqa": "vase",
+                    "multiple_choice_vqa": "chair",
+                    "scores": 0
+                },
+                "Is the vase pink?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "pink",
+                    "question": "Is the vase pink?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the vase?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "pink",
+                    "question": "What color is the vase?",
+                    "choices": [
+                        "pink",
+                        "blue",
+                        "green",
+                        "yellow"
+                    ],
+                    "answer": "pink",
+                    "element_type": "color",
+                    "free_form_vqa": "pink",
+                    "multiple_choice_vqa": "pink",
+                    "scores": 1
+                },
+                "Is the shelf brown?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "brown",
+                    "question": "Is the shelf brown?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the shelf?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "brown",
+                    "question": "What color is the shelf?",
+                    "choices": [
+                        "brown",
+                        "black",
+                        "white",
+                        "red"
+                    ],
+                    "answer": "brown",
+                    "element_type": "color",
+                    "free_form_vqa": "white",
+                    "multiple_choice_vqa": "white",
+                    "scores": 0
+                },
+                "Is the vase on the shelf?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "on",
+                    "question": "Is the vase on the shelf?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_40.png",
+            "ques_ans": {
+                "Is there a vase?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "vase",
+                    "question": "Is there a vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of object is shown?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "vase",
+                    "question": "What type of object is shown?",
+                    "choices": [
+                        "vase",
+                        "bowl",
+                        "cup",
+                        "plate"
+                    ],
+                    "answer": "vase",
+                    "element_type": "object",
+                    "free_form_vqa": "vase",
+                    "multiple_choice_vqa": "vase",
+                    "scores": 1
+                },
+                "Is there a shelf?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "shelf",
+                    "question": "Is there a shelf?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What piece of furniture is present?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "shelf",
+                    "question": "What piece of furniture is present?",
+                    "choices": [
+                        "shelf",
+                        "table",
+                        "chair",
+                        "cabinet"
+                    ],
+                    "answer": "shelf",
+                    "element_type": "object",
+                    "free_form_vqa": "vase",
+                    "multiple_choice_vqa": "chair",
+                    "scores": 0
+                },
+                "Is the vase pink?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "pink",
+                    "question": "Is the vase pink?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the vase?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "pink",
+                    "question": "What color is the vase?",
+                    "choices": [
+                        "pink",
+                        "blue",
+                        "green",
+                        "yellow"
+                    ],
+                    "answer": "pink",
+                    "element_type": "color",
+                    "free_form_vqa": "pink",
+                    "multiple_choice_vqa": "pink",
+                    "scores": 1
+                },
+                "Is the shelf brown?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "brown",
+                    "question": "Is the shelf brown?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the shelf?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "brown",
+                    "question": "What color is the shelf?",
+                    "choices": [
+                        "brown",
+                        "black",
+                        "white",
+                        "red"
+                    ],
+                    "answer": "brown",
+                    "element_type": "color",
+                    "free_form_vqa": "white",
+                    "multiple_choice_vqa": "white",
+                    "scores": 0
+                },
+                "Is the vase on the shelf?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "on",
+                    "question": "Is the vase on the shelf?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_50.png",
+            "ques_ans": {
+                "Is there a vase?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "vase",
+                    "question": "Is there a vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of object is shown?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "vase",
+                    "question": "What type of object is shown?",
+                    "choices": [
+                        "vase",
+                        "bowl",
+                        "cup",
+                        "plate"
+                    ],
+                    "answer": "vase",
+                    "element_type": "object",
+                    "free_form_vqa": "vase",
+                    "multiple_choice_vqa": "vase",
+                    "scores": 1
+                },
+                "Is there a shelf?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "shelf",
+                    "question": "Is there a shelf?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What piece of furniture is present?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "shelf",
+                    "question": "What piece of furniture is present?",
+                    "choices": [
+                        "shelf",
+                        "table",
+                        "chair",
+                        "cabinet"
+                    ],
+                    "answer": "shelf",
+                    "element_type": "object",
+                    "free_form_vqa": "vase",
+                    "multiple_choice_vqa": "chair",
+                    "scores": 0
+                },
+                "Is the vase pink?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "pink",
+                    "question": "Is the vase pink?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the vase?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "pink",
+                    "question": "What color is the vase?",
+                    "choices": [
+                        "pink",
+                        "blue",
+                        "green",
+                        "yellow"
+                    ],
+                    "answer": "pink",
+                    "element_type": "color",
+                    "free_form_vqa": "pink",
+                    "multiple_choice_vqa": "pink",
+                    "scores": 1
+                },
+                "Is the shelf brown?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "brown",
+                    "question": "Is the shelf brown?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the shelf?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "brown",
+                    "question": "What color is the shelf?",
+                    "choices": [
+                        "brown",
+                        "black",
+                        "white",
+                        "red"
+                    ],
+                    "answer": "brown",
+                    "element_type": "color",
+                    "free_form_vqa": "white",
+                    "multiple_choice_vqa": "white",
+                    "scores": 0
+                },
+                "Is the vase on the shelf?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "on",
+                    "question": "Is the vase on the shelf?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_60.png",
+            "ques_ans": {
+                "Is there a vase?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "vase",
+                    "question": "Is there a vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of object is shown?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "vase",
+                    "question": "What type of object is shown?",
+                    "choices": [
+                        "vase",
+                        "bowl",
+                        "cup",
+                        "plate"
+                    ],
+                    "answer": "vase",
+                    "element_type": "object",
+                    "free_form_vqa": "vase",
+                    "multiple_choice_vqa": "vase",
+                    "scores": 1
+                },
+                "Is there a shelf?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "shelf",
+                    "question": "Is there a shelf?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What piece of furniture is present?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "shelf",
+                    "question": "What piece of furniture is present?",
+                    "choices": [
+                        "shelf",
+                        "table",
+                        "chair",
+                        "cabinet"
+                    ],
+                    "answer": "shelf",
+                    "element_type": "object",
+                    "free_form_vqa": "table",
+                    "multiple_choice_vqa": "table",
+                    "scores": 0
+                },
+                "Is the vase pink?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "pink",
+                    "question": "Is the vase pink?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the vase?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "pink",
+                    "question": "What color is the vase?",
+                    "choices": [
+                        "pink",
+                        "blue",
+                        "green",
+                        "yellow"
+                    ],
+                    "answer": "pink",
+                    "element_type": "color",
+                    "free_form_vqa": "pink",
+                    "multiple_choice_vqa": "pink",
+                    "scores": 1
+                },
+                "Is the shelf brown?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "brown",
+                    "question": "Is the shelf brown?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the shelf?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "brown",
+                    "question": "What color is the shelf?",
+                    "choices": [
+                        "brown",
+                        "black",
+                        "white",
+                        "red"
+                    ],
+                    "answer": "brown",
+                    "element_type": "color",
+                    "free_form_vqa": "brown",
+                    "multiple_choice_vqa": "brown",
+                    "scores": 1
+                },
+                "Is the vase on the shelf?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "on",
+                    "question": "Is the vase on the shelf?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_70.png",
+            "ques_ans": {
+                "Is there a vase?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "vase",
+                    "question": "Is there a vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of object is shown?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "vase",
+                    "question": "What type of object is shown?",
+                    "choices": [
+                        "vase",
+                        "bowl",
+                        "cup",
+                        "plate"
+                    ],
+                    "answer": "vase",
+                    "element_type": "object",
+                    "free_form_vqa": "vase",
+                    "multiple_choice_vqa": "vase",
+                    "scores": 1
+                },
+                "Is there a shelf?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "shelf",
+                    "question": "Is there a shelf?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What piece of furniture is present?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "shelf",
+                    "question": "What piece of furniture is present?",
+                    "choices": [
+                        "shelf",
+                        "table",
+                        "chair",
+                        "cabinet"
+                    ],
+                    "answer": "shelf",
+                    "element_type": "object",
+                    "free_form_vqa": "table",
+                    "multiple_choice_vqa": "table",
+                    "scores": 0
+                },
+                "Is the vase pink?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "pink",
+                    "question": "Is the vase pink?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the vase?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "pink",
+                    "question": "What color is the vase?",
+                    "choices": [
+                        "pink",
+                        "blue",
+                        "green",
+                        "yellow"
+                    ],
+                    "answer": "pink",
+                    "element_type": "color",
+                    "free_form_vqa": "pink",
+                    "multiple_choice_vqa": "pink",
+                    "scores": 1
+                },
+                "Is the shelf brown?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "brown",
+                    "question": "Is the shelf brown?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the shelf?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "brown",
+                    "question": "What color is the shelf?",
+                    "choices": [
+                        "brown",
+                        "black",
+                        "white",
+                        "red"
+                    ],
+                    "answer": "brown",
+                    "element_type": "color",
+                    "free_form_vqa": "brown",
+                    "multiple_choice_vqa": "brown",
+                    "scores": 1
+                },
+                "Is the vase on the shelf?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "on",
+                    "question": "Is the vase on the shelf?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_80.png",
+            "ques_ans": {
+                "Is there a vase?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "vase",
+                    "question": "Is there a vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of object is shown?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "vase",
+                    "question": "What type of object is shown?",
+                    "choices": [
+                        "vase",
+                        "bowl",
+                        "cup",
+                        "plate"
+                    ],
+                    "answer": "vase",
+                    "element_type": "object",
+                    "free_form_vqa": "vase",
+                    "multiple_choice_vqa": "vase",
+                    "scores": 1
+                },
+                "Is there a shelf?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "shelf",
+                    "question": "Is there a shelf?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What piece of furniture is present?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "shelf",
+                    "question": "What piece of furniture is present?",
+                    "choices": [
+                        "shelf",
+                        "table",
+                        "chair",
+                        "cabinet"
+                    ],
+                    "answer": "shelf",
+                    "element_type": "object",
+                    "free_form_vqa": "table",
+                    "multiple_choice_vqa": "table",
+                    "scores": 0
+                },
+                "Is the vase pink?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "pink",
+                    "question": "Is the vase pink?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the vase?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "pink",
+                    "question": "What color is the vase?",
+                    "choices": [
+                        "pink",
+                        "blue",
+                        "green",
+                        "yellow"
+                    ],
+                    "answer": "pink",
+                    "element_type": "color",
+                    "free_form_vqa": "pink",
+                    "multiple_choice_vqa": "pink",
+                    "scores": 1
+                },
+                "Is the shelf brown?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "brown",
+                    "question": "Is the shelf brown?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the shelf?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "brown",
+                    "question": "What color is the shelf?",
+                    "choices": [
+                        "brown",
+                        "black",
+                        "white",
+                        "red"
+                    ],
+                    "answer": "brown",
+                    "element_type": "color",
+                    "free_form_vqa": "brown",
+                    "multiple_choice_vqa": "brown",
+                    "scores": 1
+                },
+                "Is the vase on the shelf?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "on",
+                    "question": "Is the vase on the shelf?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_90.png",
+            "ques_ans": {
+                "Is there a vase?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "vase",
+                    "question": "Is there a vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of object is shown?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "vase",
+                    "question": "What type of object is shown?",
+                    "choices": [
+                        "vase",
+                        "bowl",
+                        "cup",
+                        "plate"
+                    ],
+                    "answer": "vase",
+                    "element_type": "object",
+                    "free_form_vqa": "vase",
+                    "multiple_choice_vqa": "vase",
+                    "scores": 1
+                },
+                "Is there a shelf?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "shelf",
+                    "question": "Is there a shelf?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What piece of furniture is present?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "shelf",
+                    "question": "What piece of furniture is present?",
+                    "choices": [
+                        "shelf",
+                        "table",
+                        "chair",
+                        "cabinet"
+                    ],
+                    "answer": "shelf",
+                    "element_type": "object",
+                    "free_form_vqa": "table",
+                    "multiple_choice_vqa": "table",
+                    "scores": 0
+                },
+                "Is the vase pink?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "pink",
+                    "question": "Is the vase pink?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the vase?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "pink",
+                    "question": "What color is the vase?",
+                    "choices": [
+                        "pink",
+                        "blue",
+                        "green",
+                        "yellow"
+                    ],
+                    "answer": "pink",
+                    "element_type": "color",
+                    "free_form_vqa": "pink",
+                    "multiple_choice_vqa": "pink",
+                    "scores": 1
+                },
+                "Is the shelf brown?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "brown",
+                    "question": "Is the shelf brown?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the shelf?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "brown",
+                    "question": "What color is the shelf?",
+                    "choices": [
+                        "brown",
+                        "black",
+                        "white",
+                        "red"
+                    ],
+                    "answer": "brown",
+                    "element_type": "color",
+                    "free_form_vqa": "brown",
+                    "multiple_choice_vqa": "brown",
+                    "scores": 1
+                },
+                "Is the vase on the shelf?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "on",
+                    "question": "Is the vase on the shelf?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_100.png",
+            "ques_ans": {
+                "Is there a vase?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "vase",
+                    "question": "Is there a vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of object is shown?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "vase",
+                    "question": "What type of object is shown?",
+                    "choices": [
+                        "vase",
+                        "bowl",
+                        "cup",
+                        "plate"
+                    ],
+                    "answer": "vase",
+                    "element_type": "object",
+                    "free_form_vqa": "vase",
+                    "multiple_choice_vqa": "vase",
+                    "scores": 1
+                },
+                "Is there a shelf?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "shelf",
+                    "question": "Is there a shelf?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What piece of furniture is present?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "shelf",
+                    "question": "What piece of furniture is present?",
+                    "choices": [
+                        "shelf",
+                        "table",
+                        "chair",
+                        "cabinet"
+                    ],
+                    "answer": "shelf",
+                    "element_type": "object",
+                    "free_form_vqa": "vase",
+                    "multiple_choice_vqa": "chair",
+                    "scores": 0
+                },
+                "Is the vase pink?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "pink",
+                    "question": "Is the vase pink?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the vase?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "pink",
+                    "question": "What color is the vase?",
+                    "choices": [
+                        "pink",
+                        "blue",
+                        "green",
+                        "yellow"
+                    ],
+                    "answer": "pink",
+                    "element_type": "color",
+                    "free_form_vqa": "pink",
+                    "multiple_choice_vqa": "pink",
+                    "scores": 1
+                },
+                "Is the shelf brown?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "brown",
+                    "question": "Is the shelf brown?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the shelf?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "brown",
+                    "question": "What color is the shelf?",
+                    "choices": [
+                        "brown",
+                        "black",
+                        "white",
+                        "red"
+                    ],
+                    "answer": "brown",
+                    "element_type": "color",
+                    "free_form_vqa": "pink",
+                    "multiple_choice_vqa": "red",
+                    "scores": 0
+                },
+                "Is the vase on the shelf?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "on",
+                    "question": "Is the vase on the shelf?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_110.png",
+            "ques_ans": {
+                "Is there a vase?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "vase",
+                    "question": "Is there a vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of object is shown?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "vase",
+                    "question": "What type of object is shown?",
+                    "choices": [
+                        "vase",
+                        "bowl",
+                        "cup",
+                        "plate"
+                    ],
+                    "answer": "vase",
+                    "element_type": "object",
+                    "free_form_vqa": "vase",
+                    "multiple_choice_vqa": "vase",
+                    "scores": 1
+                },
+                "Is there a shelf?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "shelf",
+                    "question": "Is there a shelf?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What piece of furniture is present?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "shelf",
+                    "question": "What piece of furniture is present?",
+                    "choices": [
+                        "shelf",
+                        "table",
+                        "chair",
+                        "cabinet"
+                    ],
+                    "answer": "shelf",
+                    "element_type": "object",
+                    "free_form_vqa": "vase",
+                    "multiple_choice_vqa": "chair",
+                    "scores": 0
+                },
+                "Is the vase pink?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "pink",
+                    "question": "Is the vase pink?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the vase?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "pink",
+                    "question": "What color is the vase?",
+                    "choices": [
+                        "pink",
+                        "blue",
+                        "green",
+                        "yellow"
+                    ],
+                    "answer": "pink",
+                    "element_type": "color",
+                    "free_form_vqa": "pink",
+                    "multiple_choice_vqa": "pink",
+                    "scores": 1
+                },
+                "Is the shelf brown?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "brown",
+                    "question": "Is the shelf brown?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the shelf?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "brown",
+                    "question": "What color is the shelf?",
+                    "choices": [
+                        "brown",
+                        "black",
+                        "white",
+                        "red"
+                    ],
+                    "answer": "brown",
+                    "element_type": "color",
+                    "free_form_vqa": "brown",
+                    "multiple_choice_vqa": "brown",
+                    "scores": 1
+                },
+                "Is the vase on the shelf?": {
+                    "caption": "A pink vase on a brown shelf",
+                    "element": "on",
+                    "question": "Is the vase on the shelf?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        }
+    ]
+}

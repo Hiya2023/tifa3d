@@ -1,0 +1,1834 @@
+{
+    "method": "latentnerf",
+    "aspect": "style",
+    "prompt_name": "A_vibrant_Indian_dress_beside_a_sleek_modern_teapot",
+    "individual_scores": {
+        "rgb_0.png": 0.5,
+        "rgb_10.png": 0.5,
+        "rgb_20.png": 0.5,
+        "rgb_30.png": 0.4,
+        "rgb_40.png": 0.4,
+        "rgb_50.png": 0.4,
+        "rgb_60.png": 0.4,
+        "rgb_70.png": 0.5,
+        "rgb_80.png": 0.4,
+        "rgb_90.png": 0.5,
+        "rgb_100.png": 0.4,
+        "rgb_110.png": 0.4
+    },
+    "average_tifa_score": 0.44166666666666665,
+    "question_logs": [
+        {
+            "image": "rgb_0.png",
+            "ques_ans": {
+                "Is there a dress?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "dress",
+                    "question": "Is there a dress?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of clothing is shown?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "dress",
+                    "question": "What type of clothing is shown?",
+                    "choices": [
+                        "dress",
+                        "shirt",
+                        "pants",
+                        "skirt"
+                    ],
+                    "answer": "dress",
+                    "element_type": "object",
+                    "free_form_vqa": "dress",
+                    "multiple_choice_vqa": "dress",
+                    "scores": 1
+                },
+                "Is there a teapot?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "teapot",
+                    "question": "Is there a teapot?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What type of item is present?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "teapot",
+                    "question": "What type of item is present?",
+                    "choices": [
+                        "teapot",
+                        "vase",
+                        "cup",
+                        "kettle"
+                    ],
+                    "answer": "teapot",
+                    "element_type": "object",
+                    "free_form_vqa": "dress",
+                    "multiple_choice_vqa": "cup",
+                    "scores": 0
+                },
+                "Is the dress vibrant in color?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "vibrant",
+                    "question": "Is the dress vibrant in color?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "How would you describe the color of the dress?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "vibrant",
+                    "question": "How would you describe the color of the dress?",
+                    "choices": [
+                        "vibrant",
+                        "dull",
+                        "pastel",
+                        "monochrome"
+                    ],
+                    "answer": "vibrant",
+                    "element_type": "color",
+                    "free_form_vqa": "orange and red",
+                    "multiple_choice_vqa": "monochrome",
+                    "scores": 0
+                },
+                "Is the dress Indian?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "Indian",
+                    "question": "Is the dress Indian?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot sleek?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "sleek",
+                    "question": "Is the teapot sleek?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the teapot modern?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "modern",
+                    "question": "Is the teapot modern?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the dress beside the teapot?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "beside",
+                    "question": "Is the dress beside the teapot?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_10.png",
+            "ques_ans": {
+                "Is there a dress?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "dress",
+                    "question": "Is there a dress?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of clothing is shown?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "dress",
+                    "question": "What type of clothing is shown?",
+                    "choices": [
+                        "dress",
+                        "shirt",
+                        "pants",
+                        "skirt"
+                    ],
+                    "answer": "dress",
+                    "element_type": "object",
+                    "free_form_vqa": "dress",
+                    "multiple_choice_vqa": "dress",
+                    "scores": 1
+                },
+                "Is there a teapot?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "teapot",
+                    "question": "Is there a teapot?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What type of item is present?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "teapot",
+                    "question": "What type of item is present?",
+                    "choices": [
+                        "teapot",
+                        "vase",
+                        "cup",
+                        "kettle"
+                    ],
+                    "answer": "teapot",
+                    "element_type": "object",
+                    "free_form_vqa": "dress",
+                    "multiple_choice_vqa": "cup",
+                    "scores": 0
+                },
+                "Is the dress vibrant in color?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "vibrant",
+                    "question": "Is the dress vibrant in color?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "How would you describe the color of the dress?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "vibrant",
+                    "question": "How would you describe the color of the dress?",
+                    "choices": [
+                        "vibrant",
+                        "dull",
+                        "pastel",
+                        "monochrome"
+                    ],
+                    "answer": "vibrant",
+                    "element_type": "color",
+                    "free_form_vqa": "orange and red",
+                    "multiple_choice_vqa": "monochrome",
+                    "scores": 0
+                },
+                "Is the dress Indian?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "Indian",
+                    "question": "Is the dress Indian?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the teapot sleek?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "sleek",
+                    "question": "Is the teapot sleek?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot modern?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "modern",
+                    "question": "Is the teapot modern?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the dress beside the teapot?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "beside",
+                    "question": "Is the dress beside the teapot?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_20.png",
+            "ques_ans": {
+                "Is there a dress?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "dress",
+                    "question": "Is there a dress?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of clothing is shown?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "dress",
+                    "question": "What type of clothing is shown?",
+                    "choices": [
+                        "dress",
+                        "shirt",
+                        "pants",
+                        "skirt"
+                    ],
+                    "answer": "dress",
+                    "element_type": "object",
+                    "free_form_vqa": "dress",
+                    "multiple_choice_vqa": "dress",
+                    "scores": 1
+                },
+                "Is there a teapot?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "teapot",
+                    "question": "Is there a teapot?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What type of item is present?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "teapot",
+                    "question": "What type of item is present?",
+                    "choices": [
+                        "teapot",
+                        "vase",
+                        "cup",
+                        "kettle"
+                    ],
+                    "answer": "teapot",
+                    "element_type": "object",
+                    "free_form_vqa": "dress",
+                    "multiple_choice_vqa": "cup",
+                    "scores": 0
+                },
+                "Is the dress vibrant in color?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "vibrant",
+                    "question": "Is the dress vibrant in color?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "How would you describe the color of the dress?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "vibrant",
+                    "question": "How would you describe the color of the dress?",
+                    "choices": [
+                        "vibrant",
+                        "dull",
+                        "pastel",
+                        "monochrome"
+                    ],
+                    "answer": "vibrant",
+                    "element_type": "color",
+                    "free_form_vqa": "orange and red",
+                    "multiple_choice_vqa": "monochrome",
+                    "scores": 0
+                },
+                "Is the dress Indian?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "Indian",
+                    "question": "Is the dress Indian?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot sleek?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "sleek",
+                    "question": "Is the teapot sleek?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the teapot modern?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "modern",
+                    "question": "Is the teapot modern?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the dress beside the teapot?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "beside",
+                    "question": "Is the dress beside the teapot?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_30.png",
+            "ques_ans": {
+                "Is there a dress?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "dress",
+                    "question": "Is there a dress?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of clothing is shown?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "dress",
+                    "question": "What type of clothing is shown?",
+                    "choices": [
+                        "dress",
+                        "shirt",
+                        "pants",
+                        "skirt"
+                    ],
+                    "answer": "dress",
+                    "element_type": "object",
+                    "free_form_vqa": "dress",
+                    "multiple_choice_vqa": "dress",
+                    "scores": 1
+                },
+                "Is there a teapot?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "teapot",
+                    "question": "Is there a teapot?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What type of item is present?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "teapot",
+                    "question": "What type of item is present?",
+                    "choices": [
+                        "teapot",
+                        "vase",
+                        "cup",
+                        "kettle"
+                    ],
+                    "answer": "teapot",
+                    "element_type": "object",
+                    "free_form_vqa": "dress",
+                    "multiple_choice_vqa": "cup",
+                    "scores": 0
+                },
+                "Is the dress vibrant in color?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "vibrant",
+                    "question": "Is the dress vibrant in color?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "How would you describe the color of the dress?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "vibrant",
+                    "question": "How would you describe the color of the dress?",
+                    "choices": [
+                        "vibrant",
+                        "dull",
+                        "pastel",
+                        "monochrome"
+                    ],
+                    "answer": "vibrant",
+                    "element_type": "color",
+                    "free_form_vqa": "orange",
+                    "multiple_choice_vqa": "monochrome",
+                    "scores": 0
+                },
+                "Is the dress Indian?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "Indian",
+                    "question": "Is the dress Indian?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the teapot sleek?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "sleek",
+                    "question": "Is the teapot sleek?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the teapot modern?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "modern",
+                    "question": "Is the teapot modern?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the dress beside the teapot?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "beside",
+                    "question": "Is the dress beside the teapot?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_40.png",
+            "ques_ans": {
+                "Is there a dress?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "dress",
+                    "question": "Is there a dress?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of clothing is shown?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "dress",
+                    "question": "What type of clothing is shown?",
+                    "choices": [
+                        "dress",
+                        "shirt",
+                        "pants",
+                        "skirt"
+                    ],
+                    "answer": "dress",
+                    "element_type": "object",
+                    "free_form_vqa": "dress",
+                    "multiple_choice_vqa": "dress",
+                    "scores": 1
+                },
+                "Is there a teapot?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "teapot",
+                    "question": "Is there a teapot?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What type of item is present?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "teapot",
+                    "question": "What type of item is present?",
+                    "choices": [
+                        "teapot",
+                        "vase",
+                        "cup",
+                        "kettle"
+                    ],
+                    "answer": "teapot",
+                    "element_type": "object",
+                    "free_form_vqa": "dress",
+                    "multiple_choice_vqa": "cup",
+                    "scores": 0
+                },
+                "Is the dress vibrant in color?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "vibrant",
+                    "question": "Is the dress vibrant in color?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "How would you describe the color of the dress?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "vibrant",
+                    "question": "How would you describe the color of the dress?",
+                    "choices": [
+                        "vibrant",
+                        "dull",
+                        "pastel",
+                        "monochrome"
+                    ],
+                    "answer": "vibrant",
+                    "element_type": "color",
+                    "free_form_vqa": "orange and red",
+                    "multiple_choice_vqa": "monochrome",
+                    "scores": 0
+                },
+                "Is the dress Indian?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "Indian",
+                    "question": "Is the dress Indian?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the teapot sleek?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "sleek",
+                    "question": "Is the teapot sleek?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the teapot modern?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "modern",
+                    "question": "Is the teapot modern?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the dress beside the teapot?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "beside",
+                    "question": "Is the dress beside the teapot?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_50.png",
+            "ques_ans": {
+                "Is there a dress?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "dress",
+                    "question": "Is there a dress?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of clothing is shown?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "dress",
+                    "question": "What type of clothing is shown?",
+                    "choices": [
+                        "dress",
+                        "shirt",
+                        "pants",
+                        "skirt"
+                    ],
+                    "answer": "dress",
+                    "element_type": "object",
+                    "free_form_vqa": "dress",
+                    "multiple_choice_vqa": "dress",
+                    "scores": 1
+                },
+                "Is there a teapot?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "teapot",
+                    "question": "Is there a teapot?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What type of item is present?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "teapot",
+                    "question": "What type of item is present?",
+                    "choices": [
+                        "teapot",
+                        "vase",
+                        "cup",
+                        "kettle"
+                    ],
+                    "answer": "teapot",
+                    "element_type": "object",
+                    "free_form_vqa": "dress",
+                    "multiple_choice_vqa": "cup",
+                    "scores": 0
+                },
+                "Is the dress vibrant in color?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "vibrant",
+                    "question": "Is the dress vibrant in color?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "How would you describe the color of the dress?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "vibrant",
+                    "question": "How would you describe the color of the dress?",
+                    "choices": [
+                        "vibrant",
+                        "dull",
+                        "pastel",
+                        "monochrome"
+                    ],
+                    "answer": "vibrant",
+                    "element_type": "color",
+                    "free_form_vqa": "orange",
+                    "multiple_choice_vqa": "monochrome",
+                    "scores": 0
+                },
+                "Is the dress Indian?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "Indian",
+                    "question": "Is the dress Indian?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the teapot sleek?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "sleek",
+                    "question": "Is the teapot sleek?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the teapot modern?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "modern",
+                    "question": "Is the teapot modern?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the dress beside the teapot?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "beside",
+                    "question": "Is the dress beside the teapot?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_60.png",
+            "ques_ans": {
+                "Is there a dress?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "dress",
+                    "question": "Is there a dress?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of clothing is shown?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "dress",
+                    "question": "What type of clothing is shown?",
+                    "choices": [
+                        "dress",
+                        "shirt",
+                        "pants",
+                        "skirt"
+                    ],
+                    "answer": "dress",
+                    "element_type": "object",
+                    "free_form_vqa": "dress",
+                    "multiple_choice_vqa": "dress",
+                    "scores": 1
+                },
+                "Is there a teapot?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "teapot",
+                    "question": "Is there a teapot?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What type of item is present?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "teapot",
+                    "question": "What type of item is present?",
+                    "choices": [
+                        "teapot",
+                        "vase",
+                        "cup",
+                        "kettle"
+                    ],
+                    "answer": "teapot",
+                    "element_type": "object",
+                    "free_form_vqa": "dress",
+                    "multiple_choice_vqa": "cup",
+                    "scores": 0
+                },
+                "Is the dress vibrant in color?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "vibrant",
+                    "question": "Is the dress vibrant in color?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "How would you describe the color of the dress?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "vibrant",
+                    "question": "How would you describe the color of the dress?",
+                    "choices": [
+                        "vibrant",
+                        "dull",
+                        "pastel",
+                        "monochrome"
+                    ],
+                    "answer": "vibrant",
+                    "element_type": "color",
+                    "free_form_vqa": "orange",
+                    "multiple_choice_vqa": "monochrome",
+                    "scores": 0
+                },
+                "Is the dress Indian?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "Indian",
+                    "question": "Is the dress Indian?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the teapot sleek?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "sleek",
+                    "question": "Is the teapot sleek?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the teapot modern?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "modern",
+                    "question": "Is the teapot modern?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the dress beside the teapot?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "beside",
+                    "question": "Is the dress beside the teapot?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_70.png",
+            "ques_ans": {
+                "Is there a dress?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "dress",
+                    "question": "Is there a dress?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of clothing is shown?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "dress",
+                    "question": "What type of clothing is shown?",
+                    "choices": [
+                        "dress",
+                        "shirt",
+                        "pants",
+                        "skirt"
+                    ],
+                    "answer": "dress",
+                    "element_type": "object",
+                    "free_form_vqa": "dress",
+                    "multiple_choice_vqa": "dress",
+                    "scores": 1
+                },
+                "Is there a teapot?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "teapot",
+                    "question": "Is there a teapot?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What type of item is present?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "teapot",
+                    "question": "What type of item is present?",
+                    "choices": [
+                        "teapot",
+                        "vase",
+                        "cup",
+                        "kettle"
+                    ],
+                    "answer": "teapot",
+                    "element_type": "object",
+                    "free_form_vqa": "dress",
+                    "multiple_choice_vqa": "cup",
+                    "scores": 0
+                },
+                "Is the dress vibrant in color?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "vibrant",
+                    "question": "Is the dress vibrant in color?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "How would you describe the color of the dress?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "vibrant",
+                    "question": "How would you describe the color of the dress?",
+                    "choices": [
+                        "vibrant",
+                        "dull",
+                        "pastel",
+                        "monochrome"
+                    ],
+                    "answer": "vibrant",
+                    "element_type": "color",
+                    "free_form_vqa": "yellow and red",
+                    "multiple_choice_vqa": "monochrome",
+                    "scores": 0
+                },
+                "Is the dress Indian?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "Indian",
+                    "question": "Is the dress Indian?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot sleek?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "sleek",
+                    "question": "Is the teapot sleek?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the teapot modern?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "modern",
+                    "question": "Is the teapot modern?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the dress beside the teapot?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "beside",
+                    "question": "Is the dress beside the teapot?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_80.png",
+            "ques_ans": {
+                "Is there a dress?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "dress",
+                    "question": "Is there a dress?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of clothing is shown?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "dress",
+                    "question": "What type of clothing is shown?",
+                    "choices": [
+                        "dress",
+                        "shirt",
+                        "pants",
+                        "skirt"
+                    ],
+                    "answer": "dress",
+                    "element_type": "object",
+                    "free_form_vqa": "dress",
+                    "multiple_choice_vqa": "dress",
+                    "scores": 1
+                },
+                "Is there a teapot?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "teapot",
+                    "question": "Is there a teapot?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What type of item is present?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "teapot",
+                    "question": "What type of item is present?",
+                    "choices": [
+                        "teapot",
+                        "vase",
+                        "cup",
+                        "kettle"
+                    ],
+                    "answer": "teapot",
+                    "element_type": "object",
+                    "free_form_vqa": "dress",
+                    "multiple_choice_vqa": "cup",
+                    "scores": 0
+                },
+                "Is the dress vibrant in color?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "vibrant",
+                    "question": "Is the dress vibrant in color?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "How would you describe the color of the dress?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "vibrant",
+                    "question": "How would you describe the color of the dress?",
+                    "choices": [
+                        "vibrant",
+                        "dull",
+                        "pastel",
+                        "monochrome"
+                    ],
+                    "answer": "vibrant",
+                    "element_type": "color",
+                    "free_form_vqa": "orange",
+                    "multiple_choice_vqa": "monochrome",
+                    "scores": 0
+                },
+                "Is the dress Indian?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "Indian",
+                    "question": "Is the dress Indian?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the teapot sleek?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "sleek",
+                    "question": "Is the teapot sleek?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the teapot modern?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "modern",
+                    "question": "Is the teapot modern?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the dress beside the teapot?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "beside",
+                    "question": "Is the dress beside the teapot?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_90.png",
+            "ques_ans": {
+                "Is there a dress?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "dress",
+                    "question": "Is there a dress?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of clothing is shown?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "dress",
+                    "question": "What type of clothing is shown?",
+                    "choices": [
+                        "dress",
+                        "shirt",
+                        "pants",
+                        "skirt"
+                    ],
+                    "answer": "dress",
+                    "element_type": "object",
+                    "free_form_vqa": "dress",
+                    "multiple_choice_vqa": "dress",
+                    "scores": 1
+                },
+                "Is there a teapot?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "teapot",
+                    "question": "Is there a teapot?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What type of item is present?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "teapot",
+                    "question": "What type of item is present?",
+                    "choices": [
+                        "teapot",
+                        "vase",
+                        "cup",
+                        "kettle"
+                    ],
+                    "answer": "teapot",
+                    "element_type": "object",
+                    "free_form_vqa": "dress",
+                    "multiple_choice_vqa": "cup",
+                    "scores": 0
+                },
+                "Is the dress vibrant in color?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "vibrant",
+                    "question": "Is the dress vibrant in color?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "How would you describe the color of the dress?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "vibrant",
+                    "question": "How would you describe the color of the dress?",
+                    "choices": [
+                        "vibrant",
+                        "dull",
+                        "pastel",
+                        "monochrome"
+                    ],
+                    "answer": "vibrant",
+                    "element_type": "color",
+                    "free_form_vqa": "orange and red",
+                    "multiple_choice_vqa": "monochrome",
+                    "scores": 0
+                },
+                "Is the dress Indian?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "Indian",
+                    "question": "Is the dress Indian?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot sleek?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "sleek",
+                    "question": "Is the teapot sleek?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the teapot modern?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "modern",
+                    "question": "Is the teapot modern?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the dress beside the teapot?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "beside",
+                    "question": "Is the dress beside the teapot?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_100.png",
+            "ques_ans": {
+                "Is there a dress?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "dress",
+                    "question": "Is there a dress?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of clothing is shown?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "dress",
+                    "question": "What type of clothing is shown?",
+                    "choices": [
+                        "dress",
+                        "shirt",
+                        "pants",
+                        "skirt"
+                    ],
+                    "answer": "dress",
+                    "element_type": "object",
+                    "free_form_vqa": "dress",
+                    "multiple_choice_vqa": "dress",
+                    "scores": 1
+                },
+                "Is there a teapot?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "teapot",
+                    "question": "Is there a teapot?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What type of item is present?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "teapot",
+                    "question": "What type of item is present?",
+                    "choices": [
+                        "teapot",
+                        "vase",
+                        "cup",
+                        "kettle"
+                    ],
+                    "answer": "teapot",
+                    "element_type": "object",
+                    "free_form_vqa": "dress",
+                    "multiple_choice_vqa": "cup",
+                    "scores": 0
+                },
+                "Is the dress vibrant in color?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "vibrant",
+                    "question": "Is the dress vibrant in color?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "How would you describe the color of the dress?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "vibrant",
+                    "question": "How would you describe the color of the dress?",
+                    "choices": [
+                        "vibrant",
+                        "dull",
+                        "pastel",
+                        "monochrome"
+                    ],
+                    "answer": "vibrant",
+                    "element_type": "color",
+                    "free_form_vqa": "orange and red",
+                    "multiple_choice_vqa": "monochrome",
+                    "scores": 0
+                },
+                "Is the dress Indian?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "Indian",
+                    "question": "Is the dress Indian?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the teapot sleek?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "sleek",
+                    "question": "Is the teapot sleek?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the teapot modern?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "modern",
+                    "question": "Is the teapot modern?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the dress beside the teapot?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "beside",
+                    "question": "Is the dress beside the teapot?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_110.png",
+            "ques_ans": {
+                "Is there a dress?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "dress",
+                    "question": "Is there a dress?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of clothing is shown?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "dress",
+                    "question": "What type of clothing is shown?",
+                    "choices": [
+                        "dress",
+                        "shirt",
+                        "pants",
+                        "skirt"
+                    ],
+                    "answer": "dress",
+                    "element_type": "object",
+                    "free_form_vqa": "dress",
+                    "multiple_choice_vqa": "dress",
+                    "scores": 1
+                },
+                "Is there a teapot?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "teapot",
+                    "question": "Is there a teapot?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What type of item is present?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "teapot",
+                    "question": "What type of item is present?",
+                    "choices": [
+                        "teapot",
+                        "vase",
+                        "cup",
+                        "kettle"
+                    ],
+                    "answer": "teapot",
+                    "element_type": "object",
+                    "free_form_vqa": "dress",
+                    "multiple_choice_vqa": "cup",
+                    "scores": 0
+                },
+                "Is the dress vibrant in color?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "vibrant",
+                    "question": "Is the dress vibrant in color?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "How would you describe the color of the dress?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "vibrant",
+                    "question": "How would you describe the color of the dress?",
+                    "choices": [
+                        "vibrant",
+                        "dull",
+                        "pastel",
+                        "monochrome"
+                    ],
+                    "answer": "vibrant",
+                    "element_type": "color",
+                    "free_form_vqa": "orange",
+                    "multiple_choice_vqa": "monochrome",
+                    "scores": 0
+                },
+                "Is the dress Indian?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "Indian",
+                    "question": "Is the dress Indian?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the teapot sleek?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "sleek",
+                    "question": "Is the teapot sleek?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the teapot modern?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "modern",
+                    "question": "Is the teapot modern?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the dress beside the teapot?": {
+                    "caption": "A vibrant Indian dress beside a sleek modern teapot",
+                    "element": "beside",
+                    "question": "Is the dress beside the teapot?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        }
+    ]
+}

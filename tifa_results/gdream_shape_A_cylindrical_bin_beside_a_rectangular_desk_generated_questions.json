@@ -1,0 +1,122 @@
+[
+    {
+        "caption": "A cylindrical bin beside a rectangular desk",
+        "element": "bin",
+        "question": "Is there a bin?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "A cylindrical bin beside a rectangular desk",
+        "element": "bin",
+        "question": "What type of object is shown?",
+        "choices": [
+            "bin",
+            "chair",
+            "table",
+            "lamp"
+        ],
+        "answer": "bin",
+        "element_type": "object"
+    },
+    {
+        "caption": "A cylindrical bin beside a rectangular desk",
+        "element": "desk",
+        "question": "Is there a desk?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "A cylindrical bin beside a rectangular desk",
+        "element": "desk",
+        "question": "What piece of furniture is shown?",
+        "choices": [
+            "desk",
+            "sofa",
+            "bed",
+            "cabinet"
+        ],
+        "answer": "desk",
+        "element_type": "object"
+    },
+    {
+        "caption": "A cylindrical bin beside a rectangular desk",
+        "element": "cylindrical",
+        "question": "Is the bin cylindrical?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "shape"
+    },
+    {
+        "caption": "A cylindrical bin beside a rectangular desk",
+        "element": "cylindrical",
+        "question": "What shape is the bin?",
+        "choices": [
+            "cylindrical",
+            "square",
+            "triangular",
+            "oval"
+        ],
+        "answer": "cylindrical",
+        "element_type": "shape"
+    },
+    {
+        "caption": "A cylindrical bin beside a rectangular desk",
+        "element": "rectangular",
+        "question": "Is the desk rectangular?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "shape"
+    },
+    {
+        "caption": "A cylindrical bin beside a rectangular desk",
+        "element": "rectangular",
+        "question": "What shape is the desk?",
+        "choices": [
+            "rectangular",
+            "round",
+            "oval",
+            "square"
+        ],
+        "answer": "rectangular",
+        "element_type": "shape"
+    },
+    {
+        "caption": "A cylindrical bin beside a rectangular desk",
+        "element": "beside",
+        "question": "Is the bin beside the desk?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "spatial"
+    },
+    {
+        "caption": "A cylindrical bin beside a rectangular desk",
+        "element": "beside",
+        "question": "What is the spatial relation between the bin and the desk?",
+        "choices": [
+            "beside",
+            "under",
+            "on",
+            "behind"
+        ],
+        "answer": "beside",
+        "element_type": "spatial"
+    }
+]

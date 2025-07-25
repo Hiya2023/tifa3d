@@ -1,0 +1,50 @@
+[
+    {
+        "caption": "A trapezoidal bookshelf",
+        "element": "bookshelf",
+        "question": "Is this a bookshelf?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "A trapezoidal bookshelf",
+        "element": "bookshelf",
+        "question": "What type of furniture is shown?",
+        "choices": [
+            "bookshelf",
+            "table",
+            "chair",
+            "cabinet"
+        ],
+        "answer": "bookshelf",
+        "element_type": "object"
+    },
+    {
+        "caption": "A trapezoidal bookshelf",
+        "element": "trapezoidal",
+        "question": "Is the bookshelf trapezoidal?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "shape"
+    },
+    {
+        "caption": "A trapezoidal bookshelf",
+        "element": "trapezoidal",
+        "question": "What shape is the bookshelf?",
+        "choices": [
+            "trapezoidal",
+            "rectangular",
+            "circular",
+            "triangular"
+        ],
+        "answer": "trapezoidal",
+        "element_type": "shape"
+    }
+]

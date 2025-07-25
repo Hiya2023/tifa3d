@@ -1,0 +1,122 @@
+[
+    {
+        "caption": "A black vase on a brown table",
+        "element": "vase",
+        "question": "Is there a vase?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "A black vase on a brown table",
+        "element": "vase",
+        "question": "What type of object is shown?",
+        "choices": [
+            "vase",
+            "bowl",
+            "cup",
+            "plate"
+        ],
+        "answer": "vase",
+        "element_type": "object"
+    },
+    {
+        "caption": "A black vase on a brown table",
+        "element": "table",
+        "question": "Is there a table?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "A black vase on a brown table",
+        "element": "table",
+        "question": "What piece of furniture is shown?",
+        "choices": [
+            "table",
+            "chair",
+            "sofa",
+            "bed"
+        ],
+        "answer": "table",
+        "element_type": "object"
+    },
+    {
+        "caption": "A black vase on a brown table",
+        "element": "black",
+        "question": "Is the vase black?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "color"
+    },
+    {
+        "caption": "A black vase on a brown table",
+        "element": "black",
+        "question": "What color is the vase?",
+        "choices": [
+            "black",
+            "white",
+            "red",
+            "blue"
+        ],
+        "answer": "black",
+        "element_type": "color"
+    },
+    {
+        "caption": "A black vase on a brown table",
+        "element": "brown",
+        "question": "Is the table brown?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "color"
+    },
+    {
+        "caption": "A black vase on a brown table",
+        "element": "brown",
+        "question": "What color is the table?",
+        "choices": [
+            "brown",
+            "black",
+            "white",
+            "gray"
+        ],
+        "answer": "brown",
+        "element_type": "color"
+    },
+    {
+        "caption": "A black vase on a brown table",
+        "element": "on",
+        "question": "Is the vase on the table?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "spatial"
+    },
+    {
+        "caption": "A black vase on a brown table",
+        "element": "on",
+        "question": "What is the spatial relation between the vase and the table?",
+        "choices": [
+            "on",
+            "under",
+            "beside",
+            "behind"
+        ],
+        "answer": "on",
+        "element_type": "spatial"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "caption": "An orange armchair",
+        "element": "armchair",
+        "question": "Is this an armchair?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "An orange armchair",
+        "element": "armchair",
+        "question": "What type of furniture is shown?",
+        "choices": [
+            "armchair",
+            "sofa",
+            "stool",
+            "bench"
+        ],
+        "answer": "armchair",
+        "element_type": "object"
+    },
+    {
+        "caption": "An orange armchair",
+        "element": "orange",
+        "question": "Is the armchair orange?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "color"
+    },
+    {
+        "caption": "An orange armchair",
+        "element": "orange",
+        "question": "What color is the armchair?",
+        "choices": [
+            "orange",
+            "blue",
+            "green",
+            "red"
+        ],
+        "answer": "orange",
+        "element_type": "color"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "caption": "A brown sofa with black stripes",
+        "element": "sofa",
+        "question": "Is this a sofa?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "A brown sofa with black stripes",
+        "element": "sofa",
+        "question": "What piece of furniture is shown?",
+        "choices": [
+            "sofa",
+            "chair",
+            "table",
+            "bed"
+        ],
+        "answer": "sofa",
+        "element_type": "object"
+    },
+    {
+        "caption": "A brown sofa with black stripes",
+        "element": "brown",
+        "question": "Is the sofa brown?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "color"
+    },
+    {
+        "caption": "A brown sofa with black stripes",
+        "element": "brown",
+        "question": "What is the main color of the sofa?",
+        "choices": [
+            "brown",
+            "blue",
+            "red",
+            "green"
+        ],
+        "answer": "brown",
+        "element_type": "color"
+    },
+    {
+        "caption": "A brown sofa with black stripes",
+        "element": "black stripes",
+        "question": "Does the sofa have black stripes?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "attribute"
+    },
+    {
+        "caption": "A brown sofa with black stripes",
+        "element": "black stripes",
+        "question": "What pattern does the sofa have?",
+        "choices": [
+            "striped",
+            "polka dot",
+            "plain",
+            "checked"
+        ],
+        "answer": "striped",
+        "element_type": "attribute"
+    }
+]

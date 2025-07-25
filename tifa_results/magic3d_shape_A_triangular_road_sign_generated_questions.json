@@ -1,0 +1,50 @@
+[
+    {
+        "caption": "A triangular road sign",
+        "element": "road sign",
+        "question": "Is this a road sign?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "A triangular road sign",
+        "element": "road sign",
+        "question": "What type of object is shown?",
+        "choices": [
+            "road sign",
+            "billboard",
+            "traffic light",
+            "street lamp"
+        ],
+        "answer": "road sign",
+        "element_type": "object"
+    },
+    {
+        "caption": "A triangular road sign",
+        "element": "triangular",
+        "question": "Is the road sign triangular?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "shape"
+    },
+    {
+        "caption": "A triangular road sign",
+        "element": "triangular",
+        "question": "What shape is the road sign?",
+        "choices": [
+            "triangular",
+            "circular",
+            "rectangular",
+            "hexagonal"
+        ],
+        "answer": "triangular",
+        "element_type": "shape"
+    }
+]

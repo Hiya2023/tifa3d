@@ -1,0 +1,1498 @@
+{
+    "method": "latentnerf",
+    "aspect": "color",
+    "prompt_name": "A_black_vase_on_a_brown_table",
+    "individual_scores": {
+        "rgb_0.png": 0.625,
+        "rgb_10.png": 0.625,
+        "rgb_20.png": 0.625,
+        "rgb_30.png": 0.625,
+        "rgb_40.png": 0.625,
+        "rgb_50.png": 0.625,
+        "rgb_60.png": 0.625,
+        "rgb_70.png": 0.625,
+        "rgb_80.png": 0.625,
+        "rgb_90.png": 0.625,
+        "rgb_100.png": 0.625,
+        "rgb_110.png": 0.625
+    },
+    "average_tifa_score": 0.625,
+    "question_logs": [
+        {
+            "image": "rgb_0.png",
+            "ques_ans": {
+                "Is there a vase?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "vase",
+                    "question": "Is there a vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a table?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "table",
+                    "question": "Is there a table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What piece of furniture is present?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "table",
+                    "question": "What piece of furniture is present?",
+                    "choices": [
+                        "table",
+                        "chair",
+                        "sofa",
+                        "bed"
+                    ],
+                    "answer": "table",
+                    "element_type": "object",
+                    "free_form_vqa": "vase",
+                    "multiple_choice_vqa": "chair",
+                    "scores": 0
+                },
+                "Is the vase black?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "black",
+                    "question": "Is the vase black?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the vase?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "black",
+                    "question": "What color is the vase?",
+                    "choices": [
+                        "black",
+                        "white",
+                        "red",
+                        "blue"
+                    ],
+                    "answer": "black",
+                    "element_type": "color",
+                    "free_form_vqa": "black",
+                    "multiple_choice_vqa": "black",
+                    "scores": 1
+                },
+                "Is the table brown?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "brown",
+                    "question": "Is the table brown?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the table?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "brown",
+                    "question": "What color is the table?",
+                    "choices": [
+                        "brown",
+                        "black",
+                        "white",
+                        "gray"
+                    ],
+                    "answer": "brown",
+                    "element_type": "color",
+                    "free_form_vqa": "brown",
+                    "multiple_choice_vqa": "brown",
+                    "scores": 1
+                },
+                "Is the vase on the table?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "on",
+                    "question": "Is the vase on the table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_10.png",
+            "ques_ans": {
+                "Is there a vase?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "vase",
+                    "question": "Is there a vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a table?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "table",
+                    "question": "Is there a table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What piece of furniture is present?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "table",
+                    "question": "What piece of furniture is present?",
+                    "choices": [
+                        "table",
+                        "chair",
+                        "sofa",
+                        "bed"
+                    ],
+                    "answer": "table",
+                    "element_type": "object",
+                    "free_form_vqa": "vase",
+                    "multiple_choice_vqa": "chair",
+                    "scores": 0
+                },
+                "Is the vase black?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "black",
+                    "question": "Is the vase black?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the vase?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "black",
+                    "question": "What color is the vase?",
+                    "choices": [
+                        "black",
+                        "white",
+                        "red",
+                        "blue"
+                    ],
+                    "answer": "black",
+                    "element_type": "color",
+                    "free_form_vqa": "black",
+                    "multiple_choice_vqa": "black",
+                    "scores": 1
+                },
+                "Is the table brown?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "brown",
+                    "question": "Is the table brown?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the table?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "brown",
+                    "question": "What color is the table?",
+                    "choices": [
+                        "brown",
+                        "black",
+                        "white",
+                        "gray"
+                    ],
+                    "answer": "brown",
+                    "element_type": "color",
+                    "free_form_vqa": "brown",
+                    "multiple_choice_vqa": "brown",
+                    "scores": 1
+                },
+                "Is the vase on the table?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "on",
+                    "question": "Is the vase on the table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_20.png",
+            "ques_ans": {
+                "Is there a vase?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "vase",
+                    "question": "Is there a vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a table?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "table",
+                    "question": "Is there a table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What piece of furniture is present?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "table",
+                    "question": "What piece of furniture is present?",
+                    "choices": [
+                        "table",
+                        "chair",
+                        "sofa",
+                        "bed"
+                    ],
+                    "answer": "table",
+                    "element_type": "object",
+                    "free_form_vqa": "vase",
+                    "multiple_choice_vqa": "chair",
+                    "scores": 0
+                },
+                "Is the vase black?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "black",
+                    "question": "Is the vase black?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the vase?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "black",
+                    "question": "What color is the vase?",
+                    "choices": [
+                        "black",
+                        "white",
+                        "red",
+                        "blue"
+                    ],
+                    "answer": "black",
+                    "element_type": "color",
+                    "free_form_vqa": "black",
+                    "multiple_choice_vqa": "black",
+                    "scores": 1
+                },
+                "Is the table brown?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "brown",
+                    "question": "Is the table brown?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the table?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "brown",
+                    "question": "What color is the table?",
+                    "choices": [
+                        "brown",
+                        "black",
+                        "white",
+                        "gray"
+                    ],
+                    "answer": "brown",
+                    "element_type": "color",
+                    "free_form_vqa": "brown",
+                    "multiple_choice_vqa": "brown",
+                    "scores": 1
+                },
+                "Is the vase on the table?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "on",
+                    "question": "Is the vase on the table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_30.png",
+            "ques_ans": {
+                "Is there a vase?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "vase",
+                    "question": "Is there a vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a table?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "table",
+                    "question": "Is there a table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What piece of furniture is present?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "table",
+                    "question": "What piece of furniture is present?",
+                    "choices": [
+                        "table",
+                        "chair",
+                        "sofa",
+                        "bed"
+                    ],
+                    "answer": "table",
+                    "element_type": "object",
+                    "free_form_vqa": "vase",
+                    "multiple_choice_vqa": "chair",
+                    "scores": 0
+                },
+                "Is the vase black?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "black",
+                    "question": "Is the vase black?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the vase?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "black",
+                    "question": "What color is the vase?",
+                    "choices": [
+                        "black",
+                        "white",
+                        "red",
+                        "blue"
+                    ],
+                    "answer": "black",
+                    "element_type": "color",
+                    "free_form_vqa": "black",
+                    "multiple_choice_vqa": "black",
+                    "scores": 1
+                },
+                "Is the table brown?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "brown",
+                    "question": "Is the table brown?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the table?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "brown",
+                    "question": "What color is the table?",
+                    "choices": [
+                        "brown",
+                        "black",
+                        "white",
+                        "gray"
+                    ],
+                    "answer": "brown",
+                    "element_type": "color",
+                    "free_form_vqa": "brown",
+                    "multiple_choice_vqa": "brown",
+                    "scores": 1
+                },
+                "Is the vase on the table?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "on",
+                    "question": "Is the vase on the table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_40.png",
+            "ques_ans": {
+                "Is there a vase?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "vase",
+                    "question": "Is there a vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a table?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "table",
+                    "question": "Is there a table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What piece of furniture is present?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "table",
+                    "question": "What piece of furniture is present?",
+                    "choices": [
+                        "table",
+                        "chair",
+                        "sofa",
+                        "bed"
+                    ],
+                    "answer": "table",
+                    "element_type": "object",
+                    "free_form_vqa": "vase",
+                    "multiple_choice_vqa": "chair",
+                    "scores": 0
+                },
+                "Is the vase black?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "black",
+                    "question": "Is the vase black?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the vase?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "black",
+                    "question": "What color is the vase?",
+                    "choices": [
+                        "black",
+                        "white",
+                        "red",
+                        "blue"
+                    ],
+                    "answer": "black",
+                    "element_type": "color",
+                    "free_form_vqa": "black",
+                    "multiple_choice_vqa": "black",
+                    "scores": 1
+                },
+                "Is the table brown?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "brown",
+                    "question": "Is the table brown?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the table?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "brown",
+                    "question": "What color is the table?",
+                    "choices": [
+                        "brown",
+                        "black",
+                        "white",
+                        "gray"
+                    ],
+                    "answer": "brown",
+                    "element_type": "color",
+                    "free_form_vqa": "brown",
+                    "multiple_choice_vqa": "brown",
+                    "scores": 1
+                },
+                "Is the vase on the table?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "on",
+                    "question": "Is the vase on the table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_50.png",
+            "ques_ans": {
+                "Is there a vase?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "vase",
+                    "question": "Is there a vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a table?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "table",
+                    "question": "Is there a table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What piece of furniture is present?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "table",
+                    "question": "What piece of furniture is present?",
+                    "choices": [
+                        "table",
+                        "chair",
+                        "sofa",
+                        "bed"
+                    ],
+                    "answer": "table",
+                    "element_type": "object",
+                    "free_form_vqa": "vase",
+                    "multiple_choice_vqa": "chair",
+                    "scores": 0
+                },
+                "Is the vase black?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "black",
+                    "question": "Is the vase black?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the vase?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "black",
+                    "question": "What color is the vase?",
+                    "choices": [
+                        "black",
+                        "white",
+                        "red",
+                        "blue"
+                    ],
+                    "answer": "black",
+                    "element_type": "color",
+                    "free_form_vqa": "black",
+                    "multiple_choice_vqa": "black",
+                    "scores": 1
+                },
+                "Is the table brown?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "brown",
+                    "question": "Is the table brown?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the table?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "brown",
+                    "question": "What color is the table?",
+                    "choices": [
+                        "brown",
+                        "black",
+                        "white",
+                        "gray"
+                    ],
+                    "answer": "brown",
+                    "element_type": "color",
+                    "free_form_vqa": "brown",
+                    "multiple_choice_vqa": "brown",
+                    "scores": 1
+                },
+                "Is the vase on the table?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "on",
+                    "question": "Is the vase on the table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_60.png",
+            "ques_ans": {
+                "Is there a vase?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "vase",
+                    "question": "Is there a vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a table?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "table",
+                    "question": "Is there a table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What piece of furniture is present?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "table",
+                    "question": "What piece of furniture is present?",
+                    "choices": [
+                        "table",
+                        "chair",
+                        "sofa",
+                        "bed"
+                    ],
+                    "answer": "table",
+                    "element_type": "object",
+                    "free_form_vqa": "vase",
+                    "multiple_choice_vqa": "chair",
+                    "scores": 0
+                },
+                "Is the vase black?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "black",
+                    "question": "Is the vase black?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the vase?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "black",
+                    "question": "What color is the vase?",
+                    "choices": [
+                        "black",
+                        "white",
+                        "red",
+                        "blue"
+                    ],
+                    "answer": "black",
+                    "element_type": "color",
+                    "free_form_vqa": "black",
+                    "multiple_choice_vqa": "black",
+                    "scores": 1
+                },
+                "Is the table brown?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "brown",
+                    "question": "Is the table brown?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the table?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "brown",
+                    "question": "What color is the table?",
+                    "choices": [
+                        "brown",
+                        "black",
+                        "white",
+                        "gray"
+                    ],
+                    "answer": "brown",
+                    "element_type": "color",
+                    "free_form_vqa": "brown",
+                    "multiple_choice_vqa": "brown",
+                    "scores": 1
+                },
+                "Is the vase on the table?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "on",
+                    "question": "Is the vase on the table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_70.png",
+            "ques_ans": {
+                "Is there a vase?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "vase",
+                    "question": "Is there a vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a table?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "table",
+                    "question": "Is there a table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What piece of furniture is present?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "table",
+                    "question": "What piece of furniture is present?",
+                    "choices": [
+                        "table",
+                        "chair",
+                        "sofa",
+                        "bed"
+                    ],
+                    "answer": "table",
+                    "element_type": "object",
+                    "free_form_vqa": "vase",
+                    "multiple_choice_vqa": "chair",
+                    "scores": 0
+                },
+                "Is the vase black?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "black",
+                    "question": "Is the vase black?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the vase?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "black",
+                    "question": "What color is the vase?",
+                    "choices": [
+                        "black",
+                        "white",
+                        "red",
+                        "blue"
+                    ],
+                    "answer": "black",
+                    "element_type": "color",
+                    "free_form_vqa": "black",
+                    "multiple_choice_vqa": "black",
+                    "scores": 1
+                },
+                "Is the table brown?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "brown",
+                    "question": "Is the table brown?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the table?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "brown",
+                    "question": "What color is the table?",
+                    "choices": [
+                        "brown",
+                        "black",
+                        "white",
+                        "gray"
+                    ],
+                    "answer": "brown",
+                    "element_type": "color",
+                    "free_form_vqa": "brown",
+                    "multiple_choice_vqa": "brown",
+                    "scores": 1
+                },
+                "Is the vase on the table?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "on",
+                    "question": "Is the vase on the table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_80.png",
+            "ques_ans": {
+                "Is there a vase?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "vase",
+                    "question": "Is there a vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a table?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "table",
+                    "question": "Is there a table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What piece of furniture is present?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "table",
+                    "question": "What piece of furniture is present?",
+                    "choices": [
+                        "table",
+                        "chair",
+                        "sofa",
+                        "bed"
+                    ],
+                    "answer": "table",
+                    "element_type": "object",
+                    "free_form_vqa": "vase",
+                    "multiple_choice_vqa": "chair",
+                    "scores": 0
+                },
+                "Is the vase black?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "black",
+                    "question": "Is the vase black?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the vase?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "black",
+                    "question": "What color is the vase?",
+                    "choices": [
+                        "black",
+                        "white",
+                        "red",
+                        "blue"
+                    ],
+                    "answer": "black",
+                    "element_type": "color",
+                    "free_form_vqa": "black",
+                    "multiple_choice_vqa": "black",
+                    "scores": 1
+                },
+                "Is the table brown?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "brown",
+                    "question": "Is the table brown?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the table?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "brown",
+                    "question": "What color is the table?",
+                    "choices": [
+                        "brown",
+                        "black",
+                        "white",
+                        "gray"
+                    ],
+                    "answer": "brown",
+                    "element_type": "color",
+                    "free_form_vqa": "brown",
+                    "multiple_choice_vqa": "brown",
+                    "scores": 1
+                },
+                "Is the vase on the table?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "on",
+                    "question": "Is the vase on the table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_90.png",
+            "ques_ans": {
+                "Is there a vase?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "vase",
+                    "question": "Is there a vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a table?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "table",
+                    "question": "Is there a table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What piece of furniture is present?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "table",
+                    "question": "What piece of furniture is present?",
+                    "choices": [
+                        "table",
+                        "chair",
+                        "sofa",
+                        "bed"
+                    ],
+                    "answer": "table",
+                    "element_type": "object",
+                    "free_form_vqa": "vase",
+                    "multiple_choice_vqa": "chair",
+                    "scores": 0
+                },
+                "Is the vase black?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "black",
+                    "question": "Is the vase black?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the vase?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "black",
+                    "question": "What color is the vase?",
+                    "choices": [
+                        "black",
+                        "white",
+                        "red",
+                        "blue"
+                    ],
+                    "answer": "black",
+                    "element_type": "color",
+                    "free_form_vqa": "black",
+                    "multiple_choice_vqa": "black",
+                    "scores": 1
+                },
+                "Is the table brown?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "brown",
+                    "question": "Is the table brown?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the table?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "brown",
+                    "question": "What color is the table?",
+                    "choices": [
+                        "brown",
+                        "black",
+                        "white",
+                        "gray"
+                    ],
+                    "answer": "brown",
+                    "element_type": "color",
+                    "free_form_vqa": "brown",
+                    "multiple_choice_vqa": "brown",
+                    "scores": 1
+                },
+                "Is the vase on the table?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "on",
+                    "question": "Is the vase on the table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_100.png",
+            "ques_ans": {
+                "Is there a vase?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "vase",
+                    "question": "Is there a vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a table?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "table",
+                    "question": "Is there a table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What piece of furniture is present?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "table",
+                    "question": "What piece of furniture is present?",
+                    "choices": [
+                        "table",
+                        "chair",
+                        "sofa",
+                        "bed"
+                    ],
+                    "answer": "table",
+                    "element_type": "object",
+                    "free_form_vqa": "vase",
+                    "multiple_choice_vqa": "chair",
+                    "scores": 0
+                },
+                "Is the vase black?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "black",
+                    "question": "Is the vase black?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the vase?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "black",
+                    "question": "What color is the vase?",
+                    "choices": [
+                        "black",
+                        "white",
+                        "red",
+                        "blue"
+                    ],
+                    "answer": "black",
+                    "element_type": "color",
+                    "free_form_vqa": "black",
+                    "multiple_choice_vqa": "black",
+                    "scores": 1
+                },
+                "Is the table brown?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "brown",
+                    "question": "Is the table brown?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the table?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "brown",
+                    "question": "What color is the table?",
+                    "choices": [
+                        "brown",
+                        "black",
+                        "white",
+                        "gray"
+                    ],
+                    "answer": "brown",
+                    "element_type": "color",
+                    "free_form_vqa": "brown",
+                    "multiple_choice_vqa": "brown",
+                    "scores": 1
+                },
+                "Is the vase on the table?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "on",
+                    "question": "Is the vase on the table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_110.png",
+            "ques_ans": {
+                "Is there a vase?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "vase",
+                    "question": "Is there a vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a table?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "table",
+                    "question": "Is there a table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What piece of furniture is present?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "table",
+                    "question": "What piece of furniture is present?",
+                    "choices": [
+                        "table",
+                        "chair",
+                        "sofa",
+                        "bed"
+                    ],
+                    "answer": "table",
+                    "element_type": "object",
+                    "free_form_vqa": "vase",
+                    "multiple_choice_vqa": "chair",
+                    "scores": 0
+                },
+                "Is the vase black?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "black",
+                    "question": "Is the vase black?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the vase?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "black",
+                    "question": "What color is the vase?",
+                    "choices": [
+                        "black",
+                        "white",
+                        "red",
+                        "blue"
+                    ],
+                    "answer": "black",
+                    "element_type": "color",
+                    "free_form_vqa": "black",
+                    "multiple_choice_vqa": "black",
+                    "scores": 1
+                },
+                "Is the table brown?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "brown",
+                    "question": "Is the table brown?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the table?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "brown",
+                    "question": "What color is the table?",
+                    "choices": [
+                        "brown",
+                        "black",
+                        "white",
+                        "gray"
+                    ],
+                    "answer": "brown",
+                    "element_type": "color",
+                    "free_form_vqa": "brown",
+                    "multiple_choice_vqa": "brown",
+                    "scores": 1
+                },
+                "Is the vase on the table?": {
+                    "caption": "A black vase on a brown table",
+                    "element": "on",
+                    "question": "Is the vase on the table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        }
+    ]
+}

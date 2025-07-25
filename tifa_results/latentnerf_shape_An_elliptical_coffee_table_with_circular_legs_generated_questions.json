@@ -1,0 +1,74 @@
+[
+    {
+        "caption": "An elliptical coffee table with circular legs",
+        "element": "coffee table",
+        "question": "Is this a coffee table?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "An elliptical coffee table with circular legs",
+        "element": "coffee table",
+        "question": "What type of furniture is shown?",
+        "choices": [
+            "coffee table",
+            "dining table",
+            "desk",
+            "chair"
+        ],
+        "answer": "coffee table",
+        "element_type": "object"
+    },
+    {
+        "caption": "An elliptical coffee table with circular legs",
+        "element": "elliptical",
+        "question": "Is the table elliptical?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "shape"
+    },
+    {
+        "caption": "An elliptical coffee table with circular legs",
+        "element": "elliptical",
+        "question": "What is the shape of the table top?",
+        "choices": [
+            "elliptical",
+            "rectangular",
+            "square",
+            "circular"
+        ],
+        "answer": "elliptical",
+        "element_type": "shape"
+    },
+    {
+        "caption": "An elliptical coffee table with circular legs",
+        "element": "circular legs",
+        "question": "Do the table legs have a circular shape?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "shape"
+    },
+    {
+        "caption": "An elliptical coffee table with circular legs",
+        "element": "circular legs",
+        "question": "What shape are the table legs?",
+        "choices": [
+            "circular",
+            "square",
+            "triangular",
+            "oval"
+        ],
+        "answer": "circular",
+        "element_type": "shape"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "caption": "A pink vase on a brown shelf",
+        "element": "vase",
+        "question": "Is there a vase?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "A pink vase on a brown shelf",
+        "element": "vase",
+        "question": "What type of object is shown?",
+        "choices": [
+            "vase",
+            "bowl",
+            "cup",
+            "plate"
+        ],
+        "answer": "vase",
+        "element_type": "object"
+    },
+    {
+        "caption": "A pink vase on a brown shelf",
+        "element": "shelf",
+        "question": "Is there a shelf?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "A pink vase on a brown shelf",
+        "element": "shelf",
+        "question": "What type of furniture is present?",
+        "choices": [
+            "shelf",
+            "table",
+            "chair",
+            "cabinet"
+        ],
+        "answer": "shelf",
+        "element_type": "object"
+    },
+    {
+        "caption": "A pink vase on a brown shelf",
+        "element": "pink",
+        "question": "Is the vase pink?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "color"
+    },
+    {
+        "caption": "A pink vase on a brown shelf",
+        "element": "pink",
+        "question": "What color is the vase?",
+        "choices": [
+            "pink",
+            "blue",
+            "green",
+            "yellow"
+        ],
+        "answer": "pink",
+        "element_type": "color"
+    },
+    {
+        "caption": "A pink vase on a brown shelf",
+        "element": "brown",
+        "question": "Is the shelf brown?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "color"
+    },
+    {
+        "caption": "A pink vase on a brown shelf",
+        "element": "brown",
+        "question": "What color is the shelf?",
+        "choices": [
+            "brown",
+            "black",
+            "white",
+            "gray"
+        ],
+        "answer": "brown",
+        "element_type": "color"
+    },
+    {
+        "caption": "A pink vase on a brown shelf",
+        "element": "on",
+        "question": "Is the vase on the shelf?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "spatial"
+    },
+    {
+        "caption": "A pink vase on a brown shelf",
+        "element": "on",
+        "question": "What is the spatial relation between the vase and the shelf?",
+        "choices": [
+            "on",
+            "under",
+            "beside",
+            "above"
+        ],
+        "answer": "on",
+        "element_type": "spatial"
+    }
+]

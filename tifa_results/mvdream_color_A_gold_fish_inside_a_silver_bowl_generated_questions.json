@@ -1,0 +1,122 @@
+[
+    {
+        "caption": "A gold fish inside a silver bowl",
+        "element": "fish",
+        "question": "Is there a fish?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "animal/human"
+    },
+    {
+        "caption": "A gold fish inside a silver bowl",
+        "element": "fish",
+        "question": "What type of animal is shown?",
+        "choices": [
+            "fish",
+            "bird",
+            "cat",
+            "dog"
+        ],
+        "answer": "fish",
+        "element_type": "animal/human"
+    },
+    {
+        "caption": "A gold fish inside a silver bowl",
+        "element": "bowl",
+        "question": "Is there a bowl?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "A gold fish inside a silver bowl",
+        "element": "bowl",
+        "question": "What type of container is shown?",
+        "choices": [
+            "bowl",
+            "vase",
+            "cup",
+            "plate"
+        ],
+        "answer": "bowl",
+        "element_type": "object"
+    },
+    {
+        "caption": "A gold fish inside a silver bowl",
+        "element": "gold",
+        "question": "Is the fish gold?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "color"
+    },
+    {
+        "caption": "A gold fish inside a silver bowl",
+        "element": "gold",
+        "question": "What color is the fish?",
+        "choices": [
+            "gold",
+            "silver",
+            "blue",
+            "red"
+        ],
+        "answer": "gold",
+        "element_type": "color"
+    },
+    {
+        "caption": "A gold fish inside a silver bowl",
+        "element": "silver",
+        "question": "Is the bowl silver?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "color"
+    },
+    {
+        "caption": "A gold fish inside a silver bowl",
+        "element": "silver",
+        "question": "What color is the bowl?",
+        "choices": [
+            "silver",
+            "gold",
+            "black",
+            "white"
+        ],
+        "answer": "silver",
+        "element_type": "color"
+    },
+    {
+        "caption": "A gold fish inside a silver bowl",
+        "element": "inside",
+        "question": "Is the fish inside the bowl?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "spatial"
+    },
+    {
+        "caption": "A gold fish inside a silver bowl",
+        "element": "inside",
+        "question": "What is the spatial relation between the fish and the bowl?",
+        "choices": [
+            "inside",
+            "outside",
+            "beside",
+            "above"
+        ],
+        "answer": "inside",
+        "element_type": "spatial"
+    }
+]

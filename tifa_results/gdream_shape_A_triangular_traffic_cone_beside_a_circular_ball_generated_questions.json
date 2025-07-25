@@ -1,0 +1,122 @@
+[
+    {
+        "caption": "A triangular traffic cone beside a circular ball",
+        "element": "traffic cone",
+        "question": "Is there a traffic cone?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "A triangular traffic cone beside a circular ball",
+        "element": "traffic cone",
+        "question": "What type of object is shown?",
+        "choices": [
+            "traffic cone",
+            "barrel",
+            "sign",
+            "pole"
+        ],
+        "answer": "traffic cone",
+        "element_type": "object"
+    },
+    {
+        "caption": "A triangular traffic cone beside a circular ball",
+        "element": "ball",
+        "question": "Is there a ball?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "A triangular traffic cone beside a circular ball",
+        "element": "ball",
+        "question": "What type of object is shown?",
+        "choices": [
+            "ball",
+            "cube",
+            "cylinder",
+            "pyramid"
+        ],
+        "answer": "ball",
+        "element_type": "object"
+    },
+    {
+        "caption": "A triangular traffic cone beside a circular ball",
+        "element": "triangular",
+        "question": "Is the traffic cone triangular?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "shape"
+    },
+    {
+        "caption": "A triangular traffic cone beside a circular ball",
+        "element": "triangular",
+        "question": "What shape is the traffic cone?",
+        "choices": [
+            "triangular",
+            "square",
+            "circular",
+            "rectangular"
+        ],
+        "answer": "triangular",
+        "element_type": "shape"
+    },
+    {
+        "caption": "A triangular traffic cone beside a circular ball",
+        "element": "circular",
+        "question": "Is the ball circular?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "shape"
+    },
+    {
+        "caption": "A triangular traffic cone beside a circular ball",
+        "element": "circular",
+        "question": "What shape is the ball?",
+        "choices": [
+            "circular",
+            "square",
+            "triangular",
+            "hexagonal"
+        ],
+        "answer": "circular",
+        "element_type": "shape"
+    },
+    {
+        "caption": "A triangular traffic cone beside a circular ball",
+        "element": "beside",
+        "question": "Is the traffic cone beside the ball?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "spatial"
+    },
+    {
+        "caption": "A triangular traffic cone beside a circular ball",
+        "element": "beside",
+        "question": "What is the spatial relation between the traffic cone and the ball?",
+        "choices": [
+            "beside",
+            "above",
+            "behind",
+            "under"
+        ],
+        "answer": "beside",
+        "element_type": "spatial"
+    }
+]

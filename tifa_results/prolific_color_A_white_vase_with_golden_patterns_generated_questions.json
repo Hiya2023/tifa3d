@@ -1,0 +1,74 @@
+[
+    {
+        "caption": "A white vase with golden patterns",
+        "element": "vase",
+        "question": "Is this a vase?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "A white vase with golden patterns",
+        "element": "vase",
+        "question": "What type of item is shown?",
+        "choices": [
+            "vase",
+            "teapot",
+            "jar",
+            "bottle"
+        ],
+        "answer": "vase",
+        "element_type": "object"
+    },
+    {
+        "caption": "A white vase with golden patterns",
+        "element": "white",
+        "question": "Is the vase white?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "color"
+    },
+    {
+        "caption": "A white vase with golden patterns",
+        "element": "white",
+        "question": "What is the primary color of the vase?",
+        "choices": [
+            "white",
+            "blue",
+            "red",
+            "black"
+        ],
+        "answer": "white",
+        "element_type": "color"
+    },
+    {
+        "caption": "A white vase with golden patterns",
+        "element": "golden patterns",
+        "question": "Does the vase have golden patterns?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "attribute"
+    },
+    {
+        "caption": "A white vase with golden patterns",
+        "element": "golden patterns",
+        "question": "What kind of patterns does the vase have?",
+        "choices": [
+            "golden",
+            "silver",
+            "floral",
+            "geometric"
+        ],
+        "answer": "golden",
+        "element_type": "attribute"
+    }
+]

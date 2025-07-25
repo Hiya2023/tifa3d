@@ -3,6 +3,7 @@ from collections import defaultdict
 from tqdm import tqdm
 from .vqa_models import VQAModel
 from statistics import mean, stdev
+from copy import deepcopy
 
 def tifa_score_benchmark(vqa_model_name, question_answer_path, id2img_path):
     
@@ -77,35 +78,43 @@ def tifa_score_benchmark(vqa_model_name, question_answer_path, id2img_path):
 
 
 def tifa_score_single(vqa_model, question_answer_pairs, img_path):
-    
+    print("in the tifa single def")
     tifa_scores = []
     question_logs = {}
     
     for question_answer_pair in tqdm(question_answer_pairs):
-        
+        print("in the ques ans loop")
         # read the question, choices, and answers
         if question_answer_pair['question'] not in question_logs:
-            question_logs[question_answer_pair['question']] = question_answer_pair
+            print("entering ques_answer pair")
+            #question_logs[question_answer_pair['question']] = question_answer_pair
+            question_logs[question_answer_pair['question']] = deepcopy(question_answer_pair)
+        
         choices=question_answer_pair['choices']
             
         # get VQA answer
         vqa_answer = vqa_model.multiple_choice_vqa(img_path, question_answer_pair['question'], choices=choices)
-         
+        print(vqa_answer,"vqa answers")
         free_form_answer, mc_answer = vqa_answer["free_form_answer"], vqa_answer["multiple_choice_answer"]
         question_logs[question_answer_pair['question']]['free_form_vqa'] = free_form_answer
         question_logs[question_answer_pair['question']]['multiple_choice_vqa'] = mc_answer
         
         # compute multiple choice score
         score = int(mc_answer == question_answer_pair['answer'])
+        #debug_1
+        print("score check", score)
         question_logs[question_answer_pair['question']]['scores'] = score
-        
+        print("ques_log",question_logs)
+
         # statistics of the scores
         tifa_scores.append(score)
+        print(tifa_scores)
         
-    question_logs = dict(question_logs)
+    #question_logs = dict(question_logs)
+    
     result_dict = {}
     
-    # compute the average score
+    # compute the average score per rendered image for a given method-aspect pair
     averaged_scores = mean(tifa_scores)
     
     result_dict = {"tifa_score": averaged_scores} 

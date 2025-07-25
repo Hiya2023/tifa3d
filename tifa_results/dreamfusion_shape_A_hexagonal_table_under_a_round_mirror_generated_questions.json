@@ -1,0 +1,122 @@
+[
+    {
+        "caption": "A hexagonal table under a round mirror",
+        "element": "table",
+        "question": "Is there a table?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "A hexagonal table under a round mirror",
+        "element": "table",
+        "question": "What piece of furniture is shown?",
+        "choices": [
+            "table",
+            "chair",
+            "sofa",
+            "bed"
+        ],
+        "answer": "table",
+        "element_type": "object"
+    },
+    {
+        "caption": "A hexagonal table under a round mirror",
+        "element": "mirror",
+        "question": "Is there a mirror?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "A hexagonal table under a round mirror",
+        "element": "mirror",
+        "question": "What reflective item is present?",
+        "choices": [
+            "mirror",
+            "window",
+            "painting",
+            "clock"
+        ],
+        "answer": "mirror",
+        "element_type": "object"
+    },
+    {
+        "caption": "A hexagonal table under a round mirror",
+        "element": "hexagonal",
+        "question": "Is the table hexagonal?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "shape"
+    },
+    {
+        "caption": "A hexagonal table under a round mirror",
+        "element": "hexagonal",
+        "question": "What is the shape of the table?",
+        "choices": [
+            "hexagonal",
+            "round",
+            "square",
+            "rectangular"
+        ],
+        "answer": "hexagonal",
+        "element_type": "shape"
+    },
+    {
+        "caption": "A hexagonal table under a round mirror",
+        "element": "round",
+        "question": "Is the mirror round?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "shape"
+    },
+    {
+        "caption": "A hexagonal table under a round mirror",
+        "element": "round",
+        "question": "What is the shape of the mirror?",
+        "choices": [
+            "round",
+            "square",
+            "oval",
+            "triangular"
+        ],
+        "answer": "round",
+        "element_type": "shape"
+    },
+    {
+        "caption": "A hexagonal table under a round mirror",
+        "element": "under",
+        "question": "Is the table under the mirror?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "spatial"
+    },
+    {
+        "caption": "A hexagonal table under a round mirror",
+        "element": "under",
+        "question": "What is the spatial relation between the table and the mirror?",
+        "choices": [
+            "under",
+            "above",
+            "beside",
+            "behind"
+        ],
+        "answer": "under",
+        "element_type": "spatial"
+    }
+]

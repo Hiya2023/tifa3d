@@ -1,0 +1,1498 @@
+{
+    "method": "magic3d",
+    "aspect": "shape",
+    "prompt_name": "A_triangular_traffic_cone_beside_a_circular_ball",
+    "individual_scores": {
+        "rgb_0.png": 0.75,
+        "rgb_10.png": 0.875,
+        "rgb_20.png": 0.875,
+        "rgb_30.png": 0.75,
+        "rgb_40.png": 0.875,
+        "rgb_50.png": 0.875,
+        "rgb_60.png": 0.875,
+        "rgb_70.png": 0.875,
+        "rgb_80.png": 0.75,
+        "rgb_90.png": 0.75,
+        "rgb_100.png": 0.875,
+        "rgb_110.png": 0.75
+    },
+    "average_tifa_score": 0.8229166666666666,
+    "question_logs": [
+        {
+            "image": "rgb_0.png",
+            "ques_ans": {
+                "Is there a traffic cone?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "traffic cone",
+                    "question": "Is there a traffic cone?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of object is shown?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "traffic cone",
+                    "question": "What type of object is shown?",
+                    "choices": [
+                        "traffic cone",
+                        "barrel",
+                        "sign",
+                        "light"
+                    ],
+                    "answer": "traffic cone",
+                    "element_type": "object",
+                    "free_form_vqa": "santa hat",
+                    "multiple_choice_vqa": "traffic cone",
+                    "scores": 1
+                },
+                "Is there a ball?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "ball",
+                    "question": "Is there a ball?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the traffic cone triangular?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "triangular",
+                    "question": "Is the traffic cone triangular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the traffic cone?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "triangular",
+                    "question": "What shape is the traffic cone?",
+                    "choices": [
+                        "triangular",
+                        "square",
+                        "circular",
+                        "rectangular"
+                    ],
+                    "answer": "triangular",
+                    "element_type": "shape",
+                    "free_form_vqa": "triangle",
+                    "multiple_choice_vqa": "triangular",
+                    "scores": 1
+                },
+                "Is the ball circular?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "circular",
+                    "question": "Is the ball circular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What shape is the ball?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "circular",
+                    "question": "What shape is the ball?",
+                    "choices": [
+                        "circular",
+                        "square",
+                        "triangular",
+                        "hexagonal"
+                    ],
+                    "answer": "circular",
+                    "element_type": "shape",
+                    "free_form_vqa": "cone",
+                    "multiple_choice_vqa": "circular",
+                    "scores": 1
+                },
+                "Is the traffic cone beside the ball?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "beside",
+                    "question": "Is the traffic cone beside the ball?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_10.png",
+            "ques_ans": {
+                "Is there a traffic cone?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "traffic cone",
+                    "question": "Is there a traffic cone?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of object is shown?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "traffic cone",
+                    "question": "What type of object is shown?",
+                    "choices": [
+                        "traffic cone",
+                        "barrel",
+                        "sign",
+                        "light"
+                    ],
+                    "answer": "traffic cone",
+                    "element_type": "object",
+                    "free_form_vqa": "red funnel",
+                    "multiple_choice_vqa": "traffic cone",
+                    "scores": 1
+                },
+                "Is there a ball?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "ball",
+                    "question": "Is there a ball?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the traffic cone triangular?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "triangular",
+                    "question": "Is the traffic cone triangular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the traffic cone?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "triangular",
+                    "question": "What shape is the traffic cone?",
+                    "choices": [
+                        "triangular",
+                        "square",
+                        "circular",
+                        "rectangular"
+                    ],
+                    "answer": "triangular",
+                    "element_type": "shape",
+                    "free_form_vqa": "triangle",
+                    "multiple_choice_vqa": "triangular",
+                    "scores": 1
+                },
+                "Is the ball circular?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "circular",
+                    "question": "Is the ball circular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the ball?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "circular",
+                    "question": "What shape is the ball?",
+                    "choices": [
+                        "circular",
+                        "square",
+                        "triangular",
+                        "hexagonal"
+                    ],
+                    "answer": "circular",
+                    "element_type": "shape",
+                    "free_form_vqa": "cone",
+                    "multiple_choice_vqa": "circular",
+                    "scores": 1
+                },
+                "Is the traffic cone beside the ball?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "beside",
+                    "question": "Is the traffic cone beside the ball?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_20.png",
+            "ques_ans": {
+                "Is there a traffic cone?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "traffic cone",
+                    "question": "Is there a traffic cone?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of object is shown?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "traffic cone",
+                    "question": "What type of object is shown?",
+                    "choices": [
+                        "traffic cone",
+                        "barrel",
+                        "sign",
+                        "light"
+                    ],
+                    "answer": "traffic cone",
+                    "element_type": "object",
+                    "free_form_vqa": "red cone",
+                    "multiple_choice_vqa": "traffic cone",
+                    "scores": 1
+                },
+                "Is there a ball?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "ball",
+                    "question": "Is there a ball?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the traffic cone triangular?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "triangular",
+                    "question": "Is the traffic cone triangular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the traffic cone?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "triangular",
+                    "question": "What shape is the traffic cone?",
+                    "choices": [
+                        "triangular",
+                        "square",
+                        "circular",
+                        "rectangular"
+                    ],
+                    "answer": "triangular",
+                    "element_type": "shape",
+                    "free_form_vqa": "triangle",
+                    "multiple_choice_vqa": "triangular",
+                    "scores": 1
+                },
+                "Is the ball circular?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "circular",
+                    "question": "Is the ball circular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the ball?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "circular",
+                    "question": "What shape is the ball?",
+                    "choices": [
+                        "circular",
+                        "square",
+                        "triangular",
+                        "hexagonal"
+                    ],
+                    "answer": "circular",
+                    "element_type": "shape",
+                    "free_form_vqa": "cone",
+                    "multiple_choice_vqa": "circular",
+                    "scores": 1
+                },
+                "Is the traffic cone beside the ball?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "beside",
+                    "question": "Is the traffic cone beside the ball?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_30.png",
+            "ques_ans": {
+                "Is there a traffic cone?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "traffic cone",
+                    "question": "Is there a traffic cone?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of object is shown?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "traffic cone",
+                    "question": "What type of object is shown?",
+                    "choices": [
+                        "traffic cone",
+                        "barrel",
+                        "sign",
+                        "light"
+                    ],
+                    "answer": "traffic cone",
+                    "element_type": "object",
+                    "free_form_vqa": "santa hat",
+                    "multiple_choice_vqa": "traffic cone",
+                    "scores": 1
+                },
+                "Is there a ball?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "ball",
+                    "question": "Is there a ball?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the traffic cone triangular?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "triangular",
+                    "question": "Is the traffic cone triangular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the traffic cone?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "triangular",
+                    "question": "What shape is the traffic cone?",
+                    "choices": [
+                        "triangular",
+                        "square",
+                        "circular",
+                        "rectangular"
+                    ],
+                    "answer": "triangular",
+                    "element_type": "shape",
+                    "free_form_vqa": "triangle",
+                    "multiple_choice_vqa": "triangular",
+                    "scores": 1
+                },
+                "Is the ball circular?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "circular",
+                    "question": "Is the ball circular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What shape is the ball?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "circular",
+                    "question": "What shape is the ball?",
+                    "choices": [
+                        "circular",
+                        "square",
+                        "triangular",
+                        "hexagonal"
+                    ],
+                    "answer": "circular",
+                    "element_type": "shape",
+                    "free_form_vqa": "cone",
+                    "multiple_choice_vqa": "circular",
+                    "scores": 1
+                },
+                "Is the traffic cone beside the ball?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "beside",
+                    "question": "Is the traffic cone beside the ball?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_40.png",
+            "ques_ans": {
+                "Is there a traffic cone?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "traffic cone",
+                    "question": "Is there a traffic cone?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of object is shown?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "traffic cone",
+                    "question": "What type of object is shown?",
+                    "choices": [
+                        "traffic cone",
+                        "barrel",
+                        "sign",
+                        "light"
+                    ],
+                    "answer": "traffic cone",
+                    "element_type": "object",
+                    "free_form_vqa": "santa hat",
+                    "multiple_choice_vqa": "traffic cone",
+                    "scores": 1
+                },
+                "Is there a ball?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "ball",
+                    "question": "Is there a ball?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the traffic cone triangular?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "triangular",
+                    "question": "Is the traffic cone triangular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the traffic cone?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "triangular",
+                    "question": "What shape is the traffic cone?",
+                    "choices": [
+                        "triangular",
+                        "square",
+                        "circular",
+                        "rectangular"
+                    ],
+                    "answer": "triangular",
+                    "element_type": "shape",
+                    "free_form_vqa": "triangle",
+                    "multiple_choice_vqa": "triangular",
+                    "scores": 1
+                },
+                "Is the ball circular?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "circular",
+                    "question": "Is the ball circular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the ball?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "circular",
+                    "question": "What shape is the ball?",
+                    "choices": [
+                        "circular",
+                        "square",
+                        "triangular",
+                        "hexagonal"
+                    ],
+                    "answer": "circular",
+                    "element_type": "shape",
+                    "free_form_vqa": "cone",
+                    "multiple_choice_vqa": "circular",
+                    "scores": 1
+                },
+                "Is the traffic cone beside the ball?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "beside",
+                    "question": "Is the traffic cone beside the ball?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_50.png",
+            "ques_ans": {
+                "Is there a traffic cone?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "traffic cone",
+                    "question": "Is there a traffic cone?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of object is shown?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "traffic cone",
+                    "question": "What type of object is shown?",
+                    "choices": [
+                        "traffic cone",
+                        "barrel",
+                        "sign",
+                        "light"
+                    ],
+                    "answer": "traffic cone",
+                    "element_type": "object",
+                    "free_form_vqa": "santa hat",
+                    "multiple_choice_vqa": "traffic cone",
+                    "scores": 1
+                },
+                "Is there a ball?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "ball",
+                    "question": "Is there a ball?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the traffic cone triangular?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "triangular",
+                    "question": "Is the traffic cone triangular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the traffic cone?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "triangular",
+                    "question": "What shape is the traffic cone?",
+                    "choices": [
+                        "triangular",
+                        "square",
+                        "circular",
+                        "rectangular"
+                    ],
+                    "answer": "triangular",
+                    "element_type": "shape",
+                    "free_form_vqa": "triangle",
+                    "multiple_choice_vqa": "triangular",
+                    "scores": 1
+                },
+                "Is the ball circular?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "circular",
+                    "question": "Is the ball circular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the ball?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "circular",
+                    "question": "What shape is the ball?",
+                    "choices": [
+                        "circular",
+                        "square",
+                        "triangular",
+                        "hexagonal"
+                    ],
+                    "answer": "circular",
+                    "element_type": "shape",
+                    "free_form_vqa": "cone",
+                    "multiple_choice_vqa": "circular",
+                    "scores": 1
+                },
+                "Is the traffic cone beside the ball?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "beside",
+                    "question": "Is the traffic cone beside the ball?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_60.png",
+            "ques_ans": {
+                "Is there a traffic cone?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "traffic cone",
+                    "question": "Is there a traffic cone?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of object is shown?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "traffic cone",
+                    "question": "What type of object is shown?",
+                    "choices": [
+                        "traffic cone",
+                        "barrel",
+                        "sign",
+                        "light"
+                    ],
+                    "answer": "traffic cone",
+                    "element_type": "object",
+                    "free_form_vqa": "santa hat",
+                    "multiple_choice_vqa": "traffic cone",
+                    "scores": 1
+                },
+                "Is there a ball?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "ball",
+                    "question": "Is there a ball?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the traffic cone triangular?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "triangular",
+                    "question": "Is the traffic cone triangular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the traffic cone?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "triangular",
+                    "question": "What shape is the traffic cone?",
+                    "choices": [
+                        "triangular",
+                        "square",
+                        "circular",
+                        "rectangular"
+                    ],
+                    "answer": "triangular",
+                    "element_type": "shape",
+                    "free_form_vqa": "triangle",
+                    "multiple_choice_vqa": "triangular",
+                    "scores": 1
+                },
+                "Is the ball circular?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "circular",
+                    "question": "Is the ball circular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the ball?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "circular",
+                    "question": "What shape is the ball?",
+                    "choices": [
+                        "circular",
+                        "square",
+                        "triangular",
+                        "hexagonal"
+                    ],
+                    "answer": "circular",
+                    "element_type": "shape",
+                    "free_form_vqa": "cone",
+                    "multiple_choice_vqa": "circular",
+                    "scores": 1
+                },
+                "Is the traffic cone beside the ball?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "beside",
+                    "question": "Is the traffic cone beside the ball?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_70.png",
+            "ques_ans": {
+                "Is there a traffic cone?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "traffic cone",
+                    "question": "Is there a traffic cone?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of object is shown?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "traffic cone",
+                    "question": "What type of object is shown?",
+                    "choices": [
+                        "traffic cone",
+                        "barrel",
+                        "sign",
+                        "light"
+                    ],
+                    "answer": "traffic cone",
+                    "element_type": "object",
+                    "free_form_vqa": "santa hat",
+                    "multiple_choice_vqa": "traffic cone",
+                    "scores": 1
+                },
+                "Is there a ball?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "ball",
+                    "question": "Is there a ball?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the traffic cone triangular?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "triangular",
+                    "question": "Is the traffic cone triangular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the traffic cone?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "triangular",
+                    "question": "What shape is the traffic cone?",
+                    "choices": [
+                        "triangular",
+                        "square",
+                        "circular",
+                        "rectangular"
+                    ],
+                    "answer": "triangular",
+                    "element_type": "shape",
+                    "free_form_vqa": "triangle",
+                    "multiple_choice_vqa": "triangular",
+                    "scores": 1
+                },
+                "Is the ball circular?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "circular",
+                    "question": "Is the ball circular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the ball?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "circular",
+                    "question": "What shape is the ball?",
+                    "choices": [
+                        "circular",
+                        "square",
+                        "triangular",
+                        "hexagonal"
+                    ],
+                    "answer": "circular",
+                    "element_type": "shape",
+                    "free_form_vqa": "cone",
+                    "multiple_choice_vqa": "circular",
+                    "scores": 1
+                },
+                "Is the traffic cone beside the ball?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "beside",
+                    "question": "Is the traffic cone beside the ball?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_80.png",
+            "ques_ans": {
+                "Is there a traffic cone?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "traffic cone",
+                    "question": "Is there a traffic cone?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of object is shown?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "traffic cone",
+                    "question": "What type of object is shown?",
+                    "choices": [
+                        "traffic cone",
+                        "barrel",
+                        "sign",
+                        "light"
+                    ],
+                    "answer": "traffic cone",
+                    "element_type": "object",
+                    "free_form_vqa": "santa hat",
+                    "multiple_choice_vqa": "traffic cone",
+                    "scores": 1
+                },
+                "Is there a ball?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "ball",
+                    "question": "Is there a ball?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the traffic cone triangular?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "triangular",
+                    "question": "Is the traffic cone triangular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the traffic cone?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "triangular",
+                    "question": "What shape is the traffic cone?",
+                    "choices": [
+                        "triangular",
+                        "square",
+                        "circular",
+                        "rectangular"
+                    ],
+                    "answer": "triangular",
+                    "element_type": "shape",
+                    "free_form_vqa": "triangle",
+                    "multiple_choice_vqa": "triangular",
+                    "scores": 1
+                },
+                "Is the ball circular?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "circular",
+                    "question": "Is the ball circular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What shape is the ball?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "circular",
+                    "question": "What shape is the ball?",
+                    "choices": [
+                        "circular",
+                        "square",
+                        "triangular",
+                        "hexagonal"
+                    ],
+                    "answer": "circular",
+                    "element_type": "shape",
+                    "free_form_vqa": "cone",
+                    "multiple_choice_vqa": "circular",
+                    "scores": 1
+                },
+                "Is the traffic cone beside the ball?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "beside",
+                    "question": "Is the traffic cone beside the ball?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_90.png",
+            "ques_ans": {
+                "Is there a traffic cone?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "traffic cone",
+                    "question": "Is there a traffic cone?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of object is shown?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "traffic cone",
+                    "question": "What type of object is shown?",
+                    "choices": [
+                        "traffic cone",
+                        "barrel",
+                        "sign",
+                        "light"
+                    ],
+                    "answer": "traffic cone",
+                    "element_type": "object",
+                    "free_form_vqa": "red cone",
+                    "multiple_choice_vqa": "traffic cone",
+                    "scores": 1
+                },
+                "Is there a ball?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "ball",
+                    "question": "Is there a ball?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the traffic cone triangular?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "triangular",
+                    "question": "Is the traffic cone triangular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the traffic cone?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "triangular",
+                    "question": "What shape is the traffic cone?",
+                    "choices": [
+                        "triangular",
+                        "square",
+                        "circular",
+                        "rectangular"
+                    ],
+                    "answer": "triangular",
+                    "element_type": "shape",
+                    "free_form_vqa": "triangle",
+                    "multiple_choice_vqa": "triangular",
+                    "scores": 1
+                },
+                "Is the ball circular?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "circular",
+                    "question": "Is the ball circular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What shape is the ball?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "circular",
+                    "question": "What shape is the ball?",
+                    "choices": [
+                        "circular",
+                        "square",
+                        "triangular",
+                        "hexagonal"
+                    ],
+                    "answer": "circular",
+                    "element_type": "shape",
+                    "free_form_vqa": "cone",
+                    "multiple_choice_vqa": "circular",
+                    "scores": 1
+                },
+                "Is the traffic cone beside the ball?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "beside",
+                    "question": "Is the traffic cone beside the ball?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_100.png",
+            "ques_ans": {
+                "Is there a traffic cone?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "traffic cone",
+                    "question": "Is there a traffic cone?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of object is shown?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "traffic cone",
+                    "question": "What type of object is shown?",
+                    "choices": [
+                        "traffic cone",
+                        "barrel",
+                        "sign",
+                        "light"
+                    ],
+                    "answer": "traffic cone",
+                    "element_type": "object",
+                    "free_form_vqa": "santa hat",
+                    "multiple_choice_vqa": "traffic cone",
+                    "scores": 1
+                },
+                "Is there a ball?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "ball",
+                    "question": "Is there a ball?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the traffic cone triangular?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "triangular",
+                    "question": "Is the traffic cone triangular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the traffic cone?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "triangular",
+                    "question": "What shape is the traffic cone?",
+                    "choices": [
+                        "triangular",
+                        "square",
+                        "circular",
+                        "rectangular"
+                    ],
+                    "answer": "triangular",
+                    "element_type": "shape",
+                    "free_form_vqa": "triangle",
+                    "multiple_choice_vqa": "triangular",
+                    "scores": 1
+                },
+                "Is the ball circular?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "circular",
+                    "question": "Is the ball circular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the ball?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "circular",
+                    "question": "What shape is the ball?",
+                    "choices": [
+                        "circular",
+                        "square",
+                        "triangular",
+                        "hexagonal"
+                    ],
+                    "answer": "circular",
+                    "element_type": "shape",
+                    "free_form_vqa": "cone",
+                    "multiple_choice_vqa": "circular",
+                    "scores": 1
+                },
+                "Is the traffic cone beside the ball?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "beside",
+                    "question": "Is the traffic cone beside the ball?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_110.png",
+            "ques_ans": {
+                "Is there a traffic cone?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "traffic cone",
+                    "question": "Is there a traffic cone?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of object is shown?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "traffic cone",
+                    "question": "What type of object is shown?",
+                    "choices": [
+                        "traffic cone",
+                        "barrel",
+                        "sign",
+                        "light"
+                    ],
+                    "answer": "traffic cone",
+                    "element_type": "object",
+                    "free_form_vqa": "santa hat",
+                    "multiple_choice_vqa": "traffic cone",
+                    "scores": 1
+                },
+                "Is there a ball?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "ball",
+                    "question": "Is there a ball?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the traffic cone triangular?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "triangular",
+                    "question": "Is the traffic cone triangular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the traffic cone?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "triangular",
+                    "question": "What shape is the traffic cone?",
+                    "choices": [
+                        "triangular",
+                        "square",
+                        "circular",
+                        "rectangular"
+                    ],
+                    "answer": "triangular",
+                    "element_type": "shape",
+                    "free_form_vqa": "triangle",
+                    "multiple_choice_vqa": "triangular",
+                    "scores": 1
+                },
+                "Is the ball circular?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "circular",
+                    "question": "Is the ball circular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What shape is the ball?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "circular",
+                    "question": "What shape is the ball?",
+                    "choices": [
+                        "circular",
+                        "square",
+                        "triangular",
+                        "hexagonal"
+                    ],
+                    "answer": "circular",
+                    "element_type": "shape",
+                    "free_form_vqa": "cone",
+                    "multiple_choice_vqa": "circular",
+                    "scores": 1
+                },
+                "Is the traffic cone beside the ball?": {
+                    "caption": "A triangular traffic cone beside a circular ball",
+                    "element": "beside",
+                    "question": "Is the traffic cone beside the ball?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        }
+    ]
+}

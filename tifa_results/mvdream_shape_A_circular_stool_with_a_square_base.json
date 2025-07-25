@@ -1,0 +1,586 @@
+{
+    "method": "mvdream",
+    "aspect": "shape",
+    "prompt_name": "A_circular_stool_with_a_square_base",
+    "individual_scores": {
+        "rgb_0.png": 1,
+        "rgb_10.png": 1,
+        "rgb_20.png": 1,
+        "rgb_30.png": 1,
+        "rgb_40.png": 1,
+        "rgb_50.png": 0.6666666666666666,
+        "rgb_60.png": 0.3333333333333333,
+        "rgb_70.png": 0.6666666666666666,
+        "rgb_80.png": 0.3333333333333333,
+        "rgb_90.png": 1,
+        "rgb_100.png": 0.3333333333333333,
+        "rgb_110.png": 0.6666666666666666
+    },
+    "average_tifa_score": 0.75,
+    "question_logs": [
+        {
+            "image": "rgb_0.png",
+            "ques_ans": {
+                "Is this a stool?": {
+                    "caption": "A circular stool with a square base",
+                    "element": "stool",
+                    "question": "Is this a stool?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the stool circular?": {
+                    "caption": "A circular stool with a square base",
+                    "element": "circular",
+                    "question": "Is the stool circular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Does the stool have a square base?": {
+                    "caption": "A circular stool with a square base",
+                    "element": "square base",
+                    "question": "Does the stool have a square base?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_10.png",
+            "ques_ans": {
+                "Is this a stool?": {
+                    "caption": "A circular stool with a square base",
+                    "element": "stool",
+                    "question": "Is this a stool?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the stool circular?": {
+                    "caption": "A circular stool with a square base",
+                    "element": "circular",
+                    "question": "Is the stool circular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Does the stool have a square base?": {
+                    "caption": "A circular stool with a square base",
+                    "element": "square base",
+                    "question": "Does the stool have a square base?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_20.png",
+            "ques_ans": {
+                "Is this a stool?": {
+                    "caption": "A circular stool with a square base",
+                    "element": "stool",
+                    "question": "Is this a stool?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the stool circular?": {
+                    "caption": "A circular stool with a square base",
+                    "element": "circular",
+                    "question": "Is the stool circular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Does the stool have a square base?": {
+                    "caption": "A circular stool with a square base",
+                    "element": "square base",
+                    "question": "Does the stool have a square base?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_30.png",
+            "ques_ans": {
+                "Is this a stool?": {
+                    "caption": "A circular stool with a square base",
+                    "element": "stool",
+                    "question": "Is this a stool?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the stool circular?": {
+                    "caption": "A circular stool with a square base",
+                    "element": "circular",
+                    "question": "Is the stool circular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Does the stool have a square base?": {
+                    "caption": "A circular stool with a square base",
+                    "element": "square base",
+                    "question": "Does the stool have a square base?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_40.png",
+            "ques_ans": {
+                "Is this a stool?": {
+                    "caption": "A circular stool with a square base",
+                    "element": "stool",
+                    "question": "Is this a stool?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the stool circular?": {
+                    "caption": "A circular stool with a square base",
+                    "element": "circular",
+                    "question": "Is the stool circular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Does the stool have a square base?": {
+                    "caption": "A circular stool with a square base",
+                    "element": "square base",
+                    "question": "Does the stool have a square base?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_50.png",
+            "ques_ans": {
+                "Is this a stool?": {
+                    "caption": "A circular stool with a square base",
+                    "element": "stool",
+                    "question": "Is this a stool?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the stool circular?": {
+                    "caption": "A circular stool with a square base",
+                    "element": "circular",
+                    "question": "Is the stool circular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Does the stool have a square base?": {
+                    "caption": "A circular stool with a square base",
+                    "element": "square base",
+                    "question": "Does the stool have a square base?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_60.png",
+            "ques_ans": {
+                "Is this a stool?": {
+                    "caption": "A circular stool with a square base",
+                    "element": "stool",
+                    "question": "Is this a stool?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the stool circular?": {
+                    "caption": "A circular stool with a square base",
+                    "element": "circular",
+                    "question": "Is the stool circular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Does the stool have a square base?": {
+                    "caption": "A circular stool with a square base",
+                    "element": "square base",
+                    "question": "Does the stool have a square base?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_70.png",
+            "ques_ans": {
+                "Is this a stool?": {
+                    "caption": "A circular stool with a square base",
+                    "element": "stool",
+                    "question": "Is this a stool?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the stool circular?": {
+                    "caption": "A circular stool with a square base",
+                    "element": "circular",
+                    "question": "Is the stool circular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Does the stool have a square base?": {
+                    "caption": "A circular stool with a square base",
+                    "element": "square base",
+                    "question": "Does the stool have a square base?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_80.png",
+            "ques_ans": {
+                "Is this a stool?": {
+                    "caption": "A circular stool with a square base",
+                    "element": "stool",
+                    "question": "Is this a stool?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the stool circular?": {
+                    "caption": "A circular stool with a square base",
+                    "element": "circular",
+                    "question": "Is the stool circular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Does the stool have a square base?": {
+                    "caption": "A circular stool with a square base",
+                    "element": "square base",
+                    "question": "Does the stool have a square base?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_90.png",
+            "ques_ans": {
+                "Is this a stool?": {
+                    "caption": "A circular stool with a square base",
+                    "element": "stool",
+                    "question": "Is this a stool?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the stool circular?": {
+                    "caption": "A circular stool with a square base",
+                    "element": "circular",
+                    "question": "Is the stool circular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Does the stool have a square base?": {
+                    "caption": "A circular stool with a square base",
+                    "element": "square base",
+                    "question": "Does the stool have a square base?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_100.png",
+            "ques_ans": {
+                "Is this a stool?": {
+                    "caption": "A circular stool with a square base",
+                    "element": "stool",
+                    "question": "Is this a stool?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the stool circular?": {
+                    "caption": "A circular stool with a square base",
+                    "element": "circular",
+                    "question": "Is the stool circular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Does the stool have a square base?": {
+                    "caption": "A circular stool with a square base",
+                    "element": "square base",
+                    "question": "Does the stool have a square base?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_110.png",
+            "ques_ans": {
+                "Is this a stool?": {
+                    "caption": "A circular stool with a square base",
+                    "element": "stool",
+                    "question": "Is this a stool?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the stool circular?": {
+                    "caption": "A circular stool with a square base",
+                    "element": "circular",
+                    "question": "Is the stool circular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Does the stool have a square base?": {
+                    "caption": "A circular stool with a square base",
+                    "element": "square base",
+                    "question": "Does the stool have a square base?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        }
+    ]
+}

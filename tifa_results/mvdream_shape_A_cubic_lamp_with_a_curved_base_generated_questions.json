@@ -1,0 +1,74 @@
+[
+    {
+        "caption": "A cubic lamp with a curved base",
+        "element": "lamp",
+        "question": "Is this a lamp?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "A cubic lamp with a curved base",
+        "element": "lamp",
+        "question": "What type of item is shown?",
+        "choices": [
+            "lamp",
+            "clock",
+            "vase",
+            "chair"
+        ],
+        "answer": "lamp",
+        "element_type": "object"
+    },
+    {
+        "caption": "A cubic lamp with a curved base",
+        "element": "cubic",
+        "question": "Is the lamp cubic?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "shape"
+    },
+    {
+        "caption": "A cubic lamp with a curved base",
+        "element": "cubic",
+        "question": "What is the shape of the lamp?",
+        "choices": [
+            "cubic",
+            "spherical",
+            "conical",
+            "cylindrical"
+        ],
+        "answer": "cubic",
+        "element_type": "shape"
+    },
+    {
+        "caption": "A cubic lamp with a curved base",
+        "element": "curved base",
+        "question": "Does the lamp have a curved base?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "shape"
+    },
+    {
+        "caption": "A cubic lamp with a curved base",
+        "element": "curved base",
+        "question": "What is the shape of the lamp's base?",
+        "choices": [
+            "curved",
+            "straight",
+            "angular",
+            "flat"
+        ],
+        "answer": "curved",
+        "element_type": "shape"
+    }
+]

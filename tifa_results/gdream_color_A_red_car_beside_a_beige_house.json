@@ -1,0 +1,1306 @@
+{
+    "method": "gdream",
+    "aspect": "color",
+    "prompt_name": "A_red_car_beside_a_beige_house",
+    "individual_scores": {
+        "rgb_0.png": 0.42857142857142855,
+        "rgb_10.png": 0.5714285714285714,
+        "rgb_20.png": 0.42857142857142855,
+        "rgb_30.png": 0.42857142857142855,
+        "rgb_40.png": 0.42857142857142855,
+        "rgb_50.png": 0.5714285714285714,
+        "rgb_60.png": 0.42857142857142855,
+        "rgb_70.png": 0.42857142857142855,
+        "rgb_80.png": 0.5714285714285714,
+        "rgb_90.png": 0.2857142857142857,
+        "rgb_100.png": 0.42857142857142855,
+        "rgb_110.png": 0.42857142857142855
+    },
+    "average_tifa_score": 0.45238095238095233,
+    "question_logs": [
+        {
+            "image": "rgb_0.png",
+            "ques_ans": {
+                "Is there a car?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "car",
+                    "question": "Is there a car?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a house?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "house",
+                    "question": "Is there a house?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the car red?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "red",
+                    "question": "Is the car red?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the car?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "red",
+                    "question": "What color is the car?",
+                    "choices": [
+                        "red",
+                        "blue",
+                        "black",
+                        "white"
+                    ],
+                    "answer": "red",
+                    "element_type": "color",
+                    "free_form_vqa": "red",
+                    "multiple_choice_vqa": "red",
+                    "scores": 1
+                },
+                "Is the house beige?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "beige",
+                    "question": "Is the house beige?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the house?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "beige",
+                    "question": "What color is the house?",
+                    "choices": [
+                        "beige",
+                        "white",
+                        "gray",
+                        "brown"
+                    ],
+                    "answer": "beige",
+                    "element_type": "color",
+                    "free_form_vqa": "red",
+                    "multiple_choice_vqa": "white",
+                    "scores": 0
+                },
+                "Is the car beside the house?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "beside",
+                    "question": "Is the car beside the house?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_10.png",
+            "ques_ans": {
+                "Is there a car?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "car",
+                    "question": "Is there a car?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a house?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "house",
+                    "question": "Is there a house?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the car red?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "red",
+                    "question": "Is the car red?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the car?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "red",
+                    "question": "What color is the car?",
+                    "choices": [
+                        "red",
+                        "blue",
+                        "black",
+                        "white"
+                    ],
+                    "answer": "red",
+                    "element_type": "color",
+                    "free_form_vqa": "green",
+                    "multiple_choice_vqa": "red",
+                    "scores": 1
+                },
+                "Is the house beige?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "beige",
+                    "question": "Is the house beige?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the house?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "beige",
+                    "question": "What color is the house?",
+                    "choices": [
+                        "beige",
+                        "white",
+                        "gray",
+                        "brown"
+                    ],
+                    "answer": "beige",
+                    "element_type": "color",
+                    "free_form_vqa": "green",
+                    "multiple_choice_vqa": "beige",
+                    "scores": 1
+                },
+                "Is the car beside the house?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "beside",
+                    "question": "Is the car beside the house?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_20.png",
+            "ques_ans": {
+                "Is there a car?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "car",
+                    "question": "Is there a car?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a house?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "house",
+                    "question": "Is there a house?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the car red?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "red",
+                    "question": "Is the car red?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the car?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "red",
+                    "question": "What color is the car?",
+                    "choices": [
+                        "red",
+                        "blue",
+                        "black",
+                        "white"
+                    ],
+                    "answer": "red",
+                    "element_type": "color",
+                    "free_form_vqa": "green",
+                    "multiple_choice_vqa": "red",
+                    "scores": 1
+                },
+                "Is the house beige?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "beige",
+                    "question": "Is the house beige?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the house?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "beige",
+                    "question": "What color is the house?",
+                    "choices": [
+                        "beige",
+                        "white",
+                        "gray",
+                        "brown"
+                    ],
+                    "answer": "beige",
+                    "element_type": "color",
+                    "free_form_vqa": "green",
+                    "multiple_choice_vqa": "beige",
+                    "scores": 1
+                },
+                "Is the car beside the house?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "beside",
+                    "question": "Is the car beside the house?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_30.png",
+            "ques_ans": {
+                "Is there a car?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "car",
+                    "question": "Is there a car?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a house?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "house",
+                    "question": "Is there a house?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the car red?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "red",
+                    "question": "Is the car red?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the car?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "red",
+                    "question": "What color is the car?",
+                    "choices": [
+                        "red",
+                        "blue",
+                        "black",
+                        "white"
+                    ],
+                    "answer": "red",
+                    "element_type": "color",
+                    "free_form_vqa": "green",
+                    "multiple_choice_vqa": "red",
+                    "scores": 1
+                },
+                "Is the house beige?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "beige",
+                    "question": "Is the house beige?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the house?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "beige",
+                    "question": "What color is the house?",
+                    "choices": [
+                        "beige",
+                        "white",
+                        "gray",
+                        "brown"
+                    ],
+                    "answer": "beige",
+                    "element_type": "color",
+                    "free_form_vqa": "green",
+                    "multiple_choice_vqa": "beige",
+                    "scores": 1
+                },
+                "Is the car beside the house?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "beside",
+                    "question": "Is the car beside the house?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_40.png",
+            "ques_ans": {
+                "Is there a car?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "car",
+                    "question": "Is there a car?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a house?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "house",
+                    "question": "Is there a house?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the car red?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "red",
+                    "question": "Is the car red?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the car?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "red",
+                    "question": "What color is the car?",
+                    "choices": [
+                        "red",
+                        "blue",
+                        "black",
+                        "white"
+                    ],
+                    "answer": "red",
+                    "element_type": "color",
+                    "free_form_vqa": "green",
+                    "multiple_choice_vqa": "red",
+                    "scores": 1
+                },
+                "Is the house beige?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "beige",
+                    "question": "Is the house beige?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the house?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "beige",
+                    "question": "What color is the house?",
+                    "choices": [
+                        "beige",
+                        "white",
+                        "gray",
+                        "brown"
+                    ],
+                    "answer": "beige",
+                    "element_type": "color",
+                    "free_form_vqa": "green",
+                    "multiple_choice_vqa": "beige",
+                    "scores": 1
+                },
+                "Is the car beside the house?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "beside",
+                    "question": "Is the car beside the house?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_50.png",
+            "ques_ans": {
+                "Is there a car?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "car",
+                    "question": "Is there a car?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a house?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "house",
+                    "question": "Is there a house?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the car red?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "red",
+                    "question": "Is the car red?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the car?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "red",
+                    "question": "What color is the car?",
+                    "choices": [
+                        "red",
+                        "blue",
+                        "black",
+                        "white"
+                    ],
+                    "answer": "red",
+                    "element_type": "color",
+                    "free_form_vqa": "red and green",
+                    "multiple_choice_vqa": "red",
+                    "scores": 1
+                },
+                "Is the house beige?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "beige",
+                    "question": "Is the house beige?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the house?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "beige",
+                    "question": "What color is the house?",
+                    "choices": [
+                        "beige",
+                        "white",
+                        "gray",
+                        "brown"
+                    ],
+                    "answer": "beige",
+                    "element_type": "color",
+                    "free_form_vqa": "red and green",
+                    "multiple_choice_vqa": "beige",
+                    "scores": 1
+                },
+                "Is the car beside the house?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "beside",
+                    "question": "Is the car beside the house?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_60.png",
+            "ques_ans": {
+                "Is there a car?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "car",
+                    "question": "Is there a car?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a house?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "house",
+                    "question": "Is there a house?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the car red?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "red",
+                    "question": "Is the car red?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the car?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "red",
+                    "question": "What color is the car?",
+                    "choices": [
+                        "red",
+                        "blue",
+                        "black",
+                        "white"
+                    ],
+                    "answer": "red",
+                    "element_type": "color",
+                    "free_form_vqa": "red",
+                    "multiple_choice_vqa": "red",
+                    "scores": 1
+                },
+                "Is the house beige?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "beige",
+                    "question": "Is the house beige?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the house?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "beige",
+                    "question": "What color is the house?",
+                    "choices": [
+                        "beige",
+                        "white",
+                        "gray",
+                        "brown"
+                    ],
+                    "answer": "beige",
+                    "element_type": "color",
+                    "free_form_vqa": "red",
+                    "multiple_choice_vqa": "white",
+                    "scores": 0
+                },
+                "Is the car beside the house?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "beside",
+                    "question": "Is the car beside the house?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_70.png",
+            "ques_ans": {
+                "Is there a car?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "car",
+                    "question": "Is there a car?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a house?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "house",
+                    "question": "Is there a house?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the car red?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "red",
+                    "question": "Is the car red?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the car?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "red",
+                    "question": "What color is the car?",
+                    "choices": [
+                        "red",
+                        "blue",
+                        "black",
+                        "white"
+                    ],
+                    "answer": "red",
+                    "element_type": "color",
+                    "free_form_vqa": "red and green",
+                    "multiple_choice_vqa": "red",
+                    "scores": 1
+                },
+                "Is the house beige?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "beige",
+                    "question": "Is the house beige?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the house?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "beige",
+                    "question": "What color is the house?",
+                    "choices": [
+                        "beige",
+                        "white",
+                        "gray",
+                        "brown"
+                    ],
+                    "answer": "beige",
+                    "element_type": "color",
+                    "free_form_vqa": "red",
+                    "multiple_choice_vqa": "white",
+                    "scores": 0
+                },
+                "Is the car beside the house?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "beside",
+                    "question": "Is the car beside the house?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_80.png",
+            "ques_ans": {
+                "Is there a car?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "car",
+                    "question": "Is there a car?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a house?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "house",
+                    "question": "Is there a house?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the car red?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "red",
+                    "question": "Is the car red?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the car?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "red",
+                    "question": "What color is the car?",
+                    "choices": [
+                        "red",
+                        "blue",
+                        "black",
+                        "white"
+                    ],
+                    "answer": "red",
+                    "element_type": "color",
+                    "free_form_vqa": "green",
+                    "multiple_choice_vqa": "red",
+                    "scores": 1
+                },
+                "Is the house beige?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "beige",
+                    "question": "Is the house beige?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the house?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "beige",
+                    "question": "What color is the house?",
+                    "choices": [
+                        "beige",
+                        "white",
+                        "gray",
+                        "brown"
+                    ],
+                    "answer": "beige",
+                    "element_type": "color",
+                    "free_form_vqa": "green",
+                    "multiple_choice_vqa": "beige",
+                    "scores": 1
+                },
+                "Is the car beside the house?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "beside",
+                    "question": "Is the car beside the house?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_90.png",
+            "ques_ans": {
+                "Is there a car?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "car",
+                    "question": "Is there a car?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a house?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "house",
+                    "question": "Is there a house?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the car red?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "red",
+                    "question": "Is the car red?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the car?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "red",
+                    "question": "What color is the car?",
+                    "choices": [
+                        "red",
+                        "blue",
+                        "black",
+                        "white"
+                    ],
+                    "answer": "red",
+                    "element_type": "color",
+                    "free_form_vqa": "green",
+                    "multiple_choice_vqa": "red",
+                    "scores": 1
+                },
+                "Is the house beige?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "beige",
+                    "question": "Is the house beige?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the house?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "beige",
+                    "question": "What color is the house?",
+                    "choices": [
+                        "beige",
+                        "white",
+                        "gray",
+                        "brown"
+                    ],
+                    "answer": "beige",
+                    "element_type": "color",
+                    "free_form_vqa": "red",
+                    "multiple_choice_vqa": "white",
+                    "scores": 0
+                },
+                "Is the car beside the house?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "beside",
+                    "question": "Is the car beside the house?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_100.png",
+            "ques_ans": {
+                "Is there a car?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "car",
+                    "question": "Is there a car?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a house?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "house",
+                    "question": "Is there a house?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the car red?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "red",
+                    "question": "Is the car red?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the car?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "red",
+                    "question": "What color is the car?",
+                    "choices": [
+                        "red",
+                        "blue",
+                        "black",
+                        "white"
+                    ],
+                    "answer": "red",
+                    "element_type": "color",
+                    "free_form_vqa": "red",
+                    "multiple_choice_vqa": "red",
+                    "scores": 1
+                },
+                "Is the house beige?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "beige",
+                    "question": "Is the house beige?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the house?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "beige",
+                    "question": "What color is the house?",
+                    "choices": [
+                        "beige",
+                        "white",
+                        "gray",
+                        "brown"
+                    ],
+                    "answer": "beige",
+                    "element_type": "color",
+                    "free_form_vqa": "red",
+                    "multiple_choice_vqa": "white",
+                    "scores": 0
+                },
+                "Is the car beside the house?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "beside",
+                    "question": "Is the car beside the house?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_110.png",
+            "ques_ans": {
+                "Is there a car?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "car",
+                    "question": "Is there a car?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a house?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "house",
+                    "question": "Is there a house?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the car red?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "red",
+                    "question": "Is the car red?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the car?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "red",
+                    "question": "What color is the car?",
+                    "choices": [
+                        "red",
+                        "blue",
+                        "black",
+                        "white"
+                    ],
+                    "answer": "red",
+                    "element_type": "color",
+                    "free_form_vqa": "red",
+                    "multiple_choice_vqa": "red",
+                    "scores": 1
+                },
+                "Is the house beige?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "beige",
+                    "question": "Is the house beige?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the house?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "beige",
+                    "question": "What color is the house?",
+                    "choices": [
+                        "beige",
+                        "white",
+                        "gray",
+                        "brown"
+                    ],
+                    "answer": "beige",
+                    "element_type": "color",
+                    "free_form_vqa": "red",
+                    "multiple_choice_vqa": "white",
+                    "scores": 0
+                },
+                "Is the car beside the house?": {
+                    "caption": "A red car beside a beige house",
+                    "element": "beside",
+                    "question": "Is the car beside the house?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        }
+    ]
+}

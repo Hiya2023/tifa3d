@@ -1,0 +1,1138 @@
+{
+    "method": "magic3d",
+    "aspect": "style",
+    "prompt_name": "A_minimalist_Japanese_vase_with_floral_engravings",
+    "individual_scores": {
+        "rgb_0.png": 0.8333333333333334,
+        "rgb_10.png": 0.8333333333333334,
+        "rgb_20.png": 0.8333333333333334,
+        "rgb_30.png": 0.8333333333333334,
+        "rgb_40.png": 0.8333333333333334,
+        "rgb_50.png": 0.8333333333333334,
+        "rgb_60.png": 0.6666666666666666,
+        "rgb_70.png": 0.6666666666666666,
+        "rgb_80.png": 0.8333333333333334,
+        "rgb_90.png": 0.8333333333333334,
+        "rgb_100.png": 0.6666666666666666,
+        "rgb_110.png": 0.8333333333333334
+    },
+    "average_tifa_score": 0.7916666666666667,
+    "question_logs": [
+        {
+            "image": "rgb_0.png",
+            "ques_ans": {
+                "Is this a vase?": {
+                    "caption": "A minimalist Japanese vase with floral engravings",
+                    "element": "vase",
+                    "question": "Is this a vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the vase minimalist?": {
+                    "caption": "A minimalist Japanese vase with floral engravings",
+                    "element": "minimalist",
+                    "question": "Is the vase minimalist?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "How would you describe the style of the vase?": {
+                    "caption": "A minimalist Japanese vase with floral engravings",
+                    "element": "minimalist",
+                    "question": "How would you describe the style of the vase?",
+                    "choices": [
+                        "minimalist",
+                        "baroque",
+                        "victorian",
+                        "bohemian"
+                    ],
+                    "answer": "minimalist",
+                    "element_type": "attribute",
+                    "free_form_vqa": "asian",
+                    "multiple_choice_vqa": "victorian",
+                    "scores": 0
+                },
+                "Is the vase Japanese?": {
+                    "caption": "A minimalist Japanese vase with floral engravings",
+                    "element": "Japanese",
+                    "question": "Is the vase Japanese?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Does the vase have floral engravings?": {
+                    "caption": "A minimalist Japanese vase with floral engravings",
+                    "element": "floral engravings",
+                    "question": "Does the vase have floral engravings?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What kind of engravings does the vase have?": {
+                    "caption": "A minimalist Japanese vase with floral engravings",
+                    "element": "floral engravings",
+                    "question": "What kind of engravings does the vase have?",
+                    "choices": [
+                        "floral",
+                        "abstract",
+                        "geometric",
+                        "striped"
+                    ],
+                    "answer": "floral",
+                    "element_type": "attribute",
+                    "free_form_vqa": "floral",
+                    "multiple_choice_vqa": "floral",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_10.png",
+            "ques_ans": {
+                "Is this a vase?": {
+                    "caption": "A minimalist Japanese vase with floral engravings",
+                    "element": "vase",
+                    "question": "Is this a vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the vase minimalist?": {
+                    "caption": "A minimalist Japanese vase with floral engravings",
+                    "element": "minimalist",
+                    "question": "Is the vase minimalist?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "How would you describe the style of the vase?": {
+                    "caption": "A minimalist Japanese vase with floral engravings",
+                    "element": "minimalist",
+                    "question": "How would you describe the style of the vase?",
+                    "choices": [
+                        "minimalist",
+                        "baroque",
+                        "victorian",
+                        "bohemian"
+                    ],
+                    "answer": "minimalist",
+                    "element_type": "attribute",
+                    "free_form_vqa": "asian",
+                    "multiple_choice_vqa": "victorian",
+                    "scores": 0
+                },
+                "Is the vase Japanese?": {
+                    "caption": "A minimalist Japanese vase with floral engravings",
+                    "element": "Japanese",
+                    "question": "Is the vase Japanese?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Does the vase have floral engravings?": {
+                    "caption": "A minimalist Japanese vase with floral engravings",
+                    "element": "floral engravings",
+                    "question": "Does the vase have floral engravings?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What kind of engravings does the vase have?": {
+                    "caption": "A minimalist Japanese vase with floral engravings",
+                    "element": "floral engravings",
+                    "question": "What kind of engravings does the vase have?",
+                    "choices": [
+                        "floral",
+                        "abstract",
+                        "geometric",
+                        "striped"
+                    ],
+                    "answer": "floral",
+                    "element_type": "attribute",
+                    "free_form_vqa": "floral",
+                    "multiple_choice_vqa": "floral",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_20.png",
+            "ques_ans": {
+                "Is this a vase?": {
+                    "caption": "A minimalist Japanese vase with floral engravings",
+                    "element": "vase",
+                    "question": "Is this a vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the vase minimalist?": {
+                    "caption": "A minimalist Japanese vase with floral engravings",
+                    "element": "minimalist",
+                    "question": "Is the vase minimalist?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "How would you describe the style of the vase?": {
+                    "caption": "A minimalist Japanese vase with floral engravings",
+                    "element": "minimalist",
+                    "question": "How would you describe the style of the vase?",
+                    "choices": [
+                        "minimalist",
+                        "baroque",
+                        "victorian",
+                        "bohemian"
+                    ],
+                    "answer": "minimalist",
+                    "element_type": "attribute",
+                    "free_form_vqa": "japanese",
+                    "multiple_choice_vqa": "victorian",
+                    "scores": 0
+                },
+                "Is the vase Japanese?": {
+                    "caption": "A minimalist Japanese vase with floral engravings",
+                    "element": "Japanese",
+                    "question": "Is the vase Japanese?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Does the vase have floral engravings?": {
+                    "caption": "A minimalist Japanese vase with floral engravings",
+                    "element": "floral engravings",
+                    "question": "Does the vase have floral engravings?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What kind of engravings does the vase have?": {
+                    "caption": "A minimalist Japanese vase with floral engravings",
+                    "element": "floral engravings",
+                    "question": "What kind of engravings does the vase have?",
+                    "choices": [
+                        "floral",
+                        "abstract",
+                        "geometric",
+                        "striped"
+                    ],
+                    "answer": "floral",
+                    "element_type": "attribute",
+                    "free_form_vqa": "floral",
+                    "multiple_choice_vqa": "floral",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_30.png",
+            "ques_ans": {
+                "Is this a vase?": {
+                    "caption": "A minimalist Japanese vase with floral engravings",
+                    "element": "vase",
+                    "question": "Is this a vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the vase minimalist?": {
+                    "caption": "A minimalist Japanese vase with floral engravings",
+                    "element": "minimalist",
+                    "question": "Is the vase minimalist?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "How would you describe the style of the vase?": {
+                    "caption": "A minimalist Japanese vase with floral engravings",
+                    "element": "minimalist",
+                    "question": "How would you describe the style of the vase?",
+                    "choices": [
+                        "minimalist",
+                        "baroque",
+                        "victorian",
+                        "bohemian"
+                    ],
+                    "answer": "minimalist",
+                    "element_type": "attribute",
+                    "free_form_vqa": "oriental",
+                    "multiple_choice_vqa": "victorian",
+                    "scores": 0
+                },
+                "Is the vase Japanese?": {
+                    "caption": "A minimalist Japanese vase with floral engravings",
+                    "element": "Japanese",
+                    "question": "Is the vase Japanese?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Does the vase have floral engravings?": {
+                    "caption": "A minimalist Japanese vase with floral engravings",
+                    "element": "floral engravings",
+                    "question": "Does the vase have floral engravings?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What kind of engravings does the vase have?": {
+                    "caption": "A minimalist Japanese vase with floral engravings",
+                    "element": "floral engravings",
+                    "question": "What kind of engravings does the vase have?",
+                    "choices": [
+                        "floral",
+                        "abstract",
+                        "geometric",
+                        "striped"
+                    ],
+                    "answer": "floral",
+                    "element_type": "attribute",
+                    "free_form_vqa": "floral",
+                    "multiple_choice_vqa": "floral",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_40.png",
+            "ques_ans": {
+                "Is this a vase?": {
+                    "caption": "A minimalist Japanese vase with floral engravings",
+                    "element": "vase",
+                    "question": "Is this a vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the vase minimalist?": {
+                    "caption": "A minimalist Japanese vase with floral engravings",
+                    "element": "minimalist",
+                    "question": "Is the vase minimalist?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "How would you describe the style of the vase?": {
+                    "caption": "A minimalist Japanese vase with floral engravings",
+                    "element": "minimalist",
+                    "question": "How would you describe the style of the vase?",
+                    "choices": [
+                        "minimalist",
+                        "baroque",
+                        "victorian",
+                        "bohemian"
+                    ],
+                    "answer": "minimalist",
+                    "element_type": "attribute",
+                    "free_form_vqa": "asian",
+                    "multiple_choice_vqa": "victorian",
+                    "scores": 0
+                },
+                "Is the vase Japanese?": {
+                    "caption": "A minimalist Japanese vase with floral engravings",
+                    "element": "Japanese",
+                    "question": "Is the vase Japanese?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Does the vase have floral engravings?": {
+                    "caption": "A minimalist Japanese vase with floral engravings",
+                    "element": "floral engravings",
+                    "question": "Does the vase have floral engravings?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What kind of engravings does the vase have?": {
+                    "caption": "A minimalist Japanese vase with floral engravings",
+                    "element": "floral engravings",
+                    "question": "What kind of engravings does the vase have?",
+                    "choices": [
+                        "floral",
+                        "abstract",
+                        "geometric",
+                        "striped"
+                    ],
+                    "answer": "floral",
+                    "element_type": "attribute",
+                    "free_form_vqa": "floral",
+                    "multiple_choice_vqa": "floral",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_50.png",
+            "ques_ans": {
+                "Is this a vase?": {
+                    "caption": "A minimalist Japanese vase with floral engravings",
+                    "element": "vase",
+                    "question": "Is this a vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the vase minimalist?": {
+                    "caption": "A minimalist Japanese vase with floral engravings",
+                    "element": "minimalist",
+                    "question": "Is the vase minimalist?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "How would you describe the style of the vase?": {
+                    "caption": "A minimalist Japanese vase with floral engravings",
+                    "element": "minimalist",
+                    "question": "How would you describe the style of the vase?",
+                    "choices": [
+                        "minimalist",
+                        "baroque",
+                        "victorian",
+                        "bohemian"
+                    ],
+                    "answer": "minimalist",
+                    "element_type": "attribute",
+                    "free_form_vqa": "antique",
+                    "multiple_choice_vqa": "victorian",
+                    "scores": 0
+                },
+                "Is the vase Japanese?": {
+                    "caption": "A minimalist Japanese vase with floral engravings",
+                    "element": "Japanese",
+                    "question": "Is the vase Japanese?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Does the vase have floral engravings?": {
+                    "caption": "A minimalist Japanese vase with floral engravings",
+                    "element": "floral engravings",
+                    "question": "Does the vase have floral engravings?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What kind of engravings does the vase have?": {
+                    "caption": "A minimalist Japanese vase with floral engravings",
+                    "element": "floral engravings",
+                    "question": "What kind of engravings does the vase have?",
+                    "choices": [
+                        "floral",
+                        "abstract",
+                        "geometric",
+                        "striped"
+                    ],
+                    "answer": "floral",
+                    "element_type": "attribute",
+                    "free_form_vqa": "floral",
+                    "multiple_choice_vqa": "floral",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_60.png",
+            "ques_ans": {
+                "Is this a vase?": {
+                    "caption": "A minimalist Japanese vase with floral engravings",
+                    "element": "vase",
+                    "question": "Is this a vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the vase minimalist?": {
+                    "caption": "A minimalist Japanese vase with floral engravings",
+                    "element": "minimalist",
+                    "question": "Is the vase minimalist?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "How would you describe the style of the vase?": {
+                    "caption": "A minimalist Japanese vase with floral engravings",
+                    "element": "minimalist",
+                    "question": "How would you describe the style of the vase?",
+                    "choices": [
+                        "minimalist",
+                        "baroque",
+                        "victorian",
+                        "bohemian"
+                    ],
+                    "answer": "minimalist",
+                    "element_type": "attribute",
+                    "free_form_vqa": "oriental",
+                    "multiple_choice_vqa": "victorian",
+                    "scores": 0
+                },
+                "Is the vase Japanese?": {
+                    "caption": "A minimalist Japanese vase with floral engravings",
+                    "element": "Japanese",
+                    "question": "Is the vase Japanese?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Does the vase have floral engravings?": {
+                    "caption": "A minimalist Japanese vase with floral engravings",
+                    "element": "floral engravings",
+                    "question": "Does the vase have floral engravings?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What kind of engravings does the vase have?": {
+                    "caption": "A minimalist Japanese vase with floral engravings",
+                    "element": "floral engravings",
+                    "question": "What kind of engravings does the vase have?",
+                    "choices": [
+                        "floral",
+                        "abstract",
+                        "geometric",
+                        "striped"
+                    ],
+                    "answer": "floral",
+                    "element_type": "attribute",
+                    "free_form_vqa": "asian",
+                    "multiple_choice_vqa": "striped",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_70.png",
+            "ques_ans": {
+                "Is this a vase?": {
+                    "caption": "A minimalist Japanese vase with floral engravings",
+                    "element": "vase",
+                    "question": "Is this a vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the vase minimalist?": {
+                    "caption": "A minimalist Japanese vase with floral engravings",
+                    "element": "minimalist",
+                    "question": "Is the vase minimalist?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "How would you describe the style of the vase?": {
+                    "caption": "A minimalist Japanese vase with floral engravings",
+                    "element": "minimalist",
+                    "question": "How would you describe the style of the vase?",
+                    "choices": [
+                        "minimalist",
+                        "baroque",
+                        "victorian",
+                        "bohemian"
+                    ],
+                    "answer": "minimalist",
+                    "element_type": "attribute",
+                    "free_form_vqa": "antique",
+                    "multiple_choice_vqa": "victorian",
+                    "scores": 0
+                },
+                "Is the vase Japanese?": {
+                    "caption": "A minimalist Japanese vase with floral engravings",
+                    "element": "Japanese",
+                    "question": "Is the vase Japanese?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Does the vase have floral engravings?": {
+                    "caption": "A minimalist Japanese vase with floral engravings",
+                    "element": "floral engravings",
+                    "question": "Does the vase have floral engravings?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What kind of engravings does the vase have?": {
+                    "caption": "A minimalist Japanese vase with floral engravings",
+                    "element": "floral engravings",
+                    "question": "What kind of engravings does the vase have?",
+                    "choices": [
+                        "floral",
+                        "abstract",
+                        "geometric",
+                        "striped"
+                    ],
+                    "answer": "floral",
+                    "element_type": "attribute",
+                    "free_form_vqa": "asian",
+                    "multiple_choice_vqa": "striped",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_80.png",
+            "ques_ans": {
+                "Is this a vase?": {
+                    "caption": "A minimalist Japanese vase with floral engravings",
+                    "element": "vase",
+                    "question": "Is this a vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the vase minimalist?": {
+                    "caption": "A minimalist Japanese vase with floral engravings",
+                    "element": "minimalist",
+                    "question": "Is the vase minimalist?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "How would you describe the style of the vase?": {
+                    "caption": "A minimalist Japanese vase with floral engravings",
+                    "element": "minimalist",
+                    "question": "How would you describe the style of the vase?",
+                    "choices": [
+                        "minimalist",
+                        "baroque",
+                        "victorian",
+                        "bohemian"
+                    ],
+                    "answer": "minimalist",
+                    "element_type": "attribute",
+                    "free_form_vqa": "oriental",
+                    "multiple_choice_vqa": "victorian",
+                    "scores": 0
+                },
+                "Is the vase Japanese?": {
+                    "caption": "A minimalist Japanese vase with floral engravings",
+                    "element": "Japanese",
+                    "question": "Is the vase Japanese?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Does the vase have floral engravings?": {
+                    "caption": "A minimalist Japanese vase with floral engravings",
+                    "element": "floral engravings",
+                    "question": "Does the vase have floral engravings?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What kind of engravings does the vase have?": {
+                    "caption": "A minimalist Japanese vase with floral engravings",
+                    "element": "floral engravings",
+                    "question": "What kind of engravings does the vase have?",
+                    "choices": [
+                        "floral",
+                        "abstract",
+                        "geometric",
+                        "striped"
+                    ],
+                    "answer": "floral",
+                    "element_type": "attribute",
+                    "free_form_vqa": "floral",
+                    "multiple_choice_vqa": "floral",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_90.png",
+            "ques_ans": {
+                "Is this a vase?": {
+                    "caption": "A minimalist Japanese vase with floral engravings",
+                    "element": "vase",
+                    "question": "Is this a vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the vase minimalist?": {
+                    "caption": "A minimalist Japanese vase with floral engravings",
+                    "element": "minimalist",
+                    "question": "Is the vase minimalist?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "How would you describe the style of the vase?": {
+                    "caption": "A minimalist Japanese vase with floral engravings",
+                    "element": "minimalist",
+                    "question": "How would you describe the style of the vase?",
+                    "choices": [
+                        "minimalist",
+                        "baroque",
+                        "victorian",
+                        "bohemian"
+                    ],
+                    "answer": "minimalist",
+                    "element_type": "attribute",
+                    "free_form_vqa": "asian",
+                    "multiple_choice_vqa": "victorian",
+                    "scores": 0
+                },
+                "Is the vase Japanese?": {
+                    "caption": "A minimalist Japanese vase with floral engravings",
+                    "element": "Japanese",
+                    "question": "Is the vase Japanese?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Does the vase have floral engravings?": {
+                    "caption": "A minimalist Japanese vase with floral engravings",
+                    "element": "floral engravings",
+                    "question": "Does the vase have floral engravings?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What kind of engravings does the vase have?": {
+                    "caption": "A minimalist Japanese vase with floral engravings",
+                    "element": "floral engravings",
+                    "question": "What kind of engravings does the vase have?",
+                    "choices": [
+                        "floral",
+                        "abstract",
+                        "geometric",
+                        "striped"
+                    ],
+                    "answer": "floral",
+                    "element_type": "attribute",
+                    "free_form_vqa": "floral",
+                    "multiple_choice_vqa": "floral",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_100.png",
+            "ques_ans": {
+                "Is this a vase?": {
+                    "caption": "A minimalist Japanese vase with floral engravings",
+                    "element": "vase",
+                    "question": "Is this a vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the vase minimalist?": {
+                    "caption": "A minimalist Japanese vase with floral engravings",
+                    "element": "minimalist",
+                    "question": "Is the vase minimalist?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "How would you describe the style of the vase?": {
+                    "caption": "A minimalist Japanese vase with floral engravings",
+                    "element": "minimalist",
+                    "question": "How would you describe the style of the vase?",
+                    "choices": [
+                        "minimalist",
+                        "baroque",
+                        "victorian",
+                        "bohemian"
+                    ],
+                    "answer": "minimalist",
+                    "element_type": "attribute",
+                    "free_form_vqa": "asian",
+                    "multiple_choice_vqa": "victorian",
+                    "scores": 0
+                },
+                "Is the vase Japanese?": {
+                    "caption": "A minimalist Japanese vase with floral engravings",
+                    "element": "Japanese",
+                    "question": "Is the vase Japanese?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Does the vase have floral engravings?": {
+                    "caption": "A minimalist Japanese vase with floral engravings",
+                    "element": "floral engravings",
+                    "question": "Does the vase have floral engravings?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What kind of engravings does the vase have?": {
+                    "caption": "A minimalist Japanese vase with floral engravings",
+                    "element": "floral engravings",
+                    "question": "What kind of engravings does the vase have?",
+                    "choices": [
+                        "floral",
+                        "abstract",
+                        "geometric",
+                        "striped"
+                    ],
+                    "answer": "floral",
+                    "element_type": "attribute",
+                    "free_form_vqa": "asian",
+                    "multiple_choice_vqa": "striped",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_110.png",
+            "ques_ans": {
+                "Is this a vase?": {
+                    "caption": "A minimalist Japanese vase with floral engravings",
+                    "element": "vase",
+                    "question": "Is this a vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the vase minimalist?": {
+                    "caption": "A minimalist Japanese vase with floral engravings",
+                    "element": "minimalist",
+                    "question": "Is the vase minimalist?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "How would you describe the style of the vase?": {
+                    "caption": "A minimalist Japanese vase with floral engravings",
+                    "element": "minimalist",
+                    "question": "How would you describe the style of the vase?",
+                    "choices": [
+                        "minimalist",
+                        "baroque",
+                        "victorian",
+                        "bohemian"
+                    ],
+                    "answer": "minimalist",
+                    "element_type": "attribute",
+                    "free_form_vqa": "asian",
+                    "multiple_choice_vqa": "victorian",
+                    "scores": 0
+                },
+                "Is the vase Japanese?": {
+                    "caption": "A minimalist Japanese vase with floral engravings",
+                    "element": "Japanese",
+                    "question": "Is the vase Japanese?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Does the vase have floral engravings?": {
+                    "caption": "A minimalist Japanese vase with floral engravings",
+                    "element": "floral engravings",
+                    "question": "Does the vase have floral engravings?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What kind of engravings does the vase have?": {
+                    "caption": "A minimalist Japanese vase with floral engravings",
+                    "element": "floral engravings",
+                    "question": "What kind of engravings does the vase have?",
+                    "choices": [
+                        "floral",
+                        "abstract",
+                        "geometric",
+                        "striped"
+                    ],
+                    "answer": "floral",
+                    "element_type": "attribute",
+                    "free_form_vqa": "floral",
+                    "multiple_choice_vqa": "floral",
+                    "scores": 1
+                }
+            }
+        }
+    ]
+}

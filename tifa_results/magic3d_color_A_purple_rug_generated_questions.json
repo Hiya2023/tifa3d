@@ -1,0 +1,50 @@
+[
+    {
+        "caption": "A purple rug",
+        "element": "rug",
+        "question": "Is this a rug?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "A purple rug",
+        "element": "rug",
+        "question": "What type of item is shown?",
+        "choices": [
+            "rug",
+            "blanket",
+            "curtain",
+            "towel"
+        ],
+        "answer": "rug",
+        "element_type": "object"
+    },
+    {
+        "caption": "A purple rug",
+        "element": "purple",
+        "question": "Is the rug purple?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "color"
+    },
+    {
+        "caption": "A purple rug",
+        "element": "purple",
+        "question": "What color is the rug?",
+        "choices": [
+            "purple",
+            "red",
+            "blue",
+            "green"
+        ],
+        "answer": "purple",
+        "element_type": "color"
+    }
+]

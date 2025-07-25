@@ -13,16 +13,25 @@ def get_llama2_pipeline(model_name="tifa-benchmark/llama2_tifa_question_generati
         model=model_name,
         torch_dtype=torch.float16,
         device_map="auto",
+        trust_remote_code=True
     )
 
     return pipeline
 
+#INTRO_BLURB = """Given an image description, generate one or two multiple-choice questions that verifies if the image description is correct.
+#Classify each concept into a type (object, human, animal, food, activity, attribute, counting, color, material, spatial, location, shape, other), and then generate a question for each type.
+#"""
 
 # format dataset. Follow LLaMA 2 style
 def create_qg_prompt(caption):
 
-    INTRO_BLURB = """Given an image description, generate one or two multiple-choice questions that verifies if the image description is correct.
-Classify each concept into a type (object, human, animal, food, activity, attribute, counting, color, material, spatial, location, shape, other), and then generate a question for each type.
+    INTRO_BLURB = """Given an image description, generate one or two multiple-choice questions that verify if the image description is correct. First, classify each concept in the description into one of the following types: object, human, animal, food, activity, attribute, counting, color, material, spatial, location, shape, or other.
+
+Then, based on the features present in the image description, tailor the focus of your questions as follows:
+
+For images with color details associated with objects: Generate questions that emphasize the concepts of object, animal, food, attribute, counting, color, and material.
+For images with shapes associated with objects: Generate questions that emphasize the concepts of object, animal, food, attribute, counting, shape.
+Ensure that each generated multiple-choice question is aligned with the targeted concepts for the image, and that the choices are clearly defined to verify the correctness of the image description.
 """
 
     formated_prompt = f"<s>[INST] <<SYS>>\n{INTRO_BLURB}\n<</SYS>>\n\n"

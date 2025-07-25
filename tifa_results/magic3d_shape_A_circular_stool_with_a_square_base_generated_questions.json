@@ -1,0 +1,74 @@
+[
+    {
+        "caption": "A circular stool with a square base",
+        "element": "stool",
+        "question": "Is this a stool?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "A circular stool with a square base",
+        "element": "stool",
+        "question": "What type of furniture is shown?",
+        "choices": [
+            "stool",
+            "chair",
+            "table",
+            "bench"
+        ],
+        "answer": "stool",
+        "element_type": "object"
+    },
+    {
+        "caption": "A circular stool with a square base",
+        "element": "circular",
+        "question": "Is the stool circular?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "shape"
+    },
+    {
+        "caption": "A circular stool with a square base",
+        "element": "circular",
+        "question": "What is the shape of the stool's seat?",
+        "choices": [
+            "circular",
+            "square",
+            "triangular",
+            "rectangular"
+        ],
+        "answer": "circular",
+        "element_type": "shape"
+    },
+    {
+        "caption": "A circular stool with a square base",
+        "element": "square base",
+        "question": "Does the stool have a square base?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "shape"
+    },
+    {
+        "caption": "A circular stool with a square base",
+        "element": "square base",
+        "question": "What is the shape of the stool's base?",
+        "choices": [
+            "square",
+            "round",
+            "oval",
+            "hexagonal"
+        ],
+        "answer": "square",
+        "element_type": "shape"
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "caption": "A rectangular bookshelf",
+        "element": "bookshelf",
+        "question": "Is this a bookshelf?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "A rectangular bookshelf",
+        "element": "bookshelf",
+        "question": "What type of furniture is shown?",
+        "choices": [
+            "bookshelf",
+            "table",
+            "chair",
+            "desk"
+        ],
+        "answer": "bookshelf",
+        "element_type": "object"
+    },
+    {
+        "caption": "A rectangular bookshelf",
+        "element": "rectangular",
+        "question": "Is the bookshelf rectangular?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "shape"
+    },
+    {
+        "caption": "A rectangular bookshelf",
+        "element": "rectangular",
+        "question": "What is the shape of the bookshelf?",
+        "choices": [
+            "rectangular",
+            "square",
+            "circular",
+            "oval"
+        ],
+        "answer": "rectangular",
+        "element_type": "shape"
+    }
+]

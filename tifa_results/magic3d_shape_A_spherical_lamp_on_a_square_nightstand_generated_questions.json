@@ -1,0 +1,122 @@
+[
+    {
+        "caption": "A spherical lamp on a square nightstand",
+        "element": "lamp",
+        "question": "Is there a lamp?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "A spherical lamp on a square nightstand",
+        "element": "lamp",
+        "question": "What type of object is shown?",
+        "choices": [
+            "lamp",
+            "vase",
+            "clock",
+            "book"
+        ],
+        "answer": "lamp",
+        "element_type": "object"
+    },
+    {
+        "caption": "A spherical lamp on a square nightstand",
+        "element": "nightstand",
+        "question": "Is there a nightstand?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "A spherical lamp on a square nightstand",
+        "element": "nightstand",
+        "question": "What piece of furniture is shown?",
+        "choices": [
+            "nightstand",
+            "table",
+            "chair",
+            "bed"
+        ],
+        "answer": "nightstand",
+        "element_type": "object"
+    },
+    {
+        "caption": "A spherical lamp on a square nightstand",
+        "element": "spherical",
+        "question": "Is the lamp spherical?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "shape"
+    },
+    {
+        "caption": "A spherical lamp on a square nightstand",
+        "element": "spherical",
+        "question": "What shape is the lamp?",
+        "choices": [
+            "spherical",
+            "cylindrical",
+            "rectangular",
+            "triangular"
+        ],
+        "answer": "spherical",
+        "element_type": "shape"
+    },
+    {
+        "caption": "A spherical lamp on a square nightstand",
+        "element": "square",
+        "question": "Is the nightstand square?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "shape"
+    },
+    {
+        "caption": "A spherical lamp on a square nightstand",
+        "element": "square",
+        "question": "What is the shape of the nightstand?",
+        "choices": [
+            "square",
+            "round",
+            "oval",
+            "rectangular"
+        ],
+        "answer": "square",
+        "element_type": "shape"
+    },
+    {
+        "caption": "A spherical lamp on a square nightstand",
+        "element": "on",
+        "question": "Is the lamp on the nightstand?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "spatial"
+    },
+    {
+        "caption": "A spherical lamp on a square nightstand",
+        "element": "on",
+        "question": "What is the spatial relation between the lamp and the nightstand?",
+        "choices": [
+            "on",
+            "under",
+            "beside",
+            "behind"
+        ],
+        "answer": "on",
+        "element_type": "spatial"
+    }
+]

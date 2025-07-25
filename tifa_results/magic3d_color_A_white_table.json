@@ -1,0 +1,610 @@
+{
+    "method": "magic3d",
+    "aspect": "color",
+    "prompt_name": "A_white_table",
+    "individual_scores": {
+        "rgb_0.png": 0,
+        "rgb_10.png": 0,
+        "rgb_20.png": 0,
+        "rgb_30.png": 0,
+        "rgb_40.png": 0,
+        "rgb_50.png": 0,
+        "rgb_60.png": 0,
+        "rgb_70.png": 0.3333333333333333,
+        "rgb_80.png": 0,
+        "rgb_90.png": 0,
+        "rgb_100.png": 0,
+        "rgb_110.png": 0
+    },
+    "average_tifa_score": 0.027777777777777776,
+    "question_logs": [
+        {
+            "image": "rgb_0.png",
+            "ques_ans": {
+                "Is this a table?": {
+                    "caption": "A white table",
+                    "element": "table",
+                    "question": "Is this a table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the table white?": {
+                    "caption": "A white table",
+                    "element": "white",
+                    "question": "Is the table white?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the table?": {
+                    "caption": "A white table",
+                    "element": "white",
+                    "question": "What color is the table?",
+                    "choices": [
+                        "white",
+                        "black",
+                        "blue",
+                        "red"
+                    ],
+                    "answer": "white",
+                    "element_type": "color",
+                    "free_form_vqa": "black",
+                    "multiple_choice_vqa": "black",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_10.png",
+            "ques_ans": {
+                "Is this a table?": {
+                    "caption": "A white table",
+                    "element": "table",
+                    "question": "Is this a table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the table white?": {
+                    "caption": "A white table",
+                    "element": "white",
+                    "question": "Is the table white?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the table?": {
+                    "caption": "A white table",
+                    "element": "white",
+                    "question": "What color is the table?",
+                    "choices": [
+                        "white",
+                        "black",
+                        "blue",
+                        "red"
+                    ],
+                    "answer": "white",
+                    "element_type": "color",
+                    "free_form_vqa": "black",
+                    "multiple_choice_vqa": "black",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_20.png",
+            "ques_ans": {
+                "Is this a table?": {
+                    "caption": "A white table",
+                    "element": "table",
+                    "question": "Is this a table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the table white?": {
+                    "caption": "A white table",
+                    "element": "white",
+                    "question": "Is the table white?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the table?": {
+                    "caption": "A white table",
+                    "element": "white",
+                    "question": "What color is the table?",
+                    "choices": [
+                        "white",
+                        "black",
+                        "blue",
+                        "red"
+                    ],
+                    "answer": "white",
+                    "element_type": "color",
+                    "free_form_vqa": "black",
+                    "multiple_choice_vqa": "black",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_30.png",
+            "ques_ans": {
+                "Is this a table?": {
+                    "caption": "A white table",
+                    "element": "table",
+                    "question": "Is this a table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the table white?": {
+                    "caption": "A white table",
+                    "element": "white",
+                    "question": "Is the table white?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the table?": {
+                    "caption": "A white table",
+                    "element": "white",
+                    "question": "What color is the table?",
+                    "choices": [
+                        "white",
+                        "black",
+                        "blue",
+                        "red"
+                    ],
+                    "answer": "white",
+                    "element_type": "color",
+                    "free_form_vqa": "brown",
+                    "multiple_choice_vqa": "black",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_40.png",
+            "ques_ans": {
+                "Is this a table?": {
+                    "caption": "A white table",
+                    "element": "table",
+                    "question": "Is this a table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the table white?": {
+                    "caption": "A white table",
+                    "element": "white",
+                    "question": "Is the table white?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the table?": {
+                    "caption": "A white table",
+                    "element": "white",
+                    "question": "What color is the table?",
+                    "choices": [
+                        "white",
+                        "black",
+                        "blue",
+                        "red"
+                    ],
+                    "answer": "white",
+                    "element_type": "color",
+                    "free_form_vqa": "black",
+                    "multiple_choice_vqa": "black",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_50.png",
+            "ques_ans": {
+                "Is this a table?": {
+                    "caption": "A white table",
+                    "element": "table",
+                    "question": "Is this a table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the table white?": {
+                    "caption": "A white table",
+                    "element": "white",
+                    "question": "Is the table white?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the table?": {
+                    "caption": "A white table",
+                    "element": "white",
+                    "question": "What color is the table?",
+                    "choices": [
+                        "white",
+                        "black",
+                        "blue",
+                        "red"
+                    ],
+                    "answer": "white",
+                    "element_type": "color",
+                    "free_form_vqa": "black",
+                    "multiple_choice_vqa": "black",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_60.png",
+            "ques_ans": {
+                "Is this a table?": {
+                    "caption": "A white table",
+                    "element": "table",
+                    "question": "Is this a table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the table white?": {
+                    "caption": "A white table",
+                    "element": "white",
+                    "question": "Is the table white?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the table?": {
+                    "caption": "A white table",
+                    "element": "white",
+                    "question": "What color is the table?",
+                    "choices": [
+                        "white",
+                        "black",
+                        "blue",
+                        "red"
+                    ],
+                    "answer": "white",
+                    "element_type": "color",
+                    "free_form_vqa": "black",
+                    "multiple_choice_vqa": "black",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_70.png",
+            "ques_ans": {
+                "Is this a table?": {
+                    "caption": "A white table",
+                    "element": "table",
+                    "question": "Is this a table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the table white?": {
+                    "caption": "A white table",
+                    "element": "white",
+                    "question": "Is the table white?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the table?": {
+                    "caption": "A white table",
+                    "element": "white",
+                    "question": "What color is the table?",
+                    "choices": [
+                        "white",
+                        "black",
+                        "blue",
+                        "red"
+                    ],
+                    "answer": "white",
+                    "element_type": "color",
+                    "free_form_vqa": "black",
+                    "multiple_choice_vqa": "black",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_80.png",
+            "ques_ans": {
+                "Is this a table?": {
+                    "caption": "A white table",
+                    "element": "table",
+                    "question": "Is this a table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the table white?": {
+                    "caption": "A white table",
+                    "element": "white",
+                    "question": "Is the table white?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the table?": {
+                    "caption": "A white table",
+                    "element": "white",
+                    "question": "What color is the table?",
+                    "choices": [
+                        "white",
+                        "black",
+                        "blue",
+                        "red"
+                    ],
+                    "answer": "white",
+                    "element_type": "color",
+                    "free_form_vqa": "brown",
+                    "multiple_choice_vqa": "black",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_90.png",
+            "ques_ans": {
+                "Is this a table?": {
+                    "caption": "A white table",
+                    "element": "table",
+                    "question": "Is this a table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the table white?": {
+                    "caption": "A white table",
+                    "element": "white",
+                    "question": "Is the table white?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the table?": {
+                    "caption": "A white table",
+                    "element": "white",
+                    "question": "What color is the table?",
+                    "choices": [
+                        "white",
+                        "black",
+                        "blue",
+                        "red"
+                    ],
+                    "answer": "white",
+                    "element_type": "color",
+                    "free_form_vqa": "brown",
+                    "multiple_choice_vqa": "black",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_100.png",
+            "ques_ans": {
+                "Is this a table?": {
+                    "caption": "A white table",
+                    "element": "table",
+                    "question": "Is this a table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the table white?": {
+                    "caption": "A white table",
+                    "element": "white",
+                    "question": "Is the table white?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the table?": {
+                    "caption": "A white table",
+                    "element": "white",
+                    "question": "What color is the table?",
+                    "choices": [
+                        "white",
+                        "black",
+                        "blue",
+                        "red"
+                    ],
+                    "answer": "white",
+                    "element_type": "color",
+                    "free_form_vqa": "brown",
+                    "multiple_choice_vqa": "black",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_110.png",
+            "ques_ans": {
+                "Is this a table?": {
+                    "caption": "A white table",
+                    "element": "table",
+                    "question": "Is this a table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the table white?": {
+                    "caption": "A white table",
+                    "element": "white",
+                    "question": "Is the table white?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the table?": {
+                    "caption": "A white table",
+                    "element": "white",
+                    "question": "What color is the table?",
+                    "choices": [
+                        "white",
+                        "black",
+                        "blue",
+                        "red"
+                    ],
+                    "answer": "white",
+                    "element_type": "color",
+                    "free_form_vqa": "brown",
+                    "multiple_choice_vqa": "black",
+                    "scores": 0
+                }
+            }
+        }
+    ]
+}

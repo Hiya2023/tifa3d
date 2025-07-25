@@ -1,0 +1,1642 @@
+{
+    "method": "magic3d",
+    "aspect": "style",
+    "prompt_name": "An_elegant_French_gown_next_to_an_ornate_Japanese_vase",
+    "individual_scores": {
+        "rgb_0.png": 0.3333333333333333,
+        "rgb_10.png": 0.3333333333333333,
+        "rgb_20.png": 0.2222222222222222,
+        "rgb_30.png": 0.3333333333333333,
+        "rgb_40.png": 0.2222222222222222,
+        "rgb_50.png": 0.2222222222222222,
+        "rgb_60.png": 0.3333333333333333,
+        "rgb_70.png": 0.4444444444444444,
+        "rgb_80.png": 0.3333333333333333,
+        "rgb_90.png": 0.3333333333333333,
+        "rgb_100.png": 0.3333333333333333,
+        "rgb_110.png": 0.2222222222222222
+    },
+    "average_tifa_score": 0.3055555555555555,
+    "question_logs": [
+        {
+            "image": "rgb_0.png",
+            "ques_ans": {
+                "Is there a gown?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "gown",
+                    "question": "Is there a gown?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a vase?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "vase",
+                    "question": "Is there a vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What decorative item is present?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "vase",
+                    "question": "What decorative item is present?",
+                    "choices": [
+                        "vase",
+                        "sculpture",
+                        "painting",
+                        "lamp"
+                    ],
+                    "answer": "vase",
+                    "element_type": "object",
+                    "free_form_vqa": "dress",
+                    "multiple_choice_vqa": "lamp",
+                    "scores": 0
+                },
+                "Is the gown elegant?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "elegant",
+                    "question": "Is the gown elegant?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the gown French?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "French",
+                    "question": "Is the gown French?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the vase ornate?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "ornate",
+                    "question": "Is the vase ornate?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "How would you describe the vase\u2019s style?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "ornate",
+                    "question": "How would you describe the vase\u2019s style?",
+                    "choices": [
+                        "ornate",
+                        "simple",
+                        "minimalist",
+                        "rustic"
+                    ],
+                    "answer": "ornate",
+                    "element_type": "attribute",
+                    "free_form_vqa": "long and narrow",
+                    "multiple_choice_vqa": "ornate",
+                    "scores": 1
+                },
+                "Is the vase Japanese?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "Japanese",
+                    "question": "Is the vase Japanese?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the gown next to the vase?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "next to",
+                    "question": "Is the gown next to the vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_10.png",
+            "ques_ans": {
+                "Is there a gown?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "gown",
+                    "question": "Is there a gown?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a vase?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "vase",
+                    "question": "Is there a vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What decorative item is present?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "vase",
+                    "question": "What decorative item is present?",
+                    "choices": [
+                        "vase",
+                        "sculpture",
+                        "painting",
+                        "lamp"
+                    ],
+                    "answer": "vase",
+                    "element_type": "object",
+                    "free_form_vqa": "dress",
+                    "multiple_choice_vqa": "lamp",
+                    "scores": 0
+                },
+                "Is the gown elegant?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "elegant",
+                    "question": "Is the gown elegant?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the gown French?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "French",
+                    "question": "Is the gown French?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the vase ornate?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "ornate",
+                    "question": "Is the vase ornate?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "How would you describe the vase\u2019s style?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "ornate",
+                    "question": "How would you describe the vase\u2019s style?",
+                    "choices": [
+                        "ornate",
+                        "simple",
+                        "minimalist",
+                        "rustic"
+                    ],
+                    "answer": "ornate",
+                    "element_type": "attribute",
+                    "free_form_vqa": "long and narrow",
+                    "multiple_choice_vqa": "ornate",
+                    "scores": 1
+                },
+                "Is the vase Japanese?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "Japanese",
+                    "question": "Is the vase Japanese?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the gown next to the vase?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "next to",
+                    "question": "Is the gown next to the vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_20.png",
+            "ques_ans": {
+                "Is there a gown?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "gown",
+                    "question": "Is there a gown?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a vase?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "vase",
+                    "question": "Is there a vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What decorative item is present?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "vase",
+                    "question": "What decorative item is present?",
+                    "choices": [
+                        "vase",
+                        "sculpture",
+                        "painting",
+                        "lamp"
+                    ],
+                    "answer": "vase",
+                    "element_type": "object",
+                    "free_form_vqa": "dress",
+                    "multiple_choice_vqa": "lamp",
+                    "scores": 0
+                },
+                "Is the gown elegant?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "elegant",
+                    "question": "Is the gown elegant?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the gown French?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "French",
+                    "question": "Is the gown French?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the vase ornate?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "ornate",
+                    "question": "Is the vase ornate?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "How would you describe the vase\u2019s style?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "ornate",
+                    "question": "How would you describe the vase\u2019s style?",
+                    "choices": [
+                        "ornate",
+                        "simple",
+                        "minimalist",
+                        "rustic"
+                    ],
+                    "answer": "ornate",
+                    "element_type": "attribute",
+                    "free_form_vqa": "strapless",
+                    "multiple_choice_vqa": "minimalist",
+                    "scores": 0
+                },
+                "Is the vase Japanese?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "Japanese",
+                    "question": "Is the vase Japanese?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the gown next to the vase?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "next to",
+                    "question": "Is the gown next to the vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_30.png",
+            "ques_ans": {
+                "Is there a gown?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "gown",
+                    "question": "Is there a gown?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a vase?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "vase",
+                    "question": "Is there a vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What decorative item is present?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "vase",
+                    "question": "What decorative item is present?",
+                    "choices": [
+                        "vase",
+                        "sculpture",
+                        "painting",
+                        "lamp"
+                    ],
+                    "answer": "vase",
+                    "element_type": "object",
+                    "free_form_vqa": "dress",
+                    "multiple_choice_vqa": "lamp",
+                    "scores": 0
+                },
+                "Is the gown elegant?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "elegant",
+                    "question": "Is the gown elegant?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the gown French?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "French",
+                    "question": "Is the gown French?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the vase ornate?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "ornate",
+                    "question": "Is the vase ornate?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "How would you describe the vase\u2019s style?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "ornate",
+                    "question": "How would you describe the vase\u2019s style?",
+                    "choices": [
+                        "ornate",
+                        "simple",
+                        "minimalist",
+                        "rustic"
+                    ],
+                    "answer": "ornate",
+                    "element_type": "attribute",
+                    "free_form_vqa": "long and narrow",
+                    "multiple_choice_vqa": "ornate",
+                    "scores": 1
+                },
+                "Is the vase Japanese?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "Japanese",
+                    "question": "Is the vase Japanese?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the gown next to the vase?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "next to",
+                    "question": "Is the gown next to the vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_40.png",
+            "ques_ans": {
+                "Is there a gown?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "gown",
+                    "question": "Is there a gown?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a vase?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "vase",
+                    "question": "Is there a vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What decorative item is present?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "vase",
+                    "question": "What decorative item is present?",
+                    "choices": [
+                        "vase",
+                        "sculpture",
+                        "painting",
+                        "lamp"
+                    ],
+                    "answer": "vase",
+                    "element_type": "object",
+                    "free_form_vqa": "dress",
+                    "multiple_choice_vqa": "lamp",
+                    "scores": 0
+                },
+                "Is the gown elegant?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "elegant",
+                    "question": "Is the gown elegant?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the gown French?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "French",
+                    "question": "Is the gown French?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the vase ornate?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "ornate",
+                    "question": "Is the vase ornate?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "How would you describe the vase\u2019s style?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "ornate",
+                    "question": "How would you describe the vase\u2019s style?",
+                    "choices": [
+                        "ornate",
+                        "simple",
+                        "minimalist",
+                        "rustic"
+                    ],
+                    "answer": "ornate",
+                    "element_type": "attribute",
+                    "free_form_vqa": "strapless",
+                    "multiple_choice_vqa": "minimalist",
+                    "scores": 0
+                },
+                "Is the vase Japanese?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "Japanese",
+                    "question": "Is the vase Japanese?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the gown next to the vase?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "next to",
+                    "question": "Is the gown next to the vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_50.png",
+            "ques_ans": {
+                "Is there a gown?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "gown",
+                    "question": "Is there a gown?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a vase?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "vase",
+                    "question": "Is there a vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What decorative item is present?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "vase",
+                    "question": "What decorative item is present?",
+                    "choices": [
+                        "vase",
+                        "sculpture",
+                        "painting",
+                        "lamp"
+                    ],
+                    "answer": "vase",
+                    "element_type": "object",
+                    "free_form_vqa": "dress",
+                    "multiple_choice_vqa": "lamp",
+                    "scores": 0
+                },
+                "Is the gown elegant?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "elegant",
+                    "question": "Is the gown elegant?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the gown French?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "French",
+                    "question": "Is the gown French?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the vase ornate?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "ornate",
+                    "question": "Is the vase ornate?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "How would you describe the vase\u2019s style?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "ornate",
+                    "question": "How would you describe the vase\u2019s style?",
+                    "choices": [
+                        "ornate",
+                        "simple",
+                        "minimalist",
+                        "rustic"
+                    ],
+                    "answer": "ornate",
+                    "element_type": "attribute",
+                    "free_form_vqa": "strapless",
+                    "multiple_choice_vqa": "minimalist",
+                    "scores": 0
+                },
+                "Is the vase Japanese?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "Japanese",
+                    "question": "Is the vase Japanese?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the gown next to the vase?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "next to",
+                    "question": "Is the gown next to the vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_60.png",
+            "ques_ans": {
+                "Is there a gown?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "gown",
+                    "question": "Is there a gown?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a vase?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "vase",
+                    "question": "Is there a vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What decorative item is present?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "vase",
+                    "question": "What decorative item is present?",
+                    "choices": [
+                        "vase",
+                        "sculpture",
+                        "painting",
+                        "lamp"
+                    ],
+                    "answer": "vase",
+                    "element_type": "object",
+                    "free_form_vqa": "dress",
+                    "multiple_choice_vqa": "lamp",
+                    "scores": 0
+                },
+                "Is the gown elegant?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "elegant",
+                    "question": "Is the gown elegant?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the gown French?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "French",
+                    "question": "Is the gown French?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the vase ornate?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "ornate",
+                    "question": "Is the vase ornate?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "How would you describe the vase\u2019s style?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "ornate",
+                    "question": "How would you describe the vase\u2019s style?",
+                    "choices": [
+                        "ornate",
+                        "simple",
+                        "minimalist",
+                        "rustic"
+                    ],
+                    "answer": "ornate",
+                    "element_type": "attribute",
+                    "free_form_vqa": "long and narrow",
+                    "multiple_choice_vqa": "ornate",
+                    "scores": 1
+                },
+                "Is the vase Japanese?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "Japanese",
+                    "question": "Is the vase Japanese?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the gown next to the vase?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "next to",
+                    "question": "Is the gown next to the vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_70.png",
+            "ques_ans": {
+                "Is there a gown?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "gown",
+                    "question": "Is there a gown?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a vase?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "vase",
+                    "question": "Is there a vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What decorative item is present?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "vase",
+                    "question": "What decorative item is present?",
+                    "choices": [
+                        "vase",
+                        "sculpture",
+                        "painting",
+                        "lamp"
+                    ],
+                    "answer": "vase",
+                    "element_type": "object",
+                    "free_form_vqa": "dress",
+                    "multiple_choice_vqa": "lamp",
+                    "scores": 0
+                },
+                "Is the gown elegant?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "elegant",
+                    "question": "Is the gown elegant?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the gown French?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "French",
+                    "question": "Is the gown French?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the vase ornate?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "ornate",
+                    "question": "Is the vase ornate?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "How would you describe the vase\u2019s style?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "ornate",
+                    "question": "How would you describe the vase\u2019s style?",
+                    "choices": [
+                        "ornate",
+                        "simple",
+                        "minimalist",
+                        "rustic"
+                    ],
+                    "answer": "ornate",
+                    "element_type": "attribute",
+                    "free_form_vqa": "long and slender",
+                    "multiple_choice_vqa": "ornate",
+                    "scores": 1
+                },
+                "Is the vase Japanese?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "Japanese",
+                    "question": "Is the vase Japanese?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the gown next to the vase?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "next to",
+                    "question": "Is the gown next to the vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_80.png",
+            "ques_ans": {
+                "Is there a gown?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "gown",
+                    "question": "Is there a gown?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a vase?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "vase",
+                    "question": "Is there a vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What decorative item is present?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "vase",
+                    "question": "What decorative item is present?",
+                    "choices": [
+                        "vase",
+                        "sculpture",
+                        "painting",
+                        "lamp"
+                    ],
+                    "answer": "vase",
+                    "element_type": "object",
+                    "free_form_vqa": "dress",
+                    "multiple_choice_vqa": "lamp",
+                    "scores": 0
+                },
+                "Is the gown elegant?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "elegant",
+                    "question": "Is the gown elegant?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the gown French?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "French",
+                    "question": "Is the gown French?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the vase ornate?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "ornate",
+                    "question": "Is the vase ornate?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "How would you describe the vase\u2019s style?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "ornate",
+                    "question": "How would you describe the vase\u2019s style?",
+                    "choices": [
+                        "ornate",
+                        "simple",
+                        "minimalist",
+                        "rustic"
+                    ],
+                    "answer": "ornate",
+                    "element_type": "attribute",
+                    "free_form_vqa": "long and narrow",
+                    "multiple_choice_vqa": "ornate",
+                    "scores": 1
+                },
+                "Is the vase Japanese?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "Japanese",
+                    "question": "Is the vase Japanese?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the gown next to the vase?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "next to",
+                    "question": "Is the gown next to the vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_90.png",
+            "ques_ans": {
+                "Is there a gown?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "gown",
+                    "question": "Is there a gown?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a vase?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "vase",
+                    "question": "Is there a vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What decorative item is present?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "vase",
+                    "question": "What decorative item is present?",
+                    "choices": [
+                        "vase",
+                        "sculpture",
+                        "painting",
+                        "lamp"
+                    ],
+                    "answer": "vase",
+                    "element_type": "object",
+                    "free_form_vqa": "dress",
+                    "multiple_choice_vqa": "lamp",
+                    "scores": 0
+                },
+                "Is the gown elegant?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "elegant",
+                    "question": "Is the gown elegant?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the gown French?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "French",
+                    "question": "Is the gown French?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the vase ornate?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "ornate",
+                    "question": "Is the vase ornate?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "How would you describe the vase\u2019s style?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "ornate",
+                    "question": "How would you describe the vase\u2019s style?",
+                    "choices": [
+                        "ornate",
+                        "simple",
+                        "minimalist",
+                        "rustic"
+                    ],
+                    "answer": "ornate",
+                    "element_type": "attribute",
+                    "free_form_vqa": "long and narrow",
+                    "multiple_choice_vqa": "ornate",
+                    "scores": 1
+                },
+                "Is the vase Japanese?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "Japanese",
+                    "question": "Is the vase Japanese?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the gown next to the vase?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "next to",
+                    "question": "Is the gown next to the vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_100.png",
+            "ques_ans": {
+                "Is there a gown?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "gown",
+                    "question": "Is there a gown?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a vase?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "vase",
+                    "question": "Is there a vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What decorative item is present?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "vase",
+                    "question": "What decorative item is present?",
+                    "choices": [
+                        "vase",
+                        "sculpture",
+                        "painting",
+                        "lamp"
+                    ],
+                    "answer": "vase",
+                    "element_type": "object",
+                    "free_form_vqa": "dress",
+                    "multiple_choice_vqa": "lamp",
+                    "scores": 0
+                },
+                "Is the gown elegant?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "elegant",
+                    "question": "Is the gown elegant?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the gown French?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "French",
+                    "question": "Is the gown French?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the vase ornate?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "ornate",
+                    "question": "Is the vase ornate?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "How would you describe the vase\u2019s style?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "ornate",
+                    "question": "How would you describe the vase\u2019s style?",
+                    "choices": [
+                        "ornate",
+                        "simple",
+                        "minimalist",
+                        "rustic"
+                    ],
+                    "answer": "ornate",
+                    "element_type": "attribute",
+                    "free_form_vqa": "long and narrow",
+                    "multiple_choice_vqa": "ornate",
+                    "scores": 1
+                },
+                "Is the vase Japanese?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "Japanese",
+                    "question": "Is the vase Japanese?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the gown next to the vase?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "next to",
+                    "question": "Is the gown next to the vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_110.png",
+            "ques_ans": {
+                "Is there a gown?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "gown",
+                    "question": "Is there a gown?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a vase?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "vase",
+                    "question": "Is there a vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What decorative item is present?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "vase",
+                    "question": "What decorative item is present?",
+                    "choices": [
+                        "vase",
+                        "sculpture",
+                        "painting",
+                        "lamp"
+                    ],
+                    "answer": "vase",
+                    "element_type": "object",
+                    "free_form_vqa": "dress",
+                    "multiple_choice_vqa": "lamp",
+                    "scores": 0
+                },
+                "Is the gown elegant?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "elegant",
+                    "question": "Is the gown elegant?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the gown French?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "French",
+                    "question": "Is the gown French?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the vase ornate?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "ornate",
+                    "question": "Is the vase ornate?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "How would you describe the vase\u2019s style?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "ornate",
+                    "question": "How would you describe the vase\u2019s style?",
+                    "choices": [
+                        "ornate",
+                        "simple",
+                        "minimalist",
+                        "rustic"
+                    ],
+                    "answer": "ornate",
+                    "element_type": "attribute",
+                    "free_form_vqa": "strapless",
+                    "multiple_choice_vqa": "minimalist",
+                    "scores": 0
+                },
+                "Is the vase Japanese?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "Japanese",
+                    "question": "Is the vase Japanese?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the gown next to the vase?": {
+                    "caption": "An elegant French gown next to an ornate Japanese vase",
+                    "element": "next to",
+                    "question": "Is the gown next to the vase?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        }
+    ]
+}

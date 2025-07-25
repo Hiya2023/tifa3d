@@ -1,0 +1,1498 @@
+{
+    "method": "prolific",
+    "aspect": "shape",
+    "prompt_name": "A_cylindrical_bin_beside_a_rectangular_desk",
+    "individual_scores": {
+        "rgb_0.png": 0.375,
+        "rgb_10.png": 0.375,
+        "rgb_20.png": 0.25,
+        "rgb_30.png": 0.375,
+        "rgb_40.png": 0.25,
+        "rgb_50.png": 0.375,
+        "rgb_60.png": 0.125,
+        "rgb_70.png": 0.25,
+        "rgb_80.png": 0.25,
+        "rgb_90.png": 0.125,
+        "rgb_100.png": 0.125,
+        "rgb_110.png": 0.25
+    },
+    "average_tifa_score": 0.2604166666666667,
+    "question_logs": [
+        {
+            "image": "rgb_0.png",
+            "ques_ans": {
+                "Is there a bin?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "bin",
+                    "question": "Is there a bin?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a desk?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "desk",
+                    "question": "Is there a desk?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What piece of furniture is present?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "desk",
+                    "question": "What piece of furniture is present?",
+                    "choices": [
+                        "desk",
+                        "sofa",
+                        "bed",
+                        "cabinet"
+                    ],
+                    "answer": "desk",
+                    "element_type": "object",
+                    "free_form_vqa": "table",
+                    "multiple_choice_vqa": "desk",
+                    "scores": 1
+                },
+                "Is the bin cylindrical?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "cylindrical",
+                    "question": "Is the bin cylindrical?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the bin?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "cylindrical",
+                    "question": "What shape is the bin?",
+                    "choices": [
+                        "cylindrical",
+                        "square",
+                        "triangular",
+                        "oval"
+                    ],
+                    "answer": "cylindrical",
+                    "element_type": "shape",
+                    "free_form_vqa": "round",
+                    "multiple_choice_vqa": "oval",
+                    "scores": 0
+                },
+                "Is the desk rectangular?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "rectangular",
+                    "question": "Is the desk rectangular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What shape is the desk?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "rectangular",
+                    "question": "What shape is the desk?",
+                    "choices": [
+                        "rectangular",
+                        "round",
+                        "oval",
+                        "square"
+                    ],
+                    "answer": "rectangular",
+                    "element_type": "shape",
+                    "free_form_vqa": "round",
+                    "multiple_choice_vqa": "round",
+                    "scores": 0
+                },
+                "Is the bin beside the desk?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "beside",
+                    "question": "Is the bin beside the desk?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_10.png",
+            "ques_ans": {
+                "Is there a bin?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "bin",
+                    "question": "Is there a bin?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is there a desk?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "desk",
+                    "question": "Is there a desk?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What piece of furniture is present?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "desk",
+                    "question": "What piece of furniture is present?",
+                    "choices": [
+                        "desk",
+                        "sofa",
+                        "bed",
+                        "cabinet"
+                    ],
+                    "answer": "desk",
+                    "element_type": "object",
+                    "free_form_vqa": "table",
+                    "multiple_choice_vqa": "desk",
+                    "scores": 1
+                },
+                "Is the bin cylindrical?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "cylindrical",
+                    "question": "Is the bin cylindrical?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the bin?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "cylindrical",
+                    "question": "What shape is the bin?",
+                    "choices": [
+                        "cylindrical",
+                        "square",
+                        "triangular",
+                        "oval"
+                    ],
+                    "answer": "cylindrical",
+                    "element_type": "shape",
+                    "free_form_vqa": "cylinder",
+                    "multiple_choice_vqa": "cylindrical",
+                    "scores": 1
+                },
+                "Is the desk rectangular?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "rectangular",
+                    "question": "Is the desk rectangular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What shape is the desk?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "rectangular",
+                    "question": "What shape is the desk?",
+                    "choices": [
+                        "rectangular",
+                        "round",
+                        "oval",
+                        "square"
+                    ],
+                    "answer": "rectangular",
+                    "element_type": "shape",
+                    "free_form_vqa": "round",
+                    "multiple_choice_vqa": "round",
+                    "scores": 0
+                },
+                "Is the bin beside the desk?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "beside",
+                    "question": "Is the bin beside the desk?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_20.png",
+            "ques_ans": {
+                "Is there a bin?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "bin",
+                    "question": "Is there a bin?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is there a desk?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "desk",
+                    "question": "Is there a desk?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What piece of furniture is present?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "desk",
+                    "question": "What piece of furniture is present?",
+                    "choices": [
+                        "desk",
+                        "sofa",
+                        "bed",
+                        "cabinet"
+                    ],
+                    "answer": "desk",
+                    "element_type": "object",
+                    "free_form_vqa": "table",
+                    "multiple_choice_vqa": "desk",
+                    "scores": 1
+                },
+                "Is the bin cylindrical?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "cylindrical",
+                    "question": "Is the bin cylindrical?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the bin?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "cylindrical",
+                    "question": "What shape is the bin?",
+                    "choices": [
+                        "cylindrical",
+                        "square",
+                        "triangular",
+                        "oval"
+                    ],
+                    "answer": "cylindrical",
+                    "element_type": "shape",
+                    "free_form_vqa": "round",
+                    "multiple_choice_vqa": "oval",
+                    "scores": 0
+                },
+                "Is the desk rectangular?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "rectangular",
+                    "question": "Is the desk rectangular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What shape is the desk?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "rectangular",
+                    "question": "What shape is the desk?",
+                    "choices": [
+                        "rectangular",
+                        "round",
+                        "oval",
+                        "square"
+                    ],
+                    "answer": "rectangular",
+                    "element_type": "shape",
+                    "free_form_vqa": "round",
+                    "multiple_choice_vqa": "round",
+                    "scores": 0
+                },
+                "Is the bin beside the desk?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "beside",
+                    "question": "Is the bin beside the desk?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_30.png",
+            "ques_ans": {
+                "Is there a bin?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "bin",
+                    "question": "Is there a bin?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is there a desk?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "desk",
+                    "question": "Is there a desk?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What piece of furniture is present?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "desk",
+                    "question": "What piece of furniture is present?",
+                    "choices": [
+                        "desk",
+                        "sofa",
+                        "bed",
+                        "cabinet"
+                    ],
+                    "answer": "desk",
+                    "element_type": "object",
+                    "free_form_vqa": "table",
+                    "multiple_choice_vqa": "desk",
+                    "scores": 1
+                },
+                "Is the bin cylindrical?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "cylindrical",
+                    "question": "Is the bin cylindrical?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the bin?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "cylindrical",
+                    "question": "What shape is the bin?",
+                    "choices": [
+                        "cylindrical",
+                        "square",
+                        "triangular",
+                        "oval"
+                    ],
+                    "answer": "cylindrical",
+                    "element_type": "shape",
+                    "free_form_vqa": "cylindrical",
+                    "multiple_choice_vqa": "cylindrical",
+                    "scores": 1
+                },
+                "Is the desk rectangular?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "rectangular",
+                    "question": "Is the desk rectangular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What shape is the desk?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "rectangular",
+                    "question": "What shape is the desk?",
+                    "choices": [
+                        "rectangular",
+                        "round",
+                        "oval",
+                        "square"
+                    ],
+                    "answer": "rectangular",
+                    "element_type": "shape",
+                    "free_form_vqa": "round",
+                    "multiple_choice_vqa": "round",
+                    "scores": 0
+                },
+                "Is the bin beside the desk?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "beside",
+                    "question": "Is the bin beside the desk?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_40.png",
+            "ques_ans": {
+                "Is there a bin?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "bin",
+                    "question": "Is there a bin?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is there a desk?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "desk",
+                    "question": "Is there a desk?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What piece of furniture is present?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "desk",
+                    "question": "What piece of furniture is present?",
+                    "choices": [
+                        "desk",
+                        "sofa",
+                        "bed",
+                        "cabinet"
+                    ],
+                    "answer": "desk",
+                    "element_type": "object",
+                    "free_form_vqa": "table",
+                    "multiple_choice_vqa": "desk",
+                    "scores": 1
+                },
+                "Is the bin cylindrical?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "cylindrical",
+                    "question": "Is the bin cylindrical?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the bin?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "cylindrical",
+                    "question": "What shape is the bin?",
+                    "choices": [
+                        "cylindrical",
+                        "square",
+                        "triangular",
+                        "oval"
+                    ],
+                    "answer": "cylindrical",
+                    "element_type": "shape",
+                    "free_form_vqa": "rectangle",
+                    "multiple_choice_vqa": "square",
+                    "scores": 0
+                },
+                "Is the desk rectangular?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "rectangular",
+                    "question": "Is the desk rectangular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What shape is the desk?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "rectangular",
+                    "question": "What shape is the desk?",
+                    "choices": [
+                        "rectangular",
+                        "round",
+                        "oval",
+                        "square"
+                    ],
+                    "answer": "rectangular",
+                    "element_type": "shape",
+                    "free_form_vqa": "round",
+                    "multiple_choice_vqa": "round",
+                    "scores": 0
+                },
+                "Is the bin beside the desk?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "beside",
+                    "question": "Is the bin beside the desk?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_50.png",
+            "ques_ans": {
+                "Is there a bin?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "bin",
+                    "question": "Is there a bin?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is there a desk?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "desk",
+                    "question": "Is there a desk?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What piece of furniture is present?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "desk",
+                    "question": "What piece of furniture is present?",
+                    "choices": [
+                        "desk",
+                        "sofa",
+                        "bed",
+                        "cabinet"
+                    ],
+                    "answer": "desk",
+                    "element_type": "object",
+                    "free_form_vqa": "table",
+                    "multiple_choice_vqa": "desk",
+                    "scores": 1
+                },
+                "Is the bin cylindrical?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "cylindrical",
+                    "question": "Is the bin cylindrical?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the bin?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "cylindrical",
+                    "question": "What shape is the bin?",
+                    "choices": [
+                        "cylindrical",
+                        "square",
+                        "triangular",
+                        "oval"
+                    ],
+                    "answer": "cylindrical",
+                    "element_type": "shape",
+                    "free_form_vqa": "cylinder",
+                    "multiple_choice_vqa": "cylindrical",
+                    "scores": 1
+                },
+                "Is the desk rectangular?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "rectangular",
+                    "question": "Is the desk rectangular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What shape is the desk?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "rectangular",
+                    "question": "What shape is the desk?",
+                    "choices": [
+                        "rectangular",
+                        "round",
+                        "oval",
+                        "square"
+                    ],
+                    "answer": "rectangular",
+                    "element_type": "shape",
+                    "free_form_vqa": "round",
+                    "multiple_choice_vqa": "round",
+                    "scores": 0
+                },
+                "Is the bin beside the desk?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "beside",
+                    "question": "Is the bin beside the desk?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_60.png",
+            "ques_ans": {
+                "Is there a bin?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "bin",
+                    "question": "Is there a bin?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is there a desk?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "desk",
+                    "question": "Is there a desk?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What piece of furniture is present?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "desk",
+                    "question": "What piece of furniture is present?",
+                    "choices": [
+                        "desk",
+                        "sofa",
+                        "bed",
+                        "cabinet"
+                    ],
+                    "answer": "desk",
+                    "element_type": "object",
+                    "free_form_vqa": "chair",
+                    "multiple_choice_vqa": "sofa",
+                    "scores": 0
+                },
+                "Is the bin cylindrical?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "cylindrical",
+                    "question": "Is the bin cylindrical?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the bin?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "cylindrical",
+                    "question": "What shape is the bin?",
+                    "choices": [
+                        "cylindrical",
+                        "square",
+                        "triangular",
+                        "oval"
+                    ],
+                    "answer": "cylindrical",
+                    "element_type": "shape",
+                    "free_form_vqa": "round",
+                    "multiple_choice_vqa": "oval",
+                    "scores": 0
+                },
+                "Is the desk rectangular?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "rectangular",
+                    "question": "Is the desk rectangular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What shape is the desk?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "rectangular",
+                    "question": "What shape is the desk?",
+                    "choices": [
+                        "rectangular",
+                        "round",
+                        "oval",
+                        "square"
+                    ],
+                    "answer": "rectangular",
+                    "element_type": "shape",
+                    "free_form_vqa": "round",
+                    "multiple_choice_vqa": "round",
+                    "scores": 0
+                },
+                "Is the bin beside the desk?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "beside",
+                    "question": "Is the bin beside the desk?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_70.png",
+            "ques_ans": {
+                "Is there a bin?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "bin",
+                    "question": "Is there a bin?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is there a desk?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "desk",
+                    "question": "Is there a desk?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What piece of furniture is present?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "desk",
+                    "question": "What piece of furniture is present?",
+                    "choices": [
+                        "desk",
+                        "sofa",
+                        "bed",
+                        "cabinet"
+                    ],
+                    "answer": "desk",
+                    "element_type": "object",
+                    "free_form_vqa": "chair",
+                    "multiple_choice_vqa": "sofa",
+                    "scores": 0
+                },
+                "Is the bin cylindrical?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "cylindrical",
+                    "question": "Is the bin cylindrical?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the bin?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "cylindrical",
+                    "question": "What shape is the bin?",
+                    "choices": [
+                        "cylindrical",
+                        "square",
+                        "triangular",
+                        "oval"
+                    ],
+                    "answer": "cylindrical",
+                    "element_type": "shape",
+                    "free_form_vqa": "cylinder",
+                    "multiple_choice_vqa": "cylindrical",
+                    "scores": 1
+                },
+                "Is the desk rectangular?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "rectangular",
+                    "question": "Is the desk rectangular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What shape is the desk?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "rectangular",
+                    "question": "What shape is the desk?",
+                    "choices": [
+                        "rectangular",
+                        "round",
+                        "oval",
+                        "square"
+                    ],
+                    "answer": "rectangular",
+                    "element_type": "shape",
+                    "free_form_vqa": "round",
+                    "multiple_choice_vqa": "round",
+                    "scores": 0
+                },
+                "Is the bin beside the desk?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "beside",
+                    "question": "Is the bin beside the desk?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_80.png",
+            "ques_ans": {
+                "Is there a bin?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "bin",
+                    "question": "Is there a bin?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is there a desk?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "desk",
+                    "question": "Is there a desk?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What piece of furniture is present?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "desk",
+                    "question": "What piece of furniture is present?",
+                    "choices": [
+                        "desk",
+                        "sofa",
+                        "bed",
+                        "cabinet"
+                    ],
+                    "answer": "desk",
+                    "element_type": "object",
+                    "free_form_vqa": "chair",
+                    "multiple_choice_vqa": "sofa",
+                    "scores": 0
+                },
+                "Is the bin cylindrical?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "cylindrical",
+                    "question": "Is the bin cylindrical?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the bin?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "cylindrical",
+                    "question": "What shape is the bin?",
+                    "choices": [
+                        "cylindrical",
+                        "square",
+                        "triangular",
+                        "oval"
+                    ],
+                    "answer": "cylindrical",
+                    "element_type": "shape",
+                    "free_form_vqa": "cylinder",
+                    "multiple_choice_vqa": "cylindrical",
+                    "scores": 1
+                },
+                "Is the desk rectangular?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "rectangular",
+                    "question": "Is the desk rectangular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What shape is the desk?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "rectangular",
+                    "question": "What shape is the desk?",
+                    "choices": [
+                        "rectangular",
+                        "round",
+                        "oval",
+                        "square"
+                    ],
+                    "answer": "rectangular",
+                    "element_type": "shape",
+                    "free_form_vqa": "round",
+                    "multiple_choice_vqa": "round",
+                    "scores": 0
+                },
+                "Is the bin beside the desk?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "beside",
+                    "question": "Is the bin beside the desk?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_90.png",
+            "ques_ans": {
+                "Is there a bin?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "bin",
+                    "question": "Is there a bin?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is there a desk?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "desk",
+                    "question": "Is there a desk?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What piece of furniture is present?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "desk",
+                    "question": "What piece of furniture is present?",
+                    "choices": [
+                        "desk",
+                        "sofa",
+                        "bed",
+                        "cabinet"
+                    ],
+                    "answer": "desk",
+                    "element_type": "object",
+                    "free_form_vqa": "chair",
+                    "multiple_choice_vqa": "sofa",
+                    "scores": 0
+                },
+                "Is the bin cylindrical?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "cylindrical",
+                    "question": "Is the bin cylindrical?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the bin?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "cylindrical",
+                    "question": "What shape is the bin?",
+                    "choices": [
+                        "cylindrical",
+                        "square",
+                        "triangular",
+                        "oval"
+                    ],
+                    "answer": "cylindrical",
+                    "element_type": "shape",
+                    "free_form_vqa": "round",
+                    "multiple_choice_vqa": "oval",
+                    "scores": 0
+                },
+                "Is the desk rectangular?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "rectangular",
+                    "question": "Is the desk rectangular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What shape is the desk?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "rectangular",
+                    "question": "What shape is the desk?",
+                    "choices": [
+                        "rectangular",
+                        "round",
+                        "oval",
+                        "square"
+                    ],
+                    "answer": "rectangular",
+                    "element_type": "shape",
+                    "free_form_vqa": "round",
+                    "multiple_choice_vqa": "round",
+                    "scores": 0
+                },
+                "Is the bin beside the desk?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "beside",
+                    "question": "Is the bin beside the desk?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_100.png",
+            "ques_ans": {
+                "Is there a bin?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "bin",
+                    "question": "Is there a bin?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is there a desk?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "desk",
+                    "question": "Is there a desk?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What piece of furniture is present?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "desk",
+                    "question": "What piece of furniture is present?",
+                    "choices": [
+                        "desk",
+                        "sofa",
+                        "bed",
+                        "cabinet"
+                    ],
+                    "answer": "desk",
+                    "element_type": "object",
+                    "free_form_vqa": "can",
+                    "multiple_choice_vqa": "cabinet",
+                    "scores": 0
+                },
+                "Is the bin cylindrical?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "cylindrical",
+                    "question": "Is the bin cylindrical?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the bin?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "cylindrical",
+                    "question": "What shape is the bin?",
+                    "choices": [
+                        "cylindrical",
+                        "square",
+                        "triangular",
+                        "oval"
+                    ],
+                    "answer": "cylindrical",
+                    "element_type": "shape",
+                    "free_form_vqa": "round",
+                    "multiple_choice_vqa": "oval",
+                    "scores": 0
+                },
+                "Is the desk rectangular?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "rectangular",
+                    "question": "Is the desk rectangular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What shape is the desk?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "rectangular",
+                    "question": "What shape is the desk?",
+                    "choices": [
+                        "rectangular",
+                        "round",
+                        "oval",
+                        "square"
+                    ],
+                    "answer": "rectangular",
+                    "element_type": "shape",
+                    "free_form_vqa": "round",
+                    "multiple_choice_vqa": "round",
+                    "scores": 0
+                },
+                "Is the bin beside the desk?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "beside",
+                    "question": "Is the bin beside the desk?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_110.png",
+            "ques_ans": {
+                "Is there a bin?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "bin",
+                    "question": "Is there a bin?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is there a desk?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "desk",
+                    "question": "Is there a desk?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What piece of furniture is present?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "desk",
+                    "question": "What piece of furniture is present?",
+                    "choices": [
+                        "desk",
+                        "sofa",
+                        "bed",
+                        "cabinet"
+                    ],
+                    "answer": "desk",
+                    "element_type": "object",
+                    "free_form_vqa": "table",
+                    "multiple_choice_vqa": "desk",
+                    "scores": 1
+                },
+                "Is the bin cylindrical?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "cylindrical",
+                    "question": "Is the bin cylindrical?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the bin?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "cylindrical",
+                    "question": "What shape is the bin?",
+                    "choices": [
+                        "cylindrical",
+                        "square",
+                        "triangular",
+                        "oval"
+                    ],
+                    "answer": "cylindrical",
+                    "element_type": "shape",
+                    "free_form_vqa": "round",
+                    "multiple_choice_vqa": "oval",
+                    "scores": 0
+                },
+                "Is the desk rectangular?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "rectangular",
+                    "question": "Is the desk rectangular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What shape is the desk?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "rectangular",
+                    "question": "What shape is the desk?",
+                    "choices": [
+                        "rectangular",
+                        "round",
+                        "oval",
+                        "square"
+                    ],
+                    "answer": "rectangular",
+                    "element_type": "shape",
+                    "free_form_vqa": "round",
+                    "multiple_choice_vqa": "round",
+                    "scores": 0
+                },
+                "Is the bin beside the desk?": {
+                    "caption": "A cylindrical bin beside a rectangular desk",
+                    "element": "beside",
+                    "question": "Is the bin beside the desk?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        }
+    ]
+}

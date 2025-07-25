@@ -1,0 +1,74 @@
+[
+    {
+        "caption": "A colorful African mask",
+        "element": "mask",
+        "question": "Is this a mask?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "A colorful African mask",
+        "element": "mask",
+        "question": "What type of object is shown?",
+        "choices": [
+            "mask",
+            "vase",
+            "sculpture",
+            "painting"
+        ],
+        "answer": "mask",
+        "element_type": "object"
+    },
+    {
+        "caption": "A colorful African mask",
+        "element": "colorful",
+        "question": "Is the mask colorful?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "color"
+    },
+    {
+        "caption": "A colorful African mask",
+        "element": "colorful",
+        "question": "How would you describe the mask's color?",
+        "choices": [
+            "colorful",
+            "monochrome",
+            "black and white",
+            "pastel"
+        ],
+        "answer": "colorful",
+        "element_type": "color"
+    },
+    {
+        "caption": "A colorful African mask",
+        "element": "African",
+        "question": "Is the mask African?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "attribute"
+    },
+    {
+        "caption": "A colorful African mask",
+        "element": "African",
+        "question": "What is the cultural style of the mask?",
+        "choices": [
+            "African",
+            "Asian",
+            "European",
+            "American"
+        ],
+        "answer": "African",
+        "element_type": "attribute"
+    }
+]

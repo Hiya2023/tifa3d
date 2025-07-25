@@ -29,7 +29,7 @@ def compute_prf(gold, pred):
     return float(F1)
 
 def filter_question_and_answers(qa_model, caption_qas):
-    
+    print("in filter fn")
     filtered_question_instances = []
     
     question_set = set()
@@ -47,14 +47,18 @@ def filter_question_and_answers(qa_model, caption_qas):
             
         # validate the anwer
         qa_answer = qa_model.mcqa(question, caption, choices=choices)
+        print("qa answer",qa_answer)
+
         if qa_answer != question_instance['answer']:
+            print("not equal")
             continue
         
         # validate free form answer
         if question_instance['answer'] not in ['yes', 'no']:
             free_form_answer = qa_model.qa(question, caption).strip()
-            
+            print("free",free_form_answer)
             gpt3_answer = question_instance['answer']
+            print(gpt3_answer)
             if gpt3_answer.isnumeric():
                 try:
                     free_form_answer = str(w2n.word_to_num(free_form_answer))
@@ -65,7 +69,7 @@ def filter_question_and_answers(qa_model, caption_qas):
                 continue
             
         filtered_question_instances.append(question_instance)
-        
+    
     return filtered_question_instances
         
         

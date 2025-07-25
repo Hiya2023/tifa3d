@@ -1,0 +1,122 @@
+[
+    {
+        "caption": "A blue chair facing a black desk",
+        "element": "chair",
+        "question": "Is there a chair?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "A blue chair facing a black desk",
+        "element": "chair",
+        "question": "What type of furniture is shown?",
+        "choices": [
+            "chair",
+            "table",
+            "sofa",
+            "bed"
+        ],
+        "answer": "chair",
+        "element_type": "object"
+    },
+    {
+        "caption": "A blue chair facing a black desk",
+        "element": "desk",
+        "question": "Is there a desk?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "A blue chair facing a black desk",
+        "element": "desk",
+        "question": "What piece of furniture is present?",
+        "choices": [
+            "desk",
+            "cabinet",
+            "shelf",
+            "dresser"
+        ],
+        "answer": "desk",
+        "element_type": "object"
+    },
+    {
+        "caption": "A blue chair facing a black desk",
+        "element": "blue",
+        "question": "Is the chair blue?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "color"
+    },
+    {
+        "caption": "A blue chair facing a black desk",
+        "element": "blue",
+        "question": "What color is the chair?",
+        "choices": [
+            "blue",
+            "red",
+            "green",
+            "yellow"
+        ],
+        "answer": "blue",
+        "element_type": "color"
+    },
+    {
+        "caption": "A blue chair facing a black desk",
+        "element": "black",
+        "question": "Is the desk black?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "color"
+    },
+    {
+        "caption": "A blue chair facing a black desk",
+        "element": "black",
+        "question": "What color is the desk?",
+        "choices": [
+            "black",
+            "white",
+            "brown",
+            "gray"
+        ],
+        "answer": "black",
+        "element_type": "color"
+    },
+    {
+        "caption": "A blue chair facing a black desk",
+        "element": "facing",
+        "question": "Is the chair facing the desk?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "spatial"
+    },
+    {
+        "caption": "A blue chair facing a black desk",
+        "element": "facing",
+        "question": "What is the spatial relation between the chair and the desk?",
+        "choices": [
+            "facing",
+            "beside",
+            "behind",
+            "under"
+        ],
+        "answer": "facing",
+        "element_type": "spatial"
+    }
+]

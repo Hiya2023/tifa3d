@@ -1,0 +1,50 @@
+[
+    {
+        "caption": "A hexagonal mirror",
+        "element": "mirror",
+        "question": "Is this a mirror?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "A hexagonal mirror",
+        "element": "mirror",
+        "question": "What type of object is shown?",
+        "choices": [
+            "mirror",
+            "window",
+            "painting",
+            "clock"
+        ],
+        "answer": "mirror",
+        "element_type": "object"
+    },
+    {
+        "caption": "A hexagonal mirror",
+        "element": "hexagonal",
+        "question": "Is the mirror hexagonal?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "shape"
+    },
+    {
+        "caption": "A hexagonal mirror",
+        "element": "hexagonal",
+        "question": "What shape is the mirror?",
+        "choices": [
+            "hexagonal",
+            "circular",
+            "square",
+            "rectangular"
+        ],
+        "answer": "hexagonal",
+        "element_type": "shape"
+    }
+]

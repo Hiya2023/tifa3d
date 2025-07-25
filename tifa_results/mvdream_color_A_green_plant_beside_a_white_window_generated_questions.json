@@ -1,0 +1,122 @@
+[
+    {
+        "caption": "A green plant beside a white window",
+        "element": "plant",
+        "question": "Is there a plant?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "A green plant beside a white window",
+        "element": "plant",
+        "question": "What type of object is shown?",
+        "choices": [
+            "plant",
+            "vase",
+            "lamp",
+            "chair"
+        ],
+        "answer": "plant",
+        "element_type": "object"
+    },
+    {
+        "caption": "A green plant beside a white window",
+        "element": "window",
+        "question": "Is there a window?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "A green plant beside a white window",
+        "element": "window",
+        "question": "What architectural feature is present?",
+        "choices": [
+            "window",
+            "door",
+            "wall",
+            "ceiling"
+        ],
+        "answer": "window",
+        "element_type": "object"
+    },
+    {
+        "caption": "A green plant beside a white window",
+        "element": "green",
+        "question": "Is the plant green?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "color"
+    },
+    {
+        "caption": "A green plant beside a white window",
+        "element": "green",
+        "question": "What color is the plant?",
+        "choices": [
+            "green",
+            "red",
+            "blue",
+            "yellow"
+        ],
+        "answer": "green",
+        "element_type": "color"
+    },
+    {
+        "caption": "A green plant beside a white window",
+        "element": "white",
+        "question": "Is the window white?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "color"
+    },
+    {
+        "caption": "A green plant beside a white window",
+        "element": "white",
+        "question": "What color is the window?",
+        "choices": [
+            "white",
+            "black",
+            "brown",
+            "gray"
+        ],
+        "answer": "white",
+        "element_type": "color"
+    },
+    {
+        "caption": "A green plant beside a white window",
+        "element": "beside",
+        "question": "Is the plant beside the window?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "spatial"
+    },
+    {
+        "caption": "A green plant beside a white window",
+        "element": "beside",
+        "question": "What is the spatial relation between the plant and the window?",
+        "choices": [
+            "beside",
+            "above",
+            "behind",
+            "under"
+        ],
+        "answer": "beside",
+        "element_type": "spatial"
+    }
+]

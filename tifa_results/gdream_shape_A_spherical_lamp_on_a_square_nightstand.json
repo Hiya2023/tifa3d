@@ -1,0 +1,1114 @@
+{
+    "method": "gdream",
+    "aspect": "shape",
+    "prompt_name": "A_spherical_lamp_on_a_square_nightstand",
+    "individual_scores": {
+        "rgb_0.png": 0.5,
+        "rgb_10.png": 0.5,
+        "rgb_20.png": 0.5,
+        "rgb_30.png": 0.5,
+        "rgb_40.png": 0.5,
+        "rgb_50.png": 0.5,
+        "rgb_60.png": 0.5,
+        "rgb_70.png": 0.5,
+        "rgb_80.png": 0.5,
+        "rgb_90.png": 0.5,
+        "rgb_100.png": 0.5,
+        "rgb_110.png": 0.5
+    },
+    "average_tifa_score": 0.5,
+    "question_logs": [
+        {
+            "image": "rgb_0.png",
+            "ques_ans": {
+                "Is there a lamp?": {
+                    "caption": "A spherical lamp on a square nightstand",
+                    "element": "lamp",
+                    "question": "Is there a lamp?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a nightstand?": {
+                    "caption": "A spherical lamp on a square nightstand",
+                    "element": "nightstand",
+                    "question": "Is there a nightstand?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the lamp spherical?": {
+                    "caption": "A spherical lamp on a square nightstand",
+                    "element": "spherical",
+                    "question": "Is the lamp spherical?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the lamp?": {
+                    "caption": "A spherical lamp on a square nightstand",
+                    "element": "spherical",
+                    "question": "What shape is the lamp?",
+                    "choices": [
+                        "spherical",
+                        "cylindrical",
+                        "rectangular",
+                        "triangular"
+                    ],
+                    "answer": "spherical",
+                    "element_type": "shape",
+                    "free_form_vqa": "round",
+                    "multiple_choice_vqa": "rectangular",
+                    "scores": 0
+                },
+                "Is the nightstand square?": {
+                    "caption": "A spherical lamp on a square nightstand",
+                    "element": "square",
+                    "question": "Is the nightstand square?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the lamp on the nightstand?": {
+                    "caption": "A spherical lamp on a square nightstand",
+                    "element": "on",
+                    "question": "Is the lamp on the nightstand?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_10.png",
+            "ques_ans": {
+                "Is there a lamp?": {
+                    "caption": "A spherical lamp on a square nightstand",
+                    "element": "lamp",
+                    "question": "Is there a lamp?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a nightstand?": {
+                    "caption": "A spherical lamp on a square nightstand",
+                    "element": "nightstand",
+                    "question": "Is there a nightstand?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the lamp spherical?": {
+                    "caption": "A spherical lamp on a square nightstand",
+                    "element": "spherical",
+                    "question": "Is the lamp spherical?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the lamp?": {
+                    "caption": "A spherical lamp on a square nightstand",
+                    "element": "spherical",
+                    "question": "What shape is the lamp?",
+                    "choices": [
+                        "spherical",
+                        "cylindrical",
+                        "rectangular",
+                        "triangular"
+                    ],
+                    "answer": "spherical",
+                    "element_type": "shape",
+                    "free_form_vqa": "round",
+                    "multiple_choice_vqa": "rectangular",
+                    "scores": 0
+                },
+                "Is the nightstand square?": {
+                    "caption": "A spherical lamp on a square nightstand",
+                    "element": "square",
+                    "question": "Is the nightstand square?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the lamp on the nightstand?": {
+                    "caption": "A spherical lamp on a square nightstand",
+                    "element": "on",
+                    "question": "Is the lamp on the nightstand?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_20.png",
+            "ques_ans": {
+                "Is there a lamp?": {
+                    "caption": "A spherical lamp on a square nightstand",
+                    "element": "lamp",
+                    "question": "Is there a lamp?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a nightstand?": {
+                    "caption": "A spherical lamp on a square nightstand",
+                    "element": "nightstand",
+                    "question": "Is there a nightstand?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the lamp spherical?": {
+                    "caption": "A spherical lamp on a square nightstand",
+                    "element": "spherical",
+                    "question": "Is the lamp spherical?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the lamp?": {
+                    "caption": "A spherical lamp on a square nightstand",
+                    "element": "spherical",
+                    "question": "What shape is the lamp?",
+                    "choices": [
+                        "spherical",
+                        "cylindrical",
+                        "rectangular",
+                        "triangular"
+                    ],
+                    "answer": "spherical",
+                    "element_type": "shape",
+                    "free_form_vqa": "round",
+                    "multiple_choice_vqa": "rectangular",
+                    "scores": 0
+                },
+                "Is the nightstand square?": {
+                    "caption": "A spherical lamp on a square nightstand",
+                    "element": "square",
+                    "question": "Is the nightstand square?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the lamp on the nightstand?": {
+                    "caption": "A spherical lamp on a square nightstand",
+                    "element": "on",
+                    "question": "Is the lamp on the nightstand?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_30.png",
+            "ques_ans": {
+                "Is there a lamp?": {
+                    "caption": "A spherical lamp on a square nightstand",
+                    "element": "lamp",
+                    "question": "Is there a lamp?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a nightstand?": {
+                    "caption": "A spherical lamp on a square nightstand",
+                    "element": "nightstand",
+                    "question": "Is there a nightstand?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the lamp spherical?": {
+                    "caption": "A spherical lamp on a square nightstand",
+                    "element": "spherical",
+                    "question": "Is the lamp spherical?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the lamp?": {
+                    "caption": "A spherical lamp on a square nightstand",
+                    "element": "spherical",
+                    "question": "What shape is the lamp?",
+                    "choices": [
+                        "spherical",
+                        "cylindrical",
+                        "rectangular",
+                        "triangular"
+                    ],
+                    "answer": "spherical",
+                    "element_type": "shape",
+                    "free_form_vqa": "round",
+                    "multiple_choice_vqa": "rectangular",
+                    "scores": 0
+                },
+                "Is the nightstand square?": {
+                    "caption": "A spherical lamp on a square nightstand",
+                    "element": "square",
+                    "question": "Is the nightstand square?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the lamp on the nightstand?": {
+                    "caption": "A spherical lamp on a square nightstand",
+                    "element": "on",
+                    "question": "Is the lamp on the nightstand?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_40.png",
+            "ques_ans": {
+                "Is there a lamp?": {
+                    "caption": "A spherical lamp on a square nightstand",
+                    "element": "lamp",
+                    "question": "Is there a lamp?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a nightstand?": {
+                    "caption": "A spherical lamp on a square nightstand",
+                    "element": "nightstand",
+                    "question": "Is there a nightstand?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the lamp spherical?": {
+                    "caption": "A spherical lamp on a square nightstand",
+                    "element": "spherical",
+                    "question": "Is the lamp spherical?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the lamp?": {
+                    "caption": "A spherical lamp on a square nightstand",
+                    "element": "spherical",
+                    "question": "What shape is the lamp?",
+                    "choices": [
+                        "spherical",
+                        "cylindrical",
+                        "rectangular",
+                        "triangular"
+                    ],
+                    "answer": "spherical",
+                    "element_type": "shape",
+                    "free_form_vqa": "round",
+                    "multiple_choice_vqa": "rectangular",
+                    "scores": 0
+                },
+                "Is the nightstand square?": {
+                    "caption": "A spherical lamp on a square nightstand",
+                    "element": "square",
+                    "question": "Is the nightstand square?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the lamp on the nightstand?": {
+                    "caption": "A spherical lamp on a square nightstand",
+                    "element": "on",
+                    "question": "Is the lamp on the nightstand?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_50.png",
+            "ques_ans": {
+                "Is there a lamp?": {
+                    "caption": "A spherical lamp on a square nightstand",
+                    "element": "lamp",
+                    "question": "Is there a lamp?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a nightstand?": {
+                    "caption": "A spherical lamp on a square nightstand",
+                    "element": "nightstand",
+                    "question": "Is there a nightstand?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the lamp spherical?": {
+                    "caption": "A spherical lamp on a square nightstand",
+                    "element": "spherical",
+                    "question": "Is the lamp spherical?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the lamp?": {
+                    "caption": "A spherical lamp on a square nightstand",
+                    "element": "spherical",
+                    "question": "What shape is the lamp?",
+                    "choices": [
+                        "spherical",
+                        "cylindrical",
+                        "rectangular",
+                        "triangular"
+                    ],
+                    "answer": "spherical",
+                    "element_type": "shape",
+                    "free_form_vqa": "round",
+                    "multiple_choice_vqa": "rectangular",
+                    "scores": 0
+                },
+                "Is the nightstand square?": {
+                    "caption": "A spherical lamp on a square nightstand",
+                    "element": "square",
+                    "question": "Is the nightstand square?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the lamp on the nightstand?": {
+                    "caption": "A spherical lamp on a square nightstand",
+                    "element": "on",
+                    "question": "Is the lamp on the nightstand?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_60.png",
+            "ques_ans": {
+                "Is there a lamp?": {
+                    "caption": "A spherical lamp on a square nightstand",
+                    "element": "lamp",
+                    "question": "Is there a lamp?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a nightstand?": {
+                    "caption": "A spherical lamp on a square nightstand",
+                    "element": "nightstand",
+                    "question": "Is there a nightstand?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the lamp spherical?": {
+                    "caption": "A spherical lamp on a square nightstand",
+                    "element": "spherical",
+                    "question": "Is the lamp spherical?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the lamp?": {
+                    "caption": "A spherical lamp on a square nightstand",
+                    "element": "spherical",
+                    "question": "What shape is the lamp?",
+                    "choices": [
+                        "spherical",
+                        "cylindrical",
+                        "rectangular",
+                        "triangular"
+                    ],
+                    "answer": "spherical",
+                    "element_type": "shape",
+                    "free_form_vqa": "round",
+                    "multiple_choice_vqa": "rectangular",
+                    "scores": 0
+                },
+                "Is the nightstand square?": {
+                    "caption": "A spherical lamp on a square nightstand",
+                    "element": "square",
+                    "question": "Is the nightstand square?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the lamp on the nightstand?": {
+                    "caption": "A spherical lamp on a square nightstand",
+                    "element": "on",
+                    "question": "Is the lamp on the nightstand?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_70.png",
+            "ques_ans": {
+                "Is there a lamp?": {
+                    "caption": "A spherical lamp on a square nightstand",
+                    "element": "lamp",
+                    "question": "Is there a lamp?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a nightstand?": {
+                    "caption": "A spherical lamp on a square nightstand",
+                    "element": "nightstand",
+                    "question": "Is there a nightstand?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the lamp spherical?": {
+                    "caption": "A spherical lamp on a square nightstand",
+                    "element": "spherical",
+                    "question": "Is the lamp spherical?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the lamp?": {
+                    "caption": "A spherical lamp on a square nightstand",
+                    "element": "spherical",
+                    "question": "What shape is the lamp?",
+                    "choices": [
+                        "spherical",
+                        "cylindrical",
+                        "rectangular",
+                        "triangular"
+                    ],
+                    "answer": "spherical",
+                    "element_type": "shape",
+                    "free_form_vqa": "round",
+                    "multiple_choice_vqa": "rectangular",
+                    "scores": 0
+                },
+                "Is the nightstand square?": {
+                    "caption": "A spherical lamp on a square nightstand",
+                    "element": "square",
+                    "question": "Is the nightstand square?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the lamp on the nightstand?": {
+                    "caption": "A spherical lamp on a square nightstand",
+                    "element": "on",
+                    "question": "Is the lamp on the nightstand?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_80.png",
+            "ques_ans": {
+                "Is there a lamp?": {
+                    "caption": "A spherical lamp on a square nightstand",
+                    "element": "lamp",
+                    "question": "Is there a lamp?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a nightstand?": {
+                    "caption": "A spherical lamp on a square nightstand",
+                    "element": "nightstand",
+                    "question": "Is there a nightstand?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the lamp spherical?": {
+                    "caption": "A spherical lamp on a square nightstand",
+                    "element": "spherical",
+                    "question": "Is the lamp spherical?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the lamp?": {
+                    "caption": "A spherical lamp on a square nightstand",
+                    "element": "spherical",
+                    "question": "What shape is the lamp?",
+                    "choices": [
+                        "spherical",
+                        "cylindrical",
+                        "rectangular",
+                        "triangular"
+                    ],
+                    "answer": "spherical",
+                    "element_type": "shape",
+                    "free_form_vqa": "round",
+                    "multiple_choice_vqa": "rectangular",
+                    "scores": 0
+                },
+                "Is the nightstand square?": {
+                    "caption": "A spherical lamp on a square nightstand",
+                    "element": "square",
+                    "question": "Is the nightstand square?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the lamp on the nightstand?": {
+                    "caption": "A spherical lamp on a square nightstand",
+                    "element": "on",
+                    "question": "Is the lamp on the nightstand?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_90.png",
+            "ques_ans": {
+                "Is there a lamp?": {
+                    "caption": "A spherical lamp on a square nightstand",
+                    "element": "lamp",
+                    "question": "Is there a lamp?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a nightstand?": {
+                    "caption": "A spherical lamp on a square nightstand",
+                    "element": "nightstand",
+                    "question": "Is there a nightstand?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the lamp spherical?": {
+                    "caption": "A spherical lamp on a square nightstand",
+                    "element": "spherical",
+                    "question": "Is the lamp spherical?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the lamp?": {
+                    "caption": "A spherical lamp on a square nightstand",
+                    "element": "spherical",
+                    "question": "What shape is the lamp?",
+                    "choices": [
+                        "spherical",
+                        "cylindrical",
+                        "rectangular",
+                        "triangular"
+                    ],
+                    "answer": "spherical",
+                    "element_type": "shape",
+                    "free_form_vqa": "round",
+                    "multiple_choice_vqa": "rectangular",
+                    "scores": 0
+                },
+                "Is the nightstand square?": {
+                    "caption": "A spherical lamp on a square nightstand",
+                    "element": "square",
+                    "question": "Is the nightstand square?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the lamp on the nightstand?": {
+                    "caption": "A spherical lamp on a square nightstand",
+                    "element": "on",
+                    "question": "Is the lamp on the nightstand?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_100.png",
+            "ques_ans": {
+                "Is there a lamp?": {
+                    "caption": "A spherical lamp on a square nightstand",
+                    "element": "lamp",
+                    "question": "Is there a lamp?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a nightstand?": {
+                    "caption": "A spherical lamp on a square nightstand",
+                    "element": "nightstand",
+                    "question": "Is there a nightstand?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the lamp spherical?": {
+                    "caption": "A spherical lamp on a square nightstand",
+                    "element": "spherical",
+                    "question": "Is the lamp spherical?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the lamp?": {
+                    "caption": "A spherical lamp on a square nightstand",
+                    "element": "spherical",
+                    "question": "What shape is the lamp?",
+                    "choices": [
+                        "spherical",
+                        "cylindrical",
+                        "rectangular",
+                        "triangular"
+                    ],
+                    "answer": "spherical",
+                    "element_type": "shape",
+                    "free_form_vqa": "round",
+                    "multiple_choice_vqa": "rectangular",
+                    "scores": 0
+                },
+                "Is the nightstand square?": {
+                    "caption": "A spherical lamp on a square nightstand",
+                    "element": "square",
+                    "question": "Is the nightstand square?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the lamp on the nightstand?": {
+                    "caption": "A spherical lamp on a square nightstand",
+                    "element": "on",
+                    "question": "Is the lamp on the nightstand?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_110.png",
+            "ques_ans": {
+                "Is there a lamp?": {
+                    "caption": "A spherical lamp on a square nightstand",
+                    "element": "lamp",
+                    "question": "Is there a lamp?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a nightstand?": {
+                    "caption": "A spherical lamp on a square nightstand",
+                    "element": "nightstand",
+                    "question": "Is there a nightstand?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the lamp spherical?": {
+                    "caption": "A spherical lamp on a square nightstand",
+                    "element": "spherical",
+                    "question": "Is the lamp spherical?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the lamp?": {
+                    "caption": "A spherical lamp on a square nightstand",
+                    "element": "spherical",
+                    "question": "What shape is the lamp?",
+                    "choices": [
+                        "spherical",
+                        "cylindrical",
+                        "rectangular",
+                        "triangular"
+                    ],
+                    "answer": "spherical",
+                    "element_type": "shape",
+                    "free_form_vqa": "round",
+                    "multiple_choice_vqa": "rectangular",
+                    "scores": 0
+                },
+                "Is the nightstand square?": {
+                    "caption": "A spherical lamp on a square nightstand",
+                    "element": "square",
+                    "question": "Is the nightstand square?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the lamp on the nightstand?": {
+                    "caption": "A spherical lamp on a square nightstand",
+                    "element": "on",
+                    "question": "Is the lamp on the nightstand?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        }
+    ]
+}

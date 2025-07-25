@@ -1,0 +1,1306 @@
+{
+    "method": "gdream",
+    "aspect": "color",
+    "prompt_name": "A_gold_fish_inside_a_silver_bowl",
+    "individual_scores": {
+        "rgb_0.png": 0.7142857142857143,
+        "rgb_10.png": 0.5714285714285714,
+        "rgb_20.png": 0.42857142857142855,
+        "rgb_30.png": 0.14285714285714285,
+        "rgb_40.png": 0.42857142857142855,
+        "rgb_50.png": 0.14285714285714285,
+        "rgb_60.png": 0.42857142857142855,
+        "rgb_70.png": 0,
+        "rgb_80.png": 0.14285714285714285,
+        "rgb_90.png": 0.14285714285714285,
+        "rgb_100.png": 0.14285714285714285,
+        "rgb_110.png": 0.2857142857142857
+    },
+    "average_tifa_score": 0.2976190476190476,
+    "question_logs": [
+        {
+            "image": "rgb_0.png",
+            "ques_ans": {
+                "Is there a fish?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "fish",
+                    "question": "Is there a fish?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "animal/human",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a bowl?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "bowl",
+                    "question": "Is there a bowl?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the fish gold?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "gold",
+                    "question": "Is the fish gold?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the fish?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "gold",
+                    "question": "What color is the fish?",
+                    "choices": [
+                        "gold",
+                        "silver",
+                        "blue",
+                        "red"
+                    ],
+                    "answer": "gold",
+                    "element_type": "color",
+                    "free_form_vqa": "orange",
+                    "multiple_choice_vqa": "red",
+                    "scores": 0
+                },
+                "Is the bowl silver?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "silver",
+                    "question": "Is the bowl silver?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the bowl?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "silver",
+                    "question": "What color is the bowl?",
+                    "choices": [
+                        "silver",
+                        "gold",
+                        "black",
+                        "white"
+                    ],
+                    "answer": "silver",
+                    "element_type": "color",
+                    "free_form_vqa": "purple",
+                    "multiple_choice_vqa": "black",
+                    "scores": 0
+                },
+                "Is the fish inside the bowl?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "inside",
+                    "question": "Is the fish inside the bowl?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_10.png",
+            "ques_ans": {
+                "Is there a fish?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "fish",
+                    "question": "Is there a fish?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "animal/human",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is there a bowl?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "bowl",
+                    "question": "Is there a bowl?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the fish gold?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "gold",
+                    "question": "Is the fish gold?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the fish?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "gold",
+                    "question": "What color is the fish?",
+                    "choices": [
+                        "gold",
+                        "silver",
+                        "blue",
+                        "red"
+                    ],
+                    "answer": "gold",
+                    "element_type": "color",
+                    "free_form_vqa": "orange",
+                    "multiple_choice_vqa": "red",
+                    "scores": 0
+                },
+                "Is the bowl silver?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "silver",
+                    "question": "Is the bowl silver?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the bowl?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "silver",
+                    "question": "What color is the bowl?",
+                    "choices": [
+                        "silver",
+                        "gold",
+                        "black",
+                        "white"
+                    ],
+                    "answer": "silver",
+                    "element_type": "color",
+                    "free_form_vqa": "purple",
+                    "multiple_choice_vqa": "black",
+                    "scores": 0
+                },
+                "Is the fish inside the bowl?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "inside",
+                    "question": "Is the fish inside the bowl?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_20.png",
+            "ques_ans": {
+                "Is there a fish?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "fish",
+                    "question": "Is there a fish?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "animal/human",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is there a bowl?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "bowl",
+                    "question": "Is there a bowl?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the fish gold?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "gold",
+                    "question": "Is the fish gold?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the fish?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "gold",
+                    "question": "What color is the fish?",
+                    "choices": [
+                        "gold",
+                        "silver",
+                        "blue",
+                        "red"
+                    ],
+                    "answer": "gold",
+                    "element_type": "color",
+                    "free_form_vqa": "purple",
+                    "multiple_choice_vqa": "blue",
+                    "scores": 0
+                },
+                "Is the bowl silver?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "silver",
+                    "question": "Is the bowl silver?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the bowl?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "silver",
+                    "question": "What color is the bowl?",
+                    "choices": [
+                        "silver",
+                        "gold",
+                        "black",
+                        "white"
+                    ],
+                    "answer": "silver",
+                    "element_type": "color",
+                    "free_form_vqa": "purple",
+                    "multiple_choice_vqa": "black",
+                    "scores": 0
+                },
+                "Is the fish inside the bowl?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "inside",
+                    "question": "Is the fish inside the bowl?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_30.png",
+            "ques_ans": {
+                "Is there a fish?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "fish",
+                    "question": "Is there a fish?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "animal/human",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is there a bowl?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "bowl",
+                    "question": "Is there a bowl?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the fish gold?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "gold",
+                    "question": "Is the fish gold?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the fish?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "gold",
+                    "question": "What color is the fish?",
+                    "choices": [
+                        "gold",
+                        "silver",
+                        "blue",
+                        "red"
+                    ],
+                    "answer": "gold",
+                    "element_type": "color",
+                    "free_form_vqa": "purple",
+                    "multiple_choice_vqa": "blue",
+                    "scores": 0
+                },
+                "Is the bowl silver?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "silver",
+                    "question": "Is the bowl silver?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the bowl?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "silver",
+                    "question": "What color is the bowl?",
+                    "choices": [
+                        "silver",
+                        "gold",
+                        "black",
+                        "white"
+                    ],
+                    "answer": "silver",
+                    "element_type": "color",
+                    "free_form_vqa": "purple",
+                    "multiple_choice_vqa": "black",
+                    "scores": 0
+                },
+                "Is the fish inside the bowl?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "inside",
+                    "question": "Is the fish inside the bowl?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_40.png",
+            "ques_ans": {
+                "Is there a fish?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "fish",
+                    "question": "Is there a fish?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "animal/human",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is there a bowl?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "bowl",
+                    "question": "Is there a bowl?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the fish gold?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "gold",
+                    "question": "Is the fish gold?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the fish?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "gold",
+                    "question": "What color is the fish?",
+                    "choices": [
+                        "gold",
+                        "silver",
+                        "blue",
+                        "red"
+                    ],
+                    "answer": "gold",
+                    "element_type": "color",
+                    "free_form_vqa": "purple",
+                    "multiple_choice_vqa": "blue",
+                    "scores": 0
+                },
+                "Is the bowl silver?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "silver",
+                    "question": "Is the bowl silver?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the bowl?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "silver",
+                    "question": "What color is the bowl?",
+                    "choices": [
+                        "silver",
+                        "gold",
+                        "black",
+                        "white"
+                    ],
+                    "answer": "silver",
+                    "element_type": "color",
+                    "free_form_vqa": "purple",
+                    "multiple_choice_vqa": "black",
+                    "scores": 0
+                },
+                "Is the fish inside the bowl?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "inside",
+                    "question": "Is the fish inside the bowl?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_50.png",
+            "ques_ans": {
+                "Is there a fish?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "fish",
+                    "question": "Is there a fish?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "animal/human",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is there a bowl?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "bowl",
+                    "question": "Is there a bowl?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the fish gold?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "gold",
+                    "question": "Is the fish gold?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the fish?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "gold",
+                    "question": "What color is the fish?",
+                    "choices": [
+                        "gold",
+                        "silver",
+                        "blue",
+                        "red"
+                    ],
+                    "answer": "gold",
+                    "element_type": "color",
+                    "free_form_vqa": "blue",
+                    "multiple_choice_vqa": "blue",
+                    "scores": 0
+                },
+                "Is the bowl silver?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "silver",
+                    "question": "Is the bowl silver?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the bowl?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "silver",
+                    "question": "What color is the bowl?",
+                    "choices": [
+                        "silver",
+                        "gold",
+                        "black",
+                        "white"
+                    ],
+                    "answer": "silver",
+                    "element_type": "color",
+                    "free_form_vqa": "purple",
+                    "multiple_choice_vqa": "black",
+                    "scores": 0
+                },
+                "Is the fish inside the bowl?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "inside",
+                    "question": "Is the fish inside the bowl?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_60.png",
+            "ques_ans": {
+                "Is there a fish?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "fish",
+                    "question": "Is there a fish?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "animal/human",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is there a bowl?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "bowl",
+                    "question": "Is there a bowl?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the fish gold?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "gold",
+                    "question": "Is the fish gold?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the fish?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "gold",
+                    "question": "What color is the fish?",
+                    "choices": [
+                        "gold",
+                        "silver",
+                        "blue",
+                        "red"
+                    ],
+                    "answer": "gold",
+                    "element_type": "color",
+                    "free_form_vqa": "orange",
+                    "multiple_choice_vqa": "red",
+                    "scores": 0
+                },
+                "Is the bowl silver?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "silver",
+                    "question": "Is the bowl silver?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the bowl?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "silver",
+                    "question": "What color is the bowl?",
+                    "choices": [
+                        "silver",
+                        "gold",
+                        "black",
+                        "white"
+                    ],
+                    "answer": "silver",
+                    "element_type": "color",
+                    "free_form_vqa": "purple",
+                    "multiple_choice_vqa": "black",
+                    "scores": 0
+                },
+                "Is the fish inside the bowl?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "inside",
+                    "question": "Is the fish inside the bowl?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_70.png",
+            "ques_ans": {
+                "Is there a fish?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "fish",
+                    "question": "Is there a fish?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "animal/human",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is there a bowl?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "bowl",
+                    "question": "Is there a bowl?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the fish gold?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "gold",
+                    "question": "Is the fish gold?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the fish?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "gold",
+                    "question": "What color is the fish?",
+                    "choices": [
+                        "gold",
+                        "silver",
+                        "blue",
+                        "red"
+                    ],
+                    "answer": "gold",
+                    "element_type": "color",
+                    "free_form_vqa": "blue",
+                    "multiple_choice_vqa": "blue",
+                    "scores": 0
+                },
+                "Is the bowl silver?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "silver",
+                    "question": "Is the bowl silver?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the bowl?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "silver",
+                    "question": "What color is the bowl?",
+                    "choices": [
+                        "silver",
+                        "gold",
+                        "black",
+                        "white"
+                    ],
+                    "answer": "silver",
+                    "element_type": "color",
+                    "free_form_vqa": "pink",
+                    "multiple_choice_vqa": "white",
+                    "scores": 0
+                },
+                "Is the fish inside the bowl?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "inside",
+                    "question": "Is the fish inside the bowl?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_80.png",
+            "ques_ans": {
+                "Is there a fish?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "fish",
+                    "question": "Is there a fish?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "animal/human",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is there a bowl?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "bowl",
+                    "question": "Is there a bowl?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the fish gold?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "gold",
+                    "question": "Is the fish gold?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the fish?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "gold",
+                    "question": "What color is the fish?",
+                    "choices": [
+                        "gold",
+                        "silver",
+                        "blue",
+                        "red"
+                    ],
+                    "answer": "gold",
+                    "element_type": "color",
+                    "free_form_vqa": "blue",
+                    "multiple_choice_vqa": "blue",
+                    "scores": 0
+                },
+                "Is the bowl silver?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "silver",
+                    "question": "Is the bowl silver?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the bowl?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "silver",
+                    "question": "What color is the bowl?",
+                    "choices": [
+                        "silver",
+                        "gold",
+                        "black",
+                        "white"
+                    ],
+                    "answer": "silver",
+                    "element_type": "color",
+                    "free_form_vqa": "purple",
+                    "multiple_choice_vqa": "black",
+                    "scores": 0
+                },
+                "Is the fish inside the bowl?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "inside",
+                    "question": "Is the fish inside the bowl?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_90.png",
+            "ques_ans": {
+                "Is there a fish?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "fish",
+                    "question": "Is there a fish?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "animal/human",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is there a bowl?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "bowl",
+                    "question": "Is there a bowl?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the fish gold?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "gold",
+                    "question": "Is the fish gold?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the fish?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "gold",
+                    "question": "What color is the fish?",
+                    "choices": [
+                        "gold",
+                        "silver",
+                        "blue",
+                        "red"
+                    ],
+                    "answer": "gold",
+                    "element_type": "color",
+                    "free_form_vqa": "blue",
+                    "multiple_choice_vqa": "blue",
+                    "scores": 0
+                },
+                "Is the bowl silver?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "silver",
+                    "question": "Is the bowl silver?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the bowl?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "silver",
+                    "question": "What color is the bowl?",
+                    "choices": [
+                        "silver",
+                        "gold",
+                        "black",
+                        "white"
+                    ],
+                    "answer": "silver",
+                    "element_type": "color",
+                    "free_form_vqa": "pink",
+                    "multiple_choice_vqa": "white",
+                    "scores": 0
+                },
+                "Is the fish inside the bowl?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "inside",
+                    "question": "Is the fish inside the bowl?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_100.png",
+            "ques_ans": {
+                "Is there a fish?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "fish",
+                    "question": "Is there a fish?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "animal/human",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is there a bowl?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "bowl",
+                    "question": "Is there a bowl?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the fish gold?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "gold",
+                    "question": "Is the fish gold?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the fish?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "gold",
+                    "question": "What color is the fish?",
+                    "choices": [
+                        "gold",
+                        "silver",
+                        "blue",
+                        "red"
+                    ],
+                    "answer": "gold",
+                    "element_type": "color",
+                    "free_form_vqa": "purple",
+                    "multiple_choice_vqa": "blue",
+                    "scores": 0
+                },
+                "Is the bowl silver?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "silver",
+                    "question": "Is the bowl silver?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the bowl?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "silver",
+                    "question": "What color is the bowl?",
+                    "choices": [
+                        "silver",
+                        "gold",
+                        "black",
+                        "white"
+                    ],
+                    "answer": "silver",
+                    "element_type": "color",
+                    "free_form_vqa": "purple",
+                    "multiple_choice_vqa": "black",
+                    "scores": 0
+                },
+                "Is the fish inside the bowl?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "inside",
+                    "question": "Is the fish inside the bowl?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_110.png",
+            "ques_ans": {
+                "Is there a fish?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "fish",
+                    "question": "Is there a fish?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "animal/human",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is there a bowl?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "bowl",
+                    "question": "Is there a bowl?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the fish gold?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "gold",
+                    "question": "Is the fish gold?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the fish?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "gold",
+                    "question": "What color is the fish?",
+                    "choices": [
+                        "gold",
+                        "silver",
+                        "blue",
+                        "red"
+                    ],
+                    "answer": "gold",
+                    "element_type": "color",
+                    "free_form_vqa": "blue",
+                    "multiple_choice_vqa": "blue",
+                    "scores": 0
+                },
+                "Is the bowl silver?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "silver",
+                    "question": "Is the bowl silver?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the bowl?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "silver",
+                    "question": "What color is the bowl?",
+                    "choices": [
+                        "silver",
+                        "gold",
+                        "black",
+                        "white"
+                    ],
+                    "answer": "silver",
+                    "element_type": "color",
+                    "free_form_vqa": "purple",
+                    "multiple_choice_vqa": "black",
+                    "scores": 0
+                },
+                "Is the fish inside the bowl?": {
+                    "caption": "A gold fish inside a silver bowl",
+                    "element": "inside",
+                    "question": "Is the fish inside the bowl?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        }
+    ]
+}

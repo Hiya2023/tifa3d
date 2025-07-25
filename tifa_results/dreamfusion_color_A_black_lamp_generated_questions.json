@@ -1,0 +1,50 @@
+[
+    {
+        "caption": "A black lamp",
+        "element": "lamp",
+        "question": "Is this a lamp?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "A black lamp",
+        "element": "lamp",
+        "question": "What type of item is shown?",
+        "choices": [
+            "lamp",
+            "clock",
+            "radio",
+            "chair"
+        ],
+        "answer": "lamp",
+        "element_type": "object"
+    },
+    {
+        "caption": "A black lamp",
+        "element": "black",
+        "question": "Is the lamp black?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "color"
+    },
+    {
+        "caption": "A black lamp",
+        "element": "black",
+        "question": "What color is the lamp?",
+        "choices": [
+            "black",
+            "white",
+            "red",
+            "blue"
+        ],
+        "answer": "black",
+        "element_type": "color"
+    }
+]

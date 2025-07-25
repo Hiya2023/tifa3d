@@ -1,0 +1,98 @@
+[
+    {
+        "caption": "A vintage French teapot with intricate designs",
+        "element": "teapot",
+        "question": "Is this a teapot?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "A vintage French teapot with intricate designs",
+        "element": "teapot",
+        "question": "What type of object is shown?",
+        "choices": [
+            "teapot",
+            "vase",
+            "coffee mug",
+            "kettle"
+        ],
+        "answer": "teapot",
+        "element_type": "object"
+    },
+    {
+        "caption": "A vintage French teapot with intricate designs",
+        "element": "vintage",
+        "question": "Is the teapot vintage?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "attribute"
+    },
+    {
+        "caption": "A vintage French teapot with intricate designs",
+        "element": "vintage",
+        "question": "How would you describe the teapot\u2019s style?",
+        "choices": [
+            "vintage",
+            "modern",
+            "futuristic",
+            "minimalistic"
+        ],
+        "answer": "vintage",
+        "element_type": "attribute"
+    },
+    {
+        "caption": "A vintage French teapot with intricate designs",
+        "element": "French",
+        "question": "Is the teapot French?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "attribute"
+    },
+    {
+        "caption": "A vintage French teapot with intricate designs",
+        "element": "French",
+        "question": "What is the cultural style of the teapot?",
+        "choices": [
+            "French",
+            "Japanese",
+            "Chinese",
+            "American"
+        ],
+        "answer": "French",
+        "element_type": "attribute"
+    },
+    {
+        "caption": "A vintage French teapot with intricate designs",
+        "element": "intricate designs",
+        "question": "Does the teapot have intricate designs?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "attribute"
+    },
+    {
+        "caption": "A vintage French teapot with intricate designs",
+        "element": "intricate designs",
+        "question": "What kind of designs does the teapot have?",
+        "choices": [
+            "intricate",
+            "simple",
+            "geometric",
+            "plain"
+        ],
+        "answer": "intricate",
+        "element_type": "attribute"
+    }
+]

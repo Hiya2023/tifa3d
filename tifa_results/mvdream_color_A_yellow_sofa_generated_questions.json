@@ -1,0 +1,50 @@
+[
+    {
+        "caption": "A yellow sofa",
+        "element": "sofa",
+        "question": "Is this a sofa?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "A yellow sofa",
+        "element": "sofa",
+        "question": "What piece of furniture is shown?",
+        "choices": [
+            "sofa",
+            "chair",
+            "table",
+            "bed"
+        ],
+        "answer": "sofa",
+        "element_type": "object"
+    },
+    {
+        "caption": "A yellow sofa",
+        "element": "yellow",
+        "question": "Is the sofa yellow?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "color"
+    },
+    {
+        "caption": "A yellow sofa",
+        "element": "yellow",
+        "question": "What color is the sofa?",
+        "choices": [
+            "yellow",
+            "blue",
+            "red",
+            "green"
+        ],
+        "answer": "yellow",
+        "element_type": "color"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "caption": "A grey dog beside a green bicycle",
+        "element": "dog",
+        "question": "Is there a dog?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "animal/human"
+    },
+    {
+        "caption": "A grey dog beside a green bicycle",
+        "element": "dog",
+        "question": "What animal is shown?",
+        "choices": [
+            "dog",
+            "cat",
+            "bird",
+            "horse"
+        ],
+        "answer": "dog",
+        "element_type": "animal/human"
+    },
+    {
+        "caption": "A grey dog beside a green bicycle",
+        "element": "bicycle",
+        "question": "Is there a bicycle?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "A grey dog beside a green bicycle",
+        "element": "bicycle",
+        "question": "What type of vehicle is shown?",
+        "choices": [
+            "bicycle",
+            "car",
+            "motorcycle",
+            "scooter"
+        ],
+        "answer": "bicycle",
+        "element_type": "object"
+    },
+    {
+        "caption": "A grey dog beside a green bicycle",
+        "element": "grey",
+        "question": "Is the dog grey?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "color"
+    },
+    {
+        "caption": "A grey dog beside a green bicycle",
+        "element": "grey",
+        "question": "What color is the dog?",
+        "choices": [
+            "grey",
+            "brown",
+            "black",
+            "white"
+        ],
+        "answer": "grey",
+        "element_type": "color"
+    },
+    {
+        "caption": "A grey dog beside a green bicycle",
+        "element": "green",
+        "question": "Is the bicycle green?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "color"
+    },
+    {
+        "caption": "A grey dog beside a green bicycle",
+        "element": "green",
+        "question": "What color is the bicycle?",
+        "choices": [
+            "green",
+            "red",
+            "blue",
+            "yellow"
+        ],
+        "answer": "green",
+        "element_type": "color"
+    },
+    {
+        "caption": "A grey dog beside a green bicycle",
+        "element": "beside",
+        "question": "Is the dog beside the bicycle?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "spatial"
+    },
+    {
+        "caption": "A grey dog beside a green bicycle",
+        "element": "beside",
+        "question": "What is the spatial relation between the dog and the bicycle?",
+        "choices": [
+            "beside",
+            "under",
+            "on",
+            "behind"
+        ],
+        "answer": "beside",
+        "element_type": "spatial"
+    }
+]

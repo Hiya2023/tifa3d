@@ -1,0 +1,610 @@
+{
+    "method": "mvdream",
+    "aspect": "color",
+    "prompt_name": "A_green_bicycle",
+    "individual_scores": {
+        "rgb_0.png": 0.3333333333333333,
+        "rgb_10.png": 1,
+        "rgb_20.png": 1,
+        "rgb_30.png": 1,
+        "rgb_40.png": 1,
+        "rgb_50.png": 1,
+        "rgb_60.png": 0.6666666666666666,
+        "rgb_70.png": 1,
+        "rgb_80.png": 1,
+        "rgb_90.png": 1,
+        "rgb_100.png": 1,
+        "rgb_110.png": 1
+    },
+    "average_tifa_score": 0.9166666666666666,
+    "question_logs": [
+        {
+            "image": "rgb_0.png",
+            "ques_ans": {
+                "Is this a bicycle?": {
+                    "caption": "A green bicycle",
+                    "element": "bicycle",
+                    "question": "Is this a bicycle?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the bicycle green?": {
+                    "caption": "A green bicycle",
+                    "element": "green",
+                    "question": "Is the bicycle green?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the bicycle?": {
+                    "caption": "A green bicycle",
+                    "element": "green",
+                    "question": "What color is the bicycle?",
+                    "choices": [
+                        "green",
+                        "red",
+                        "blue",
+                        "yellow"
+                    ],
+                    "answer": "green",
+                    "element_type": "color",
+                    "free_form_vqa": "blue",
+                    "multiple_choice_vqa": "blue",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_10.png",
+            "ques_ans": {
+                "Is this a bicycle?": {
+                    "caption": "A green bicycle",
+                    "element": "bicycle",
+                    "question": "Is this a bicycle?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the bicycle green?": {
+                    "caption": "A green bicycle",
+                    "element": "green",
+                    "question": "Is the bicycle green?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the bicycle?": {
+                    "caption": "A green bicycle",
+                    "element": "green",
+                    "question": "What color is the bicycle?",
+                    "choices": [
+                        "green",
+                        "red",
+                        "blue",
+                        "yellow"
+                    ],
+                    "answer": "green",
+                    "element_type": "color",
+                    "free_form_vqa": "green",
+                    "multiple_choice_vqa": "green",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_20.png",
+            "ques_ans": {
+                "Is this a bicycle?": {
+                    "caption": "A green bicycle",
+                    "element": "bicycle",
+                    "question": "Is this a bicycle?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the bicycle green?": {
+                    "caption": "A green bicycle",
+                    "element": "green",
+                    "question": "Is the bicycle green?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the bicycle?": {
+                    "caption": "A green bicycle",
+                    "element": "green",
+                    "question": "What color is the bicycle?",
+                    "choices": [
+                        "green",
+                        "red",
+                        "blue",
+                        "yellow"
+                    ],
+                    "answer": "green",
+                    "element_type": "color",
+                    "free_form_vqa": "green",
+                    "multiple_choice_vqa": "green",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_30.png",
+            "ques_ans": {
+                "Is this a bicycle?": {
+                    "caption": "A green bicycle",
+                    "element": "bicycle",
+                    "question": "Is this a bicycle?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the bicycle green?": {
+                    "caption": "A green bicycle",
+                    "element": "green",
+                    "question": "Is the bicycle green?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the bicycle?": {
+                    "caption": "A green bicycle",
+                    "element": "green",
+                    "question": "What color is the bicycle?",
+                    "choices": [
+                        "green",
+                        "red",
+                        "blue",
+                        "yellow"
+                    ],
+                    "answer": "green",
+                    "element_type": "color",
+                    "free_form_vqa": "green",
+                    "multiple_choice_vqa": "green",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_40.png",
+            "ques_ans": {
+                "Is this a bicycle?": {
+                    "caption": "A green bicycle",
+                    "element": "bicycle",
+                    "question": "Is this a bicycle?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the bicycle green?": {
+                    "caption": "A green bicycle",
+                    "element": "green",
+                    "question": "Is the bicycle green?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the bicycle?": {
+                    "caption": "A green bicycle",
+                    "element": "green",
+                    "question": "What color is the bicycle?",
+                    "choices": [
+                        "green",
+                        "red",
+                        "blue",
+                        "yellow"
+                    ],
+                    "answer": "green",
+                    "element_type": "color",
+                    "free_form_vqa": "green",
+                    "multiple_choice_vqa": "green",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_50.png",
+            "ques_ans": {
+                "Is this a bicycle?": {
+                    "caption": "A green bicycle",
+                    "element": "bicycle",
+                    "question": "Is this a bicycle?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the bicycle green?": {
+                    "caption": "A green bicycle",
+                    "element": "green",
+                    "question": "Is the bicycle green?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the bicycle?": {
+                    "caption": "A green bicycle",
+                    "element": "green",
+                    "question": "What color is the bicycle?",
+                    "choices": [
+                        "green",
+                        "red",
+                        "blue",
+                        "yellow"
+                    ],
+                    "answer": "green",
+                    "element_type": "color",
+                    "free_form_vqa": "green",
+                    "multiple_choice_vqa": "green",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_60.png",
+            "ques_ans": {
+                "Is this a bicycle?": {
+                    "caption": "A green bicycle",
+                    "element": "bicycle",
+                    "question": "Is this a bicycle?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the bicycle green?": {
+                    "caption": "A green bicycle",
+                    "element": "green",
+                    "question": "Is the bicycle green?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the bicycle?": {
+                    "caption": "A green bicycle",
+                    "element": "green",
+                    "question": "What color is the bicycle?",
+                    "choices": [
+                        "green",
+                        "red",
+                        "blue",
+                        "yellow"
+                    ],
+                    "answer": "green",
+                    "element_type": "color",
+                    "free_form_vqa": "blue",
+                    "multiple_choice_vqa": "blue",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_70.png",
+            "ques_ans": {
+                "Is this a bicycle?": {
+                    "caption": "A green bicycle",
+                    "element": "bicycle",
+                    "question": "Is this a bicycle?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the bicycle green?": {
+                    "caption": "A green bicycle",
+                    "element": "green",
+                    "question": "Is the bicycle green?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the bicycle?": {
+                    "caption": "A green bicycle",
+                    "element": "green",
+                    "question": "What color is the bicycle?",
+                    "choices": [
+                        "green",
+                        "red",
+                        "blue",
+                        "yellow"
+                    ],
+                    "answer": "green",
+                    "element_type": "color",
+                    "free_form_vqa": "green",
+                    "multiple_choice_vqa": "green",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_80.png",
+            "ques_ans": {
+                "Is this a bicycle?": {
+                    "caption": "A green bicycle",
+                    "element": "bicycle",
+                    "question": "Is this a bicycle?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the bicycle green?": {
+                    "caption": "A green bicycle",
+                    "element": "green",
+                    "question": "Is the bicycle green?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the bicycle?": {
+                    "caption": "A green bicycle",
+                    "element": "green",
+                    "question": "What color is the bicycle?",
+                    "choices": [
+                        "green",
+                        "red",
+                        "blue",
+                        "yellow"
+                    ],
+                    "answer": "green",
+                    "element_type": "color",
+                    "free_form_vqa": "green",
+                    "multiple_choice_vqa": "green",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_90.png",
+            "ques_ans": {
+                "Is this a bicycle?": {
+                    "caption": "A green bicycle",
+                    "element": "bicycle",
+                    "question": "Is this a bicycle?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the bicycle green?": {
+                    "caption": "A green bicycle",
+                    "element": "green",
+                    "question": "Is the bicycle green?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the bicycle?": {
+                    "caption": "A green bicycle",
+                    "element": "green",
+                    "question": "What color is the bicycle?",
+                    "choices": [
+                        "green",
+                        "red",
+                        "blue",
+                        "yellow"
+                    ],
+                    "answer": "green",
+                    "element_type": "color",
+                    "free_form_vqa": "green",
+                    "multiple_choice_vqa": "green",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_100.png",
+            "ques_ans": {
+                "Is this a bicycle?": {
+                    "caption": "A green bicycle",
+                    "element": "bicycle",
+                    "question": "Is this a bicycle?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the bicycle green?": {
+                    "caption": "A green bicycle",
+                    "element": "green",
+                    "question": "Is the bicycle green?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the bicycle?": {
+                    "caption": "A green bicycle",
+                    "element": "green",
+                    "question": "What color is the bicycle?",
+                    "choices": [
+                        "green",
+                        "red",
+                        "blue",
+                        "yellow"
+                    ],
+                    "answer": "green",
+                    "element_type": "color",
+                    "free_form_vqa": "green",
+                    "multiple_choice_vqa": "green",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_110.png",
+            "ques_ans": {
+                "Is this a bicycle?": {
+                    "caption": "A green bicycle",
+                    "element": "bicycle",
+                    "question": "Is this a bicycle?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the bicycle green?": {
+                    "caption": "A green bicycle",
+                    "element": "green",
+                    "question": "Is the bicycle green?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the bicycle?": {
+                    "caption": "A green bicycle",
+                    "element": "green",
+                    "question": "What color is the bicycle?",
+                    "choices": [
+                        "green",
+                        "red",
+                        "blue",
+                        "yellow"
+                    ],
+                    "answer": "green",
+                    "element_type": "color",
+                    "free_form_vqa": "green",
+                    "multiple_choice_vqa": "green",
+                    "scores": 1
+                }
+            }
+        }
+    ]
+}

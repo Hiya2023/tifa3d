@@ -1,0 +1,778 @@
+{
+    "method": "latentnerf",
+    "aspect": "shape",
+    "prompt_name": "An_elliptical_coffee_table_with_circular_legs",
+    "individual_scores": {
+        "rgb_0.png": 0.5,
+        "rgb_10.png": 0.5,
+        "rgb_20.png": 0.5,
+        "rgb_30.png": 0.5,
+        "rgb_40.png": 0.5,
+        "rgb_50.png": 0.5,
+        "rgb_60.png": 0.5,
+        "rgb_70.png": 0.5,
+        "rgb_80.png": 0.5,
+        "rgb_90.png": 0.5,
+        "rgb_100.png": 0.5,
+        "rgb_110.png": 0.5
+    },
+    "average_tifa_score": 0.5,
+    "question_logs": [
+        {
+            "image": "rgb_0.png",
+            "ques_ans": {
+                "Is this a coffee table?": {
+                    "caption": "An elliptical coffee table with circular legs",
+                    "element": "coffee table",
+                    "question": "Is this a coffee table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of furniture is shown?": {
+                    "caption": "An elliptical coffee table with circular legs",
+                    "element": "coffee table",
+                    "question": "What type of furniture is shown?",
+                    "choices": [
+                        "coffee table",
+                        "dining table",
+                        "desk",
+                        "chair"
+                    ],
+                    "answer": "coffee table",
+                    "element_type": "object",
+                    "free_form_vqa": "table",
+                    "multiple_choice_vqa": "dining table",
+                    "scores": 0
+                },
+                "Is the table elliptical?": {
+                    "caption": "An elliptical coffee table with circular legs",
+                    "element": "elliptical",
+                    "question": "Is the table elliptical?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Do the table legs have a circular shape?": {
+                    "caption": "An elliptical coffee table with circular legs",
+                    "element": "circular legs",
+                    "question": "Do the table legs have a circular shape?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_10.png",
+            "ques_ans": {
+                "Is this a coffee table?": {
+                    "caption": "An elliptical coffee table with circular legs",
+                    "element": "coffee table",
+                    "question": "Is this a coffee table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of furniture is shown?": {
+                    "caption": "An elliptical coffee table with circular legs",
+                    "element": "coffee table",
+                    "question": "What type of furniture is shown?",
+                    "choices": [
+                        "coffee table",
+                        "dining table",
+                        "desk",
+                        "chair"
+                    ],
+                    "answer": "coffee table",
+                    "element_type": "object",
+                    "free_form_vqa": "table",
+                    "multiple_choice_vqa": "dining table",
+                    "scores": 0
+                },
+                "Is the table elliptical?": {
+                    "caption": "An elliptical coffee table with circular legs",
+                    "element": "elliptical",
+                    "question": "Is the table elliptical?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Do the table legs have a circular shape?": {
+                    "caption": "An elliptical coffee table with circular legs",
+                    "element": "circular legs",
+                    "question": "Do the table legs have a circular shape?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_20.png",
+            "ques_ans": {
+                "Is this a coffee table?": {
+                    "caption": "An elliptical coffee table with circular legs",
+                    "element": "coffee table",
+                    "question": "Is this a coffee table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of furniture is shown?": {
+                    "caption": "An elliptical coffee table with circular legs",
+                    "element": "coffee table",
+                    "question": "What type of furniture is shown?",
+                    "choices": [
+                        "coffee table",
+                        "dining table",
+                        "desk",
+                        "chair"
+                    ],
+                    "answer": "coffee table",
+                    "element_type": "object",
+                    "free_form_vqa": "table",
+                    "multiple_choice_vqa": "dining table",
+                    "scores": 0
+                },
+                "Is the table elliptical?": {
+                    "caption": "An elliptical coffee table with circular legs",
+                    "element": "elliptical",
+                    "question": "Is the table elliptical?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Do the table legs have a circular shape?": {
+                    "caption": "An elliptical coffee table with circular legs",
+                    "element": "circular legs",
+                    "question": "Do the table legs have a circular shape?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_30.png",
+            "ques_ans": {
+                "Is this a coffee table?": {
+                    "caption": "An elliptical coffee table with circular legs",
+                    "element": "coffee table",
+                    "question": "Is this a coffee table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of furniture is shown?": {
+                    "caption": "An elliptical coffee table with circular legs",
+                    "element": "coffee table",
+                    "question": "What type of furniture is shown?",
+                    "choices": [
+                        "coffee table",
+                        "dining table",
+                        "desk",
+                        "chair"
+                    ],
+                    "answer": "coffee table",
+                    "element_type": "object",
+                    "free_form_vqa": "table",
+                    "multiple_choice_vqa": "dining table",
+                    "scores": 0
+                },
+                "Is the table elliptical?": {
+                    "caption": "An elliptical coffee table with circular legs",
+                    "element": "elliptical",
+                    "question": "Is the table elliptical?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Do the table legs have a circular shape?": {
+                    "caption": "An elliptical coffee table with circular legs",
+                    "element": "circular legs",
+                    "question": "Do the table legs have a circular shape?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_40.png",
+            "ques_ans": {
+                "Is this a coffee table?": {
+                    "caption": "An elliptical coffee table with circular legs",
+                    "element": "coffee table",
+                    "question": "Is this a coffee table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of furniture is shown?": {
+                    "caption": "An elliptical coffee table with circular legs",
+                    "element": "coffee table",
+                    "question": "What type of furniture is shown?",
+                    "choices": [
+                        "coffee table",
+                        "dining table",
+                        "desk",
+                        "chair"
+                    ],
+                    "answer": "coffee table",
+                    "element_type": "object",
+                    "free_form_vqa": "table",
+                    "multiple_choice_vqa": "dining table",
+                    "scores": 0
+                },
+                "Is the table elliptical?": {
+                    "caption": "An elliptical coffee table with circular legs",
+                    "element": "elliptical",
+                    "question": "Is the table elliptical?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Do the table legs have a circular shape?": {
+                    "caption": "An elliptical coffee table with circular legs",
+                    "element": "circular legs",
+                    "question": "Do the table legs have a circular shape?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_50.png",
+            "ques_ans": {
+                "Is this a coffee table?": {
+                    "caption": "An elliptical coffee table with circular legs",
+                    "element": "coffee table",
+                    "question": "Is this a coffee table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of furniture is shown?": {
+                    "caption": "An elliptical coffee table with circular legs",
+                    "element": "coffee table",
+                    "question": "What type of furniture is shown?",
+                    "choices": [
+                        "coffee table",
+                        "dining table",
+                        "desk",
+                        "chair"
+                    ],
+                    "answer": "coffee table",
+                    "element_type": "object",
+                    "free_form_vqa": "table",
+                    "multiple_choice_vqa": "dining table",
+                    "scores": 0
+                },
+                "Is the table elliptical?": {
+                    "caption": "An elliptical coffee table with circular legs",
+                    "element": "elliptical",
+                    "question": "Is the table elliptical?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Do the table legs have a circular shape?": {
+                    "caption": "An elliptical coffee table with circular legs",
+                    "element": "circular legs",
+                    "question": "Do the table legs have a circular shape?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_60.png",
+            "ques_ans": {
+                "Is this a coffee table?": {
+                    "caption": "An elliptical coffee table with circular legs",
+                    "element": "coffee table",
+                    "question": "Is this a coffee table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of furniture is shown?": {
+                    "caption": "An elliptical coffee table with circular legs",
+                    "element": "coffee table",
+                    "question": "What type of furniture is shown?",
+                    "choices": [
+                        "coffee table",
+                        "dining table",
+                        "desk",
+                        "chair"
+                    ],
+                    "answer": "coffee table",
+                    "element_type": "object",
+                    "free_form_vqa": "table",
+                    "multiple_choice_vqa": "dining table",
+                    "scores": 0
+                },
+                "Is the table elliptical?": {
+                    "caption": "An elliptical coffee table with circular legs",
+                    "element": "elliptical",
+                    "question": "Is the table elliptical?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Do the table legs have a circular shape?": {
+                    "caption": "An elliptical coffee table with circular legs",
+                    "element": "circular legs",
+                    "question": "Do the table legs have a circular shape?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_70.png",
+            "ques_ans": {
+                "Is this a coffee table?": {
+                    "caption": "An elliptical coffee table with circular legs",
+                    "element": "coffee table",
+                    "question": "Is this a coffee table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of furniture is shown?": {
+                    "caption": "An elliptical coffee table with circular legs",
+                    "element": "coffee table",
+                    "question": "What type of furniture is shown?",
+                    "choices": [
+                        "coffee table",
+                        "dining table",
+                        "desk",
+                        "chair"
+                    ],
+                    "answer": "coffee table",
+                    "element_type": "object",
+                    "free_form_vqa": "table",
+                    "multiple_choice_vqa": "dining table",
+                    "scores": 0
+                },
+                "Is the table elliptical?": {
+                    "caption": "An elliptical coffee table with circular legs",
+                    "element": "elliptical",
+                    "question": "Is the table elliptical?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Do the table legs have a circular shape?": {
+                    "caption": "An elliptical coffee table with circular legs",
+                    "element": "circular legs",
+                    "question": "Do the table legs have a circular shape?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_80.png",
+            "ques_ans": {
+                "Is this a coffee table?": {
+                    "caption": "An elliptical coffee table with circular legs",
+                    "element": "coffee table",
+                    "question": "Is this a coffee table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of furniture is shown?": {
+                    "caption": "An elliptical coffee table with circular legs",
+                    "element": "coffee table",
+                    "question": "What type of furniture is shown?",
+                    "choices": [
+                        "coffee table",
+                        "dining table",
+                        "desk",
+                        "chair"
+                    ],
+                    "answer": "coffee table",
+                    "element_type": "object",
+                    "free_form_vqa": "table",
+                    "multiple_choice_vqa": "dining table",
+                    "scores": 0
+                },
+                "Is the table elliptical?": {
+                    "caption": "An elliptical coffee table with circular legs",
+                    "element": "elliptical",
+                    "question": "Is the table elliptical?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Do the table legs have a circular shape?": {
+                    "caption": "An elliptical coffee table with circular legs",
+                    "element": "circular legs",
+                    "question": "Do the table legs have a circular shape?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_90.png",
+            "ques_ans": {
+                "Is this a coffee table?": {
+                    "caption": "An elliptical coffee table with circular legs",
+                    "element": "coffee table",
+                    "question": "Is this a coffee table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of furniture is shown?": {
+                    "caption": "An elliptical coffee table with circular legs",
+                    "element": "coffee table",
+                    "question": "What type of furniture is shown?",
+                    "choices": [
+                        "coffee table",
+                        "dining table",
+                        "desk",
+                        "chair"
+                    ],
+                    "answer": "coffee table",
+                    "element_type": "object",
+                    "free_form_vqa": "table",
+                    "multiple_choice_vqa": "dining table",
+                    "scores": 0
+                },
+                "Is the table elliptical?": {
+                    "caption": "An elliptical coffee table with circular legs",
+                    "element": "elliptical",
+                    "question": "Is the table elliptical?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Do the table legs have a circular shape?": {
+                    "caption": "An elliptical coffee table with circular legs",
+                    "element": "circular legs",
+                    "question": "Do the table legs have a circular shape?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_100.png",
+            "ques_ans": {
+                "Is this a coffee table?": {
+                    "caption": "An elliptical coffee table with circular legs",
+                    "element": "coffee table",
+                    "question": "Is this a coffee table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of furniture is shown?": {
+                    "caption": "An elliptical coffee table with circular legs",
+                    "element": "coffee table",
+                    "question": "What type of furniture is shown?",
+                    "choices": [
+                        "coffee table",
+                        "dining table",
+                        "desk",
+                        "chair"
+                    ],
+                    "answer": "coffee table",
+                    "element_type": "object",
+                    "free_form_vqa": "table",
+                    "multiple_choice_vqa": "dining table",
+                    "scores": 0
+                },
+                "Is the table elliptical?": {
+                    "caption": "An elliptical coffee table with circular legs",
+                    "element": "elliptical",
+                    "question": "Is the table elliptical?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Do the table legs have a circular shape?": {
+                    "caption": "An elliptical coffee table with circular legs",
+                    "element": "circular legs",
+                    "question": "Do the table legs have a circular shape?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_110.png",
+            "ques_ans": {
+                "Is this a coffee table?": {
+                    "caption": "An elliptical coffee table with circular legs",
+                    "element": "coffee table",
+                    "question": "Is this a coffee table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of furniture is shown?": {
+                    "caption": "An elliptical coffee table with circular legs",
+                    "element": "coffee table",
+                    "question": "What type of furniture is shown?",
+                    "choices": [
+                        "coffee table",
+                        "dining table",
+                        "desk",
+                        "chair"
+                    ],
+                    "answer": "coffee table",
+                    "element_type": "object",
+                    "free_form_vqa": "table",
+                    "multiple_choice_vqa": "dining table",
+                    "scores": 0
+                },
+                "Is the table elliptical?": {
+                    "caption": "An elliptical coffee table with circular legs",
+                    "element": "elliptical",
+                    "question": "Is the table elliptical?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Do the table legs have a circular shape?": {
+                    "caption": "An elliptical coffee table with circular legs",
+                    "element": "circular legs",
+                    "question": "Do the table legs have a circular shape?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        }
+    ]
+}

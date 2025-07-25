@@ -1,0 +1,74 @@
+[
+    {
+        "caption": "A conical lampshade on a cylindrical base",
+        "element": "lampshade",
+        "question": "Is there a lampshade?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "A conical lampshade on a cylindrical base",
+        "element": "lampshade",
+        "question": "What type of object is shown?",
+        "choices": [
+            "lampshade",
+            "vase",
+            "bowl",
+            "plate"
+        ],
+        "answer": "lampshade",
+        "element_type": "object"
+    },
+    {
+        "caption": "A conical lampshade on a cylindrical base",
+        "element": "conical",
+        "question": "Is the lampshade conical?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "shape"
+    },
+    {
+        "caption": "A conical lampshade on a cylindrical base",
+        "element": "conical",
+        "question": "What is the shape of the lampshade?",
+        "choices": [
+            "conical",
+            "spherical",
+            "rectangular",
+            "oval"
+        ],
+        "answer": "conical",
+        "element_type": "shape"
+    },
+    {
+        "caption": "A conical lampshade on a cylindrical base",
+        "element": "cylindrical base",
+        "question": "Is the base cylindrical?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "shape"
+    },
+    {
+        "caption": "A conical lampshade on a cylindrical base",
+        "element": "cylindrical base",
+        "question": "What is the shape of the base?",
+        "choices": [
+            "cylindrical",
+            "square",
+            "triangular",
+            "hexagonal"
+        ],
+        "answer": "cylindrical",
+        "element_type": "shape"
+    }
+]

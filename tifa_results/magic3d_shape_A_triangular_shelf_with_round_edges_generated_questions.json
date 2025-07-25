@@ -1,0 +1,74 @@
+[
+    {
+        "caption": "A triangular shelf with round edges",
+        "element": "shelf",
+        "question": "Is this a shelf?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "A triangular shelf with round edges",
+        "element": "shelf",
+        "question": "What type of furniture is shown?",
+        "choices": [
+            "shelf",
+            "table",
+            "chair",
+            "cabinet"
+        ],
+        "answer": "shelf",
+        "element_type": "object"
+    },
+    {
+        "caption": "A triangular shelf with round edges",
+        "element": "triangular",
+        "question": "Is the shelf triangular?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "shape"
+    },
+    {
+        "caption": "A triangular shelf with round edges",
+        "element": "triangular",
+        "question": "What is the shape of the shelf?",
+        "choices": [
+            "triangular",
+            "square",
+            "circular",
+            "rectangular"
+        ],
+        "answer": "triangular",
+        "element_type": "shape"
+    },
+    {
+        "caption": "A triangular shelf with round edges",
+        "element": "round edges",
+        "question": "Does the shelf have round edges?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "attribute"
+    },
+    {
+        "caption": "A triangular shelf with round edges",
+        "element": "round edges",
+        "question": "What is unique about the edges of the shelf?",
+        "choices": [
+            "round",
+            "sharp",
+            "flat",
+            "pointed"
+        ],
+        "answer": "round",
+        "element_type": "attribute"
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "caption": "A spherical globe on a cubic pedestal",
+        "element": "globe",
+        "question": "Is there a globe?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "A spherical globe on a cubic pedestal",
+        "element": "globe",
+        "question": "What object is shown?",
+        "choices": [
+            "globe",
+            "map",
+            "book",
+            "lamp"
+        ],
+        "answer": "globe",
+        "element_type": "object"
+    },
+    {
+        "caption": "A spherical globe on a cubic pedestal",
+        "element": "pedestal",
+        "question": "Is there a pedestal?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "A spherical globe on a cubic pedestal",
+        "element": "pedestal",
+        "question": "What is the globe placed on?",
+        "choices": [
+            "pedestal",
+            "table",
+            "shelf",
+            "chair"
+        ],
+        "answer": "pedestal",
+        "element_type": "object"
+    },
+    {
+        "caption": "A spherical globe on a cubic pedestal",
+        "element": "spherical",
+        "question": "Is the globe spherical?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "shape"
+    },
+    {
+        "caption": "A spherical globe on a cubic pedestal",
+        "element": "spherical",
+        "question": "What shape is the globe?",
+        "choices": [
+            "spherical",
+            "cylindrical",
+            "rectangular",
+            "triangular"
+        ],
+        "answer": "spherical",
+        "element_type": "shape"
+    },
+    {
+        "caption": "A spherical globe on a cubic pedestal",
+        "element": "cubic",
+        "question": "Is the pedestal cubic?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "shape"
+    },
+    {
+        "caption": "A spherical globe on a cubic pedestal",
+        "element": "cubic",
+        "question": "What shape is the pedestal?",
+        "choices": [
+            "cubic",
+            "round",
+            "oval",
+            "triangular"
+        ],
+        "answer": "cubic",
+        "element_type": "shape"
+    }
+]

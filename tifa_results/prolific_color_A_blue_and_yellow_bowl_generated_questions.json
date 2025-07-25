@@ -1,0 +1,50 @@
+[
+    {
+        "caption": "A blue and yellow bowl",
+        "element": "bowl",
+        "question": "Is this a bowl?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "A blue and yellow bowl",
+        "element": "bowl",
+        "question": "What type of item is shown?",
+        "choices": [
+            "bowl",
+            "plate",
+            "cup",
+            "vase"
+        ],
+        "answer": "bowl",
+        "element_type": "object"
+    },
+    {
+        "caption": "A blue and yellow bowl",
+        "element": "blue and yellow",
+        "question": "Does the bowl have blue and yellow colors?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "color"
+    },
+    {
+        "caption": "A blue and yellow bowl",
+        "element": "blue and yellow",
+        "question": "What colors are on the bowl?",
+        "choices": [
+            "blue and yellow",
+            "red and green",
+            "black and white",
+            "purple and orange"
+        ],
+        "answer": "blue and yellow",
+        "element_type": "color"
+    }
+]

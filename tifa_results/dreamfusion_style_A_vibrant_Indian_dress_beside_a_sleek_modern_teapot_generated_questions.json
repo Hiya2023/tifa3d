@@ -1,0 +1,170 @@
+[
+    {
+        "caption": "A vibrant Indian dress beside a sleek modern teapot",
+        "element": "dress",
+        "question": "Is there a dress?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "A vibrant Indian dress beside a sleek modern teapot",
+        "element": "dress",
+        "question": "What type of clothing is shown?",
+        "choices": [
+            "dress",
+            "shirt",
+            "pants",
+            "skirt"
+        ],
+        "answer": "dress",
+        "element_type": "object"
+    },
+    {
+        "caption": "A vibrant Indian dress beside a sleek modern teapot",
+        "element": "teapot",
+        "question": "Is there a teapot?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "A vibrant Indian dress beside a sleek modern teapot",
+        "element": "teapot",
+        "question": "What type of item is shown?",
+        "choices": [
+            "teapot",
+            "vase",
+            "jar",
+            "bottle"
+        ],
+        "answer": "teapot",
+        "element_type": "object"
+    },
+    {
+        "caption": "A vibrant Indian dress beside a sleek modern teapot",
+        "element": "vibrant",
+        "question": "Is the dress vibrant in color?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "color"
+    },
+    {
+        "caption": "A vibrant Indian dress beside a sleek modern teapot",
+        "element": "vibrant",
+        "question": "How would you describe the color of the dress?",
+        "choices": [
+            "vibrant",
+            "dull",
+            "pastel",
+            "monochrome"
+        ],
+        "answer": "vibrant",
+        "element_type": "color"
+    },
+    {
+        "caption": "A vibrant Indian dress beside a sleek modern teapot",
+        "element": "Indian",
+        "question": "Is the dress Indian?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "attribute"
+    },
+    {
+        "caption": "A vibrant Indian dress beside a sleek modern teapot",
+        "element": "Indian",
+        "question": "What is the cultural style of the dress?",
+        "choices": [
+            "Indian",
+            "Japanese",
+            "Italian",
+            "African"
+        ],
+        "answer": "Indian",
+        "element_type": "attribute"
+    },
+    {
+        "caption": "A vibrant Indian dress beside a sleek modern teapot",
+        "element": "sleek",
+        "question": "Is the teapot sleek?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "attribute"
+    },
+    {
+        "caption": "A vibrant Indian dress beside a sleek modern teapot",
+        "element": "sleek",
+        "question": "How would you describe the teapot\u2019s design?",
+        "choices": [
+            "sleek",
+            "bulky",
+            "ornate",
+            "rustic"
+        ],
+        "answer": "sleek",
+        "element_type": "attribute"
+    },
+    {
+        "caption": "A vibrant Indian dress beside a sleek modern teapot",
+        "element": "modern",
+        "question": "Is the teapot modern?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "attribute"
+    },
+    {
+        "caption": "A vibrant Indian dress beside a sleek modern teapot",
+        "element": "modern",
+        "question": "How would you describe the teapot\u2019s style?",
+        "choices": [
+            "modern",
+            "vintage",
+            "traditional",
+            "antique"
+        ],
+        "answer": "modern",
+        "element_type": "attribute"
+    },
+    {
+        "caption": "A vibrant Indian dress beside a sleek modern teapot",
+        "element": "beside",
+        "question": "Is the dress beside the teapot?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "spatial"
+    },
+    {
+        "caption": "A vibrant Indian dress beside a sleek modern teapot",
+        "element": "beside",
+        "question": "What is the spatial relation between the dress and the teapot?",
+        "choices": [
+            "beside",
+            "above",
+            "behind",
+            "under"
+        ],
+        "answer": "beside",
+        "element_type": "spatial"
+    }
+]

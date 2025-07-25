@@ -1,0 +1,122 @@
+[
+    {
+        "caption": "A yellow cat on a white sofa",
+        "element": "cat",
+        "question": "Is there a cat?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "animal/human"
+    },
+    {
+        "caption": "A yellow cat on a white sofa",
+        "element": "cat",
+        "question": "What animal is shown?",
+        "choices": [
+            "cat",
+            "dog",
+            "bird",
+            "fish"
+        ],
+        "answer": "cat",
+        "element_type": "animal/human"
+    },
+    {
+        "caption": "A yellow cat on a white sofa",
+        "element": "sofa",
+        "question": "Is there a sofa?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "A yellow cat on a white sofa",
+        "element": "sofa",
+        "question": "What piece of furniture is in the image?",
+        "choices": [
+            "sofa",
+            "chair",
+            "table",
+            "bed"
+        ],
+        "answer": "sofa",
+        "element_type": "object"
+    },
+    {
+        "caption": "A yellow cat on a white sofa",
+        "element": "yellow",
+        "question": "Is the cat yellow?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "color"
+    },
+    {
+        "caption": "A yellow cat on a white sofa",
+        "element": "yellow",
+        "question": "What color is the cat?",
+        "choices": [
+            "yellow",
+            "black",
+            "white",
+            "brown"
+        ],
+        "answer": "yellow",
+        "element_type": "color"
+    },
+    {
+        "caption": "A yellow cat on a white sofa",
+        "element": "white",
+        "question": "Is the sofa white?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "color"
+    },
+    {
+        "caption": "A yellow cat on a white sofa",
+        "element": "white",
+        "question": "What color is the sofa?",
+        "choices": [
+            "white",
+            "blue",
+            "red",
+            "green"
+        ],
+        "answer": "white",
+        "element_type": "color"
+    },
+    {
+        "caption": "A yellow cat on a white sofa",
+        "element": "on",
+        "question": "Is the cat on the sofa?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "spatial"
+    },
+    {
+        "caption": "A yellow cat on a white sofa",
+        "element": "on",
+        "question": "What is the spatial relation between the cat and the sofa?",
+        "choices": [
+            "on",
+            "under",
+            "beside",
+            "behind"
+        ],
+        "answer": "on",
+        "element_type": "spatial"
+    }
+]

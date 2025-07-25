@@ -1,0 +1,1498 @@
+{
+    "method": "mvdream",
+    "aspect": "shape",
+    "prompt_name": "A_circular_clock_above_a_cuboid_bookshelf",
+    "individual_scores": {
+        "rgb_0.png": 0.625,
+        "rgb_10.png": 0.625,
+        "rgb_20.png": 0.625,
+        "rgb_30.png": 0.375,
+        "rgb_40.png": 0.5,
+        "rgb_50.png": 0.5,
+        "rgb_60.png": 0.625,
+        "rgb_70.png": 0.625,
+        "rgb_80.png": 0.5,
+        "rgb_90.png": 0.375,
+        "rgb_100.png": 0.625,
+        "rgb_110.png": 0.625
+    },
+    "average_tifa_score": 0.5520833333333334,
+    "question_logs": [
+        {
+            "image": "rgb_0.png",
+            "ques_ans": {
+                "Is there a clock?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "clock",
+                    "question": "Is there a clock?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of object is shown?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "clock",
+                    "question": "What type of object is shown?",
+                    "choices": [
+                        "clock",
+                        "mirror",
+                        "painting",
+                        "lamp"
+                    ],
+                    "answer": "clock",
+                    "element_type": "object",
+                    "free_form_vqa": "ferris wheel",
+                    "multiple_choice_vqa": "painting",
+                    "scores": 0
+                },
+                "Is there a bookshelf?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "bookshelf",
+                    "question": "Is there a bookshelf?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the clock circular?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "circular",
+                    "question": "Is the clock circular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the clock?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "circular",
+                    "question": "What shape is the clock?",
+                    "choices": [
+                        "circular",
+                        "square",
+                        "triangular",
+                        "rectangular"
+                    ],
+                    "answer": "circular",
+                    "element_type": "shape",
+                    "free_form_vqa": "circle",
+                    "multiple_choice_vqa": "circular",
+                    "scores": 1
+                },
+                "Is the bookshelf cuboid?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "cuboid",
+                    "question": "Is the bookshelf cuboid?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the bookshelf?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "cuboid",
+                    "question": "What shape is the bookshelf?",
+                    "choices": [
+                        "cuboid",
+                        "cylindrical",
+                        "spherical",
+                        "conical"
+                    ],
+                    "answer": "cuboid",
+                    "element_type": "shape",
+                    "free_form_vqa": "rectangle",
+                    "multiple_choice_vqa": "cuboid",
+                    "scores": 1
+                },
+                "Is the clock above the bookshelf?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "above",
+                    "question": "Is the clock above the bookshelf?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_10.png",
+            "ques_ans": {
+                "Is there a clock?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "clock",
+                    "question": "Is there a clock?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of object is shown?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "clock",
+                    "question": "What type of object is shown?",
+                    "choices": [
+                        "clock",
+                        "mirror",
+                        "painting",
+                        "lamp"
+                    ],
+                    "answer": "clock",
+                    "element_type": "object",
+                    "free_form_vqa": "ferris wheel",
+                    "multiple_choice_vqa": "painting",
+                    "scores": 0
+                },
+                "Is there a bookshelf?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "bookshelf",
+                    "question": "Is there a bookshelf?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the clock circular?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "circular",
+                    "question": "Is the clock circular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the clock?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "circular",
+                    "question": "What shape is the clock?",
+                    "choices": [
+                        "circular",
+                        "square",
+                        "triangular",
+                        "rectangular"
+                    ],
+                    "answer": "circular",
+                    "element_type": "shape",
+                    "free_form_vqa": "circle",
+                    "multiple_choice_vqa": "circular",
+                    "scores": 1
+                },
+                "Is the bookshelf cuboid?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "cuboid",
+                    "question": "Is the bookshelf cuboid?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the bookshelf?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "cuboid",
+                    "question": "What shape is the bookshelf?",
+                    "choices": [
+                        "cuboid",
+                        "cylindrical",
+                        "spherical",
+                        "conical"
+                    ],
+                    "answer": "cuboid",
+                    "element_type": "shape",
+                    "free_form_vqa": "rectangle",
+                    "multiple_choice_vqa": "cuboid",
+                    "scores": 1
+                },
+                "Is the clock above the bookshelf?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "above",
+                    "question": "Is the clock above the bookshelf?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_20.png",
+            "ques_ans": {
+                "Is there a clock?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "clock",
+                    "question": "Is there a clock?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of object is shown?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "clock",
+                    "question": "What type of object is shown?",
+                    "choices": [
+                        "clock",
+                        "mirror",
+                        "painting",
+                        "lamp"
+                    ],
+                    "answer": "clock",
+                    "element_type": "object",
+                    "free_form_vqa": "ferris wheel",
+                    "multiple_choice_vqa": "painting",
+                    "scores": 0
+                },
+                "Is there a bookshelf?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "bookshelf",
+                    "question": "Is there a bookshelf?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the clock circular?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "circular",
+                    "question": "Is the clock circular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the clock?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "circular",
+                    "question": "What shape is the clock?",
+                    "choices": [
+                        "circular",
+                        "square",
+                        "triangular",
+                        "rectangular"
+                    ],
+                    "answer": "circular",
+                    "element_type": "shape",
+                    "free_form_vqa": "circle",
+                    "multiple_choice_vqa": "circular",
+                    "scores": 1
+                },
+                "Is the bookshelf cuboid?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "cuboid",
+                    "question": "Is the bookshelf cuboid?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the bookshelf?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "cuboid",
+                    "question": "What shape is the bookshelf?",
+                    "choices": [
+                        "cuboid",
+                        "cylindrical",
+                        "spherical",
+                        "conical"
+                    ],
+                    "answer": "cuboid",
+                    "element_type": "shape",
+                    "free_form_vqa": "rectangle",
+                    "multiple_choice_vqa": "cuboid",
+                    "scores": 1
+                },
+                "Is the clock above the bookshelf?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "above",
+                    "question": "Is the clock above the bookshelf?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_30.png",
+            "ques_ans": {
+                "Is there a clock?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "clock",
+                    "question": "Is there a clock?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What type of object is shown?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "clock",
+                    "question": "What type of object is shown?",
+                    "choices": [
+                        "clock",
+                        "mirror",
+                        "painting",
+                        "lamp"
+                    ],
+                    "answer": "clock",
+                    "element_type": "object",
+                    "free_form_vqa": "ski",
+                    "multiple_choice_vqa": "painting",
+                    "scores": 0
+                },
+                "Is there a bookshelf?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "bookshelf",
+                    "question": "Is there a bookshelf?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the clock circular?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "circular",
+                    "question": "Is the clock circular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What shape is the clock?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "circular",
+                    "question": "What shape is the clock?",
+                    "choices": [
+                        "circular",
+                        "square",
+                        "triangular",
+                        "rectangular"
+                    ],
+                    "answer": "circular",
+                    "element_type": "shape",
+                    "free_form_vqa": "circle",
+                    "multiple_choice_vqa": "circular",
+                    "scores": 1
+                },
+                "Is the bookshelf cuboid?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "cuboid",
+                    "question": "Is the bookshelf cuboid?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the bookshelf?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "cuboid",
+                    "question": "What shape is the bookshelf?",
+                    "choices": [
+                        "cuboid",
+                        "cylindrical",
+                        "spherical",
+                        "conical"
+                    ],
+                    "answer": "cuboid",
+                    "element_type": "shape",
+                    "free_form_vqa": "rectangle",
+                    "multiple_choice_vqa": "cuboid",
+                    "scores": 1
+                },
+                "Is the clock above the bookshelf?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "above",
+                    "question": "Is the clock above the bookshelf?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_40.png",
+            "ques_ans": {
+                "Is there a clock?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "clock",
+                    "question": "Is there a clock?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of object is shown?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "clock",
+                    "question": "What type of object is shown?",
+                    "choices": [
+                        "clock",
+                        "mirror",
+                        "painting",
+                        "lamp"
+                    ],
+                    "answer": "clock",
+                    "element_type": "object",
+                    "free_form_vqa": "ferris wheel",
+                    "multiple_choice_vqa": "painting",
+                    "scores": 0
+                },
+                "Is there a bookshelf?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "bookshelf",
+                    "question": "Is there a bookshelf?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the clock circular?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "circular",
+                    "question": "Is the clock circular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the clock?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "circular",
+                    "question": "What shape is the clock?",
+                    "choices": [
+                        "circular",
+                        "square",
+                        "triangular",
+                        "rectangular"
+                    ],
+                    "answer": "circular",
+                    "element_type": "shape",
+                    "free_form_vqa": "circle",
+                    "multiple_choice_vqa": "circular",
+                    "scores": 1
+                },
+                "Is the bookshelf cuboid?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "cuboid",
+                    "question": "Is the bookshelf cuboid?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What shape is the bookshelf?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "cuboid",
+                    "question": "What shape is the bookshelf?",
+                    "choices": [
+                        "cuboid",
+                        "cylindrical",
+                        "spherical",
+                        "conical"
+                    ],
+                    "answer": "cuboid",
+                    "element_type": "shape",
+                    "free_form_vqa": "rectangle",
+                    "multiple_choice_vqa": "cuboid",
+                    "scores": 1
+                },
+                "Is the clock above the bookshelf?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "above",
+                    "question": "Is the clock above the bookshelf?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_50.png",
+            "ques_ans": {
+                "Is there a clock?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "clock",
+                    "question": "Is there a clock?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of object is shown?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "clock",
+                    "question": "What type of object is shown?",
+                    "choices": [
+                        "clock",
+                        "mirror",
+                        "painting",
+                        "lamp"
+                    ],
+                    "answer": "clock",
+                    "element_type": "object",
+                    "free_form_vqa": "ferris wheel",
+                    "multiple_choice_vqa": "painting",
+                    "scores": 0
+                },
+                "Is there a bookshelf?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "bookshelf",
+                    "question": "Is there a bookshelf?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the clock circular?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "circular",
+                    "question": "Is the clock circular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the clock?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "circular",
+                    "question": "What shape is the clock?",
+                    "choices": [
+                        "circular",
+                        "square",
+                        "triangular",
+                        "rectangular"
+                    ],
+                    "answer": "circular",
+                    "element_type": "shape",
+                    "free_form_vqa": "circle",
+                    "multiple_choice_vqa": "circular",
+                    "scores": 1
+                },
+                "Is the bookshelf cuboid?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "cuboid",
+                    "question": "Is the bookshelf cuboid?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the bookshelf?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "cuboid",
+                    "question": "What shape is the bookshelf?",
+                    "choices": [
+                        "cuboid",
+                        "cylindrical",
+                        "spherical",
+                        "conical"
+                    ],
+                    "answer": "cuboid",
+                    "element_type": "shape",
+                    "free_form_vqa": "round",
+                    "multiple_choice_vqa": "spherical",
+                    "scores": 0
+                },
+                "Is the clock above the bookshelf?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "above",
+                    "question": "Is the clock above the bookshelf?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_60.png",
+            "ques_ans": {
+                "Is there a clock?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "clock",
+                    "question": "Is there a clock?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of object is shown?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "clock",
+                    "question": "What type of object is shown?",
+                    "choices": [
+                        "clock",
+                        "mirror",
+                        "painting",
+                        "lamp"
+                    ],
+                    "answer": "clock",
+                    "element_type": "object",
+                    "free_form_vqa": "ferris wheel",
+                    "multiple_choice_vqa": "painting",
+                    "scores": 0
+                },
+                "Is there a bookshelf?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "bookshelf",
+                    "question": "Is there a bookshelf?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the clock circular?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "circular",
+                    "question": "Is the clock circular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the clock?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "circular",
+                    "question": "What shape is the clock?",
+                    "choices": [
+                        "circular",
+                        "square",
+                        "triangular",
+                        "rectangular"
+                    ],
+                    "answer": "circular",
+                    "element_type": "shape",
+                    "free_form_vqa": "circle",
+                    "multiple_choice_vqa": "circular",
+                    "scores": 1
+                },
+                "Is the bookshelf cuboid?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "cuboid",
+                    "question": "Is the bookshelf cuboid?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the bookshelf?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "cuboid",
+                    "question": "What shape is the bookshelf?",
+                    "choices": [
+                        "cuboid",
+                        "cylindrical",
+                        "spherical",
+                        "conical"
+                    ],
+                    "answer": "cuboid",
+                    "element_type": "shape",
+                    "free_form_vqa": "rectangle",
+                    "multiple_choice_vqa": "cuboid",
+                    "scores": 1
+                },
+                "Is the clock above the bookshelf?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "above",
+                    "question": "Is the clock above the bookshelf?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_70.png",
+            "ques_ans": {
+                "Is there a clock?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "clock",
+                    "question": "Is there a clock?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of object is shown?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "clock",
+                    "question": "What type of object is shown?",
+                    "choices": [
+                        "clock",
+                        "mirror",
+                        "painting",
+                        "lamp"
+                    ],
+                    "answer": "clock",
+                    "element_type": "object",
+                    "free_form_vqa": "ferris wheel",
+                    "multiple_choice_vqa": "painting",
+                    "scores": 0
+                },
+                "Is there a bookshelf?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "bookshelf",
+                    "question": "Is there a bookshelf?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the clock circular?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "circular",
+                    "question": "Is the clock circular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the clock?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "circular",
+                    "question": "What shape is the clock?",
+                    "choices": [
+                        "circular",
+                        "square",
+                        "triangular",
+                        "rectangular"
+                    ],
+                    "answer": "circular",
+                    "element_type": "shape",
+                    "free_form_vqa": "circle",
+                    "multiple_choice_vqa": "circular",
+                    "scores": 1
+                },
+                "Is the bookshelf cuboid?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "cuboid",
+                    "question": "Is the bookshelf cuboid?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the bookshelf?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "cuboid",
+                    "question": "What shape is the bookshelf?",
+                    "choices": [
+                        "cuboid",
+                        "cylindrical",
+                        "spherical",
+                        "conical"
+                    ],
+                    "answer": "cuboid",
+                    "element_type": "shape",
+                    "free_form_vqa": "rectangle",
+                    "multiple_choice_vqa": "cuboid",
+                    "scores": 1
+                },
+                "Is the clock above the bookshelf?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "above",
+                    "question": "Is the clock above the bookshelf?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_80.png",
+            "ques_ans": {
+                "Is there a clock?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "clock",
+                    "question": "Is there a clock?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of object is shown?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "clock",
+                    "question": "What type of object is shown?",
+                    "choices": [
+                        "clock",
+                        "mirror",
+                        "painting",
+                        "lamp"
+                    ],
+                    "answer": "clock",
+                    "element_type": "object",
+                    "free_form_vqa": "ferris wheel",
+                    "multiple_choice_vqa": "painting",
+                    "scores": 0
+                },
+                "Is there a bookshelf?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "bookshelf",
+                    "question": "Is there a bookshelf?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the clock circular?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "circular",
+                    "question": "Is the clock circular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the clock?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "circular",
+                    "question": "What shape is the clock?",
+                    "choices": [
+                        "circular",
+                        "square",
+                        "triangular",
+                        "rectangular"
+                    ],
+                    "answer": "circular",
+                    "element_type": "shape",
+                    "free_form_vqa": "circle",
+                    "multiple_choice_vqa": "circular",
+                    "scores": 1
+                },
+                "Is the bookshelf cuboid?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "cuboid",
+                    "question": "Is the bookshelf cuboid?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the bookshelf?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "cuboid",
+                    "question": "What shape is the bookshelf?",
+                    "choices": [
+                        "cuboid",
+                        "cylindrical",
+                        "spherical",
+                        "conical"
+                    ],
+                    "answer": "cuboid",
+                    "element_type": "shape",
+                    "free_form_vqa": "round",
+                    "multiple_choice_vqa": "spherical",
+                    "scores": 0
+                },
+                "Is the clock above the bookshelf?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "above",
+                    "question": "Is the clock above the bookshelf?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_90.png",
+            "ques_ans": {
+                "Is there a clock?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "clock",
+                    "question": "Is there a clock?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What type of object is shown?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "clock",
+                    "question": "What type of object is shown?",
+                    "choices": [
+                        "clock",
+                        "mirror",
+                        "painting",
+                        "lamp"
+                    ],
+                    "answer": "clock",
+                    "element_type": "object",
+                    "free_form_vqa": "microphone",
+                    "multiple_choice_vqa": "mirror",
+                    "scores": 0
+                },
+                "Is there a bookshelf?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "bookshelf",
+                    "question": "Is there a bookshelf?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the clock circular?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "circular",
+                    "question": "Is the clock circular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What shape is the clock?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "circular",
+                    "question": "What shape is the clock?",
+                    "choices": [
+                        "circular",
+                        "square",
+                        "triangular",
+                        "rectangular"
+                    ],
+                    "answer": "circular",
+                    "element_type": "shape",
+                    "free_form_vqa": "round",
+                    "multiple_choice_vqa": "circular",
+                    "scores": 1
+                },
+                "Is the bookshelf cuboid?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "cuboid",
+                    "question": "Is the bookshelf cuboid?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the bookshelf?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "cuboid",
+                    "question": "What shape is the bookshelf?",
+                    "choices": [
+                        "cuboid",
+                        "cylindrical",
+                        "spherical",
+                        "conical"
+                    ],
+                    "answer": "cuboid",
+                    "element_type": "shape",
+                    "free_form_vqa": "rectangle",
+                    "multiple_choice_vqa": "cuboid",
+                    "scores": 1
+                },
+                "Is the clock above the bookshelf?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "above",
+                    "question": "Is the clock above the bookshelf?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_100.png",
+            "ques_ans": {
+                "Is there a clock?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "clock",
+                    "question": "Is there a clock?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of object is shown?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "clock",
+                    "question": "What type of object is shown?",
+                    "choices": [
+                        "clock",
+                        "mirror",
+                        "painting",
+                        "lamp"
+                    ],
+                    "answer": "clock",
+                    "element_type": "object",
+                    "free_form_vqa": "wheel",
+                    "multiple_choice_vqa": "lamp",
+                    "scores": 0
+                },
+                "Is there a bookshelf?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "bookshelf",
+                    "question": "Is there a bookshelf?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the clock circular?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "circular",
+                    "question": "Is the clock circular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the clock?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "circular",
+                    "question": "What shape is the clock?",
+                    "choices": [
+                        "circular",
+                        "square",
+                        "triangular",
+                        "rectangular"
+                    ],
+                    "answer": "circular",
+                    "element_type": "shape",
+                    "free_form_vqa": "circle",
+                    "multiple_choice_vqa": "circular",
+                    "scores": 1
+                },
+                "Is the bookshelf cuboid?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "cuboid",
+                    "question": "Is the bookshelf cuboid?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the bookshelf?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "cuboid",
+                    "question": "What shape is the bookshelf?",
+                    "choices": [
+                        "cuboid",
+                        "cylindrical",
+                        "spherical",
+                        "conical"
+                    ],
+                    "answer": "cuboid",
+                    "element_type": "shape",
+                    "free_form_vqa": "rectangle",
+                    "multiple_choice_vqa": "cuboid",
+                    "scores": 1
+                },
+                "Is the clock above the bookshelf?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "above",
+                    "question": "Is the clock above the bookshelf?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_110.png",
+            "ques_ans": {
+                "Is there a clock?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "clock",
+                    "question": "Is there a clock?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What type of object is shown?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "clock",
+                    "question": "What type of object is shown?",
+                    "choices": [
+                        "clock",
+                        "mirror",
+                        "painting",
+                        "lamp"
+                    ],
+                    "answer": "clock",
+                    "element_type": "object",
+                    "free_form_vqa": "wheel",
+                    "multiple_choice_vqa": "lamp",
+                    "scores": 0
+                },
+                "Is there a bookshelf?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "bookshelf",
+                    "question": "Is there a bookshelf?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the clock circular?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "circular",
+                    "question": "Is the clock circular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the clock?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "circular",
+                    "question": "What shape is the clock?",
+                    "choices": [
+                        "circular",
+                        "square",
+                        "triangular",
+                        "rectangular"
+                    ],
+                    "answer": "circular",
+                    "element_type": "shape",
+                    "free_form_vqa": "circle",
+                    "multiple_choice_vqa": "circular",
+                    "scores": 1
+                },
+                "Is the bookshelf cuboid?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "cuboid",
+                    "question": "Is the bookshelf cuboid?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the bookshelf?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "cuboid",
+                    "question": "What shape is the bookshelf?",
+                    "choices": [
+                        "cuboid",
+                        "cylindrical",
+                        "spherical",
+                        "conical"
+                    ],
+                    "answer": "cuboid",
+                    "element_type": "shape",
+                    "free_form_vqa": "rectangle",
+                    "multiple_choice_vqa": "cuboid",
+                    "scores": 1
+                },
+                "Is the clock above the bookshelf?": {
+                    "caption": "A circular clock above a cuboid bookshelf",
+                    "element": "above",
+                    "question": "Is the clock above the bookshelf?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        }
+    ]
+}

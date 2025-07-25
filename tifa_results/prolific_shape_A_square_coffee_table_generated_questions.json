@@ -1,0 +1,50 @@
+[
+    {
+        "caption": "A square coffee table",
+        "element": "coffee table",
+        "question": "Is this a coffee table?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "A square coffee table",
+        "element": "coffee table",
+        "question": "What type of furniture is shown?",
+        "choices": [
+            "coffee table",
+            "dining table",
+            "desk",
+            "chair"
+        ],
+        "answer": "coffee table",
+        "element_type": "object"
+    },
+    {
+        "caption": "A square coffee table",
+        "element": "square",
+        "question": "Is the coffee table square?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "shape"
+    },
+    {
+        "caption": "A square coffee table",
+        "element": "square",
+        "question": "What is the shape of the coffee table?",
+        "choices": [
+            "square",
+            "round",
+            "oval",
+            "rectangular"
+        ],
+        "answer": "square",
+        "element_type": "shape"
+    }
+]

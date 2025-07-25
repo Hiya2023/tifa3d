@@ -1,0 +1,74 @@
+[
+    {
+        "caption": "A rustic Italian teapot",
+        "element": "teapot",
+        "question": "Is this a teapot?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "A rustic Italian teapot",
+        "element": "teapot",
+        "question": "What type of object is shown?",
+        "choices": [
+            "teapot",
+            "vase",
+            "coffee mug",
+            "kettle"
+        ],
+        "answer": "teapot",
+        "element_type": "object"
+    },
+    {
+        "caption": "A rustic Italian teapot",
+        "element": "rustic",
+        "question": "Is the teapot rustic?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "attribute"
+    },
+    {
+        "caption": "A rustic Italian teapot",
+        "element": "rustic",
+        "question": "How would you describe the teapot\u2019s style?",
+        "choices": [
+            "rustic",
+            "modern",
+            "futuristic",
+            "minimalistic"
+        ],
+        "answer": "rustic",
+        "element_type": "attribute"
+    },
+    {
+        "caption": "A rustic Italian teapot",
+        "element": "Italian",
+        "question": "Is the teapot Italian?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "attribute"
+    },
+    {
+        "caption": "A rustic Italian teapot",
+        "element": "Italian",
+        "question": "What is the cultural style of the teapot?",
+        "choices": [
+            "Italian",
+            "Japanese",
+            "Chinese",
+            "American"
+        ],
+        "answer": "Italian",
+        "element_type": "attribute"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "caption": "A hexagonal mirror with a triangular frame",
+        "element": "mirror",
+        "question": "Is this a mirror?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "A hexagonal mirror with a triangular frame",
+        "element": "mirror",
+        "question": "What type of object is shown?",
+        "choices": [
+            "mirror",
+            "window",
+            "painting",
+            "clock"
+        ],
+        "answer": "mirror",
+        "element_type": "object"
+    },
+    {
+        "caption": "A hexagonal mirror with a triangular frame",
+        "element": "hexagonal",
+        "question": "Is the mirror hexagonal?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "shape"
+    },
+    {
+        "caption": "A hexagonal mirror with a triangular frame",
+        "element": "hexagonal",
+        "question": "What shape is the mirror?",
+        "choices": [
+            "hexagonal",
+            "circular",
+            "square",
+            "rectangular"
+        ],
+        "answer": "hexagonal",
+        "element_type": "shape"
+    },
+    {
+        "caption": "A hexagonal mirror with a triangular frame",
+        "element": "triangular frame",
+        "question": "Does the mirror have a triangular frame?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "shape"
+    },
+    {
+        "caption": "A hexagonal mirror with a triangular frame",
+        "element": "triangular frame",
+        "question": "What shape is the frame of the mirror?",
+        "choices": [
+            "triangular",
+            "circular",
+            "square",
+            "oval"
+        ],
+        "answer": "triangular",
+        "element_type": "shape"
+    }
+]

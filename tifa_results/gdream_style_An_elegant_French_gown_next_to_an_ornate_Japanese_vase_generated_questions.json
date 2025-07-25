@@ -1,0 +1,170 @@
+[
+    {
+        "caption": "An elegant French gown next to an ornate Japanese vase",
+        "element": "gown",
+        "question": "Is there a gown?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "An elegant French gown next to an ornate Japanese vase",
+        "element": "gown",
+        "question": "What type of clothing is shown?",
+        "choices": [
+            "gown",
+            "dress",
+            "suit",
+            "coat"
+        ],
+        "answer": "gown",
+        "element_type": "object"
+    },
+    {
+        "caption": "An elegant French gown next to an ornate Japanese vase",
+        "element": "vase",
+        "question": "Is there a vase?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "An elegant French gown next to an ornate Japanese vase",
+        "element": "vase",
+        "question": "What decorative item is present?",
+        "choices": [
+            "vase",
+            "sculpture",
+            "painting",
+            "lamp"
+        ],
+        "answer": "vase",
+        "element_type": "object"
+    },
+    {
+        "caption": "An elegant French gown next to an ornate Japanese vase",
+        "element": "elegant",
+        "question": "Is the gown elegant?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "attribute"
+    },
+    {
+        "caption": "An elegant French gown next to an ornate Japanese vase",
+        "element": "elegant",
+        "question": "How would you describe the gown\u2019s style?",
+        "choices": [
+            "elegant",
+            "casual",
+            "sporty",
+            "rustic"
+        ],
+        "answer": "elegant",
+        "element_type": "attribute"
+    },
+    {
+        "caption": "An elegant French gown next to an ornate Japanese vase",
+        "element": "French",
+        "question": "Is the gown French?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "attribute"
+    },
+    {
+        "caption": "An elegant French gown next to an ornate Japanese vase",
+        "element": "French",
+        "question": "What is the cultural style of the gown?",
+        "choices": [
+            "French",
+            "Italian",
+            "American",
+            "Indian"
+        ],
+        "answer": "French",
+        "element_type": "attribute"
+    },
+    {
+        "caption": "An elegant French gown next to an ornate Japanese vase",
+        "element": "ornate",
+        "question": "Is the vase ornate?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "attribute"
+    },
+    {
+        "caption": "An elegant French gown next to an ornate Japanese vase",
+        "element": "ornate",
+        "question": "How would you describe the vase\u2019s style?",
+        "choices": [
+            "ornate",
+            "simple",
+            "minimalist",
+            "rustic"
+        ],
+        "answer": "ornate",
+        "element_type": "attribute"
+    },
+    {
+        "caption": "An elegant French gown next to an ornate Japanese vase",
+        "element": "Japanese",
+        "question": "Is the vase Japanese?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "attribute"
+    },
+    {
+        "caption": "An elegant French gown next to an ornate Japanese vase",
+        "element": "Japanese",
+        "question": "What is the cultural style of the vase?",
+        "choices": [
+            "Japanese",
+            "Chinese",
+            "Indian",
+            "African"
+        ],
+        "answer": "Japanese",
+        "element_type": "attribute"
+    },
+    {
+        "caption": "An elegant French gown next to an ornate Japanese vase",
+        "element": "next to",
+        "question": "Is the gown next to the vase?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "spatial"
+    },
+    {
+        "caption": "An elegant French gown next to an ornate Japanese vase",
+        "element": "next to",
+        "question": "What is the spatial relation between the gown and the vase?",
+        "choices": [
+            "next to",
+            "above",
+            "behind",
+            "under"
+        ],
+        "answer": "next to",
+        "element_type": "spatial"
+    }
+]

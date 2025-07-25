@@ -1,0 +1,1138 @@
+{
+    "method": "magic3d",
+    "aspect": "style",
+    "prompt_name": "A_Chinese_chair_with_vintage_and_modern_influences",
+    "individual_scores": {
+        "rgb_0.png": 1,
+        "rgb_10.png": 0.8333333333333334,
+        "rgb_20.png": 0.8333333333333334,
+        "rgb_30.png": 0.8333333333333334,
+        "rgb_40.png": 0.5,
+        "rgb_50.png": 0.5,
+        "rgb_60.png": 0.5,
+        "rgb_70.png": 0.8333333333333334,
+        "rgb_80.png": 0.6666666666666666,
+        "rgb_90.png": 0.8333333333333334,
+        "rgb_100.png": 0.8333333333333334,
+        "rgb_110.png": 1
+    },
+    "average_tifa_score": 0.763888888888889,
+    "question_logs": [
+        {
+            "image": "rgb_0.png",
+            "ques_ans": {
+                "Is this a chair?": {
+                    "caption": "A Chinese chair with vintage and modern influences",
+                    "element": "chair",
+                    "question": "Is this a chair?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the chair Chinese?": {
+                    "caption": "A Chinese chair with vintage and modern influences",
+                    "element": "Chinese",
+                    "question": "Is the chair Chinese?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Does the chair have vintage influences?": {
+                    "caption": "A Chinese chair with vintage and modern influences",
+                    "element": "vintage",
+                    "question": "Does the chair have vintage influences?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "How would you describe one of the chair's influences?": {
+                    "caption": "A Chinese chair with vintage and modern influences",
+                    "element": "vintage",
+                    "question": "How would you describe one of the chair's influences?",
+                    "choices": [
+                        "vintage",
+                        "futuristic",
+                        "minimalist",
+                        "contemporary"
+                    ],
+                    "answer": "vintage",
+                    "element_type": "attribute",
+                    "free_form_vqa": "red",
+                    "multiple_choice_vqa": "vintage",
+                    "scores": 1
+                },
+                "Does the chair have modern influences?": {
+                    "caption": "A Chinese chair with vintage and modern influences",
+                    "element": "modern",
+                    "question": "Does the chair have modern influences?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "How would you describe another of the chair's influences?": {
+                    "caption": "A Chinese chair with vintage and modern influences",
+                    "element": "modern",
+                    "question": "How would you describe another of the chair's influences?",
+                    "choices": [
+                        "modern",
+                        "baroque",
+                        "victorian",
+                        "rustic"
+                    ],
+                    "answer": "modern",
+                    "element_type": "attribute",
+                    "free_form_vqa": "red",
+                    "multiple_choice_vqa": "modern",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_10.png",
+            "ques_ans": {
+                "Is this a chair?": {
+                    "caption": "A Chinese chair with vintage and modern influences",
+                    "element": "chair",
+                    "question": "Is this a chair?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the chair Chinese?": {
+                    "caption": "A Chinese chair with vintage and modern influences",
+                    "element": "Chinese",
+                    "question": "Is the chair Chinese?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Does the chair have vintage influences?": {
+                    "caption": "A Chinese chair with vintage and modern influences",
+                    "element": "vintage",
+                    "question": "Does the chair have vintage influences?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "How would you describe one of the chair's influences?": {
+                    "caption": "A Chinese chair with vintage and modern influences",
+                    "element": "vintage",
+                    "question": "How would you describe one of the chair's influences?",
+                    "choices": [
+                        "vintage",
+                        "futuristic",
+                        "minimalist",
+                        "contemporary"
+                    ],
+                    "answer": "vintage",
+                    "element_type": "attribute",
+                    "free_form_vqa": "red",
+                    "multiple_choice_vqa": "vintage",
+                    "scores": 1
+                },
+                "Does the chair have modern influences?": {
+                    "caption": "A Chinese chair with vintage and modern influences",
+                    "element": "modern",
+                    "question": "Does the chair have modern influences?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "How would you describe another of the chair's influences?": {
+                    "caption": "A Chinese chair with vintage and modern influences",
+                    "element": "modern",
+                    "question": "How would you describe another of the chair's influences?",
+                    "choices": [
+                        "modern",
+                        "baroque",
+                        "victorian",
+                        "rustic"
+                    ],
+                    "answer": "modern",
+                    "element_type": "attribute",
+                    "free_form_vqa": "red",
+                    "multiple_choice_vqa": "modern",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_20.png",
+            "ques_ans": {
+                "Is this a chair?": {
+                    "caption": "A Chinese chair with vintage and modern influences",
+                    "element": "chair",
+                    "question": "Is this a chair?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the chair Chinese?": {
+                    "caption": "A Chinese chair with vintage and modern influences",
+                    "element": "Chinese",
+                    "question": "Is the chair Chinese?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Does the chair have vintage influences?": {
+                    "caption": "A Chinese chair with vintage and modern influences",
+                    "element": "vintage",
+                    "question": "Does the chair have vintage influences?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "How would you describe one of the chair's influences?": {
+                    "caption": "A Chinese chair with vintage and modern influences",
+                    "element": "vintage",
+                    "question": "How would you describe one of the chair's influences?",
+                    "choices": [
+                        "vintage",
+                        "futuristic",
+                        "minimalist",
+                        "contemporary"
+                    ],
+                    "answer": "vintage",
+                    "element_type": "attribute",
+                    "free_form_vqa": "red",
+                    "multiple_choice_vqa": "vintage",
+                    "scores": 1
+                },
+                "Does the chair have modern influences?": {
+                    "caption": "A Chinese chair with vintage and modern influences",
+                    "element": "modern",
+                    "question": "Does the chair have modern influences?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "How would you describe another of the chair's influences?": {
+                    "caption": "A Chinese chair with vintage and modern influences",
+                    "element": "modern",
+                    "question": "How would you describe another of the chair's influences?",
+                    "choices": [
+                        "modern",
+                        "baroque",
+                        "victorian",
+                        "rustic"
+                    ],
+                    "answer": "modern",
+                    "element_type": "attribute",
+                    "free_form_vqa": "red",
+                    "multiple_choice_vqa": "modern",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_30.png",
+            "ques_ans": {
+                "Is this a chair?": {
+                    "caption": "A Chinese chair with vintage and modern influences",
+                    "element": "chair",
+                    "question": "Is this a chair?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the chair Chinese?": {
+                    "caption": "A Chinese chair with vintage and modern influences",
+                    "element": "Chinese",
+                    "question": "Is the chair Chinese?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Does the chair have vintage influences?": {
+                    "caption": "A Chinese chair with vintage and modern influences",
+                    "element": "vintage",
+                    "question": "Does the chair have vintage influences?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "How would you describe one of the chair's influences?": {
+                    "caption": "A Chinese chair with vintage and modern influences",
+                    "element": "vintage",
+                    "question": "How would you describe one of the chair's influences?",
+                    "choices": [
+                        "vintage",
+                        "futuristic",
+                        "minimalist",
+                        "contemporary"
+                    ],
+                    "answer": "vintage",
+                    "element_type": "attribute",
+                    "free_form_vqa": "red",
+                    "multiple_choice_vqa": "vintage",
+                    "scores": 1
+                },
+                "Does the chair have modern influences?": {
+                    "caption": "A Chinese chair with vintage and modern influences",
+                    "element": "modern",
+                    "question": "Does the chair have modern influences?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "How would you describe another of the chair's influences?": {
+                    "caption": "A Chinese chair with vintage and modern influences",
+                    "element": "modern",
+                    "question": "How would you describe another of the chair's influences?",
+                    "choices": [
+                        "modern",
+                        "baroque",
+                        "victorian",
+                        "rustic"
+                    ],
+                    "answer": "modern",
+                    "element_type": "attribute",
+                    "free_form_vqa": "red",
+                    "multiple_choice_vqa": "modern",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_40.png",
+            "ques_ans": {
+                "Is this a chair?": {
+                    "caption": "A Chinese chair with vintage and modern influences",
+                    "element": "chair",
+                    "question": "Is this a chair?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the chair Chinese?": {
+                    "caption": "A Chinese chair with vintage and modern influences",
+                    "element": "Chinese",
+                    "question": "Is the chair Chinese?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Does the chair have vintage influences?": {
+                    "caption": "A Chinese chair with vintage and modern influences",
+                    "element": "vintage",
+                    "question": "Does the chair have vintage influences?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "How would you describe one of the chair's influences?": {
+                    "caption": "A Chinese chair with vintage and modern influences",
+                    "element": "vintage",
+                    "question": "How would you describe one of the chair's influences?",
+                    "choices": [
+                        "vintage",
+                        "futuristic",
+                        "minimalist",
+                        "contemporary"
+                    ],
+                    "answer": "vintage",
+                    "element_type": "attribute",
+                    "free_form_vqa": "armchair",
+                    "multiple_choice_vqa": "minimalist",
+                    "scores": 0
+                },
+                "Does the chair have modern influences?": {
+                    "caption": "A Chinese chair with vintage and modern influences",
+                    "element": "modern",
+                    "question": "Does the chair have modern influences?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "How would you describe another of the chair's influences?": {
+                    "caption": "A Chinese chair with vintage and modern influences",
+                    "element": "modern",
+                    "question": "How would you describe another of the chair's influences?",
+                    "choices": [
+                        "modern",
+                        "baroque",
+                        "victorian",
+                        "rustic"
+                    ],
+                    "answer": "modern",
+                    "element_type": "attribute",
+                    "free_form_vqa": "armchair",
+                    "multiple_choice_vqa": "rustic",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_50.png",
+            "ques_ans": {
+                "Is this a chair?": {
+                    "caption": "A Chinese chair with vintage and modern influences",
+                    "element": "chair",
+                    "question": "Is this a chair?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the chair Chinese?": {
+                    "caption": "A Chinese chair with vintage and modern influences",
+                    "element": "Chinese",
+                    "question": "Is the chair Chinese?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Does the chair have vintage influences?": {
+                    "caption": "A Chinese chair with vintage and modern influences",
+                    "element": "vintage",
+                    "question": "Does the chair have vintage influences?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "How would you describe one of the chair's influences?": {
+                    "caption": "A Chinese chair with vintage and modern influences",
+                    "element": "vintage",
+                    "question": "How would you describe one of the chair's influences?",
+                    "choices": [
+                        "vintage",
+                        "futuristic",
+                        "minimalist",
+                        "contemporary"
+                    ],
+                    "answer": "vintage",
+                    "element_type": "attribute",
+                    "free_form_vqa": "armchair",
+                    "multiple_choice_vqa": "minimalist",
+                    "scores": 0
+                },
+                "Does the chair have modern influences?": {
+                    "caption": "A Chinese chair with vintage and modern influences",
+                    "element": "modern",
+                    "question": "Does the chair have modern influences?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "How would you describe another of the chair's influences?": {
+                    "caption": "A Chinese chair with vintage and modern influences",
+                    "element": "modern",
+                    "question": "How would you describe another of the chair's influences?",
+                    "choices": [
+                        "modern",
+                        "baroque",
+                        "victorian",
+                        "rustic"
+                    ],
+                    "answer": "modern",
+                    "element_type": "attribute",
+                    "free_form_vqa": "armchair",
+                    "multiple_choice_vqa": "rustic",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_60.png",
+            "ques_ans": {
+                "Is this a chair?": {
+                    "caption": "A Chinese chair with vintage and modern influences",
+                    "element": "chair",
+                    "question": "Is this a chair?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the chair Chinese?": {
+                    "caption": "A Chinese chair with vintage and modern influences",
+                    "element": "Chinese",
+                    "question": "Is the chair Chinese?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Does the chair have vintage influences?": {
+                    "caption": "A Chinese chair with vintage and modern influences",
+                    "element": "vintage",
+                    "question": "Does the chair have vintage influences?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "How would you describe one of the chair's influences?": {
+                    "caption": "A Chinese chair with vintage and modern influences",
+                    "element": "vintage",
+                    "question": "How would you describe one of the chair's influences?",
+                    "choices": [
+                        "vintage",
+                        "futuristic",
+                        "minimalist",
+                        "contemporary"
+                    ],
+                    "answer": "vintage",
+                    "element_type": "attribute",
+                    "free_form_vqa": "armchair",
+                    "multiple_choice_vqa": "minimalist",
+                    "scores": 0
+                },
+                "Does the chair have modern influences?": {
+                    "caption": "A Chinese chair with vintage and modern influences",
+                    "element": "modern",
+                    "question": "Does the chair have modern influences?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "How would you describe another of the chair's influences?": {
+                    "caption": "A Chinese chair with vintage and modern influences",
+                    "element": "modern",
+                    "question": "How would you describe another of the chair's influences?",
+                    "choices": [
+                        "modern",
+                        "baroque",
+                        "victorian",
+                        "rustic"
+                    ],
+                    "answer": "modern",
+                    "element_type": "attribute",
+                    "free_form_vqa": "armchair",
+                    "multiple_choice_vqa": "rustic",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_70.png",
+            "ques_ans": {
+                "Is this a chair?": {
+                    "caption": "A Chinese chair with vintage and modern influences",
+                    "element": "chair",
+                    "question": "Is this a chair?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the chair Chinese?": {
+                    "caption": "A Chinese chair with vintage and modern influences",
+                    "element": "Chinese",
+                    "question": "Is the chair Chinese?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Does the chair have vintage influences?": {
+                    "caption": "A Chinese chair with vintage and modern influences",
+                    "element": "vintage",
+                    "question": "Does the chair have vintage influences?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "How would you describe one of the chair's influences?": {
+                    "caption": "A Chinese chair with vintage and modern influences",
+                    "element": "vintage",
+                    "question": "How would you describe one of the chair's influences?",
+                    "choices": [
+                        "vintage",
+                        "futuristic",
+                        "minimalist",
+                        "contemporary"
+                    ],
+                    "answer": "vintage",
+                    "element_type": "attribute",
+                    "free_form_vqa": "red",
+                    "multiple_choice_vqa": "vintage",
+                    "scores": 1
+                },
+                "Does the chair have modern influences?": {
+                    "caption": "A Chinese chair with vintage and modern influences",
+                    "element": "modern",
+                    "question": "Does the chair have modern influences?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "How would you describe another of the chair's influences?": {
+                    "caption": "A Chinese chair with vintage and modern influences",
+                    "element": "modern",
+                    "question": "How would you describe another of the chair's influences?",
+                    "choices": [
+                        "modern",
+                        "baroque",
+                        "victorian",
+                        "rustic"
+                    ],
+                    "answer": "modern",
+                    "element_type": "attribute",
+                    "free_form_vqa": "red",
+                    "multiple_choice_vqa": "modern",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_80.png",
+            "ques_ans": {
+                "Is this a chair?": {
+                    "caption": "A Chinese chair with vintage and modern influences",
+                    "element": "chair",
+                    "question": "Is this a chair?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the chair Chinese?": {
+                    "caption": "A Chinese chair with vintage and modern influences",
+                    "element": "Chinese",
+                    "question": "Is the chair Chinese?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Does the chair have vintage influences?": {
+                    "caption": "A Chinese chair with vintage and modern influences",
+                    "element": "vintage",
+                    "question": "Does the chair have vintage influences?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "How would you describe one of the chair's influences?": {
+                    "caption": "A Chinese chair with vintage and modern influences",
+                    "element": "vintage",
+                    "question": "How would you describe one of the chair's influences?",
+                    "choices": [
+                        "vintage",
+                        "futuristic",
+                        "minimalist",
+                        "contemporary"
+                    ],
+                    "answer": "vintage",
+                    "element_type": "attribute",
+                    "free_form_vqa": "red and white",
+                    "multiple_choice_vqa": "vintage",
+                    "scores": 1
+                },
+                "Does the chair have modern influences?": {
+                    "caption": "A Chinese chair with vintage and modern influences",
+                    "element": "modern",
+                    "question": "Does the chair have modern influences?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "How would you describe another of the chair's influences?": {
+                    "caption": "A Chinese chair with vintage and modern influences",
+                    "element": "modern",
+                    "question": "How would you describe another of the chair's influences?",
+                    "choices": [
+                        "modern",
+                        "baroque",
+                        "victorian",
+                        "rustic"
+                    ],
+                    "answer": "modern",
+                    "element_type": "attribute",
+                    "free_form_vqa": "red and white",
+                    "multiple_choice_vqa": "victorian",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_90.png",
+            "ques_ans": {
+                "Is this a chair?": {
+                    "caption": "A Chinese chair with vintage and modern influences",
+                    "element": "chair",
+                    "question": "Is this a chair?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the chair Chinese?": {
+                    "caption": "A Chinese chair with vintage and modern influences",
+                    "element": "Chinese",
+                    "question": "Is the chair Chinese?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Does the chair have vintage influences?": {
+                    "caption": "A Chinese chair with vintage and modern influences",
+                    "element": "vintage",
+                    "question": "Does the chair have vintage influences?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "How would you describe one of the chair's influences?": {
+                    "caption": "A Chinese chair with vintage and modern influences",
+                    "element": "vintage",
+                    "question": "How would you describe one of the chair's influences?",
+                    "choices": [
+                        "vintage",
+                        "futuristic",
+                        "minimalist",
+                        "contemporary"
+                    ],
+                    "answer": "vintage",
+                    "element_type": "attribute",
+                    "free_form_vqa": "red",
+                    "multiple_choice_vqa": "vintage",
+                    "scores": 1
+                },
+                "Does the chair have modern influences?": {
+                    "caption": "A Chinese chair with vintage and modern influences",
+                    "element": "modern",
+                    "question": "Does the chair have modern influences?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "How would you describe another of the chair's influences?": {
+                    "caption": "A Chinese chair with vintage and modern influences",
+                    "element": "modern",
+                    "question": "How would you describe another of the chair's influences?",
+                    "choices": [
+                        "modern",
+                        "baroque",
+                        "victorian",
+                        "rustic"
+                    ],
+                    "answer": "modern",
+                    "element_type": "attribute",
+                    "free_form_vqa": "red",
+                    "multiple_choice_vqa": "modern",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_100.png",
+            "ques_ans": {
+                "Is this a chair?": {
+                    "caption": "A Chinese chair with vintage and modern influences",
+                    "element": "chair",
+                    "question": "Is this a chair?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the chair Chinese?": {
+                    "caption": "A Chinese chair with vintage and modern influences",
+                    "element": "Chinese",
+                    "question": "Is the chair Chinese?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Does the chair have vintage influences?": {
+                    "caption": "A Chinese chair with vintage and modern influences",
+                    "element": "vintage",
+                    "question": "Does the chair have vintage influences?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "How would you describe one of the chair's influences?": {
+                    "caption": "A Chinese chair with vintage and modern influences",
+                    "element": "vintage",
+                    "question": "How would you describe one of the chair's influences?",
+                    "choices": [
+                        "vintage",
+                        "futuristic",
+                        "minimalist",
+                        "contemporary"
+                    ],
+                    "answer": "vintage",
+                    "element_type": "attribute",
+                    "free_form_vqa": "red",
+                    "multiple_choice_vqa": "vintage",
+                    "scores": 1
+                },
+                "Does the chair have modern influences?": {
+                    "caption": "A Chinese chair with vintage and modern influences",
+                    "element": "modern",
+                    "question": "Does the chair have modern influences?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "How would you describe another of the chair's influences?": {
+                    "caption": "A Chinese chair with vintage and modern influences",
+                    "element": "modern",
+                    "question": "How would you describe another of the chair's influences?",
+                    "choices": [
+                        "modern",
+                        "baroque",
+                        "victorian",
+                        "rustic"
+                    ],
+                    "answer": "modern",
+                    "element_type": "attribute",
+                    "free_form_vqa": "red",
+                    "multiple_choice_vqa": "modern",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_110.png",
+            "ques_ans": {
+                "Is this a chair?": {
+                    "caption": "A Chinese chair with vintage and modern influences",
+                    "element": "chair",
+                    "question": "Is this a chair?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the chair Chinese?": {
+                    "caption": "A Chinese chair with vintage and modern influences",
+                    "element": "Chinese",
+                    "question": "Is the chair Chinese?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Does the chair have vintage influences?": {
+                    "caption": "A Chinese chair with vintage and modern influences",
+                    "element": "vintage",
+                    "question": "Does the chair have vintage influences?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "How would you describe one of the chair's influences?": {
+                    "caption": "A Chinese chair with vintage and modern influences",
+                    "element": "vintage",
+                    "question": "How would you describe one of the chair's influences?",
+                    "choices": [
+                        "vintage",
+                        "futuristic",
+                        "minimalist",
+                        "contemporary"
+                    ],
+                    "answer": "vintage",
+                    "element_type": "attribute",
+                    "free_form_vqa": "red",
+                    "multiple_choice_vqa": "vintage",
+                    "scores": 1
+                },
+                "Does the chair have modern influences?": {
+                    "caption": "A Chinese chair with vintage and modern influences",
+                    "element": "modern",
+                    "question": "Does the chair have modern influences?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "How would you describe another of the chair's influences?": {
+                    "caption": "A Chinese chair with vintage and modern influences",
+                    "element": "modern",
+                    "question": "How would you describe another of the chair's influences?",
+                    "choices": [
+                        "modern",
+                        "baroque",
+                        "victorian",
+                        "rustic"
+                    ],
+                    "answer": "modern",
+                    "element_type": "attribute",
+                    "free_form_vqa": "red",
+                    "multiple_choice_vqa": "modern",
+                    "scores": 1
+                }
+            }
+        }
+    ]
+}

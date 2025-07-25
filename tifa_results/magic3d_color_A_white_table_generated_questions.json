@@ -1,0 +1,50 @@
+[
+    {
+        "caption": "A white table",
+        "element": "table",
+        "question": "Is this a table?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "A white table",
+        "element": "table",
+        "question": "What piece of furniture is shown?",
+        "choices": [
+            "table",
+            "chair",
+            "sofa",
+            "bed"
+        ],
+        "answer": "table",
+        "element_type": "object"
+    },
+    {
+        "caption": "A white table",
+        "element": "white",
+        "question": "Is the table white?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "color"
+    },
+    {
+        "caption": "A white table",
+        "element": "white",
+        "question": "What color is the table?",
+        "choices": [
+            "white",
+            "black",
+            "blue",
+            "red"
+        ],
+        "answer": "white",
+        "element_type": "color"
+    }
+]

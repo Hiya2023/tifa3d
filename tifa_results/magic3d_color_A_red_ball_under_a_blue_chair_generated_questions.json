@@ -1,0 +1,74 @@
+[
+    {
+        "caption": "A red ball under a blue chair",
+        "element": "red ball",
+        "question": "Is there a ball?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "A red ball under a blue chair",
+        "element": "red ball",
+        "question": "What color is the ball?",
+        "choices": [
+            "red",
+            "blue",
+            "green",
+            "yellow"
+        ],
+        "answer": "red",
+        "element_type": "object"
+    },
+    {
+        "caption": "A red ball under a blue chair",
+        "element": "blue chair",
+        "question": "Is there a chair?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "A red ball under a blue chair",
+        "element": "blue chair",
+        "question": "What color is the chair?",
+        "choices": [
+            "blue",
+            "red",
+            "black",
+            "white"
+        ],
+        "answer": "blue",
+        "element_type": "object"
+    },
+    {
+        "caption": "A red ball under a blue chair",
+        "element": "under",
+        "question": "Is the ball under the chair?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "spatial"
+    },
+    {
+        "caption": "A red ball under a blue chair",
+        "element": "under",
+        "question": "What is the spatial relation between the ball and the chair?",
+        "choices": [
+            "under",
+            "on",
+            "beside",
+            "above"
+        ],
+        "answer": "under",
+        "element_type": "spatial"
+    }
+]

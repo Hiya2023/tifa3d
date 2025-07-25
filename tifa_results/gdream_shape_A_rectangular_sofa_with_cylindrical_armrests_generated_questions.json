@@ -1,0 +1,74 @@
+[
+    {
+        "caption": "A rectangular sofa with cylindrical armrests",
+        "element": "sofa",
+        "question": "Is this a sofa?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "A rectangular sofa with cylindrical armrests",
+        "element": "sofa",
+        "question": "What piece of furniture is shown?",
+        "choices": [
+            "sofa",
+            "chair",
+            "table",
+            "bed"
+        ],
+        "answer": "sofa",
+        "element_type": "object"
+    },
+    {
+        "caption": "A rectangular sofa with cylindrical armrests",
+        "element": "rectangular",
+        "question": "Is the sofa rectangular?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "shape"
+    },
+    {
+        "caption": "A rectangular sofa with cylindrical armrests",
+        "element": "rectangular",
+        "question": "What is the shape of the sofa?",
+        "choices": [
+            "rectangular",
+            "round",
+            "square",
+            "oval"
+        ],
+        "answer": "rectangular",
+        "element_type": "shape"
+    },
+    {
+        "caption": "A rectangular sofa with cylindrical armrests",
+        "element": "cylindrical armrests",
+        "question": "Do the armrests have a cylindrical shape?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "shape"
+    },
+    {
+        "caption": "A rectangular sofa with cylindrical armrests",
+        "element": "cylindrical armrests",
+        "question": "What shape are the armrests?",
+        "choices": [
+            "cylindrical",
+            "square",
+            "triangular",
+            "flat"
+        ],
+        "answer": "cylindrical",
+        "element_type": "shape"
+    }
+]

@@ -1,0 +1,74 @@
+[
+    {
+        "caption": "A spherical chair with a flat seat",
+        "element": "chair",
+        "question": "Is this a chair?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "A spherical chair with a flat seat",
+        "element": "chair",
+        "question": "What type of furniture is shown?",
+        "choices": [
+            "chair",
+            "table",
+            "sofa",
+            "bed"
+        ],
+        "answer": "chair",
+        "element_type": "object"
+    },
+    {
+        "caption": "A spherical chair with a flat seat",
+        "element": "spherical",
+        "question": "Is the chair spherical?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "shape"
+    },
+    {
+        "caption": "A spherical chair with a flat seat",
+        "element": "spherical",
+        "question": "What is the shape of the chair?",
+        "choices": [
+            "spherical",
+            "square",
+            "rectangular",
+            "oval"
+        ],
+        "answer": "spherical",
+        "element_type": "shape"
+    },
+    {
+        "caption": "A spherical chair with a flat seat",
+        "element": "flat seat",
+        "question": "Does the chair have a flat seat?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "attribute"
+    },
+    {
+        "caption": "A spherical chair with a flat seat",
+        "element": "flat seat",
+        "question": "What is the shape of the chair's seat?",
+        "choices": [
+            "flat",
+            "curved",
+            "cushioned",
+            "angled"
+        ],
+        "answer": "flat",
+        "element_type": "attribute"
+    }
+]

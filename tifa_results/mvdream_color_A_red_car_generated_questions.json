@@ -1,0 +1,50 @@
+[
+    {
+        "caption": "A red car",
+        "element": "car",
+        "question": "Is this a car?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "A red car",
+        "element": "car",
+        "question": "What type of vehicle is this?",
+        "choices": [
+            "car",
+            "truck",
+            "motorcycle",
+            "bicycle"
+        ],
+        "answer": "car",
+        "element_type": "object"
+    },
+    {
+        "caption": "A red car",
+        "element": "red",
+        "question": "Is the car red?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "color"
+    },
+    {
+        "caption": "A red car",
+        "element": "red",
+        "question": "What color is the car?",
+        "choices": [
+            "red",
+            "blue",
+            "black",
+            "white"
+        ],
+        "answer": "red",
+        "element_type": "color"
+    }
+]

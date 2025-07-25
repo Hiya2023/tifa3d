@@ -1,0 +1,970 @@
+{
+    "method": "dreamfusion",
+    "aspect": "color",
+    "prompt_name": "A_red_ball_under_a_blue_chair",
+    "individual_scores": {
+        "rgb_0.png": 0.2,
+        "rgb_10.png": 0.2,
+        "rgb_20.png": 0.2,
+        "rgb_30.png": 0.2,
+        "rgb_40.png": 0.2,
+        "rgb_50.png": 0.2,
+        "rgb_60.png": 0.2,
+        "rgb_70.png": 0.2,
+        "rgb_80.png": 0.2,
+        "rgb_90.png": 0.2,
+        "rgb_100.png": 0.2,
+        "rgb_110.png": 0.2
+    },
+    "average_tifa_score": 0.2,
+    "question_logs": [
+        {
+            "image": "rgb_0.png",
+            "ques_ans": {
+                "Is there a ball?": {
+                    "caption": "A red ball under a blue chair",
+                    "element": "red ball",
+                    "question": "Is there a ball?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the ball?": {
+                    "caption": "A red ball under a blue chair",
+                    "element": "red ball",
+                    "question": "What color is the ball?",
+                    "choices": [
+                        "red",
+                        "blue",
+                        "green",
+                        "yellow"
+                    ],
+                    "answer": "red",
+                    "element_type": "object",
+                    "free_form_vqa": "blue",
+                    "multiple_choice_vqa": "blue",
+                    "scores": 0
+                },
+                "Is there a chair?": {
+                    "caption": "A red ball under a blue chair",
+                    "element": "blue chair",
+                    "question": "Is there a chair?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the chair?": {
+                    "caption": "A red ball under a blue chair",
+                    "element": "blue chair",
+                    "question": "What color is the chair?",
+                    "choices": [
+                        "blue",
+                        "red",
+                        "black",
+                        "white"
+                    ],
+                    "answer": "blue",
+                    "element_type": "object",
+                    "free_form_vqa": "yellow",
+                    "multiple_choice_vqa": "red",
+                    "scores": 0
+                },
+                "Is the ball under the chair?": {
+                    "caption": "A red ball under a blue chair",
+                    "element": "under",
+                    "question": "Is the ball under the chair?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_10.png",
+            "ques_ans": {
+                "Is there a ball?": {
+                    "caption": "A red ball under a blue chair",
+                    "element": "red ball",
+                    "question": "Is there a ball?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the ball?": {
+                    "caption": "A red ball under a blue chair",
+                    "element": "red ball",
+                    "question": "What color is the ball?",
+                    "choices": [
+                        "red",
+                        "blue",
+                        "green",
+                        "yellow"
+                    ],
+                    "answer": "red",
+                    "element_type": "object",
+                    "free_form_vqa": "blue",
+                    "multiple_choice_vqa": "blue",
+                    "scores": 0
+                },
+                "Is there a chair?": {
+                    "caption": "A red ball under a blue chair",
+                    "element": "blue chair",
+                    "question": "Is there a chair?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the chair?": {
+                    "caption": "A red ball under a blue chair",
+                    "element": "blue chair",
+                    "question": "What color is the chair?",
+                    "choices": [
+                        "blue",
+                        "red",
+                        "black",
+                        "white"
+                    ],
+                    "answer": "blue",
+                    "element_type": "object",
+                    "free_form_vqa": "yellow",
+                    "multiple_choice_vqa": "red",
+                    "scores": 0
+                },
+                "Is the ball under the chair?": {
+                    "caption": "A red ball under a blue chair",
+                    "element": "under",
+                    "question": "Is the ball under the chair?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_20.png",
+            "ques_ans": {
+                "Is there a ball?": {
+                    "caption": "A red ball under a blue chair",
+                    "element": "red ball",
+                    "question": "Is there a ball?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the ball?": {
+                    "caption": "A red ball under a blue chair",
+                    "element": "red ball",
+                    "question": "What color is the ball?",
+                    "choices": [
+                        "red",
+                        "blue",
+                        "green",
+                        "yellow"
+                    ],
+                    "answer": "red",
+                    "element_type": "object",
+                    "free_form_vqa": "blue",
+                    "multiple_choice_vqa": "blue",
+                    "scores": 0
+                },
+                "Is there a chair?": {
+                    "caption": "A red ball under a blue chair",
+                    "element": "blue chair",
+                    "question": "Is there a chair?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the chair?": {
+                    "caption": "A red ball under a blue chair",
+                    "element": "blue chair",
+                    "question": "What color is the chair?",
+                    "choices": [
+                        "blue",
+                        "red",
+                        "black",
+                        "white"
+                    ],
+                    "answer": "blue",
+                    "element_type": "object",
+                    "free_form_vqa": "yellow",
+                    "multiple_choice_vqa": "red",
+                    "scores": 0
+                },
+                "Is the ball under the chair?": {
+                    "caption": "A red ball under a blue chair",
+                    "element": "under",
+                    "question": "Is the ball under the chair?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_30.png",
+            "ques_ans": {
+                "Is there a ball?": {
+                    "caption": "A red ball under a blue chair",
+                    "element": "red ball",
+                    "question": "Is there a ball?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the ball?": {
+                    "caption": "A red ball under a blue chair",
+                    "element": "red ball",
+                    "question": "What color is the ball?",
+                    "choices": [
+                        "red",
+                        "blue",
+                        "green",
+                        "yellow"
+                    ],
+                    "answer": "red",
+                    "element_type": "object",
+                    "free_form_vqa": "blue",
+                    "multiple_choice_vqa": "blue",
+                    "scores": 0
+                },
+                "Is there a chair?": {
+                    "caption": "A red ball under a blue chair",
+                    "element": "blue chair",
+                    "question": "Is there a chair?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the chair?": {
+                    "caption": "A red ball under a blue chair",
+                    "element": "blue chair",
+                    "question": "What color is the chair?",
+                    "choices": [
+                        "blue",
+                        "red",
+                        "black",
+                        "white"
+                    ],
+                    "answer": "blue",
+                    "element_type": "object",
+                    "free_form_vqa": "yellow",
+                    "multiple_choice_vqa": "red",
+                    "scores": 0
+                },
+                "Is the ball under the chair?": {
+                    "caption": "A red ball under a blue chair",
+                    "element": "under",
+                    "question": "Is the ball under the chair?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_40.png",
+            "ques_ans": {
+                "Is there a ball?": {
+                    "caption": "A red ball under a blue chair",
+                    "element": "red ball",
+                    "question": "Is there a ball?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the ball?": {
+                    "caption": "A red ball under a blue chair",
+                    "element": "red ball",
+                    "question": "What color is the ball?",
+                    "choices": [
+                        "red",
+                        "blue",
+                        "green",
+                        "yellow"
+                    ],
+                    "answer": "red",
+                    "element_type": "object",
+                    "free_form_vqa": "blue",
+                    "multiple_choice_vqa": "blue",
+                    "scores": 0
+                },
+                "Is there a chair?": {
+                    "caption": "A red ball under a blue chair",
+                    "element": "blue chair",
+                    "question": "Is there a chair?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the chair?": {
+                    "caption": "A red ball under a blue chair",
+                    "element": "blue chair",
+                    "question": "What color is the chair?",
+                    "choices": [
+                        "blue",
+                        "red",
+                        "black",
+                        "white"
+                    ],
+                    "answer": "blue",
+                    "element_type": "object",
+                    "free_form_vqa": "yellow",
+                    "multiple_choice_vqa": "red",
+                    "scores": 0
+                },
+                "Is the ball under the chair?": {
+                    "caption": "A red ball under a blue chair",
+                    "element": "under",
+                    "question": "Is the ball under the chair?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_50.png",
+            "ques_ans": {
+                "Is there a ball?": {
+                    "caption": "A red ball under a blue chair",
+                    "element": "red ball",
+                    "question": "Is there a ball?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the ball?": {
+                    "caption": "A red ball under a blue chair",
+                    "element": "red ball",
+                    "question": "What color is the ball?",
+                    "choices": [
+                        "red",
+                        "blue",
+                        "green",
+                        "yellow"
+                    ],
+                    "answer": "red",
+                    "element_type": "object",
+                    "free_form_vqa": "blue",
+                    "multiple_choice_vqa": "blue",
+                    "scores": 0
+                },
+                "Is there a chair?": {
+                    "caption": "A red ball under a blue chair",
+                    "element": "blue chair",
+                    "question": "Is there a chair?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the chair?": {
+                    "caption": "A red ball under a blue chair",
+                    "element": "blue chair",
+                    "question": "What color is the chair?",
+                    "choices": [
+                        "blue",
+                        "red",
+                        "black",
+                        "white"
+                    ],
+                    "answer": "blue",
+                    "element_type": "object",
+                    "free_form_vqa": "yellow",
+                    "multiple_choice_vqa": "red",
+                    "scores": 0
+                },
+                "Is the ball under the chair?": {
+                    "caption": "A red ball under a blue chair",
+                    "element": "under",
+                    "question": "Is the ball under the chair?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_60.png",
+            "ques_ans": {
+                "Is there a ball?": {
+                    "caption": "A red ball under a blue chair",
+                    "element": "red ball",
+                    "question": "Is there a ball?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the ball?": {
+                    "caption": "A red ball under a blue chair",
+                    "element": "red ball",
+                    "question": "What color is the ball?",
+                    "choices": [
+                        "red",
+                        "blue",
+                        "green",
+                        "yellow"
+                    ],
+                    "answer": "red",
+                    "element_type": "object",
+                    "free_form_vqa": "blue",
+                    "multiple_choice_vqa": "blue",
+                    "scores": 0
+                },
+                "Is there a chair?": {
+                    "caption": "A red ball under a blue chair",
+                    "element": "blue chair",
+                    "question": "Is there a chair?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the chair?": {
+                    "caption": "A red ball under a blue chair",
+                    "element": "blue chair",
+                    "question": "What color is the chair?",
+                    "choices": [
+                        "blue",
+                        "red",
+                        "black",
+                        "white"
+                    ],
+                    "answer": "blue",
+                    "element_type": "object",
+                    "free_form_vqa": "yellow",
+                    "multiple_choice_vqa": "red",
+                    "scores": 0
+                },
+                "Is the ball under the chair?": {
+                    "caption": "A red ball under a blue chair",
+                    "element": "under",
+                    "question": "Is the ball under the chair?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_70.png",
+            "ques_ans": {
+                "Is there a ball?": {
+                    "caption": "A red ball under a blue chair",
+                    "element": "red ball",
+                    "question": "Is there a ball?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the ball?": {
+                    "caption": "A red ball under a blue chair",
+                    "element": "red ball",
+                    "question": "What color is the ball?",
+                    "choices": [
+                        "red",
+                        "blue",
+                        "green",
+                        "yellow"
+                    ],
+                    "answer": "red",
+                    "element_type": "object",
+                    "free_form_vqa": "blue",
+                    "multiple_choice_vqa": "blue",
+                    "scores": 0
+                },
+                "Is there a chair?": {
+                    "caption": "A red ball under a blue chair",
+                    "element": "blue chair",
+                    "question": "Is there a chair?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the chair?": {
+                    "caption": "A red ball under a blue chair",
+                    "element": "blue chair",
+                    "question": "What color is the chair?",
+                    "choices": [
+                        "blue",
+                        "red",
+                        "black",
+                        "white"
+                    ],
+                    "answer": "blue",
+                    "element_type": "object",
+                    "free_form_vqa": "yellow",
+                    "multiple_choice_vqa": "red",
+                    "scores": 0
+                },
+                "Is the ball under the chair?": {
+                    "caption": "A red ball under a blue chair",
+                    "element": "under",
+                    "question": "Is the ball under the chair?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_80.png",
+            "ques_ans": {
+                "Is there a ball?": {
+                    "caption": "A red ball under a blue chair",
+                    "element": "red ball",
+                    "question": "Is there a ball?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the ball?": {
+                    "caption": "A red ball under a blue chair",
+                    "element": "red ball",
+                    "question": "What color is the ball?",
+                    "choices": [
+                        "red",
+                        "blue",
+                        "green",
+                        "yellow"
+                    ],
+                    "answer": "red",
+                    "element_type": "object",
+                    "free_form_vqa": "blue",
+                    "multiple_choice_vqa": "blue",
+                    "scores": 0
+                },
+                "Is there a chair?": {
+                    "caption": "A red ball under a blue chair",
+                    "element": "blue chair",
+                    "question": "Is there a chair?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the chair?": {
+                    "caption": "A red ball under a blue chair",
+                    "element": "blue chair",
+                    "question": "What color is the chair?",
+                    "choices": [
+                        "blue",
+                        "red",
+                        "black",
+                        "white"
+                    ],
+                    "answer": "blue",
+                    "element_type": "object",
+                    "free_form_vqa": "yellow",
+                    "multiple_choice_vqa": "red",
+                    "scores": 0
+                },
+                "Is the ball under the chair?": {
+                    "caption": "A red ball under a blue chair",
+                    "element": "under",
+                    "question": "Is the ball under the chair?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_90.png",
+            "ques_ans": {
+                "Is there a ball?": {
+                    "caption": "A red ball under a blue chair",
+                    "element": "red ball",
+                    "question": "Is there a ball?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the ball?": {
+                    "caption": "A red ball under a blue chair",
+                    "element": "red ball",
+                    "question": "What color is the ball?",
+                    "choices": [
+                        "red",
+                        "blue",
+                        "green",
+                        "yellow"
+                    ],
+                    "answer": "red",
+                    "element_type": "object",
+                    "free_form_vqa": "blue",
+                    "multiple_choice_vqa": "blue",
+                    "scores": 0
+                },
+                "Is there a chair?": {
+                    "caption": "A red ball under a blue chair",
+                    "element": "blue chair",
+                    "question": "Is there a chair?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the chair?": {
+                    "caption": "A red ball under a blue chair",
+                    "element": "blue chair",
+                    "question": "What color is the chair?",
+                    "choices": [
+                        "blue",
+                        "red",
+                        "black",
+                        "white"
+                    ],
+                    "answer": "blue",
+                    "element_type": "object",
+                    "free_form_vqa": "yellow",
+                    "multiple_choice_vqa": "red",
+                    "scores": 0
+                },
+                "Is the ball under the chair?": {
+                    "caption": "A red ball under a blue chair",
+                    "element": "under",
+                    "question": "Is the ball under the chair?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_100.png",
+            "ques_ans": {
+                "Is there a ball?": {
+                    "caption": "A red ball under a blue chair",
+                    "element": "red ball",
+                    "question": "Is there a ball?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the ball?": {
+                    "caption": "A red ball under a blue chair",
+                    "element": "red ball",
+                    "question": "What color is the ball?",
+                    "choices": [
+                        "red",
+                        "blue",
+                        "green",
+                        "yellow"
+                    ],
+                    "answer": "red",
+                    "element_type": "object",
+                    "free_form_vqa": "blue",
+                    "multiple_choice_vqa": "blue",
+                    "scores": 0
+                },
+                "Is there a chair?": {
+                    "caption": "A red ball under a blue chair",
+                    "element": "blue chair",
+                    "question": "Is there a chair?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the chair?": {
+                    "caption": "A red ball under a blue chair",
+                    "element": "blue chair",
+                    "question": "What color is the chair?",
+                    "choices": [
+                        "blue",
+                        "red",
+                        "black",
+                        "white"
+                    ],
+                    "answer": "blue",
+                    "element_type": "object",
+                    "free_form_vqa": "yellow",
+                    "multiple_choice_vqa": "red",
+                    "scores": 0
+                },
+                "Is the ball under the chair?": {
+                    "caption": "A red ball under a blue chair",
+                    "element": "under",
+                    "question": "Is the ball under the chair?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_110.png",
+            "ques_ans": {
+                "Is there a ball?": {
+                    "caption": "A red ball under a blue chair",
+                    "element": "red ball",
+                    "question": "Is there a ball?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the ball?": {
+                    "caption": "A red ball under a blue chair",
+                    "element": "red ball",
+                    "question": "What color is the ball?",
+                    "choices": [
+                        "red",
+                        "blue",
+                        "green",
+                        "yellow"
+                    ],
+                    "answer": "red",
+                    "element_type": "object",
+                    "free_form_vqa": "blue",
+                    "multiple_choice_vqa": "blue",
+                    "scores": 0
+                },
+                "Is there a chair?": {
+                    "caption": "A red ball under a blue chair",
+                    "element": "blue chair",
+                    "question": "Is there a chair?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What color is the chair?": {
+                    "caption": "A red ball under a blue chair",
+                    "element": "blue chair",
+                    "question": "What color is the chair?",
+                    "choices": [
+                        "blue",
+                        "red",
+                        "black",
+                        "white"
+                    ],
+                    "answer": "blue",
+                    "element_type": "object",
+                    "free_form_vqa": "yellow",
+                    "multiple_choice_vqa": "red",
+                    "scores": 0
+                },
+                "Is the ball under the chair?": {
+                    "caption": "A red ball under a blue chair",
+                    "element": "under",
+                    "question": "Is the ball under the chair?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,122 @@
+[
+    {
+        "caption": "A red car beside a beige house",
+        "element": "car",
+        "question": "Is there a car?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "A red car beside a beige house",
+        "element": "car",
+        "question": "What type of vehicle is shown?",
+        "choices": [
+            "car",
+            "truck",
+            "motorcycle",
+            "bicycle"
+        ],
+        "answer": "car",
+        "element_type": "object"
+    },
+    {
+        "caption": "A red car beside a beige house",
+        "element": "house",
+        "question": "Is there a house?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "object"
+    },
+    {
+        "caption": "A red car beside a beige house",
+        "element": "house",
+        "question": "What type of building is shown?",
+        "choices": [
+            "house",
+            "apartment",
+            "office",
+            "store"
+        ],
+        "answer": "house",
+        "element_type": "object"
+    },
+    {
+        "caption": "A red car beside a beige house",
+        "element": "red",
+        "question": "Is the car red?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "color"
+    },
+    {
+        "caption": "A red car beside a beige house",
+        "element": "red",
+        "question": "What color is the car?",
+        "choices": [
+            "red",
+            "blue",
+            "black",
+            "white"
+        ],
+        "answer": "red",
+        "element_type": "color"
+    },
+    {
+        "caption": "A red car beside a beige house",
+        "element": "beige",
+        "question": "Is the house beige?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "color"
+    },
+    {
+        "caption": "A red car beside a beige house",
+        "element": "beige",
+        "question": "What color is the house?",
+        "choices": [
+            "beige",
+            "gray",
+            "brown",
+            "white"
+        ],
+        "answer": "beige",
+        "element_type": "color"
+    },
+    {
+        "caption": "A red car beside a beige house",
+        "element": "beside",
+        "question": "Is the car beside the house?",
+        "choices": [
+            "yes",
+            "no"
+        ],
+        "answer": "yes",
+        "element_type": "spatial"
+    },
+    {
+        "caption": "A red car beside a beige house",
+        "element": "beside",
+        "question": "What is the spatial relation between the car and the house?",
+        "choices": [
+            "beside",
+            "in front of",
+            "behind",
+            "under"
+        ],
+        "answer": "beside",
+        "element_type": "spatial"
+    }
+]

@@ -1,0 +1,1810 @@
+{
+    "method": "gdream",
+    "aspect": "style",
+    "prompt_name": "A_rustic_Italian_teapot_set_on_a_sleek_Scandinavian_wooden_table",
+    "individual_scores": {
+        "rgb_0.png": 0.6,
+        "rgb_10.png": 0.5,
+        "rgb_20.png": 0.4,
+        "rgb_30.png": 0.4,
+        "rgb_40.png": 0.4,
+        "rgb_50.png": 0.5,
+        "rgb_60.png": 0.5,
+        "rgb_70.png": 0.5,
+        "rgb_80.png": 0.4,
+        "rgb_90.png": 0.6,
+        "rgb_100.png": 0.4,
+        "rgb_110.png": 0.4
+    },
+    "average_tifa_score": 0.4666666666666667,
+    "question_logs": [
+        {
+            "image": "rgb_0.png",
+            "ques_ans": {
+                "Is there a teapot?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "teapot",
+                    "question": "Is there a teapot?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What type of object is shown?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "teapot",
+                    "question": "What type of object is shown?",
+                    "choices": [
+                        "teapot",
+                        "vase",
+                        "coffee mug",
+                        "kettle"
+                    ],
+                    "answer": "teapot",
+                    "element_type": "object",
+                    "free_form_vqa": "metal",
+                    "multiple_choice_vqa": "kettle",
+                    "scores": 0
+                },
+                "Is there a table?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "table",
+                    "question": "Is there a table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What piece of furniture is shown?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "table",
+                    "question": "What piece of furniture is shown?",
+                    "choices": [
+                        "table",
+                        "chair",
+                        "sofa",
+                        "desk"
+                    ],
+                    "answer": "table",
+                    "element_type": "object",
+                    "free_form_vqa": "table",
+                    "multiple_choice_vqa": "table",
+                    "scores": 1
+                },
+                "Is the teapot rustic?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "rustic",
+                    "question": "Is the teapot rustic?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot Italian?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "Italian",
+                    "question": "Is the teapot Italian?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the table sleek?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "sleek",
+                    "question": "Is the table sleek?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the table Scandinavian?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "Scandinavian",
+                    "question": "Is the table Scandinavian?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the table made of wood?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "wooden",
+                    "question": "Is the table made of wood?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "material",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot on the table?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "on",
+                    "question": "Is the teapot on the table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_10.png",
+            "ques_ans": {
+                "Is there a teapot?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "teapot",
+                    "question": "Is there a teapot?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What type of object is shown?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "teapot",
+                    "question": "What type of object is shown?",
+                    "choices": [
+                        "teapot",
+                        "vase",
+                        "coffee mug",
+                        "kettle"
+                    ],
+                    "answer": "teapot",
+                    "element_type": "object",
+                    "free_form_vqa": "button",
+                    "multiple_choice_vqa": "kettle",
+                    "scores": 0
+                },
+                "Is there a table?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "table",
+                    "question": "Is there a table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What piece of furniture is shown?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "table",
+                    "question": "What piece of furniture is shown?",
+                    "choices": [
+                        "table",
+                        "chair",
+                        "sofa",
+                        "desk"
+                    ],
+                    "answer": "table",
+                    "element_type": "object",
+                    "free_form_vqa": "table",
+                    "multiple_choice_vqa": "table",
+                    "scores": 1
+                },
+                "Is the teapot rustic?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "rustic",
+                    "question": "Is the teapot rustic?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot Italian?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "Italian",
+                    "question": "Is the teapot Italian?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the table sleek?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "sleek",
+                    "question": "Is the table sleek?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the table Scandinavian?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "Scandinavian",
+                    "question": "Is the table Scandinavian?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the table made of wood?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "wooden",
+                    "question": "Is the table made of wood?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "material",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot on the table?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "on",
+                    "question": "Is the teapot on the table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_20.png",
+            "ques_ans": {
+                "Is there a teapot?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "teapot",
+                    "question": "Is there a teapot?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What type of object is shown?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "teapot",
+                    "question": "What type of object is shown?",
+                    "choices": [
+                        "teapot",
+                        "vase",
+                        "coffee mug",
+                        "kettle"
+                    ],
+                    "answer": "teapot",
+                    "element_type": "object",
+                    "free_form_vqa": "cap",
+                    "multiple_choice_vqa": "coffee mug",
+                    "scores": 0
+                },
+                "Is there a table?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "table",
+                    "question": "Is there a table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What piece of furniture is shown?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "table",
+                    "question": "What piece of furniture is shown?",
+                    "choices": [
+                        "table",
+                        "chair",
+                        "sofa",
+                        "desk"
+                    ],
+                    "answer": "table",
+                    "element_type": "object",
+                    "free_form_vqa": "table",
+                    "multiple_choice_vqa": "table",
+                    "scores": 1
+                },
+                "Is the teapot rustic?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "rustic",
+                    "question": "Is the teapot rustic?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot Italian?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "Italian",
+                    "question": "Is the teapot Italian?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the table sleek?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "sleek",
+                    "question": "Is the table sleek?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the table Scandinavian?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "Scandinavian",
+                    "question": "Is the table Scandinavian?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the table made of wood?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "wooden",
+                    "question": "Is the table made of wood?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "material",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot on the table?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "on",
+                    "question": "Is the teapot on the table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_30.png",
+            "ques_ans": {
+                "Is there a teapot?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "teapot",
+                    "question": "Is there a teapot?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What type of object is shown?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "teapot",
+                    "question": "What type of object is shown?",
+                    "choices": [
+                        "teapot",
+                        "vase",
+                        "coffee mug",
+                        "kettle"
+                    ],
+                    "answer": "teapot",
+                    "element_type": "object",
+                    "free_form_vqa": "water drop",
+                    "multiple_choice_vqa": "vase",
+                    "scores": 0
+                },
+                "Is there a table?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "table",
+                    "question": "Is there a table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What piece of furniture is shown?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "table",
+                    "question": "What piece of furniture is shown?",
+                    "choices": [
+                        "table",
+                        "chair",
+                        "sofa",
+                        "desk"
+                    ],
+                    "answer": "table",
+                    "element_type": "object",
+                    "free_form_vqa": "table",
+                    "multiple_choice_vqa": "table",
+                    "scores": 1
+                },
+                "Is the teapot rustic?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "rustic",
+                    "question": "Is the teapot rustic?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot Italian?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "Italian",
+                    "question": "Is the teapot Italian?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the table sleek?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "sleek",
+                    "question": "Is the table sleek?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the table Scandinavian?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "Scandinavian",
+                    "question": "Is the table Scandinavian?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the table made of wood?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "wooden",
+                    "question": "Is the table made of wood?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "material",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the teapot on the table?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "on",
+                    "question": "Is the teapot on the table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_40.png",
+            "ques_ans": {
+                "Is there a teapot?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "teapot",
+                    "question": "Is there a teapot?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What type of object is shown?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "teapot",
+                    "question": "What type of object is shown?",
+                    "choices": [
+                        "teapot",
+                        "vase",
+                        "coffee mug",
+                        "kettle"
+                    ],
+                    "answer": "teapot",
+                    "element_type": "object",
+                    "free_form_vqa": "water drop",
+                    "multiple_choice_vqa": "vase",
+                    "scores": 0
+                },
+                "Is there a table?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "table",
+                    "question": "Is there a table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What piece of furniture is shown?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "table",
+                    "question": "What piece of furniture is shown?",
+                    "choices": [
+                        "table",
+                        "chair",
+                        "sofa",
+                        "desk"
+                    ],
+                    "answer": "table",
+                    "element_type": "object",
+                    "free_form_vqa": "table",
+                    "multiple_choice_vqa": "table",
+                    "scores": 1
+                },
+                "Is the teapot rustic?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "rustic",
+                    "question": "Is the teapot rustic?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot Italian?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "Italian",
+                    "question": "Is the teapot Italian?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the table sleek?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "sleek",
+                    "question": "Is the table sleek?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the table Scandinavian?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "Scandinavian",
+                    "question": "Is the table Scandinavian?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the table made of wood?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "wooden",
+                    "question": "Is the table made of wood?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "material",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the teapot on the table?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "on",
+                    "question": "Is the teapot on the table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_50.png",
+            "ques_ans": {
+                "Is there a teapot?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "teapot",
+                    "question": "Is there a teapot?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What type of object is shown?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "teapot",
+                    "question": "What type of object is shown?",
+                    "choices": [
+                        "teapot",
+                        "vase",
+                        "coffee mug",
+                        "kettle"
+                    ],
+                    "answer": "teapot",
+                    "element_type": "object",
+                    "free_form_vqa": "button",
+                    "multiple_choice_vqa": "kettle",
+                    "scores": 0
+                },
+                "Is there a table?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "table",
+                    "question": "Is there a table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What piece of furniture is shown?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "table",
+                    "question": "What piece of furniture is shown?",
+                    "choices": [
+                        "table",
+                        "chair",
+                        "sofa",
+                        "desk"
+                    ],
+                    "answer": "table",
+                    "element_type": "object",
+                    "free_form_vqa": "table",
+                    "multiple_choice_vqa": "table",
+                    "scores": 1
+                },
+                "Is the teapot rustic?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "rustic",
+                    "question": "Is the teapot rustic?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot Italian?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "Italian",
+                    "question": "Is the teapot Italian?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the table sleek?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "sleek",
+                    "question": "Is the table sleek?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the table Scandinavian?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "Scandinavian",
+                    "question": "Is the table Scandinavian?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the table made of wood?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "wooden",
+                    "question": "Is the table made of wood?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "material",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot on the table?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "on",
+                    "question": "Is the teapot on the table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_60.png",
+            "ques_ans": {
+                "Is there a teapot?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "teapot",
+                    "question": "Is there a teapot?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What type of object is shown?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "teapot",
+                    "question": "What type of object is shown?",
+                    "choices": [
+                        "teapot",
+                        "vase",
+                        "coffee mug",
+                        "kettle"
+                    ],
+                    "answer": "teapot",
+                    "element_type": "object",
+                    "free_form_vqa": "water drop",
+                    "multiple_choice_vqa": "vase",
+                    "scores": 0
+                },
+                "Is there a table?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "table",
+                    "question": "Is there a table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What piece of furniture is shown?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "table",
+                    "question": "What piece of furniture is shown?",
+                    "choices": [
+                        "table",
+                        "chair",
+                        "sofa",
+                        "desk"
+                    ],
+                    "answer": "table",
+                    "element_type": "object",
+                    "free_form_vqa": "table",
+                    "multiple_choice_vqa": "table",
+                    "scores": 1
+                },
+                "Is the teapot rustic?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "rustic",
+                    "question": "Is the teapot rustic?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot Italian?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "Italian",
+                    "question": "Is the teapot Italian?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the table sleek?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "sleek",
+                    "question": "Is the table sleek?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the table Scandinavian?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "Scandinavian",
+                    "question": "Is the table Scandinavian?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the table made of wood?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "wooden",
+                    "question": "Is the table made of wood?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "material",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot on the table?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "on",
+                    "question": "Is the teapot on the table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_70.png",
+            "ques_ans": {
+                "Is there a teapot?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "teapot",
+                    "question": "Is there a teapot?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What type of object is shown?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "teapot",
+                    "question": "What type of object is shown?",
+                    "choices": [
+                        "teapot",
+                        "vase",
+                        "coffee mug",
+                        "kettle"
+                    ],
+                    "answer": "teapot",
+                    "element_type": "object",
+                    "free_form_vqa": "button",
+                    "multiple_choice_vqa": "kettle",
+                    "scores": 0
+                },
+                "Is there a table?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "table",
+                    "question": "Is there a table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What piece of furniture is shown?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "table",
+                    "question": "What piece of furniture is shown?",
+                    "choices": [
+                        "table",
+                        "chair",
+                        "sofa",
+                        "desk"
+                    ],
+                    "answer": "table",
+                    "element_type": "object",
+                    "free_form_vqa": "table",
+                    "multiple_choice_vqa": "table",
+                    "scores": 1
+                },
+                "Is the teapot rustic?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "rustic",
+                    "question": "Is the teapot rustic?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot Italian?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "Italian",
+                    "question": "Is the teapot Italian?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the table sleek?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "sleek",
+                    "question": "Is the table sleek?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the table Scandinavian?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "Scandinavian",
+                    "question": "Is the table Scandinavian?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the table made of wood?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "wooden",
+                    "question": "Is the table made of wood?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "material",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot on the table?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "on",
+                    "question": "Is the teapot on the table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_80.png",
+            "ques_ans": {
+                "Is there a teapot?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "teapot",
+                    "question": "Is there a teapot?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What type of object is shown?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "teapot",
+                    "question": "What type of object is shown?",
+                    "choices": [
+                        "teapot",
+                        "vase",
+                        "coffee mug",
+                        "kettle"
+                    ],
+                    "answer": "teapot",
+                    "element_type": "object",
+                    "free_form_vqa": "drop of water",
+                    "multiple_choice_vqa": "vase",
+                    "scores": 0
+                },
+                "Is there a table?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "table",
+                    "question": "Is there a table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What piece of furniture is shown?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "table",
+                    "question": "What piece of furniture is shown?",
+                    "choices": [
+                        "table",
+                        "chair",
+                        "sofa",
+                        "desk"
+                    ],
+                    "answer": "table",
+                    "element_type": "object",
+                    "free_form_vqa": "table",
+                    "multiple_choice_vqa": "table",
+                    "scores": 1
+                },
+                "Is the teapot rustic?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "rustic",
+                    "question": "Is the teapot rustic?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot Italian?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "Italian",
+                    "question": "Is the teapot Italian?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the table sleek?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "sleek",
+                    "question": "Is the table sleek?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the table Scandinavian?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "Scandinavian",
+                    "question": "Is the table Scandinavian?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the table made of wood?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "wooden",
+                    "question": "Is the table made of wood?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "material",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the teapot on the table?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "on",
+                    "question": "Is the teapot on the table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_90.png",
+            "ques_ans": {
+                "Is there a teapot?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "teapot",
+                    "question": "Is there a teapot?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What type of object is shown?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "teapot",
+                    "question": "What type of object is shown?",
+                    "choices": [
+                        "teapot",
+                        "vase",
+                        "coffee mug",
+                        "kettle"
+                    ],
+                    "answer": "teapot",
+                    "element_type": "object",
+                    "free_form_vqa": "water drop",
+                    "multiple_choice_vqa": "vase",
+                    "scores": 0
+                },
+                "Is there a table?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "table",
+                    "question": "Is there a table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What piece of furniture is shown?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "table",
+                    "question": "What piece of furniture is shown?",
+                    "choices": [
+                        "table",
+                        "chair",
+                        "sofa",
+                        "desk"
+                    ],
+                    "answer": "table",
+                    "element_type": "object",
+                    "free_form_vqa": "table",
+                    "multiple_choice_vqa": "table",
+                    "scores": 1
+                },
+                "Is the teapot rustic?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "rustic",
+                    "question": "Is the teapot rustic?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot Italian?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "Italian",
+                    "question": "Is the teapot Italian?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the table sleek?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "sleek",
+                    "question": "Is the table sleek?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the table Scandinavian?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "Scandinavian",
+                    "question": "Is the table Scandinavian?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the table made of wood?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "wooden",
+                    "question": "Is the table made of wood?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "material",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot on the table?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "on",
+                    "question": "Is the teapot on the table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_100.png",
+            "ques_ans": {
+                "Is there a teapot?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "teapot",
+                    "question": "Is there a teapot?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What type of object is shown?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "teapot",
+                    "question": "What type of object is shown?",
+                    "choices": [
+                        "teapot",
+                        "vase",
+                        "coffee mug",
+                        "kettle"
+                    ],
+                    "answer": "teapot",
+                    "element_type": "object",
+                    "free_form_vqa": "pulley",
+                    "multiple_choice_vqa": "vase",
+                    "scores": 0
+                },
+                "Is there a table?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "table",
+                    "question": "Is there a table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What piece of furniture is shown?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "table",
+                    "question": "What piece of furniture is shown?",
+                    "choices": [
+                        "table",
+                        "chair",
+                        "sofa",
+                        "desk"
+                    ],
+                    "answer": "table",
+                    "element_type": "object",
+                    "free_form_vqa": "table",
+                    "multiple_choice_vqa": "table",
+                    "scores": 1
+                },
+                "Is the teapot rustic?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "rustic",
+                    "question": "Is the teapot rustic?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot Italian?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "Italian",
+                    "question": "Is the teapot Italian?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the table sleek?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "sleek",
+                    "question": "Is the table sleek?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the table Scandinavian?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "Scandinavian",
+                    "question": "Is the table Scandinavian?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the table made of wood?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "wooden",
+                    "question": "Is the table made of wood?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "material",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot on the table?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "on",
+                    "question": "Is the teapot on the table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        },
+        {
+            "image": "rgb_110.png",
+            "ques_ans": {
+                "Is there a teapot?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "teapot",
+                    "question": "Is there a teapot?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What type of object is shown?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "teapot",
+                    "question": "What type of object is shown?",
+                    "choices": [
+                        "teapot",
+                        "vase",
+                        "coffee mug",
+                        "kettle"
+                    ],
+                    "answer": "teapot",
+                    "element_type": "object",
+                    "free_form_vqa": "button",
+                    "multiple_choice_vqa": "kettle",
+                    "scores": 0
+                },
+                "Is there a table?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "table",
+                    "question": "Is there a table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What piece of furniture is shown?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "table",
+                    "question": "What piece of furniture is shown?",
+                    "choices": [
+                        "table",
+                        "chair",
+                        "sofa",
+                        "desk"
+                    ],
+                    "answer": "table",
+                    "element_type": "object",
+                    "free_form_vqa": "table",
+                    "multiple_choice_vqa": "table",
+                    "scores": 1
+                },
+                "Is the teapot rustic?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "rustic",
+                    "question": "Is the teapot rustic?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot Italian?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "Italian",
+                    "question": "Is the teapot Italian?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the table sleek?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "sleek",
+                    "question": "Is the table sleek?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the table Scandinavian?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "Scandinavian",
+                    "question": "Is the table Scandinavian?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "attribute",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the table made of wood?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "wooden",
+                    "question": "Is the table made of wood?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "material",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the teapot on the table?": {
+                    "caption": "A rustic Italian teapot set on a sleek Scandinavian wooden table",
+                    "element": "on",
+                    "question": "Is the teapot on the table?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                }
+            }
+        }
+    ]
+}

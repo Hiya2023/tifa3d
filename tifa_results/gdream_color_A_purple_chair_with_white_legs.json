@@ -1,0 +1,970 @@
+{
+    "method": "gdream",
+    "aspect": "color",
+    "prompt_name": "A_purple_chair_with_white_legs",
+    "individual_scores": {
+        "rgb_0.png": 1,
+        "rgb_10.png": 1,
+        "rgb_20.png": 1,
+        "rgb_30.png": 1,
+        "rgb_40.png": 1,
+        "rgb_50.png": 1,
+        "rgb_60.png": 1,
+        "rgb_70.png": 1,
+        "rgb_80.png": 1,
+        "rgb_90.png": 1,
+        "rgb_100.png": 1,
+        "rgb_110.png": 1
+    },
+    "average_tifa_score": 1,
+    "question_logs": [
+        {
+            "image": "rgb_0.png",
+            "ques_ans": {
+                "Is this a chair?": {
+                    "caption": "A purple chair with white legs",
+                    "element": "chair",
+                    "question": "Is this a chair?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the chair purple?": {
+                    "caption": "A purple chair with white legs",
+                    "element": "purple",
+                    "question": "Is the chair purple?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the chair?": {
+                    "caption": "A purple chair with white legs",
+                    "element": "purple",
+                    "question": "What color is the chair?",
+                    "choices": [
+                        "purple",
+                        "red",
+                        "blue",
+                        "green"
+                    ],
+                    "answer": "purple",
+                    "element_type": "color",
+                    "free_form_vqa": "purple",
+                    "multiple_choice_vqa": "purple",
+                    "scores": 1
+                },
+                "Are the legs of the chair white?": {
+                    "caption": "A purple chair with white legs",
+                    "element": "white legs",
+                    "question": "Are the legs of the chair white?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color are the legs of the chair?": {
+                    "caption": "A purple chair with white legs",
+                    "element": "white legs",
+                    "question": "What color are the legs of the chair?",
+                    "choices": [
+                        "white",
+                        "black",
+                        "brown",
+                        "gray"
+                    ],
+                    "answer": "white",
+                    "element_type": "color",
+                    "free_form_vqa": "white",
+                    "multiple_choice_vqa": "white",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_10.png",
+            "ques_ans": {
+                "Is this a chair?": {
+                    "caption": "A purple chair with white legs",
+                    "element": "chair",
+                    "question": "Is this a chair?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the chair purple?": {
+                    "caption": "A purple chair with white legs",
+                    "element": "purple",
+                    "question": "Is the chair purple?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the chair?": {
+                    "caption": "A purple chair with white legs",
+                    "element": "purple",
+                    "question": "What color is the chair?",
+                    "choices": [
+                        "purple",
+                        "red",
+                        "blue",
+                        "green"
+                    ],
+                    "answer": "purple",
+                    "element_type": "color",
+                    "free_form_vqa": "purple",
+                    "multiple_choice_vqa": "purple",
+                    "scores": 1
+                },
+                "Are the legs of the chair white?": {
+                    "caption": "A purple chair with white legs",
+                    "element": "white legs",
+                    "question": "Are the legs of the chair white?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color are the legs of the chair?": {
+                    "caption": "A purple chair with white legs",
+                    "element": "white legs",
+                    "question": "What color are the legs of the chair?",
+                    "choices": [
+                        "white",
+                        "black",
+                        "brown",
+                        "gray"
+                    ],
+                    "answer": "white",
+                    "element_type": "color",
+                    "free_form_vqa": "white",
+                    "multiple_choice_vqa": "white",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_20.png",
+            "ques_ans": {
+                "Is this a chair?": {
+                    "caption": "A purple chair with white legs",
+                    "element": "chair",
+                    "question": "Is this a chair?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the chair purple?": {
+                    "caption": "A purple chair with white legs",
+                    "element": "purple",
+                    "question": "Is the chair purple?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the chair?": {
+                    "caption": "A purple chair with white legs",
+                    "element": "purple",
+                    "question": "What color is the chair?",
+                    "choices": [
+                        "purple",
+                        "red",
+                        "blue",
+                        "green"
+                    ],
+                    "answer": "purple",
+                    "element_type": "color",
+                    "free_form_vqa": "purple",
+                    "multiple_choice_vqa": "purple",
+                    "scores": 1
+                },
+                "Are the legs of the chair white?": {
+                    "caption": "A purple chair with white legs",
+                    "element": "white legs",
+                    "question": "Are the legs of the chair white?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color are the legs of the chair?": {
+                    "caption": "A purple chair with white legs",
+                    "element": "white legs",
+                    "question": "What color are the legs of the chair?",
+                    "choices": [
+                        "white",
+                        "black",
+                        "brown",
+                        "gray"
+                    ],
+                    "answer": "white",
+                    "element_type": "color",
+                    "free_form_vqa": "white",
+                    "multiple_choice_vqa": "white",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_30.png",
+            "ques_ans": {
+                "Is this a chair?": {
+                    "caption": "A purple chair with white legs",
+                    "element": "chair",
+                    "question": "Is this a chair?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the chair purple?": {
+                    "caption": "A purple chair with white legs",
+                    "element": "purple",
+                    "question": "Is the chair purple?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the chair?": {
+                    "caption": "A purple chair with white legs",
+                    "element": "purple",
+                    "question": "What color is the chair?",
+                    "choices": [
+                        "purple",
+                        "red",
+                        "blue",
+                        "green"
+                    ],
+                    "answer": "purple",
+                    "element_type": "color",
+                    "free_form_vqa": "purple",
+                    "multiple_choice_vqa": "purple",
+                    "scores": 1
+                },
+                "Are the legs of the chair white?": {
+                    "caption": "A purple chair with white legs",
+                    "element": "white legs",
+                    "question": "Are the legs of the chair white?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color are the legs of the chair?": {
+                    "caption": "A purple chair with white legs",
+                    "element": "white legs",
+                    "question": "What color are the legs of the chair?",
+                    "choices": [
+                        "white",
+                        "black",
+                        "brown",
+                        "gray"
+                    ],
+                    "answer": "white",
+                    "element_type": "color",
+                    "free_form_vqa": "white",
+                    "multiple_choice_vqa": "white",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_40.png",
+            "ques_ans": {
+                "Is this a chair?": {
+                    "caption": "A purple chair with white legs",
+                    "element": "chair",
+                    "question": "Is this a chair?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the chair purple?": {
+                    "caption": "A purple chair with white legs",
+                    "element": "purple",
+                    "question": "Is the chair purple?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the chair?": {
+                    "caption": "A purple chair with white legs",
+                    "element": "purple",
+                    "question": "What color is the chair?",
+                    "choices": [
+                        "purple",
+                        "red",
+                        "blue",
+                        "green"
+                    ],
+                    "answer": "purple",
+                    "element_type": "color",
+                    "free_form_vqa": "purple",
+                    "multiple_choice_vqa": "purple",
+                    "scores": 1
+                },
+                "Are the legs of the chair white?": {
+                    "caption": "A purple chair with white legs",
+                    "element": "white legs",
+                    "question": "Are the legs of the chair white?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color are the legs of the chair?": {
+                    "caption": "A purple chair with white legs",
+                    "element": "white legs",
+                    "question": "What color are the legs of the chair?",
+                    "choices": [
+                        "white",
+                        "black",
+                        "brown",
+                        "gray"
+                    ],
+                    "answer": "white",
+                    "element_type": "color",
+                    "free_form_vqa": "white",
+                    "multiple_choice_vqa": "white",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_50.png",
+            "ques_ans": {
+                "Is this a chair?": {
+                    "caption": "A purple chair with white legs",
+                    "element": "chair",
+                    "question": "Is this a chair?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the chair purple?": {
+                    "caption": "A purple chair with white legs",
+                    "element": "purple",
+                    "question": "Is the chair purple?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the chair?": {
+                    "caption": "A purple chair with white legs",
+                    "element": "purple",
+                    "question": "What color is the chair?",
+                    "choices": [
+                        "purple",
+                        "red",
+                        "blue",
+                        "green"
+                    ],
+                    "answer": "purple",
+                    "element_type": "color",
+                    "free_form_vqa": "purple",
+                    "multiple_choice_vqa": "purple",
+                    "scores": 1
+                },
+                "Are the legs of the chair white?": {
+                    "caption": "A purple chair with white legs",
+                    "element": "white legs",
+                    "question": "Are the legs of the chair white?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color are the legs of the chair?": {
+                    "caption": "A purple chair with white legs",
+                    "element": "white legs",
+                    "question": "What color are the legs of the chair?",
+                    "choices": [
+                        "white",
+                        "black",
+                        "brown",
+                        "gray"
+                    ],
+                    "answer": "white",
+                    "element_type": "color",
+                    "free_form_vqa": "white",
+                    "multiple_choice_vqa": "white",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_60.png",
+            "ques_ans": {
+                "Is this a chair?": {
+                    "caption": "A purple chair with white legs",
+                    "element": "chair",
+                    "question": "Is this a chair?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the chair purple?": {
+                    "caption": "A purple chair with white legs",
+                    "element": "purple",
+                    "question": "Is the chair purple?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the chair?": {
+                    "caption": "A purple chair with white legs",
+                    "element": "purple",
+                    "question": "What color is the chair?",
+                    "choices": [
+                        "purple",
+                        "red",
+                        "blue",
+                        "green"
+                    ],
+                    "answer": "purple",
+                    "element_type": "color",
+                    "free_form_vqa": "purple",
+                    "multiple_choice_vqa": "purple",
+                    "scores": 1
+                },
+                "Are the legs of the chair white?": {
+                    "caption": "A purple chair with white legs",
+                    "element": "white legs",
+                    "question": "Are the legs of the chair white?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color are the legs of the chair?": {
+                    "caption": "A purple chair with white legs",
+                    "element": "white legs",
+                    "question": "What color are the legs of the chair?",
+                    "choices": [
+                        "white",
+                        "black",
+                        "brown",
+                        "gray"
+                    ],
+                    "answer": "white",
+                    "element_type": "color",
+                    "free_form_vqa": "white",
+                    "multiple_choice_vqa": "white",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_70.png",
+            "ques_ans": {
+                "Is this a chair?": {
+                    "caption": "A purple chair with white legs",
+                    "element": "chair",
+                    "question": "Is this a chair?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the chair purple?": {
+                    "caption": "A purple chair with white legs",
+                    "element": "purple",
+                    "question": "Is the chair purple?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the chair?": {
+                    "caption": "A purple chair with white legs",
+                    "element": "purple",
+                    "question": "What color is the chair?",
+                    "choices": [
+                        "purple",
+                        "red",
+                        "blue",
+                        "green"
+                    ],
+                    "answer": "purple",
+                    "element_type": "color",
+                    "free_form_vqa": "purple",
+                    "multiple_choice_vqa": "purple",
+                    "scores": 1
+                },
+                "Are the legs of the chair white?": {
+                    "caption": "A purple chair with white legs",
+                    "element": "white legs",
+                    "question": "Are the legs of the chair white?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color are the legs of the chair?": {
+                    "caption": "A purple chair with white legs",
+                    "element": "white legs",
+                    "question": "What color are the legs of the chair?",
+                    "choices": [
+                        "white",
+                        "black",
+                        "brown",
+                        "gray"
+                    ],
+                    "answer": "white",
+                    "element_type": "color",
+                    "free_form_vqa": "white",
+                    "multiple_choice_vqa": "white",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_80.png",
+            "ques_ans": {
+                "Is this a chair?": {
+                    "caption": "A purple chair with white legs",
+                    "element": "chair",
+                    "question": "Is this a chair?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the chair purple?": {
+                    "caption": "A purple chair with white legs",
+                    "element": "purple",
+                    "question": "Is the chair purple?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the chair?": {
+                    "caption": "A purple chair with white legs",
+                    "element": "purple",
+                    "question": "What color is the chair?",
+                    "choices": [
+                        "purple",
+                        "red",
+                        "blue",
+                        "green"
+                    ],
+                    "answer": "purple",
+                    "element_type": "color",
+                    "free_form_vqa": "purple",
+                    "multiple_choice_vqa": "purple",
+                    "scores": 1
+                },
+                "Are the legs of the chair white?": {
+                    "caption": "A purple chair with white legs",
+                    "element": "white legs",
+                    "question": "Are the legs of the chair white?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color are the legs of the chair?": {
+                    "caption": "A purple chair with white legs",
+                    "element": "white legs",
+                    "question": "What color are the legs of the chair?",
+                    "choices": [
+                        "white",
+                        "black",
+                        "brown",
+                        "gray"
+                    ],
+                    "answer": "white",
+                    "element_type": "color",
+                    "free_form_vqa": "white",
+                    "multiple_choice_vqa": "white",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_90.png",
+            "ques_ans": {
+                "Is this a chair?": {
+                    "caption": "A purple chair with white legs",
+                    "element": "chair",
+                    "question": "Is this a chair?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the chair purple?": {
+                    "caption": "A purple chair with white legs",
+                    "element": "purple",
+                    "question": "Is the chair purple?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the chair?": {
+                    "caption": "A purple chair with white legs",
+                    "element": "purple",
+                    "question": "What color is the chair?",
+                    "choices": [
+                        "purple",
+                        "red",
+                        "blue",
+                        "green"
+                    ],
+                    "answer": "purple",
+                    "element_type": "color",
+                    "free_form_vqa": "purple",
+                    "multiple_choice_vqa": "purple",
+                    "scores": 1
+                },
+                "Are the legs of the chair white?": {
+                    "caption": "A purple chair with white legs",
+                    "element": "white legs",
+                    "question": "Are the legs of the chair white?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color are the legs of the chair?": {
+                    "caption": "A purple chair with white legs",
+                    "element": "white legs",
+                    "question": "What color are the legs of the chair?",
+                    "choices": [
+                        "white",
+                        "black",
+                        "brown",
+                        "gray"
+                    ],
+                    "answer": "white",
+                    "element_type": "color",
+                    "free_form_vqa": "white",
+                    "multiple_choice_vqa": "white",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_100.png",
+            "ques_ans": {
+                "Is this a chair?": {
+                    "caption": "A purple chair with white legs",
+                    "element": "chair",
+                    "question": "Is this a chair?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the chair purple?": {
+                    "caption": "A purple chair with white legs",
+                    "element": "purple",
+                    "question": "Is the chair purple?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the chair?": {
+                    "caption": "A purple chair with white legs",
+                    "element": "purple",
+                    "question": "What color is the chair?",
+                    "choices": [
+                        "purple",
+                        "red",
+                        "blue",
+                        "green"
+                    ],
+                    "answer": "purple",
+                    "element_type": "color",
+                    "free_form_vqa": "purple",
+                    "multiple_choice_vqa": "purple",
+                    "scores": 1
+                },
+                "Are the legs of the chair white?": {
+                    "caption": "A purple chair with white legs",
+                    "element": "white legs",
+                    "question": "Are the legs of the chair white?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color are the legs of the chair?": {
+                    "caption": "A purple chair with white legs",
+                    "element": "white legs",
+                    "question": "What color are the legs of the chair?",
+                    "choices": [
+                        "white",
+                        "black",
+                        "brown",
+                        "gray"
+                    ],
+                    "answer": "white",
+                    "element_type": "color",
+                    "free_form_vqa": "white",
+                    "multiple_choice_vqa": "white",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_110.png",
+            "ques_ans": {
+                "Is this a chair?": {
+                    "caption": "A purple chair with white legs",
+                    "element": "chair",
+                    "question": "Is this a chair?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the chair purple?": {
+                    "caption": "A purple chair with white legs",
+                    "element": "purple",
+                    "question": "Is the chair purple?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color is the chair?": {
+                    "caption": "A purple chair with white legs",
+                    "element": "purple",
+                    "question": "What color is the chair?",
+                    "choices": [
+                        "purple",
+                        "red",
+                        "blue",
+                        "green"
+                    ],
+                    "answer": "purple",
+                    "element_type": "color",
+                    "free_form_vqa": "purple",
+                    "multiple_choice_vqa": "purple",
+                    "scores": 1
+                },
+                "Are the legs of the chair white?": {
+                    "caption": "A purple chair with white legs",
+                    "element": "white legs",
+                    "question": "Are the legs of the chair white?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "color",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What color are the legs of the chair?": {
+                    "caption": "A purple chair with white legs",
+                    "element": "white legs",
+                    "question": "What color are the legs of the chair?",
+                    "choices": [
+                        "white",
+                        "black",
+                        "brown",
+                        "gray"
+                    ],
+                    "answer": "white",
+                    "element_type": "color",
+                    "free_form_vqa": "white",
+                    "multiple_choice_vqa": "white",
+                    "scores": 1
+                }
+            }
+        }
+    ]
+}

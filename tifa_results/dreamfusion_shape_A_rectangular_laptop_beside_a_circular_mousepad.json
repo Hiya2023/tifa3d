@@ -1,0 +1,1306 @@
+{
+    "method": "dreamfusion",
+    "aspect": "shape",
+    "prompt_name": "A_rectangular_laptop_beside_a_circular_mousepad",
+    "individual_scores": {
+        "rgb_0.png": 0.42857142857142855,
+        "rgb_10.png": 0.42857142857142855,
+        "rgb_20.png": 0.42857142857142855,
+        "rgb_30.png": 0.42857142857142855,
+        "rgb_40.png": 0.42857142857142855,
+        "rgb_50.png": 0.42857142857142855,
+        "rgb_60.png": 0.42857142857142855,
+        "rgb_70.png": 0.5714285714285714,
+        "rgb_80.png": 0.42857142857142855,
+        "rgb_90.png": 0.5714285714285714,
+        "rgb_100.png": 0.5714285714285714,
+        "rgb_110.png": 0.42857142857142855
+    },
+    "average_tifa_score": 0.46428571428571425,
+    "question_logs": [
+        {
+            "image": "rgb_0.png",
+            "ques_ans": {
+                "Is there a laptop?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "laptop",
+                    "question": "Is there a laptop?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is there a mousepad?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "mousepad",
+                    "question": "Is there a mousepad?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the laptop rectangular?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "rectangular",
+                    "question": "Is the laptop rectangular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the laptop?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "rectangular",
+                    "question": "What shape is the laptop?",
+                    "choices": [
+                        "rectangular",
+                        "circular",
+                        "triangular",
+                        "square"
+                    ],
+                    "answer": "rectangular",
+                    "element_type": "shape",
+                    "free_form_vqa": "square",
+                    "multiple_choice_vqa": "square",
+                    "scores": 0
+                },
+                "Is the mousepad circular?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "circular",
+                    "question": "Is the mousepad circular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What shape is the mousepad?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "circular",
+                    "question": "What shape is the mousepad?",
+                    "choices": [
+                        "circular",
+                        "square",
+                        "rectangular",
+                        "oval"
+                    ],
+                    "answer": "circular",
+                    "element_type": "shape",
+                    "free_form_vqa": "square",
+                    "multiple_choice_vqa": "square",
+                    "scores": 0
+                },
+                "Is the laptop beside the mousepad?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "beside",
+                    "question": "Is the laptop beside the mousepad?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_10.png",
+            "ques_ans": {
+                "Is there a laptop?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "laptop",
+                    "question": "Is there a laptop?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is there a mousepad?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "mousepad",
+                    "question": "Is there a mousepad?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the laptop rectangular?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "rectangular",
+                    "question": "Is the laptop rectangular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the laptop?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "rectangular",
+                    "question": "What shape is the laptop?",
+                    "choices": [
+                        "rectangular",
+                        "circular",
+                        "triangular",
+                        "square"
+                    ],
+                    "answer": "rectangular",
+                    "element_type": "shape",
+                    "free_form_vqa": "square",
+                    "multiple_choice_vqa": "square",
+                    "scores": 0
+                },
+                "Is the mousepad circular?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "circular",
+                    "question": "Is the mousepad circular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What shape is the mousepad?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "circular",
+                    "question": "What shape is the mousepad?",
+                    "choices": [
+                        "circular",
+                        "square",
+                        "rectangular",
+                        "oval"
+                    ],
+                    "answer": "circular",
+                    "element_type": "shape",
+                    "free_form_vqa": "square",
+                    "multiple_choice_vqa": "square",
+                    "scores": 0
+                },
+                "Is the laptop beside the mousepad?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "beside",
+                    "question": "Is the laptop beside the mousepad?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_20.png",
+            "ques_ans": {
+                "Is there a laptop?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "laptop",
+                    "question": "Is there a laptop?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is there a mousepad?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "mousepad",
+                    "question": "Is there a mousepad?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the laptop rectangular?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "rectangular",
+                    "question": "Is the laptop rectangular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the laptop?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "rectangular",
+                    "question": "What shape is the laptop?",
+                    "choices": [
+                        "rectangular",
+                        "circular",
+                        "triangular",
+                        "square"
+                    ],
+                    "answer": "rectangular",
+                    "element_type": "shape",
+                    "free_form_vqa": "square",
+                    "multiple_choice_vqa": "square",
+                    "scores": 0
+                },
+                "Is the mousepad circular?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "circular",
+                    "question": "Is the mousepad circular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What shape is the mousepad?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "circular",
+                    "question": "What shape is the mousepad?",
+                    "choices": [
+                        "circular",
+                        "square",
+                        "rectangular",
+                        "oval"
+                    ],
+                    "answer": "circular",
+                    "element_type": "shape",
+                    "free_form_vqa": "square",
+                    "multiple_choice_vqa": "square",
+                    "scores": 0
+                },
+                "Is the laptop beside the mousepad?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "beside",
+                    "question": "Is the laptop beside the mousepad?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_30.png",
+            "ques_ans": {
+                "Is there a laptop?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "laptop",
+                    "question": "Is there a laptop?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is there a mousepad?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "mousepad",
+                    "question": "Is there a mousepad?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the laptop rectangular?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "rectangular",
+                    "question": "Is the laptop rectangular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the laptop?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "rectangular",
+                    "question": "What shape is the laptop?",
+                    "choices": [
+                        "rectangular",
+                        "circular",
+                        "triangular",
+                        "square"
+                    ],
+                    "answer": "rectangular",
+                    "element_type": "shape",
+                    "free_form_vqa": "square",
+                    "multiple_choice_vqa": "square",
+                    "scores": 0
+                },
+                "Is the mousepad circular?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "circular",
+                    "question": "Is the mousepad circular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What shape is the mousepad?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "circular",
+                    "question": "What shape is the mousepad?",
+                    "choices": [
+                        "circular",
+                        "square",
+                        "rectangular",
+                        "oval"
+                    ],
+                    "answer": "circular",
+                    "element_type": "shape",
+                    "free_form_vqa": "square",
+                    "multiple_choice_vqa": "square",
+                    "scores": 0
+                },
+                "Is the laptop beside the mousepad?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "beside",
+                    "question": "Is the laptop beside the mousepad?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_40.png",
+            "ques_ans": {
+                "Is there a laptop?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "laptop",
+                    "question": "Is there a laptop?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is there a mousepad?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "mousepad",
+                    "question": "Is there a mousepad?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the laptop rectangular?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "rectangular",
+                    "question": "Is the laptop rectangular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the laptop?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "rectangular",
+                    "question": "What shape is the laptop?",
+                    "choices": [
+                        "rectangular",
+                        "circular",
+                        "triangular",
+                        "square"
+                    ],
+                    "answer": "rectangular",
+                    "element_type": "shape",
+                    "free_form_vqa": "square",
+                    "multiple_choice_vqa": "square",
+                    "scores": 0
+                },
+                "Is the mousepad circular?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "circular",
+                    "question": "Is the mousepad circular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What shape is the mousepad?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "circular",
+                    "question": "What shape is the mousepad?",
+                    "choices": [
+                        "circular",
+                        "square",
+                        "rectangular",
+                        "oval"
+                    ],
+                    "answer": "circular",
+                    "element_type": "shape",
+                    "free_form_vqa": "square",
+                    "multiple_choice_vqa": "square",
+                    "scores": 0
+                },
+                "Is the laptop beside the mousepad?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "beside",
+                    "question": "Is the laptop beside the mousepad?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_50.png",
+            "ques_ans": {
+                "Is there a laptop?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "laptop",
+                    "question": "Is there a laptop?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is there a mousepad?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "mousepad",
+                    "question": "Is there a mousepad?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the laptop rectangular?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "rectangular",
+                    "question": "Is the laptop rectangular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the laptop?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "rectangular",
+                    "question": "What shape is the laptop?",
+                    "choices": [
+                        "rectangular",
+                        "circular",
+                        "triangular",
+                        "square"
+                    ],
+                    "answer": "rectangular",
+                    "element_type": "shape",
+                    "free_form_vqa": "square",
+                    "multiple_choice_vqa": "square",
+                    "scores": 0
+                },
+                "Is the mousepad circular?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "circular",
+                    "question": "Is the mousepad circular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What shape is the mousepad?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "circular",
+                    "question": "What shape is the mousepad?",
+                    "choices": [
+                        "circular",
+                        "square",
+                        "rectangular",
+                        "oval"
+                    ],
+                    "answer": "circular",
+                    "element_type": "shape",
+                    "free_form_vqa": "square",
+                    "multiple_choice_vqa": "square",
+                    "scores": 0
+                },
+                "Is the laptop beside the mousepad?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "beside",
+                    "question": "Is the laptop beside the mousepad?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_60.png",
+            "ques_ans": {
+                "Is there a laptop?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "laptop",
+                    "question": "Is there a laptop?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is there a mousepad?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "mousepad",
+                    "question": "Is there a mousepad?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the laptop rectangular?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "rectangular",
+                    "question": "Is the laptop rectangular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the laptop?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "rectangular",
+                    "question": "What shape is the laptop?",
+                    "choices": [
+                        "rectangular",
+                        "circular",
+                        "triangular",
+                        "square"
+                    ],
+                    "answer": "rectangular",
+                    "element_type": "shape",
+                    "free_form_vqa": "square",
+                    "multiple_choice_vqa": "square",
+                    "scores": 0
+                },
+                "Is the mousepad circular?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "circular",
+                    "question": "Is the mousepad circular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What shape is the mousepad?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "circular",
+                    "question": "What shape is the mousepad?",
+                    "choices": [
+                        "circular",
+                        "square",
+                        "rectangular",
+                        "oval"
+                    ],
+                    "answer": "circular",
+                    "element_type": "shape",
+                    "free_form_vqa": "square",
+                    "multiple_choice_vqa": "square",
+                    "scores": 0
+                },
+                "Is the laptop beside the mousepad?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "beside",
+                    "question": "Is the laptop beside the mousepad?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_70.png",
+            "ques_ans": {
+                "Is there a laptop?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "laptop",
+                    "question": "Is there a laptop?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is there a mousepad?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "mousepad",
+                    "question": "Is there a mousepad?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the laptop rectangular?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "rectangular",
+                    "question": "Is the laptop rectangular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What shape is the laptop?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "rectangular",
+                    "question": "What shape is the laptop?",
+                    "choices": [
+                        "rectangular",
+                        "circular",
+                        "triangular",
+                        "square"
+                    ],
+                    "answer": "rectangular",
+                    "element_type": "shape",
+                    "free_form_vqa": "rectangle",
+                    "multiple_choice_vqa": "rectangular",
+                    "scores": 1
+                },
+                "Is the mousepad circular?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "circular",
+                    "question": "Is the mousepad circular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the mousepad?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "circular",
+                    "question": "What shape is the mousepad?",
+                    "choices": [
+                        "circular",
+                        "square",
+                        "rectangular",
+                        "oval"
+                    ],
+                    "answer": "circular",
+                    "element_type": "shape",
+                    "free_form_vqa": "round",
+                    "multiple_choice_vqa": "circular",
+                    "scores": 1
+                },
+                "Is the laptop beside the mousepad?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "beside",
+                    "question": "Is the laptop beside the mousepad?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_80.png",
+            "ques_ans": {
+                "Is there a laptop?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "laptop",
+                    "question": "Is there a laptop?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is there a mousepad?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "mousepad",
+                    "question": "Is there a mousepad?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the laptop rectangular?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "rectangular",
+                    "question": "Is the laptop rectangular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the laptop?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "rectangular",
+                    "question": "What shape is the laptop?",
+                    "choices": [
+                        "rectangular",
+                        "circular",
+                        "triangular",
+                        "square"
+                    ],
+                    "answer": "rectangular",
+                    "element_type": "shape",
+                    "free_form_vqa": "square",
+                    "multiple_choice_vqa": "square",
+                    "scores": 0
+                },
+                "Is the mousepad circular?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "circular",
+                    "question": "Is the mousepad circular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What shape is the mousepad?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "circular",
+                    "question": "What shape is the mousepad?",
+                    "choices": [
+                        "circular",
+                        "square",
+                        "rectangular",
+                        "oval"
+                    ],
+                    "answer": "circular",
+                    "element_type": "shape",
+                    "free_form_vqa": "square",
+                    "multiple_choice_vqa": "square",
+                    "scores": 0
+                },
+                "Is the laptop beside the mousepad?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "beside",
+                    "question": "Is the laptop beside the mousepad?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_90.png",
+            "ques_ans": {
+                "Is there a laptop?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "laptop",
+                    "question": "Is there a laptop?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is there a mousepad?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "mousepad",
+                    "question": "Is there a mousepad?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "Is the laptop rectangular?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "rectangular",
+                    "question": "Is the laptop rectangular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the laptop?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "rectangular",
+                    "question": "What shape is the laptop?",
+                    "choices": [
+                        "rectangular",
+                        "circular",
+                        "triangular",
+                        "square"
+                    ],
+                    "answer": "rectangular",
+                    "element_type": "shape",
+                    "free_form_vqa": "square",
+                    "multiple_choice_vqa": "square",
+                    "scores": 0
+                },
+                "Is the mousepad circular?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "circular",
+                    "question": "Is the mousepad circular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the mousepad?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "circular",
+                    "question": "What shape is the mousepad?",
+                    "choices": [
+                        "circular",
+                        "square",
+                        "rectangular",
+                        "oval"
+                    ],
+                    "answer": "circular",
+                    "element_type": "shape",
+                    "free_form_vqa": "square",
+                    "multiple_choice_vqa": "square",
+                    "scores": 0
+                },
+                "Is the laptop beside the mousepad?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "beside",
+                    "question": "Is the laptop beside the mousepad?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_100.png",
+            "ques_ans": {
+                "Is there a laptop?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "laptop",
+                    "question": "Is there a laptop?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is there a mousepad?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "mousepad",
+                    "question": "Is there a mousepad?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the laptop rectangular?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "rectangular",
+                    "question": "Is the laptop rectangular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the laptop?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "rectangular",
+                    "question": "What shape is the laptop?",
+                    "choices": [
+                        "rectangular",
+                        "circular",
+                        "triangular",
+                        "square"
+                    ],
+                    "answer": "rectangular",
+                    "element_type": "shape",
+                    "free_form_vqa": "rectangle",
+                    "multiple_choice_vqa": "rectangular",
+                    "scores": 1
+                },
+                "Is the mousepad circular?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "circular",
+                    "question": "Is the mousepad circular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the mousepad?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "circular",
+                    "question": "What shape is the mousepad?",
+                    "choices": [
+                        "circular",
+                        "square",
+                        "rectangular",
+                        "oval"
+                    ],
+                    "answer": "circular",
+                    "element_type": "shape",
+                    "free_form_vqa": "hexagon",
+                    "multiple_choice_vqa": "rectangular",
+                    "scores": 0
+                },
+                "Is the laptop beside the mousepad?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "beside",
+                    "question": "Is the laptop beside the mousepad?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        },
+        {
+            "image": "rgb_110.png",
+            "ques_ans": {
+                "Is there a laptop?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "laptop",
+                    "question": "Is there a laptop?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is there a mousepad?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "mousepad",
+                    "question": "Is there a mousepad?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "object",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "Is the laptop rectangular?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "rectangular",
+                    "question": "Is the laptop rectangular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                },
+                "What shape is the laptop?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "rectangular",
+                    "question": "What shape is the laptop?",
+                    "choices": [
+                        "rectangular",
+                        "circular",
+                        "triangular",
+                        "square"
+                    ],
+                    "answer": "rectangular",
+                    "element_type": "shape",
+                    "free_form_vqa": "rectangular",
+                    "multiple_choice_vqa": "rectangular",
+                    "scores": 1
+                },
+                "Is the mousepad circular?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "circular",
+                    "question": "Is the mousepad circular?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "shape",
+                    "free_form_vqa": "no",
+                    "multiple_choice_vqa": "no",
+                    "scores": 0
+                },
+                "What shape is the mousepad?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "circular",
+                    "question": "What shape is the mousepad?",
+                    "choices": [
+                        "circular",
+                        "square",
+                        "rectangular",
+                        "oval"
+                    ],
+                    "answer": "circular",
+                    "element_type": "shape",
+                    "free_form_vqa": "square",
+                    "multiple_choice_vqa": "square",
+                    "scores": 0
+                },
+                "Is the laptop beside the mousepad?": {
+                    "caption": "A rectangular laptop beside a circular mousepad",
+                    "element": "beside",
+                    "question": "Is the laptop beside the mousepad?",
+                    "choices": [
+                        "yes",
+                        "no"
+                    ],
+                    "answer": "yes",
+                    "element_type": "spatial",
+                    "free_form_vqa": "yes",
+                    "multiple_choice_vqa": "yes",
+                    "scores": 1
+                }
+            }
+        }
+    ]
+}
