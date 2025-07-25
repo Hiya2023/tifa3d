@@ -20,7 +20,7 @@ Run `tifa_composite.py` to compute faithfulness scores for all prompt-model-aspe
 
 ### Step 2: Post-process final scores
 
-- After computing tifa scores for each prompt, aggregate them with post_processing_score.py
+- After computing tifa scores for each prompt, aggregate them with `post_processing_score.py`
 - Getting a tifa aggregated score for each t23d model- aspect pair.
 
 ## Citation
