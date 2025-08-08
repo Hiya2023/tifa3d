@@ -7,7 +7,7 @@
 It evaluates how well a generated 3D object matches a given text prompt using a vision-language QA approach. The process includes:
 
 - Rendering 12 azimuthal views uniformly distributed over a 360° rotation around the object.
-- Using **GPT-4o** to generate candidate question–answer pairs for each text prompt.
+- Using **Language model** to generate candidate question–answer pairs for each text prompt.
 - Filtering those questions using UnifiedQA model.
 - Passing each view and questions through a **VQA model** (e.g., mPLUG).
 - Aggregating the scores to compute the final TIFA3D score for a given text and 3D object pair.
@@ -33,4 +33,5 @@ Run `tifa_composite.py` to compute faithfulness scores for all prompt-model-aspe
   year={2023}
 }
 ```
+
 
